@@ -1,0 +1,378 @@
+{
+  "imDbId": "tt0050986",
+  "title": "Wild Strawberries",
+  "fullTitle": "Wild Strawberries (1957)",
+  "type": "Movie",
+  "year": "1957",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000005",
+        "name": "Ingmar Bergman",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000005",
+        "name": "Ingmar Bergman",
+        "description": "(written by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0803705",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwMzk0OTQ2Ml5BMl5BanBnXkFtZTcwNjg5MDI2NQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Victor Sjöström",
+      "asCharacter": "Dr. Eberhard Isak Borg"
+    },
+    {
+      "id": "nm0000761",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZhNGIzNzgtMGU0MC00YjQ2LWJkMWUtZmExZTU5MmRhZjA4XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bibi Andersson",
+      "asCharacter": "Sara / Hitchhiker"
+    },
+    {
+      "id": "nm0862026",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1MjI4MzIxOV5BMl5BanBnXkFtZTcwMjgzOTkxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ingrid Thulin",
+      "asCharacter": "Marianne Borg"
+    },
+    {
+      "id": "nm0085038",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODQ4NjI3M15BMl5BanBnXkFtZTcwMTUyMDEyOA@@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Gunnar Björnstrand",
+      "asCharacter": "Dr. Evald Borg"
+    },
+    {
+      "id": "nm0454247",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTUzNGVhNDQtMGE0Zi00NjQzLWFlM2YtMzA1MjM4ZjBmMzVhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jullan Kindahl",
+      "asCharacter": "Agda"
+    },
+    {
+      "id": "nm0839212",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjM2NzFlNjMtYzFlZi00NjAzLThiODMtYjA2MWQxOTEzMTk2XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Folke Sundquist",
+      "asCharacter": "Anders"
+    },
+    {
+      "id": "nm0084761",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Björn Bjelfvenstam",
+      "asCharacter": "Viktor (as Björn Bjelvenstam)"
+    },
+    {
+      "id": "nm0927711",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRkYzNlNDQtY2Q0Zi00Zjk0LWI4OTMtMzljNTA0YzIzOWVmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Naima Wifstrand",
+      "asCharacter": "Mrs. Borg - Isak's Mother"
+    },
+    {
+      "id": "nm0112560",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmYwODhjN2QtZWIwMC00MDhkLThiOGYtNWU0YzNmMGI1NTUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gunnel Broström",
+      "asCharacter": "Berit Alman"
+    },
+    {
+      "id": "nm0294892",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDY0YzYtZmM5Ny00ZjU3LTlhNjAtYTZjNjc1MDJiN2I2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gertrud Fridh",
+      "asCharacter": "Karin Borg - Isak's wife"
+    },
+    {
+      "id": "nm0752211",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdhOTVmM2QtMDJmMy00OGU2LTgzMTctNjFmMmM3YTQ0ZmZlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sif Ruud",
+      "asCharacter": "Aunt Olga"
+    },
+    {
+      "id": "nm0803561",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMyMWRlNmYtYWM3OS00YTM4LTg0MzQtOGU2NTUyOWViYmIwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gunnar Sjöberg",
+      "asCharacter": "Sten Alman / The Examiner"
+    },
+    {
+      "id": "nm0001884",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MDQzOTMwN15BMl5BanBnXkFtZTYwMDgyMjM1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Max von Sydow",
+      "asCharacter": "Henrik Åkerman"
+    },
+    {
+      "id": "nm0294882",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRkMmEwYWYtZTU2OS00OTE2LWIxMDEtMWE2NzNjMjU3NTE3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Åke Fridell",
+      "asCharacter": "Karin's Lover"
+    },
+    {
+      "id": "nm0635241",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQ5MjZkZGEtNDU1My00ODc5LThkYWItMzE1Y2E1ZjU2NDY2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Yngve Nordwall",
+      "asCharacter": "Uncle Aron"
+    },
+    {
+      "id": "nm0803689",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzNmNzkxYjUtY2JlZi00Mzc5LTkzMmItMjAzMDBiMzNlNWU0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.6818_AL_.jpg",
+      "name": "Per Sjöstrand",
+      "asCharacter": "Sigfrid Borg"
+    },
+    {
+      "id": "nm0678469",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDVmZTgwYTgtN2FmMy00M2QyLWEwNDUtY2M0YTc5N2NlZTMyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gio Petré",
+      "asCharacter": "Sigbritt Borg"
+    },
+    {
+      "id": "nm0511458",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWZkZDkxMzItOWUyMS00OGUwLWFlZTUtZDQ2MGMwMzc5ZGQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gunnel Lindblom",
+      "asCharacter": "Charlotta Borg"
+    },
+    {
+      "id": "nm0361458",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjg4YjhjZGYtZjJiYy00ODZiLWExMDAtMDI0NTkwZDA5MGIyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Maud Hansson",
+      "asCharacter": "Angelica Borg"
+    },
+    {
+      "id": "nm0934422",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ann-Marie Wiman",
+      "asCharacter": "Eva Åkerman"
+    },
+    {
+      "id": "nm0636418",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eva Norée",
+      "asCharacter": "Anna Borg"
+    },
+    {
+      "id": "nm0074822",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lena Bergman",
+      "asCharacter": "Kristina Borg"
+    },
+    {
+      "id": "nm0251392",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Monica Ehrling",
+      "asCharacter": "Birgitta Borg"
+    },
+    {
+      "id": "nm0375497",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peder Hellman",
+      "asCharacter": "Sigbritt's Baby (uncredited)"
+    },
+    {
+      "id": "nm0423885",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNhMTA5NzEtOTYwOS00YjM4LTk5M2UtN2JjMmI5ZGU3NDA5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Ulf Johansson",
+      "asCharacter": "Mr. Borg - Isak's Father (uncredited)"
+    },
+    {
+      "id": "nm0526550",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Göran Lundquist",
+      "asCharacter": "Benjamin Borg (uncredited)"
+    },
+    {
+      "id": "nm0635539",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Josef Norman",
+      "asCharacter": "Professor Tiger (uncredited)"
+    },
+    {
+      "id": "nm0648056",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDRlMjEzNmQtOTJkOS00NTdhLWJkODItODdjOWUzMjBlNjFlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gunnar Olsson",
+      "asCharacter": "Bishop (uncredited)"
+    },
+    {
+      "id": "nm0748597",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vendela Rudbäck",
+      "asCharacter": "Elisabeth - Mrs. Borg's Housemaid (uncredited)"
+    },
+    {
+      "id": "nm0804583",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Per Skogsberg",
+      "asCharacter": "Hagbart Borg (uncredited)"
+    },
+    {
+      "id": "nm0943279",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helge Wulff",
+      "asCharacter": "The Manager (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0252321",
+          "name": "Allan Ekelund",
+          "description": "producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0635059",
+          "name": "Erik Nordgren",
+          "description": ""
+        },
+        {
+          "id": "nm0522775",
+          "name": "Göte Lovén",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005705",
+          "name": "Gunnar Fischer",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0741013",
+          "name": "Oscar Rosander",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0349023",
+          "name": "Gittan Gustafsson",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0835513",
+          "name": "Millie Ström",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0633032",
+          "name": "Nils Nittel",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0252473",
+          "name": "Gösta Ekman",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0074814",
+          "name": "Karl-Arne Bergman",
+          "description": "property master"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0917194",
+          "name": "Aaby Wedin",
+          "description": "sound"
+        },
+        {
+          "id": "nm0748731",
+          "name": "Sven Rudestedt",
+          "description": "sound mixer (uncredited)"
+        },
+        {
+          "id": "nm0909187",
+          "name": "Lennart Wallin",
+          "description": "sound (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0399573",
+          "name": "Louis Huch",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0857606",
+          "name": "Björn Thermænius",
+          "description": "assistant camera (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0803674",
+          "name": "Sven Sjönell",
+          "description": "location manager"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0267026",
+          "name": "Katinka Faragó",
+          "description": "script girl (as Katherina Faragó)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0477814",
+          "name": "Manfred R. Köhler",
+          "description": "german dubbing director (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,2324 @@
+{
+  "id": "tt0038650",
+  "title": "It's a Wonderful Life",
+  "originalTitle": "",
+  "fullTitle": "It's a Wonderful Life (1946)",
+  "type": "Movie",
+  "year": "1946",
+  "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_Ratio0.6904_AL_.jpg",
+  "releaseDate": "1947-01-07",
+  "runtimeMins": "130",
+  "runtimeStr": "2h 10min",
+  "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+  "plotLocal": "",
+  "plotLocalIsRtl": false,
+  "awards": "Top rated movie #21 | Nominated for 5 Oscars, 7 wins & 6 nominations total",
+  "directors": "Frank Capra",
+  "directorList": [
+    {
+      "id": "nm0001008",
+      "name": "Frank Capra"
+    }
+  ],
+  "writers": "Frances Goodrich, Albert Hackett, Frank Capra",
+  "writerList": [
+    {
+      "id": "nm0329304",
+      "name": "Frances Goodrich"
+    },
+    {
+      "id": "nm0352443",
+      "name": "Albert Hackett"
+    },
+    {
+      "id": "nm0001008",
+      "name": "Frank Capra"
+    }
+  ],
+  "stars": "James Stewart, Donna Reed, Lionel Barrymore",
+  "starList": [
+    {
+      "id": "nm0000071",
+      "name": "James Stewart"
+    },
+    {
+      "id": "nm0001656",
+      "name": "Donna Reed"
+    },
+    {
+      "id": "nm0000859",
+      "name": "Lionel Barrymore"
+    }
+  ],
+  "actorList": [
+    {
+      "id": "nm0000071",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "James Stewart",
+      "asCharacter": "George Bailey"
+    },
+    {
+      "id": "nm0001656",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDVlZWNhODQtYzUwMS00MWQ4LWIyMjUtYTU0M2E2ODYwM2VkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Donna Reed",
+      "asCharacter": "Mary Hatch"
+    },
+    {
+      "id": "nm0000859",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lionel Barrymore",
+      "asCharacter": "Mr. Potter"
+    },
+    {
+      "id": "nm0593775",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Thomas Mitchell",
+      "asCharacter": "Uncle Billy"
+    },
+    {
+      "id": "nm0871287",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxOTA4ODA1MTdeQTJeQWpwZ15BbWU3MDY1MTAwMjg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Henry Travers",
+      "asCharacter": "Clarence"
+    },
+    {
+      "id": "nm0094135",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Beulah Bondi",
+      "asCharacter": "Mrs. Bailey"
+    },
+    {
+      "id": "nm0269709",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzODQ1Njk0NF5BMl5BanBnXkFtZTYwNDkwMTM2._V1_Ratio0.8182_AL_.jpg",
+      "name": "Frank Faylen",
+      "asCharacter": "Ernie"
+    },
+    {
+      "id": "nm0000955",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxNDA1Nzk5OF5BMl5BanBnXkFtZTcwMzE2NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ward Bond",
+      "asCharacter": "Bert"
+    },
+    {
+      "id": "nm0002108",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM3ZGEyZmItZDRmZC00ZTg0LWJiYjYtMzdkMjk2M2ZlODRmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Gloria Grahame",
+      "asCharacter": "Violet"
+    },
+    {
+      "id": "nm0912478",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mjc2NjgwMl5BMl5BanBnXkFtZTcwNTM4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "H.B. Warner",
+      "asCharacter": "Mr. Gower"
+    },
+    {
+      "id": "nm0007214",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQzNDAzN15BMl5BanBnXkFtZTcwMzc0Nzg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Frank Albertson",
+      "asCharacter": "Sam Wainwright"
+    },
+    {
+      "id": "nm0439851",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM3YzEyOGEtZTI4Ny00ZTY4LTk0ZjQtYmU2OGU2ZWJmZmEyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Todd Karns",
+      "asCharacter": "Harry Bailey"
+    },
+    {
+      "id": "nm0385594",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE2NTQ4MDQtZWZiZi00MzJhLWJiMDAtZGI1NmQ4NmIwZjc0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Samuel S. Hinds",
+      "asCharacter": "Pa Bailey"
+    },
+    {
+      "id": "nm0871695",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTgzYjhlNTctMGRmZC00ZmFmLWJmNmUtOWNiZWRiNzE2YTJkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mary Treen",
+      "asCharacter": "Cousin Tilly"
+    },
+    {
+      "id": "nm0666634",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmZlMjNmZWUtODJjMy00MzQzLWE4ZjMtMDkwZDI4OWY1Nzk3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Virginia Patton",
+      "asCharacter": "Ruth Dakin"
+    },
+    {
+      "id": "nm0930239",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Williams",
+      "asCharacter": "Cousin Eustace"
+    },
+    {
+      "id": "nm0250352",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWNkZWNjZGEtMDBkYi00Y2ViLWI2OWQtNTk1YzczMGFiOWIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sarah Edwards",
+      "asCharacter": "Mrs. Hatch (as Sara Edwards)"
+    },
+    {
+      "id": "nm0249602",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Edmunds",
+      "asCharacter": "Mr. Martini (as Bill Edmunds)"
+    },
+    {
+      "id": "nm0709917",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZkNTA0MTItYTBlZS00NmViLWExZTYtNmE1Y2ZjMWE4NWZmXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Lillian Randolph",
+      "asCharacter": "Annie"
+    },
+    {
+      "id": "nm0116230",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDQ5MjcyNF5BMl5BanBnXkFtZTYwNTgxMjcy._V1_Ratio0.7727_AL_.jpg",
+      "name": "Argentina Brunetti",
+      "asCharacter": "Mrs. Martini"
+    },
+    {
+      "id": "nm0026434",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmIyYjVhZTQtYzdhOC00MzU2LWE4ZDMtMjdiYTYxZTczM2I2XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Robert J. Anderson",
+      "asCharacter": "Little George (as Bobbie Anderson)"
+    },
+    {
+      "id": "nm0707784",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ronnie Ralph",
+      "asCharacter": "Little Sam"
+    },
+    {
+      "id": "nm0301188",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeanne Gail",
+      "asCharacter": "Little Mary"
+    },
+    {
+      "id": "nm0740459",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeanine Ann Roose",
+      "asCharacter": "Little Violet"
+    },
+    {
+      "id": "nm0247702",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU3ZTM2ODgtYWFlMi00NDgyLThiMmItZDRhYjM0ZjhkNjc0XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Danny Mummert",
+      "asCharacter": "Little Marty Hatch"
+    },
+    {
+      "id": "nm0634188",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Georgie Nokes",
+      "asCharacter": "Little Harry Bailey"
+    },
+    {
+      "id": "nm0502766",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyODQyMF5BMl5BanBnXkFtZTcwNDY5MTY5Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Sheldon Leonard",
+      "asCharacter": "Nick"
+    },
+    {
+      "id": "nm0353790",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDY1OTg2MDMtYjVhMy00NzZmLWJmNDgtZWI0YzhjZjExZmEyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Hagney",
+      "asCharacter": "Potter's Bodyguard"
+    },
+    {
+      "id": "nm0908124",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjMwNGJiODAtMjg1MS00YWE5LWE0NTMtOWNjN2IxMGQ0ZDc1L2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Ray Walker",
+      "asCharacter": "Joe (Luggage Shop)"
+    },
+    {
+      "id": "nm0485272",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTIxMzcyMV5BMl5BanBnXkFtZTcwMzE5ODcyMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Lane",
+      "asCharacter": "Real Estate Salesman (as Charlie Lane)"
+    },
+    {
+      "id": "nm0443849",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk3ZTZhOTAtN2Y2Ni00YzE0LTliMTctOWNlNjBmNTRhZTZmXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Edward Keane",
+      "asCharacter": "Tom (Bldg. & Loan) (as Edward Kean)"
+    },
+    {
+      "id": "nm0177690",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carol Coombs",
+      "asCharacter": "The Bailey Child - Janie (as Carol Coomes)"
+    },
+    {
+      "id": "nm0342216",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk4MTAzMjQ4MF5BMl5BanBnXkFtZTgwNDY4NTM0MDI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Karolyn Grimes",
+      "asCharacter": "The Bailey Child - Zuzu"
+    },
+    {
+      "id": "nm0799982",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGFlNTItOWZlNC00NWFjLTg1MzctZWM2ODJlNTk4MzE4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Larry Simms",
+      "asCharacter": "The Bailey Child - Pete"
+    },
+    {
+      "id": "nm0370151",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY3MzViMzgtNmViNS00OWM1LTlmZTMtYTMyNjY5MDdiYTlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jimmy Hawkins",
+      "asCharacter": "The Bailey Child - Tommy"
+    },
+    {
+      "id": "nm0009931",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyNTYyNzM2MF5BMl5BanBnXkFtZTgwNDA3NjY3MTE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jean Acker",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0010958",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FlMzFmZDUtODY2MS00MGFhLWJjMDktNzY2YzE4MzJhMGE3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Ernie Adams",
+      "asCharacter": "Ed (uncredited)"
+    },
+    {
+      "id": "nm0028166",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Monya Andre",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0003224",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU1MDI4NjYtNGNkYy00ODgzLTgyOWQtZGIxMTVhNWMzNDM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Stanley Andrews",
+      "asCharacter": "Mr. Welch (uncredited)"
+    },
+    {
+      "id": "nm0038663",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQxMWQ5MmItY2M5MC00ZjAxLThiOTMtOTc0Yjg5MDk1MDE4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Ash",
+      "asCharacter": "Nervous Banker (uncredited)"
+    },
+    {
+      "id": "nm0047289",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjM0YmYwNDItNWQzZi00N2UzLThkM2YtYzZlMWZmNTM2MTkwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Bailey",
+      "asCharacter": "One of Vi's Suitors (uncredited)"
+    },
+    {
+      "id": "nm0060974",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwMDc3MjktNjllMy00YjgyLThjMzktZjdiNDY3ZTJlM2ZjXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Louise Bates",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0063038",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mary Bayless",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0067675",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beth Belden",
+      "asCharacter": "Young Girl (uncredited)"
+    },
+    {
+      "id": "nm0070757",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc4YzMyZjktNzYxMC00ZjkxLTkzZWQtMWYzNzU4MmNjN2RkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brooks Benedict",
+      "asCharacter": "Military Officer in Montage (uncredited)"
+    },
+    {
+      "id": "nm0076284",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ZhYzdhMTEtMmQxMi00YTNiLTlhZjUtOGJhMDcyZmM0OTFhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joseph E. Bernard",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0089248",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Willie Bloom",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm0098989",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dolores Boucher",
+      "asCharacter": "Girl (uncredited)"
+    },
+    {
+      "id": "nm0108653",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI0OGUxMDctNmFmYy00NjU3LWJmNjYtNDkyYThmY2JhY2IwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Al Bridge",
+      "asCharacter": "Sheriff (uncredited)"
+    },
+    {
+      "id": "nm0118580",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Buz Buckley",
+      "asCharacter": "Young Boy (uncredited)"
+    },
+    {
+      "id": "nm0139792",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2YyNDQwZjItY2E0MS00NGFhLTk1NTgtMWVhMjk5NWYzZDY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Marian Carr",
+      "asCharacter": "Jane Wainwright (uncredited)"
+    },
+    {
+      "id": "nm0143314",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Adriana Caselotti",
+      "asCharacter": "Singer at Martini's (uncredited)"
+    },
+    {
+      "id": "nm0151420",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZmODAwYTktNDFlYS00M2ExLThjNTEtZDQ3MDQ4NGRiMzE1XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lane Chandler",
+      "asCharacter": "Policeman (uncredited)"
+    },
+    {
+      "id": "nm0152186",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzYxNjIwMl5BMl5BanBnXkFtZTcwNjQ1MzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Chapin",
+      "asCharacter": "Young George's Friend (uncredited)"
+    },
+    {
+      "id": "nm0154184",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTNhYTQzZTUtMDdiZS00NzQ2LWE5YWQtNDg1ZmMxMjllNjg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tom Chatterton",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0154759",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQzNGM3ODYtNWI4ZC00YWM2LTgyMTYtNTk1ZmRmZjA3ZTJjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Cheatham",
+      "asCharacter": "Cop Arresting Violet (uncredited)"
+    },
+    {
+      "id": "nm0156190",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzFhZjE1MTUtNWQ0Ny00ZDMyLWJiNWEtYTkxNGFmNjgwZGVhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Cheshire",
+      "asCharacter": "Dr. Campbell (uncredited)"
+    },
+    {
+      "id": "nm0159990",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beulah Christian",
+      "asCharacter": "Graduation Dance Guest (uncredited)"
+    },
+    {
+      "id": "nm0163902",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjA0YjYwNTMtMTEyMy00ZDNkLTk3MzAtMmJlNzE5NTM3YmFkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Edward Clark",
+      "asCharacter": "Building & Loan Board Member (uncredited)"
+    },
+    {
+      "id": "nm0171236",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Coleman",
+      "asCharacter": "Building & Loan Customer (uncredited)"
+    },
+    {
+      "id": "nm0179289",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjIxMTE0NzE3MF5BMl5BanBnXkFtZTcwNTMzNTQwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ellen Corby",
+      "asCharacter": "Ms. Davis (uncredited)"
+    },
+    {
+      "id": "nm1827306",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmy the Crow",
+      "asCharacter": "Crow in Bank (uncredited)"
+    },
+    {
+      "id": "nm0204292",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bryn Davis",
+      "asCharacter": "Elderly Woman (uncredited)"
+    },
+    {
+      "id": "nm0205033",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lew Davis",
+      "asCharacter": "High School Teacher at Poolside (uncredited)"
+    },
+    {
+      "id": "nm12312618",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marion Raymond Davis",
+      "asCharacter": "Bandleader in the High School Dance Scene (uncredited)"
+    },
+    {
+      "id": "nm0225654",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Y0YjkzYzYtYTk3Mi00OTNkLWJhYmEtMjViMWIyMDI0ZmEyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Helen Dickson",
+      "asCharacter": "Graduation Dance Guest (uncredited)"
+    },
+    {
+      "id": "nm0254424",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5ZWQ3ZmUtNTQxZi00MmY3LWEyYTMtZGE5NWIxN2Y5YmFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Dick Elliott",
+      "asCharacter": "Man on Porch (uncredited)"
+    },
+    {
+      "id": "nm0262820",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Evans",
+      "asCharacter": "Wedding Guest (uncredited)"
+    },
+    {
+      "id": "nm0264900",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NmY2RjNGMtNmYxMi00MTJmLTk0ZjEtYWE5ZjhjNmI2ZjU4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Tom Fadden",
+      "asCharacter": "Tollhouse Keeper (uncredited)"
+    },
+    {
+      "id": "nm2916826",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjEzNGJlNDQtNjM4MS00N2QwLTk5YTYtZThkOGZiOGZjZGM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Frank Fenton",
+      "asCharacter": "Violet's Boyfriend (uncredited)"
+    },
+    {
+      "id": "nm0275310",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Fetherston",
+      "asCharacter": "Horace (uncredited)"
+    },
+    {
+      "id": "nm0282418",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4M2U1MDEtMWFkOC00NDdlLTk2MzEtYjc0Y2FkY2FhYmM4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Flint",
+      "asCharacter": "Relieved Banker in Potter's Office (uncredited)"
+    },
+    {
+      "id": "nm0330147",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMxM2ViZWUtZjUxOS00YTBjLTg4ZTYtZGJkOTIxMzZiOGU2XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Dick Gordon",
+      "asCharacter": "Photographer with Sheriff (uncredited)"
+    },
+    {
+      "id": "nm0330271",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Gordon",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm0334076",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2YzRkYWQtZDE2ZC00Y2Y1LTk4MTAtY2QyNTk1YzVkMjFjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Herschel Graham",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0334724",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Granby",
+      "asCharacter": "Elderly Man (voice) (uncredited)"
+    },
+    {
+      "id": "nm0354287",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Haines",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0357111",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjdiNmQ1NjYtNDNhZi00MmIwLWE5YzctMzYyYmQ0OGQ2ZDg5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Halton",
+      "asCharacter": "Carter (uncredited)"
+    },
+    {
+      "id": "nm0371834",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Herbert Heywood",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0391612",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjAyOWUxMjMtN2EwNC00ZThmLWFmMGQtODY2MzBlNjkyYTI0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Harry Holman",
+      "asCharacter": "Mr. Partridge (uncredited)"
+    },
+    {
+      "id": "nm0397125",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Art Howard",
+      "asCharacter": "Building & Loan Board Member (uncredited)"
+    },
+    {
+      "id": "nm0397142",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bert Howard",
+      "asCharacter": "Building & Loan Board Member (uncredited)"
+    },
+    {
+      "id": "nm0401405",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTI4YTU0ZGUtYTMyNC00MWMyLWE4MTAtN2U3YWEzNTFjNGQ0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Arthur Stuart Hull",
+      "asCharacter": "Mr. Randall (uncredited)"
+    },
+    {
+      "id": "nm0408565",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzdlZjMxNGItNDBhYi00MWJkLTk4MDMtN2UxYzgxNTJmNTdkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+      "name": "John Indrisano",
+      "asCharacter": "Man in Fantasy (uncredited)"
+    },
+    {
+      "id": "nm0437304",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJmYzdlZDMtNzM1MS00MDExLWI5ZjktYTc3OGM3NjBhOWViXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Eddie Kane",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0448677",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmU0MjFjNjEtNzY1YS00M2MwLTliZTctMjEwMjhjNTQ0ZjMyXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Carl Kent",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0452133",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkwNjg5ZWYtNDViYi00ODNiLTg2Y2UtZWZmOTk5YjhiMjJhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Milton Kibbee",
+      "asCharacter": "Building & Loan Board Member (uncredited)"
+    },
+    {
+      "id": "nm0460838",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDIzZjcyYWQtODhhNC00MjBjLTlkN2QtYWU3YTExMzVjZjNhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charlott Knight",
+      "asCharacter": "Bank Depositor (uncredited)"
+    },
+    {
+      "id": "nm0481960",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Effie Laird",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0482474",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mike Lally",
+      "asCharacter": "Building & Loan Customer (uncredited)"
+    },
+    {
+      "id": "nm0484912",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harold Landon",
+      "asCharacter": "Marty Hatch (uncredited)"
+    },
+    {
+      "id": "nm0507540",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Meade 'Lux' Lewis",
+      "asCharacter": "Pianist in Nick's Place (uncredited)"
+    },
+    {
+      "id": "nm3475731",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Max Linder",
+      "asCharacter": "Graduation Dance Guest (uncredited)"
+    },
+    {
+      "id": "nm0518242",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Lomas",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm0531759",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjVmOWRhZmYtZGQzNS00MTBiLTg5MTEtZGVjMjBhNzY3ZTRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "J. Farrell MacDonald",
+      "asCharacter": "Man Whose Great-Grandfather Planted Tree (uncredited)"
+    },
+    {
+      "id": "nm0533001",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Irene Mack",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0533101",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWEwNjljMWUtZDc5Zi00Y2M3LWE3NGYtZTY0MzQ3OTBjMWFmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wilbur Mack",
+      "asCharacter": "Building and Loan Customer (uncredited)"
+    },
+    {
+      "id": "nm0575124",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2VjNWVmOTgtMDNmOC00NTY4LWFlMTMtNTQ1ZDBjNDE4OWQxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Meakin",
+      "asCharacter": "Elderly Man (uncredited)"
+    },
+    {
+      "id": "nm0599890",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Priscilla Montgomery",
+      "asCharacter": "Student in Gym (uncredited)"
+    },
+    {
+      "id": "nm0602100",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY0NWYxMTUtYzJkMi00MWNlLThhMGUtOWE0ZGQ3NDQzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Bert Moorhouse",
+      "asCharacter": "Man with Sheriff (uncredited)"
+    },
+    {
+      "id": "nm0605348",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Evelyn Moriarty",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm0606863",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Philip Morris",
+      "asCharacter": "Building & Loan Customer (uncredited)"
+    },
+    {
+      "id": "nm0610268",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODI2YWMtZmJiYy00ODMwLTg1NDAtN2Y2ZTJiNGE5YmMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Mower",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0634168",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Noisom",
+      "asCharacter": "School Dancer (uncredited)"
+    },
+    {
+      "id": "nm0636118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anton Northpole",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0640253",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I2YmE5ZGUtMDE2Mi00OTgxLThlNGMtNTRiYmQxZmU0YWY1XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Bob O'Connor",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm0175410",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M0ZjRlMzMtNDVjMy00YmJlLTljOTUtMzczZTM1ODYxNzdhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank O'Connor",
+      "asCharacter": "Military Officer in Montage (uncredited)"
+    },
+    {
+      "id": "nm8606115",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lynn O'Leary-Jameson",
+      "asCharacter": "Infant Janie Bailey (uncredited)"
+    },
+    {
+      "id": "nm0647752",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQxNDA0YzgtNTk4MC00NzIzLWFjZDItMTZiMzdjOGY1MjRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Moroni Olsen",
+      "asCharacter": "Senior Angel (voice) (uncredited)"
+    },
+    {
+      "id": "nm0654136",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk0NGY2NTgtYTc0Yi00NTU4LTg4ZjgtY2QyOTljNmY5OTliXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Garry Owen",
+      "asCharacter": "Bill-Poster (uncredited)"
+    },
+    {
+      "id": "nm0655496",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmY5MjNkNjEtNzdlNy00MWNhLTllZmEtMTVmOTdkODlmMjliL2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Netta Packer",
+      "asCharacter": "Elderly Woman (uncredited)"
+    },
+    {
+      "id": "nm0662251",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franklin Parker",
+      "asCharacter": "Photographer / Reporter (uncredited)"
+    },
+    {
+      "id": "nm0662805",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beulah Parkington",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0725920",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjdmNWUxZWQtM2M2MC00OWUyLWEzNzUtNzM3NTRiYmU1NzYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Suzanne Ridgway",
+      "asCharacter": "Nick's Waitress (uncredited)"
+    },
+    {
+      "id": "nm0738976",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTBiZDk2MDctOTAzMS00YTU1LWFiYmQtZmRlZTY5MmU2ODk4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Constantine Romanoff",
+      "asCharacter": "Bar Patron (uncredited)"
+    },
+    {
+      "id": "nm1071742",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Edith Russell",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0751298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFkMzVlOTEtYzYzNy00ZTBhLWE5ZmItNzE5MGNiMDY4YzNiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Loretta Russell",
+      "asCharacter": "Building & Loan Depositor (uncredited)"
+    },
+    {
+      "id": "nm0771822",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cy Schindell",
+      "asCharacter": "Nick's Bouncer (uncredited)"
+    },
+    {
+      "id": "nm13205153",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bobby Scott",
+      "asCharacter": "Mickey (uncredited)"
+    },
+    {
+      "id": "nm0785929",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDBiZGNhZjItZDJkOS00ODYwLTg2ODEtOWIzZDNkMjFhN2ZlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Almira Sessions",
+      "asCharacter": "Potter's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0806623",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mabel Smaney",
+      "asCharacter": "Wedding Guest (uncredited)"
+    },
+    {
+      "id": "nm0828312",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cedric Stevens",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0837986",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRlY2IyZGUtNDczNC00Y2UyLWE1NzMtODZjMTVmM2ZiOTk1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Brick Sullivan",
+      "asCharacter": "Man in Fantasy (uncredited)"
+    },
+    {
+      "id": "nm0837998",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiNGYxZDktNGY5MS00YTBjLTgwNzctYzYxOWU2NmVhMDQyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Charles Sullivan",
+      "asCharacter": "Nick's Bartender (uncredited)"
+    },
+    {
+      "id": "nm0842813",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1Njg3ODY2NV5BMl5BanBnXkFtZTYwNjI4MDI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Carl 'Alfalfa' Switzer",
+      "asCharacter": "Freddie Othello (uncredited)"
+    },
+    {
+      "id": "nm0871324",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Travis",
+      "asCharacter": "Faculty Member (uncredited)"
+    },
+    {
+      "id": "nm0906022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyMTI5NTI3OF5BMl5BanBnXkFtZTgwMzYwMjg3MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Max Wagner",
+      "asCharacter": "Cashier / Nick's Assistant Bouncer (uncredited)"
+    },
+    {
+      "id": "nm0923647",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcwYWE4ZDItZThjMC00YzA2LWI3YzgtNzEyYjNiMjFjMGNmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Larry Wheat",
+      "asCharacter": "Building & Loan Board Member (uncredited)"
+    },
+    {
+      "id": "nm0933161",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRmOTM4MTEtNDAxNC00YWY3LWI5MjEtYTRiYTQ0Nzg2OWYwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Charles C. Wilson",
+      "asCharacter": "Charlie (uncredited)"
+    }
+  ],
+  "fullCast": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "directors": {
+      "job": "Director",
+      "items": [
+        {
+          "id": "nm0001008",
+          "name": "Frank Capra",
+          "description": ""
+        }
+      ]
+    },
+    "writers": {
+      "job": "Writer",
+      "items": [
+        {
+          "id": "nm0329304",
+          "name": "Frances Goodrich",
+          "description": "(screenplay by) &"
+        },
+        {
+          "id": "nm0352443",
+          "name": "Albert Hackett",
+          "description": "(screenplay by) and"
+        },
+        {
+          "id": "nm0001008",
+          "name": "Frank Capra",
+          "description": "(screenplay by)"
+        },
+        {
+          "id": "nm0842485",
+          "name": "Jo Swerling",
+          "description": "(additional scenes)"
+        },
+        {
+          "id": "nm0827821",
+          "name": "Philip Van Doren Stern",
+          "description": "(based on a story by)"
+        },
+        {
+          "id": "nm0933858",
+          "name": "Michael Wilson",
+          "description": "(contributor to screenplay) (uncredited)"
+        }
+      ]
+    },
+    "actors": [
+      {
+        "id": "nm0000071",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "James Stewart",
+        "asCharacter": "George Bailey"
+      },
+      {
+        "id": "nm0001656",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDVlZWNhODQtYzUwMS00MWQ4LWIyMjUtYTU0M2E2ODYwM2VkXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Donna Reed",
+        "asCharacter": "Mary Hatch"
+      },
+      {
+        "id": "nm0000859",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_Ratio0.7273_AL_.jpg",
+        "name": "Lionel Barrymore",
+        "asCharacter": "Mr. Potter"
+      },
+      {
+        "id": "nm0593775",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Thomas Mitchell",
+        "asCharacter": "Uncle Billy"
+      },
+      {
+        "id": "nm0871287",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAxOTA4ODA1MTdeQTJeQWpwZ15BbWU3MDY1MTAwMjg@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Henry Travers",
+        "asCharacter": "Clarence"
+      },
+      {
+        "id": "nm0094135",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Beulah Bondi",
+        "asCharacter": "Mrs. Bailey"
+      },
+      {
+        "id": "nm0269709",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgzODQ1Njk0NF5BMl5BanBnXkFtZTYwNDkwMTM2._V1_Ratio0.8182_AL_.jpg",
+        "name": "Frank Faylen",
+        "asCharacter": "Ernie"
+      },
+      {
+        "id": "nm0000955",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQxNDA1Nzk5OF5BMl5BanBnXkFtZTcwMzE2NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Ward Bond",
+        "asCharacter": "Bert"
+      },
+      {
+        "id": "nm0002108",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWM3ZGEyZmItZDRmZC00ZTg0LWJiYjYtMzdkMjk2M2ZlODRmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Gloria Grahame",
+        "asCharacter": "Violet"
+      },
+      {
+        "id": "nm0912478",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mjc2NjgwMl5BMl5BanBnXkFtZTcwNTM4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "H.B. Warner",
+        "asCharacter": "Mr. Gower"
+      },
+      {
+        "id": "nm0007214",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM2MDQzNDAzN15BMl5BanBnXkFtZTcwMzc0Nzg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Frank Albertson",
+        "asCharacter": "Sam Wainwright"
+      },
+      {
+        "id": "nm0439851",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmM3YzEyOGEtZTI4Ny00ZTY4LTk0ZjQtYmU2OGU2ZWJmZmEyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Todd Karns",
+        "asCharacter": "Harry Bailey"
+      },
+      {
+        "id": "nm0385594",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjE2NTQ4MDQtZWZiZi00MzJhLWJiMDAtZGI1NmQ4NmIwZjc0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Samuel S. Hinds",
+        "asCharacter": "Pa Bailey"
+      },
+      {
+        "id": "nm0871695",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTgzYjhlNTctMGRmZC00ZmFmLWJmNmUtOWNiZWRiNzE2YTJkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Mary Treen",
+        "asCharacter": "Cousin Tilly"
+      },
+      {
+        "id": "nm0666634",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmZlMjNmZWUtODJjMy00MzQzLWE4ZjMtMDkwZDI4OWY1Nzk3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Virginia Patton",
+        "asCharacter": "Ruth Dakin"
+      },
+      {
+        "id": "nm0930239",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Charles Williams",
+        "asCharacter": "Cousin Eustace"
+      },
+      {
+        "id": "nm0250352",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWNkZWNjZGEtMDBkYi00Y2ViLWI2OWQtNTk1YzczMGFiOWIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Sarah Edwards",
+        "asCharacter": "Mrs. Hatch (as Sara Edwards)"
+      },
+      {
+        "id": "nm0249602",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "William Edmunds",
+        "asCharacter": "Mr. Martini (as Bill Edmunds)"
+      },
+      {
+        "id": "nm0709917",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDZkNTA0MTItYTBlZS00NmViLWExZTYtNmE1Y2ZjMWE4NWZmXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Lillian Randolph",
+        "asCharacter": "Annie"
+      },
+      {
+        "id": "nm0116230",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDQ5MjcyNF5BMl5BanBnXkFtZTYwNTgxMjcy._V1_Ratio0.7727_AL_.jpg",
+        "name": "Argentina Brunetti",
+        "asCharacter": "Mrs. Martini"
+      },
+      {
+        "id": "nm0026434",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmIyYjVhZTQtYzdhOC00MzU2LWE4ZDMtMjdiYTYxZTczM2I2XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Robert J. Anderson",
+        "asCharacter": "Little George (as Bobbie Anderson)"
+      },
+      {
+        "id": "nm0707784",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ronnie Ralph",
+        "asCharacter": "Little Sam"
+      },
+      {
+        "id": "nm0301188",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jeanne Gail",
+        "asCharacter": "Little Mary"
+      },
+      {
+        "id": "nm0740459",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jeanine Ann Roose",
+        "asCharacter": "Little Violet"
+      },
+      {
+        "id": "nm0247702",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGU3ZTM2ODgtYWFlMi00NDgyLThiMmItZDRhYjM0ZjhkNjc0XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Danny Mummert",
+        "asCharacter": "Little Marty Hatch"
+      },
+      {
+        "id": "nm0634188",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Georgie Nokes",
+        "asCharacter": "Little Harry Bailey"
+      },
+      {
+        "id": "nm0502766",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyODQyMF5BMl5BanBnXkFtZTcwNDY5MTY5Ng@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Sheldon Leonard",
+        "asCharacter": "Nick"
+      },
+      {
+        "id": "nm0353790",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDY1OTg2MDMtYjVhMy00NzZmLWJmNDgtZWI0YzhjZjExZmEyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank Hagney",
+        "asCharacter": "Potter's Bodyguard"
+      },
+      {
+        "id": "nm0908124",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjMwNGJiODAtMjg1MS00YWE5LWE0NTMtOWNjN2IxMGQ0ZDc1L2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Ray Walker",
+        "asCharacter": "Joe (Luggage Shop)"
+      },
+      {
+        "id": "nm0485272",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTIxMzcyMV5BMl5BanBnXkFtZTcwMzE5ODcyMQ@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Charles Lane",
+        "asCharacter": "Real Estate Salesman (as Charlie Lane)"
+      },
+      {
+        "id": "nm0443849",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzk3ZTZhOTAtN2Y2Ni00YzE0LTliMTctOWNlNjBmNTRhZTZmXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Edward Keane",
+        "asCharacter": "Tom (Bldg. & Loan) (as Edward Kean)"
+      },
+      {
+        "id": "nm0177690",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Carol Coombs",
+        "asCharacter": "The Bailey Child - Janie (as Carol Coomes)"
+      },
+      {
+        "id": "nm0342216",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTk4MTAzMjQ4MF5BMl5BanBnXkFtZTgwNDY4NTM0MDI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Karolyn Grimes",
+        "asCharacter": "The Bailey Child - Zuzu"
+      },
+      {
+        "id": "nm0799982",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGFlNTItOWZlNC00NWFjLTg1MzctZWM2ODJlNTk4MzE4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Larry Simms",
+        "asCharacter": "The Bailey Child - Pete"
+      },
+      {
+        "id": "nm0370151",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjY3MzViMzgtNmViNS00OWM1LTlmZTMtYTMyNjY5MDdiYTlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Jimmy Hawkins",
+        "asCharacter": "The Bailey Child - Tommy"
+      },
+      {
+        "id": "nm0009931",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQyNTYyNzM2MF5BMl5BanBnXkFtZTgwNDA3NjY3MTE@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jean Acker",
+        "asCharacter": "Townswoman (uncredited)"
+      },
+      {
+        "id": "nm0010958",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2FlMzFmZDUtODY2MS00MGFhLWJjMDktNzY2YzE4MzJhMGE3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+        "name": "Ernie Adams",
+        "asCharacter": "Ed (uncredited)"
+      },
+      {
+        "id": "nm0028166",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Monya Andre",
+        "asCharacter": "Townswoman (uncredited)"
+      },
+      {
+        "id": "nm0003224",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWU1MDI4NjYtNGNkYy00ODgzLTgyOWQtZGIxMTVhNWMzNDM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Stanley Andrews",
+        "asCharacter": "Mr. Welch (uncredited)"
+      },
+      {
+        "id": "nm0038663",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQxMWQ5MmItY2M5MC00ZjAxLThiOTMtOTc0Yjg5MDk1MDE4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Sam Ash",
+        "asCharacter": "Nervous Banker (uncredited)"
+      },
+      {
+        "id": "nm0047289",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjM0YmYwNDItNWQzZi00N2UzLThkM2YtYzZlMWZmNTM2MTkwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Jack Bailey",
+        "asCharacter": "One of Vi's Suitors (uncredited)"
+      },
+      {
+        "id": "nm0060974",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMwMDc3MjktNjllMy00YjgyLThjMzktZjdiNDY3ZTJlM2ZjXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Louise Bates",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0063038",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Mary Bayless",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0067675",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Beth Belden",
+        "asCharacter": "Young Girl (uncredited)"
+      },
+      {
+        "id": "nm0070757",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc4YzMyZjktNzYxMC00ZjkxLTkzZWQtMWYzNzU4MmNjN2RkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Brooks Benedict",
+        "asCharacter": "Military Officer in Montage (uncredited)"
+      },
+      {
+        "id": "nm0076284",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2ZhYzdhMTEtMmQxMi00YTNiLTlhZjUtOGJhMDcyZmM0OTFhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Joseph E. Bernard",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0089248",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Willie Bloom",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm0098989",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Dolores Boucher",
+        "asCharacter": "Girl (uncredited)"
+      },
+      {
+        "id": "nm0108653",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjI0OGUxMDctNmFmYy00NjU3LWJmNjYtNDkyYThmY2JhY2IwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9545_AL_.jpg",
+        "name": "Al Bridge",
+        "asCharacter": "Sheriff (uncredited)"
+      },
+      {
+        "id": "nm0118580",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Buz Buckley",
+        "asCharacter": "Young Boy (uncredited)"
+      },
+      {
+        "id": "nm0139792",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2YyNDQwZjItY2E0MS00NGFhLTk1NTgtMWVhMjk5NWYzZDY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Marian Carr",
+        "asCharacter": "Jane Wainwright (uncredited)"
+      },
+      {
+        "id": "nm0143314",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Adriana Caselotti",
+        "asCharacter": "Singer at Martini's (uncredited)"
+      },
+      {
+        "id": "nm0151420",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmZmODAwYTktNDFlYS00M2ExLThjNTEtZDQ3MDQ4NGRiMzE1XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Lane Chandler",
+        "asCharacter": "Policeman (uncredited)"
+      },
+      {
+        "id": "nm0152186",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzYxNjIwMl5BMl5BanBnXkFtZTcwNjQ1MzYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Michael Chapin",
+        "asCharacter": "Young George's Friend (uncredited)"
+      },
+      {
+        "id": "nm0154184",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTNhYTQzZTUtMDdiZS00NzQ2LWE5YWQtNDg1ZmMxMjllNjg1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Tom Chatterton",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0154759",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDQzNGM3ODYtNWI4ZC00YWM2LTgyMTYtNTk1ZmRmZjA3ZTJjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Jack Cheatham",
+        "asCharacter": "Cop Arresting Violet (uncredited)"
+      },
+      {
+        "id": "nm0156190",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzFhZjE1MTUtNWQ0Ny00ZDMyLWJiNWEtYTkxNGFmNjgwZGVhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harry Cheshire",
+        "asCharacter": "Dr. Campbell (uncredited)"
+      },
+      {
+        "id": "nm0159990",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Beulah Christian",
+        "asCharacter": "Graduation Dance Guest (uncredited)"
+      },
+      {
+        "id": "nm0163902",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0YjYwNTMtMTEyMy00ZDNkLTk3MzAtMmJlNzE5NTM3YmFkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Edward Clark",
+        "asCharacter": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "id": "nm0171236",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Tom Coleman",
+        "asCharacter": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "id": "nm0179289",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjIxMTE0NzE3MF5BMl5BanBnXkFtZTcwNTMzNTQwOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Ellen Corby",
+        "asCharacter": "Ms. Davis (uncredited)"
+      },
+      {
+        "id": "nm1827306",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jimmy the Crow",
+        "asCharacter": "Crow in Bank (uncredited)"
+      },
+      {
+        "id": "nm0204292",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Bryn Davis",
+        "asCharacter": "Elderly Woman (uncredited)"
+      },
+      {
+        "id": "nm0205033",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Lew Davis",
+        "asCharacter": "High School Teacher at Poolside (uncredited)"
+      },
+      {
+        "id": "nm12312618",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Marion Raymond Davis",
+        "asCharacter": "Bandleader in the High School Dance Scene (uncredited)"
+      },
+      {
+        "id": "nm0225654",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2Y0YjkzYzYtYTk3Mi00OTNkLWJhYmEtMjViMWIyMDI0ZmEyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Helen Dickson",
+        "asCharacter": "Graduation Dance Guest (uncredited)"
+      },
+      {
+        "id": "nm0254424",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc5ZWQ3ZmUtNTQxZi00MmY3LWEyYTMtZGE5NWIxN2Y5YmFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Dick Elliott",
+        "asCharacter": "Man on Porch (uncredited)"
+      },
+      {
+        "id": "nm0262820",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Evans",
+        "asCharacter": "Wedding Guest (uncredited)"
+      },
+      {
+        "id": "nm0264900",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2NmY2RjNGMtNmYxMi00MTJmLTk0ZjEtYWE5ZjhjNmI2ZjU4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Tom Fadden",
+        "asCharacter": "Tollhouse Keeper (uncredited)"
+      },
+      {
+        "id": "nm2916826",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjEzNGJlNDQtNjM4MS00N2QwLTk5YTYtZThkOGZiOGZjZGM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Frank Fenton",
+        "asCharacter": "Violet's Boyfriend (uncredited)"
+      },
+      {
+        "id": "nm0275310",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Eddie Fetherston",
+        "asCharacter": "Horace (uncredited)"
+      },
+      {
+        "id": "nm0282418",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4M2U1MDEtMWFkOC00NDdlLTk2MzEtYjc0Y2FkY2FhYmM4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Sam Flint",
+        "asCharacter": "Relieved Banker in Potter's Office (uncredited)"
+      },
+      {
+        "id": "nm0330147",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGMxM2ViZWUtZjUxOS00YTBjLTg4ZTYtZGJkOTIxMzZiOGU2XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.9545_AL_.jpg",
+        "name": "Dick Gordon",
+        "asCharacter": "Photographer with Sheriff (uncredited)"
+      },
+      {
+        "id": "nm0330271",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Gordon",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm0334076",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI2YzRkYWQtZDE2ZC00Y2Y1LTk4MTAtY2QyNTk1YzVkMjFjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Herschel Graham",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0334724",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Joseph Granby",
+        "asCharacter": "Elderly Man (voice) (uncredited)"
+      },
+      {
+        "id": "nm0354287",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Robert Haines",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0357111",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjdiNmQ1NjYtNDNhZi00MmIwLWE5YzctMzYyYmQ0OGQ2ZDg5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Charles Halton",
+        "asCharacter": "Carter (uncredited)"
+      },
+      {
+        "id": "nm0371834",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Herbert Heywood",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0391612",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjAyOWUxMjMtN2EwNC00ZThmLWFmMGQtODY2MzBlNjkyYTI0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0455_AL_.jpg",
+        "name": "Harry Holman",
+        "asCharacter": "Mr. Partridge (uncredited)"
+      },
+      {
+        "id": "nm0397125",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Art Howard",
+        "asCharacter": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "id": "nm0397142",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Bert Howard",
+        "asCharacter": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "id": "nm0401405",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTI4YTU0ZGUtYTMyNC00MWMyLWE4MTAtN2U3YWEzNTFjNGQ0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Arthur Stuart Hull",
+        "asCharacter": "Mr. Randall (uncredited)"
+      },
+      {
+        "id": "nm0408565",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzdlZjMxNGItNDBhYi00MWJkLTk4MDMtN2UxYzgxNTJmNTdkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "John Indrisano",
+        "asCharacter": "Man in Fantasy (uncredited)"
+      },
+      {
+        "id": "nm0437304",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmJmYzdlZDMtNzM1MS00MDExLWI5ZjktYTc3OGM3NjBhOWViXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Eddie Kane",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0448677",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmU0MjFjNjEtNzY1YS00M2MwLTliZTctMjEwMjhjNTQ0ZjMyXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Carl Kent",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0452133",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkwNjg5ZWYtNDViYi00ODNiLTg2Y2UtZWZmOTk5YjhiMjJhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Milton Kibbee",
+        "asCharacter": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "id": "nm0460838",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDIzZjcyYWQtODhhNC00MjBjLTlkN2QtYWU3YTExMzVjZjNhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Charlott Knight",
+        "asCharacter": "Bank Depositor (uncredited)"
+      },
+      {
+        "id": "nm0481960",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Effie Laird",
+        "asCharacter": "Townswoman (uncredited)"
+      },
+      {
+        "id": "nm0482474",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Mike Lally",
+        "asCharacter": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "id": "nm0484912",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harold Landon",
+        "asCharacter": "Marty Hatch (uncredited)"
+      },
+      {
+        "id": "nm0507540",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Meade 'Lux' Lewis",
+        "asCharacter": "Pianist in Nick's Place (uncredited)"
+      },
+      {
+        "id": "nm3475731",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Max Linder",
+        "asCharacter": "Graduation Dance Guest (uncredited)"
+      },
+      {
+        "id": "nm0518242",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Lomas",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm0531759",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjVmOWRhZmYtZGQzNS00MTBiLTg5MTEtZGVjMjBhNzY3ZTRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+        "name": "J. Farrell MacDonald",
+        "asCharacter": "Man Whose Great-Grandfather Planted Tree (uncredited)"
+      },
+      {
+        "id": "nm0533001",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Irene Mack",
+        "asCharacter": "Townswoman (uncredited)"
+      },
+      {
+        "id": "nm0533101",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWEwNjljMWUtZDc5Zi00Y2M3LWE3NGYtZTY0MzQ3OTBjMWFmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Wilbur Mack",
+        "asCharacter": "Building and Loan Customer (uncredited)"
+      },
+      {
+        "id": "nm0575124",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2VjNWVmOTgtMDNmOC00NTY4LWFlMTMtNTQ1ZDBjNDE4OWQxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Charles Meakin",
+        "asCharacter": "Elderly Man (uncredited)"
+      },
+      {
+        "id": "nm0599890",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Priscilla Montgomery",
+        "asCharacter": "Student in Gym (uncredited)"
+      },
+      {
+        "id": "nm0602100",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmY0NWYxMTUtYzJkMi00MWNlLThhMGUtOWE0ZGQ3NDQzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+        "name": "Bert Moorhouse",
+        "asCharacter": "Man with Sheriff (uncredited)"
+      },
+      {
+        "id": "nm0605348",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Evelyn Moriarty",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm0606863",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Philip Morris",
+        "asCharacter": "Building & Loan Customer (uncredited)"
+      },
+      {
+        "id": "nm0610268",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzBiODI2YWMtZmJiYy00ODMwLTg1NDAtN2Y2ZTJiNGE5YmMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jack Mower",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0634168",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "George Noisom",
+        "asCharacter": "School Dancer (uncredited)"
+      },
+      {
+        "id": "nm0636118",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Anton Northpole",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0640253",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2I2YmE5ZGUtMDE2Mi00OTgxLThlNGMtNTRiYmQxZmU0YWY1XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Bob O'Connor",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm0175410",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2M0ZjRlMzMtNDVjMy00YmJlLTljOTUtMzczZTM1ODYxNzdhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank O'Connor",
+        "asCharacter": "Military Officer in Montage (uncredited)"
+      },
+      {
+        "id": "nm8606115",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Lynn O'Leary-Jameson",
+        "asCharacter": "Infant Janie Bailey (uncredited)"
+      },
+      {
+        "id": "nm0647752",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGQxNDA0YzgtNTk4MC00NzIzLWFjZDItMTZiMzdjOGY1MjRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+        "name": "Moroni Olsen",
+        "asCharacter": "Senior Angel (voice) (uncredited)"
+      },
+      {
+        "id": "nm0654136",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjk0NGY2NTgtYTc0Yi00NTU4LTg4ZjgtY2QyOTljNmY5OTliXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Garry Owen",
+        "asCharacter": "Bill-Poster (uncredited)"
+      },
+      {
+        "id": "nm0655496",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmY5MjNkNjEtNzdlNy00MWNhLTllZmEtMTVmOTdkODlmMjliL2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Netta Packer",
+        "asCharacter": "Elderly Woman (uncredited)"
+      },
+      {
+        "id": "nm0662251",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Franklin Parker",
+        "asCharacter": "Photographer / Reporter (uncredited)"
+      },
+      {
+        "id": "nm0662805",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Beulah Parkington",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0725920",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjdmNWUxZWQtM2M2MC00OWUyLWEzNzUtNzM3NTRiYmU1NzYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Suzanne Ridgway",
+        "asCharacter": "Nick's Waitress (uncredited)"
+      },
+      {
+        "id": "nm0738976",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTBiZDk2MDctOTAzMS00YTU1LWFiYmQtZmRlZTY5MmU2ODk4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Constantine Romanoff",
+        "asCharacter": "Bar Patron (uncredited)"
+      },
+      {
+        "id": "nm1071742",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Edith Russell",
+        "asCharacter": "Townswoman (uncredited)"
+      },
+      {
+        "id": "nm0751298",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzFkMzVlOTEtYzYzNy00ZTBhLWE5ZmItNzE5MGNiMDY4YzNiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Loretta Russell",
+        "asCharacter": "Building & Loan Depositor (uncredited)"
+      },
+      {
+        "id": "nm0771822",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Cy Schindell",
+        "asCharacter": "Nick's Bouncer (uncredited)"
+      },
+      {
+        "id": "nm13205153",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Bobby Scott",
+        "asCharacter": "Mickey (uncredited)"
+      },
+      {
+        "id": "nm0785929",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDBiZGNhZjItZDJkOS00ODYwLTg2ODEtOWIzZDNkMjFhN2ZlL2ltYWdlXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Almira Sessions",
+        "asCharacter": "Potter's Secretary (uncredited)"
+      },
+      {
+        "id": "nm0806623",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Mabel Smaney",
+        "asCharacter": "Wedding Guest (uncredited)"
+      },
+      {
+        "id": "nm0828312",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Cedric Stevens",
+        "asCharacter": "Townsman (uncredited)"
+      },
+      {
+        "id": "nm0837986",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGRlY2IyZGUtNDczNC00Y2UyLWE1NzMtODZjMTVmM2ZiOTk1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Brick Sullivan",
+        "asCharacter": "Man in Fantasy (uncredited)"
+      },
+      {
+        "id": "nm0837998",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjRiNGYxZDktNGY5MS00YTBjLTgwNzctYzYxOWU2NmVhMDQyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+        "name": "Charles Sullivan",
+        "asCharacter": "Nick's Bartender (uncredited)"
+      },
+      {
+        "id": "nm0842813",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc1Njg3ODY2NV5BMl5BanBnXkFtZTYwNjI4MDI2._V1_Ratio0.7727_AL_.jpg",
+        "name": "Carl 'Alfalfa' Switzer",
+        "asCharacter": "Freddie Othello (uncredited)"
+      },
+      {
+        "id": "nm0871324",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Victor Travis",
+        "asCharacter": "Faculty Member (uncredited)"
+      },
+      {
+        "id": "nm0906022",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMyMTI5NTI3OF5BMl5BanBnXkFtZTgwMzYwMjg3MjE@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Max Wagner",
+        "asCharacter": "Cashier / Nick's Assistant Bouncer (uncredited)"
+      },
+      {
+        "id": "nm0923647",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTcwYWE4ZDItZThjMC00YzA2LWI3YzgtNzEyYjNiMjFjMGNmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Larry Wheat",
+        "asCharacter": "Building & Loan Board Member (uncredited)"
+      },
+      {
+        "id": "nm0933161",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGRmOTM4MTEtNDAxNC00YWY3LWI5MjEtYTRiYTQ0Nzg2OWYwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.2727_AL_.jpg",
+        "name": "Charles C. Wilson",
+        "asCharacter": "Charlie (uncredited)"
+      }
+    ],
+    "others": [
+      {
+        "job": "Produced by",
+        "items": [
+          {
+            "id": "nm0001008",
+            "name": "Frank Capra",
+            "description": "producer (produced by)"
+          }
+        ]
+      },
+      {
+        "job": "Music by",
+        "items": [
+          {
+            "id": "nm0006323",
+            "name": "Dimitri Tiomkin",
+            "description": "(musical score written by)"
+          }
+        ]
+      },
+      {
+        "job": "Cinematography by",
+        "items": [
+          {
+            "id": "nm0005657",
+            "name": "Joseph F. Biroc",
+            "description": "director of photography (as Joseph Biroc)"
+          },
+          {
+            "id": "nm0907900",
+            "name": "Joseph Walker",
+            "description": "director of photography"
+          },
+          {
+            "id": "nm0005800",
+            "name": "Victor Milner",
+            "description": "(uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Editing by",
+        "items": [
+          {
+            "id": "nm0394962",
+            "name": "William Hornbeck",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Art Direction by",
+        "items": [
+          {
+            "id": "nm0645605",
+            "name": "Jack Okey",
+            "description": ""
+          },
+          {
+            "id": "nm0580017",
+            "name": "William Cameron Menzies",
+            "description": "(uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Set Decoration by",
+        "items": [
+          {
+            "id": "nm0475689",
+            "name": "Emile Kuri",
+            "description": "(set decorations)"
+          }
+        ]
+      },
+      {
+        "job": "Costume Design by",
+        "items": [
+          {
+            "id": "nm0828926",
+            "name": "Edward Stevenson",
+            "description": "(costumes)"
+          }
+        ]
+      },
+      {
+        "job": "Makeup Department",
+        "items": [
+          {
+            "id": "nm0061620",
+            "name": "Gordon Bau",
+            "description": "makeup supervisor"
+          }
+        ]
+      },
+      {
+        "job": "Second Unit Director or Assistant Director",
+        "items": [
+          {
+            "id": "nm0085142",
+            "name": "Arthur S. Black Jr.",
+            "description": "assistant director (as Arthur S. Black)"
+          }
+        ]
+      },
+      {
+        "job": "Sound Department",
+        "items": [
+          {
+            "id": "nm0692436",
+            "name": "Clem Portman",
+            "description": "sound"
+          },
+          {
+            "id": "nm0887107",
+            "name": "Richard Van Hessen",
+            "description": "sound"
+          },
+          {
+            "id": "nm0007356",
+            "name": "John Aalberg",
+            "description": "sound (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Special Effects by",
+        "items": [
+          {
+            "id": "nm0191650",
+            "name": "Russell A. Cully",
+            "description": "special photographic effects"
+          },
+          {
+            "id": "nm0371604",
+            "name": "Daniel Hays",
+            "description": "special effects (uncredited)"
+          },
+          {
+            "id": "nm0790480",
+            "name": "Russell Shearman",
+            "description": "special effects supervisor (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Stunts",
+        "items": [
+          {
+            "id": "nm0278137",
+            "name": "Lila Finn",
+            "description": "stunt double: Donna Reed (uncredited)"
+          },
+          {
+            "id": "nm0408565",
+            "name": "John Indrisano",
+            "description": "stunts (uncredited)"
+          },
+          {
+            "id": "nm0640253",
+            "name": "Bob O'Connor",
+            "description": "stunts (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Camera and Electrical Department",
+        "items": [
+          {
+            "id": "nm0005657",
+            "name": "Joseph F. Biroc",
+            "description": "camera operator (uncredited)"
+          },
+          {
+            "id": "nm0686580",
+            "name": "Homer Plannette",
+            "description": "gaffer (uncredited)"
+          },
+          {
+            "id": "nm0825602",
+            "name": "Phil Stern",
+            "description": "still photographer (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Costume and Wardrobe Department",
+        "items": [
+          {
+            "id": "nm1287577",
+            "name": "Eugene Joseff",
+            "description": "costume jeweller (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Music Department",
+        "items": [
+          {
+            "id": "nm0006323",
+            "name": "Dimitri Tiomkin",
+            "description": "director: musical score"
+          },
+          {
+            "id": "nm0318074",
+            "name": "Herschel Burke Gilbert",
+            "description": "orchestrator (uncredited)"
+          },
+          {
+            "id": "nm0363316",
+            "name": "Leigh Harline",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0549681",
+            "name": "Paul Marquardt",
+            "description": "orchestrator (uncredited)"
+          },
+          {
+            "id": "nm0000055",
+            "name": "Alfred Newman",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0779608",
+            "name": "Nathan Scott",
+            "description": "orchestrator (uncredited)"
+          },
+          {
+            "id": "nm0006302",
+            "name": "Leith Stevens",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0848681",
+            "name": "David Tamkin",
+            "description": "orchestrator (uncredited)"
+          },
+          {
+            "id": "nm0867846",
+            "name": "Dave Torbett",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0911518",
+            "name": "Edward Ward",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0002202",
+            "name": "Roy Webb",
+            "description": "composer: stock music (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Script and Continuity Department",
+        "items": [
+          {
+            "id": "nm0117067",
+            "name": "Charlsie Bryant",
+            "description": "script supervisor"
+          }
+        ]
+      },
+      {
+        "job": "Additional Crew",
+        "items": [
+          {
+            "id": "nm1019315",
+            "name": "Glen Cook",
+            "description": "swim gym operating engineer (uncredited)"
+          }
+        ]
+      }
+    ],
+    "errorMessage": ""
+  },
+  "genres": "Drama, Family, Fantasy",
+  "genreList": [
+    {
+      "key": "Drama",
+      "value": "Drama"
+    },
+    {
+      "key": "Family",
+      "value": "Family"
+    },
+    {
+      "key": "Fantasy",
+      "value": "Fantasy"
+    }
+  ],
+  "companies": "Liberty Films (II)",
+  "companyList": [
+    {
+      "id": "co0196361",
+      "name": "Liberty Films (II)"
+    }
+  ],
+  "countries": "USA",
+  "countryList": [
+    {
+      "key": "USA",
+      "value": "USA"
+    }
+  ],
+  "languages": "English, French",
+  "languageList": [
+    {
+      "key": "English",
+      "value": "English"
+    },
+    {
+      "key": "French",
+      "value": "French"
+    }
+  ],
+  "contentRating": "PG",
+  "imDbRating": "8.6",
+  "imDbRatingVotes": "472650",
+  "metacriticRating": "89",
+  "ratings": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "imDb": "8.6",
+    "metacritic": "89",
+    "theMovieDb": "8.3",
+    "rottenTomatoes": "94",
+    "filmAffinity": "8.2",
+    "errorMessage": ""
+  },
+  "wikipedia": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "language": "en",
+    "titleInLanguage": "It's a Wonderful Life",
+    "url": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life",
+    "plotShort": {
+      "plainText": "It's a Wonderful Life is a 1946 American Christmas fantasy drama film produced and directed by Frank Capra. It is based on the short story and booklet The Greatest Gift self-published by Philip Van Doren Stern in 1943, which itself is loosely based on the 1843 Charles Dickens novella A Christmas Carol. The film stars James Stewart as George Bailey, a man who has given up his personal dreams in order to help others in his community and whose thoughts of suicide on Christmas Eve bring about the intervention of his guardian angel, Clarence Odbody (Henry Travers). Clarence shows George all the lives he touched and what the world would be like if he did not exist.\r\nTheatrically, the film's break-even point was $6.3 million, about twice the production cost, a figure it did not come close to achieving on its initial release. Because of the film's disappointing sales, Capra was seen by some studios as having lost his ability to produce popular, financially successful films. Although It's a Wonderful Life initially received mixed reviews and was unsuccessful at the box office, it became a Christmas classic after its copyright lapsed in 1974 and it fell into the public domain, which allowed it to be broadcast without licensing or royalty fees.\r\nToday, It's a Wonderful Life is considered to be one of the greatest films of all time and among the best Christmas films. It was nominated for five Academy Awards, including Best Picture, and has been recognized by the American Film Institute as one of the 100 best American films ever made. It was No. 11 on the American Film Institute's 1998 greatest movie list, No. 20 on its 2007 greatest movie list, and No. 1 on its list of the most inspirational American films of all time. Capra revealed that it was his favorite among the films he directed and that he screened it for his family every Christmas season. It was one of Stewart's favorite films. In 1990, It's a Wonderful Life was designated as \"culturally, historically or aesthetically significant\" and added to the National Film Registry of the Library of Congress.",
+      "html": "<p>It's a Wonderful Life is a 1946 American Christmas fantasy drama film produced and directed by Frank Capra. It is based on the short story and booklet The Greatest Gift self-published by Philip Van Doren Stern in 1943, which itself is loosely based on the 1843 Charles Dickens novella A Christmas Carol. The film stars James Stewart as George Bailey, a man who has given up his personal dreams in order to help others in his community and whose thoughts of suicide on Christmas Eve bring about the intervention of his guardian angel, Clarence Odbody (Henry Travers). Clarence shows George all the lives he touched and what the world would be like if he did not exist.</p><p>Theatrically, the film's break-even point was $6.3 million, about twice the production cost, a figure it did not come close to achieving on its initial release. Because of the film's disappointing sales, Capra was seen by some studios as having lost his ability to produce popular, financially successful films. Although It's a Wonderful Life initially received mixed reviews and was unsuccessful at the box office, it became a Christmas classic after its copyright lapsed in 1974 and it fell into the public domain, which allowed it to be broadcast without licensing or royalty fees.</p><p>Today, It's a Wonderful Life is considered to be one of the greatest films of all time and among the best Christmas films. It was nominated for five Academy Awards, including Best Picture, and has been recognized by the American Film Institute as one of the 100 best American films ever made. It was No. 11 on the American Film Institute's 1998 greatest movie list, No. 20 on its 2007 greatest movie list, and No. 1 on its list of the most inspirational American films of all time. Capra revealed that it was his favorite among the films he directed and that he screened it for his family every Christmas season. It was one of Stewart's favorite films. In 1990, It's a Wonderful Life was designated as \"culturally, historically or aesthetically significant\" and added to the National Film Registry of the Library of Congress.</p>"
+    },
+    "plotFull": {
+      "plainText": "It's a Wonderful Life is a 1946 American Christmas fantasy drama film produced and directed by Frank Capra. It is based on the short story and booklet The Greatest Gift self-published by Philip Van Doren Stern in 1943, which itself is loosely based on the 1843 Charles Dickens novella A Christmas Carol. The film stars James Stewart as George Bailey, a man who has given up his personal dreams in order to help others in his community and whose thoughts of suicide on Christmas Eve bring about the intervention of his guardian angel, Clarence Odbody (Henry Travers). Clarence shows George all the lives he touched and what the world would be like if he did not exist.\r\nTheatrically, the film's break-even point was $6.3 million, about twice the production cost, a figure it did not come close to achieving on its initial release. Because of the film's disappointing sales, Capra was seen by some studios as having lost his ability to produce popular, financially successful films. Although It's a Wonderful Life initially received mixed reviews and was unsuccessful at the box office, it became a Christmas classic after its copyright lapsed in 1974 and it fell into the public domain, which allowed it to be broadcast without licensing or royalty fees.\r\nToday, It's a Wonderful Life is considered to be one of the greatest films of all time and among the best Christmas films. It was nominated for five Academy Awards, including Best Picture, and has been recognized by the American Film Institute as one of the 100 best American films ever made. It was No. 11 on the American Film Institute's 1998 greatest movie list, No. 20 on its 2007 greatest movie list, and No. 1 on its list of the most inspirational American films of all time. Capra revealed that it was his favorite among the films he directed and that he screened it for his family every Christmas season. It was one of Stewart's favorite films. In 1990, It's a Wonderful Life was designated as \"culturally, historically or aesthetically significant\" and added to the National Film Registry of the Library of Congress.\r\nPlot\r\nOn Christmas Eve 1945, in Bedford Falls, New York, George Bailey contemplates suicide. The prayers of his family and friends reach Heaven, where guardian angel second class Clarence Odbody is assigned to save George in order to earn his wings. Clarence is shown flashbacks of George's life. He watches 12-year-old George rescue his younger brother Harry from drowning, leaving George deaf in his left ear. George later prevents the pharmacist, Mr. Gower, from accidentally poisoning a customer's prescription.\r\nIn 1928, George plans a world tour before college. He is reintroduced to Mary Hatch, who has been enamored with him since childhood. When his father dies suddenly, George postpones his travel to settle the family business, Bailey Brothers Building and Loan. Avaricious board member Henry Potter, who controls most of the town, seeks to dissolve it, but the board votes to keep the Building and Loan open if George runs it. George acquiesces and works alongside his uncle Billy, giving his tuition to Harry with the understanding that Harry will run the business when he graduates.\r\nHarry returns from college married and with a job offer from his father-in-law, and George resigns himself to running the Building and Loan. George and Mary rekindle their relationship and wed. They witness a run on the bank and use their honeymoon savings to keep the Building and Loan solvent. Under George, the company establishes Bailey Park, a housing development surpassing Potter's overpriced slums. Potter entices George with a $20,000/year job, but realizing that Potter's true intention is to close the Building and Loan, George rebuffs him.\r\nOn Christmas Eve 1945, the town prepares a hero's welcome for Harry, who, as a U.S. Navy fighter pilot, was awarded the Medal of Honor for preventing a kamikaze attack on a troop transport. Billy goes to Potter's bank to deposit $8,000 of the Building and Loan's money. He taunts Potter with a newspaper headline about Harry, then absentmindedly wraps the cash in Potter's newspaper. Potter finds and keeps the money, while Billy cannot recall how he misplaced it. With a bank examiner reviewing the company's records, George realizes scandal and criminal charges will follow. Fruitlessly retracing Billy's steps, George berates him and takes out his frustration on Mary and their children. George appeals to Potter for a loan, offering his life insurance policy as collateral. Potter scoffs that George is worth more dead than alive, refuses to help, and phones the police.\r\nGeorge flees Potter's office, gets drunk at a bar, and prays for help. Suicidally despondent, he goes to a nearby bridge, but before he can jump, Clarence dives into the river, and George rescues him. When George wishes he had never been born, Clarence shows George a timeline in which he never existed. Bedford Falls is now Pottersville, an unsavory town occupied by sleazy entertainment venues, crime, and callous people. Mr. Gower was imprisoned for manslaughter because George was not there to stop him from poisoning the customer. George's mother does not know him. Uncle Billy was institutionalized after the Building and Loan failed. Bailey Park is a cemetery, where George discovers Harry's grave. Without George, Harry drowned as a child, and without Harry to save them, the troops aboard the transport ship were killed. George finds Mary, now a spinster, and when he grabs her and claims to be her husband, she screams and runs.\r\nGeorge flees back to the bridge and begs Clarence for his life back. The original reality is restored, and a grateful George rushes home to await his arrest. Meanwhile, Mary and Billy have rallied the townspeople, who come into the Bailey home and donate more than enough to cover the missing money. Harry arrives and toasts George as \"the richest man in town\". Among the donations George finds a copy of The Adventures of Tom Sawyer, a gift from Clarence and inscribed, \"Remember, no man is a failure who has friends. Thanks for the wings!\" When a bell on the Christmas tree rings, George's youngest daughter, Zuzu, explains that \"every time a bell rings, an angel gets his wings.\" George looks upward smiling and says, \"Atta boy, Clarence!\"\r\nCast\r\nJames Stewart as George Bailey\r\nDonna Reed as Mary Hatch Bailey\r\nLionel Barrymore as Henry Potter\r\nThomas Mitchell as Uncle Billy\r\nHenry Travers as Clarence\r\nBeulah Bondi as Mrs. Bailey\r\nFrank Faylen as Ernie Bishop\r\nWard Bond as Bert\r\nGloria Grahame as Violet Bick\r\nH. B. Warner as Mr. Gower\r\nFrank Albertson as Sam Wainwright\r\nTodd Karns as Harry Bailey\r\nSamuel S. Hinds as Pa Bailey\r\nMary Treen as Cousin Tilly\r\nVirginia Patton as Ruth Dakin\r\nCharles Williams as Cousin Eustace\r\nSara Edwards as Mrs. Hatch\r\nBill Edmunds as Mr. Giuseppe Martini\r\nLillian Randolph as Annie\r\nArgentina Brunetti as Mrs. Martini\r\nBobbie Anderson as Little George\r\nRonnie Ralph as Little Sam\r\nJean Gale as Little Mary\r\nJeanine Ann Roose as Little Violet\r\nDanny Mummert as Little Marty Hatch\r\nGeorgie Nokes as Little Harry Bailey\r\nSheldon Leonard as Nick\r\nFrank Hagney as Potter's Bodyguard\r\nRay Walker as Joe (Luggage Shop)\r\nCharlie Lane as Real Estate Salesman\r\nEdward Kean as Tom (Bldg. & Loan)\r\nCarol Coomes as Janie\r\nKarolyn Grimes as Zuzu\r\nLarry Simms as Pete\r\nJimmy Hawkins as Tommy\r\nFamous or memorable uncredited cast members include:\r\nJimmy as Uncle Billy's pet raven\r\nStanley Andrews as Mr. Welch, the teacher's husband\r\nAl Bridge as the Sheriff with the arrest warrant against George\r\nAdriana Caselotti as Singer at Martini's\r\nEllen Corby as Bailey Brothers Building & Loan customer, Miss Davis\r\nDick Elliott as the bald man on his front porch\r\nTom Fadden as the bridge tollhouse keeper\r\nCharles Halton as the bank examiner, Mr. Carter\r\nHarry Holman as high school principal, Mr. Partridge\r\nHarold Landon as Marty Hatch\r\nJ. Farrell MacDonald as the man whose great-grandfather planted the tree George drives into\r\nMark Roberts as Mickey, the student with the swimming pool floor key\r\nAlmira Sessions as Potter's secretary\r\nCarl Switzer as Freddie Othello, the student who unsuccessfully tries to flirt with Mary\r\nJoseph Granby voiced the Angel Joseph\r\nMoroni Olsen voiced the Senior Angel Franklin\r\nMarian Carr as Jane Wainwright\r\nProduction\r\nBackground\r\nThe original story, The Greatest Gift, was written by Philip Van Doren Stern in November 1939. After it was rejected by several publishers, he had it printed as a 24-page pamphlet and mailed to 200 family members and friends for Christmas 1943. The story came to the attention of either Cary Grant or RKO producer David Hempstead, who showed it to Grant's agent. In April 1944, RKO Pictures bought the rights to the story for $10,000, hoping to turn it into a vehicle for Grant.\r\nDalton Trumbo, Clifford Odets, and Marc Connelly each worked on versions of the screenplay before RKO shelved the project. In Trumbo's draft, George Bailey is an idealistic politician who grows more cynical as the story progresses, then tries to commit suicide after losing an election. The angel shows him Bedford Falls not as it would be if he had never been born, but if he had gone into business instead of politics. Grant went on to make another Christmas movie staple, The Bishop's Wife.\r\nRKO studio chief Charles Koerner urged Frank Capra to read \"The Greatest Gift\". Capra's new production company, Liberty Films, had a nine-film distribution agreement with RKO. Capra immediately saw its potential, and wanted it for his first Hollywood film after making documentaries and training films during the war. RKO sold Capra the rights for $10,000 and threw in the three earlier scripts for free. (Capra claimed the rights and the scripts cost him $50,000.) Capra salvaged a few scenes from Odets' earlier screenplay and worked with writers Frances Goodrich and Albert Hackett, Jo Swerling, Michael Wilson, and Dorothy Parker (brought in to \"polish\" the script), on many drafts of the screenplay.\r\nIt was not a harmonious collaboration. Goodrich called Capra \"that horrid man\" and recalled, \"He couldn't wait to get writing it himself.\" Her husband, Albert Hackett, said, \"We told him what we were going to do, and he said 'That sounds fine.' We were trying to move the story along and work it out, and then somebody told us that and Jo Swerling were working on it together, and that sort of took the guts out of it. Jo Swerling was a very close friend of ours, and when we heard he was doing this we felt rather bad about it. We were getting near the end and word came that Capra wanted to know how soon we'd be finished. So my wife said, 'We're finished right now.' We quickly wrote out the last scene and we never saw him again after that. He's a very arrogant son of a bitch.\"\r\nLater, a dispute ensued over the writing credits. The final screenplay, renamed by Capra It's a Wonderful Life, was credited to Goodrich, Hackett, and Capra, with \"additional scenes\" by Jo Swerling. Capra said, \"The Screen Writers' Arbitration committee decided that Hackett and Goodrich and I should get the credit for the writing. Jo Swerling hasn't talked to me since. That was five years ago.\"\r\nSome in Seneca Falls, New York, believe Capra was inspired to model Bedford Falls after the town following a visit in 1945. The town has an annual \"It's a Wonderful Life Festival\" on the second weekend in December. On December 10, 2010, the \"It's a Wonderful Life\" Museum opened in Seneca Falls, with Karolyn Grimes, who played Zuzu in the movie, cutting the ribbon. However, film historian Jeanine Basinger, curator of the Frank Capra archives at Wesleyan University and author of The 'It's A Wonderful Life' Book, has said no evidence exists for Seneca Falls' claim. \"I have been through every piece of paper in Frank Capra's diaries, his archives, everything. There's no evidence of any sort whatsoever to support this. That doesn't mean it isn't true, but no one is ever going to prove it.\" Basinger said that Capra always described Bedford Falls as an \"Everytown\".\r\nPhilip Van Doren Stern said in a 1946 interview, \"Incidentally, the movie takes place in Westchester County. Actually, the town I had in mind was Califon, N.J.\" The historic iron bridge in Califon is similar to the bridge that George Bailey considered jumping from in the movie.\r\nCasting\r\nIn his autobiography, Capra recalled: \"Of all actors' roles I believe the most difficult is the role of a Good Sam who doesn't know that he is a Good Sam. I knew one man who could play it ... James Stewart. ... I spoke to Lew Wasserman, the MCA agent who handled Jimmy, told him I wanted to tell Jimmy the story. Wasserman said Stewart would gladly play the part without hearing the story.\" Stewart and Capra had previously collaborated on You Can't Take It with You (1938) and Mr. Smith Goes to Washington (1939).\r\nHenry Fonda, Stewart's best friend, was also considered. Both actors had returned from the war with no employment prospects. Fonda, however, was cast in John Ford's My Darling Clementine (1946), which was filmed at the same time that Capra shot It's a Wonderful Life. For 17 supporting roles in the film, Capra considered more than 170 established actors.\r\nJean Arthur, Stewart's co-star in You Can't Take It With You and Mr. Smith Goes to Washington, was first offered the role of Mary, but had recently dropped out of the Broadway show Born Yesterday from exhaustion shortly before its premiere. Capra next considered Olivia de Havilland, Martha Scott, Ann Dvorak, and Ginger Rogers before borrowing Donna Reed from MGM. Rogers turned it down because she considered it \"too bland\". In chapter 26 of her autobiography Ginger: My Story, she questioned her decision by asking her readers: \"Foolish, you say?\"\r\nA long list of actors was considered for the role of Potter (originally named Herbert Potter): Edward Arnold, Charles Bickford, Edgar Buchanan, Louis Calhern, Victor Jory, Raymond Massey, Thomas Mitchell, and Vincent Price. Lionel Barrymore, who eventually was cast, was a famous Ebenezer Scrooge in radio dramatizations of A Christmas Carol at the time, and was a natural choice for the role. Barrymore had also worked with Capra and Stewart on Capra's 1938 Best Picture Oscar winner, You Can't Take It with You.\r\nBefore Capra decided on Ward Bond as Bert, he also considered Sam Levene, Barton MacLane, Robert Mitchum, John Alexander and Irving Bacon for the role.\r\nBefore Capra cast Thomas Mitchell as Uncle Billy, he also considered Walter Brennan and W. C. Fields for the role.\r\nH. B. Warner, who was cast as Mr. Gower, the pharmacist, had studied medicine before going into acting. He was also in some of Capra's other films, including Mr. Deeds Goes to Town, Lost Horizon, You Can't Take It with You, and Mr. Smith Goes to Washington. In the silent era, he had played the role of Jesus Christ in Cecil B. DeMille's The King of Kings (1927). The name Gower came from Capra's employer Columbia Pictures, which had been located on Gower Street for many years. Also on Gower Street was a drugstore that was a favorite for the studio's employees.\r\nCharles Williams, who was cast as Eustace Bailey, and Mary Treen, who was cast as Matilda \"Tilly\" Bailey, were both B-list actors, having appeared in 90 films each before It's a Wonderful Life.\r\nJimmy the raven (Uncle Billy's pet) appeared in You Can't Take It with You and each subsequent Capra film.\r\nFilming\r\nIt's a Wonderful Life was shot at RKO Radio Pictures Studios in Culver City, California, and the 89-acre RKO movie ranch in Encino, where \"Bedford Falls\" was adapted from Oscar-winning sets originally designed by art director Max Ree for the 1931 epic film Cimarron. Covering 4 acres (1.6 ha), the town consisted of a main street stretching 300 yards (three city blocks) with 75 stores and buildings, and a residential neighborhood. Capra added a tree-lined center parkway, built a working bank set, and planted 20 full-grown oak trees. Pigeons, cats, and dogs were allowed to roam the mammoth set to give the \"town\" a lived-in feel.\r\nDue to the requirements of filming in an \"alternate reality\", as well as different seasons, the exterior set was extremely adaptable. RKO studio's head of special effects, Russell Shearman, developed a new compound using water, soap flakes, foamite, and sugar to create \"chemical snow\" for the film. Before then, movie snow was usually made from untoasted cornflakes, which were so loud when stepped on that dialogue had to be redubbed afterwards.\r\nFilming started on April 15, 1946, and wrapped on July 27, 1946, exactly on deadline for the 90-day principal photography schedule.\r\nOnly two locations from the film survive. The first, the swimming pool that was unveiled during the high-school dance sequence, is located in the gymnasium at Beverly Hills High School and is still in use as of 2013. The second is the \"Martini home\" in La Cañada Flintridge, California. RKO's movie ranch in Encino was razed in 1954.\r\nThe scene where young George saves his brother Harry from drowning was different in an early draft of the script. The boys play ice hockey on the river (which is on Potter's property) as Potter watches with disdain. George shoots the puck, but it goes astray and breaks the \"No Trespassing\" sign and lands in Potter's yard. Potter becomes irate and his gardener releases attack dogs, which cause the boys to flee. Harry falls in the ice and George saves him with the same results.\r\nIn another draft, after he unsuccessfully attempts to consult his father about Mr. Gower and the pills, George considers asking Uncle Billy, but he is on the phone with the bank examiner. Billy lights his cigar and throws his match in the wastebasket. George turns to Tilly (who, along with Eustace, are his cousins, although not Billy's kids), but she is on the phone with her friend, Martha. She says, \"Potter's here, the bank examiner's coming. It's a day of judgment.\" The wastebasket suddenly catches fire and Billy cries for help. Tilly runs in and puts the fire out with a pot of coffee. George decides to deal with the Gower situation by himself.\r\nAccording to Bobbie Anderson, in the confrontation between Mr. Gower and young George, H. B. Warner, who was drunk at the time of the drug store scene, slapped him for real and made his ear bleed, reducing him to tears. Warner hugged him after the scene was shot.\r\nComposer Dimitri Tiomkin had written \"Death Telegram\" and \"Gower's Deliverance\" for the drugstore sequence, but Capra elected to forgo music in those scenes. Tiomkin had worked on many of Capra's previous films, but those changes, and others, led to a falling out between the two men. Tiomkin felt as though his work was being seen as a mere suggestion. In his autobiography Please Don't Hate Me, he called the incident, \"an all around scissors job\".\r\nIn the scene where Uncle Billy gets drunk at Harry and Ruth's welcome home/newlyweds' party and staggers away off camera, a crash is heard off screen. Mitchell, as Uncle Billy, yells, \"I'm all right! I'm all right!\", implying that Uncle Billy had knocked into some trash cans. A technician had actually knocked over some equipment; Capra left in Mitchell's impromptu ad lib and rewarded the technician with $10 (equal to $141.84 in 2021), thanking him for his 'sound improvement'.\r\nAccording to rare stills that have been unearthed, several sequences were filmed but subsequently cut. Alternative endings were also considered. Capra's first script had Bailey fall to his knees to recite \"The Lord's Prayer\" (the script also called for an opening scene with the townspeople in prayer). Feeling that an overly religious tone undermined the emotional impact of the family and friends rushing to George's rescue, the closing scenes were rewritten.\r\nCapra found the film's original cinematographer Victor Milner slow and pretentious, and when Milner became ill, Capra borrowed Joseph Walker from Columbia. Walker had lensed 19 previous Capra films. But when Rosalind Russell demanded that Walker return to Columbia Pictures to shoot her next film, Walker trained veteran camera operator Joseph Biroc to be his replacement. Although working with three cinematographers was difficult for Capra, in Walker's opinion it turned out very well because the scenes each cinematographer shot were so different that they did not have to match each other's visual styles.\r\nReception\r\nCritical response\r\nAccording to a 2006 book, \"A spate of movies appeared just after the ending of the Second World War, including It's a Wonderful Life (1946) and Stairway to Heaven (1946), perhaps tapping into so many people's experience of loss of loved ones and offering a kind of consolation.\" It's a Wonderful Life premiered at the Globe Theatre in New York City on December 20, 1946, to mixed reviews. While Capra thought the contemporary critical reviews were either universally negative, or at best dismissive, Time said, \"It's a Wonderful Life is a pretty wonderful movie. It has only one formidable rival (Goldwyn's The Best Years of Our Lives) as Hollywood's best picture of the year. Director Capra's inventiveness, humor, and affection for human beings keep it glowing with life and excitement.\"\r\nBosley Crowther, writing for The New York Times, complimented some of the actors, including Stewart and Reed, but concluded, \"the weakness of this picture, from this reviewer's point of view, is the sentimentality of it—its illusory concept of life. Mr. Capra's nice people are charming, his small town is a quite beguiling place and his pattern for solving problems is most optimistic and facile. But somehow, they all resemble theatrical attitudes, rather than average realities.\"\r\nThe film, which went into general release on January 7, 1947, placed 26th ($3.3 million) in box-office revenues for 1947 (out of more than 400 features released), one place ahead of another Christmas film, Miracle on 34th Street. The film was supposed to be released in January 1947, but was moved up to December 1946 to make it eligible for the 19th Academy Awards held in March 1947. This move was seen as worse for the film, as 1947 did not have quite the stiff competition as 1946. If it had entered the 1947 awards, its strongest competitor would have been Miracle on 34th Street. The number-one grossing movie of 1947, The Best Years of Our Lives, made $11.5 million.\r\nThe film recorded a loss of $525,000 at the box office for RKO.\r\nOn May 26, 1947, the Federal Bureau of Investigation issued a memo stating, \"With regard to the picture It's a Wonderful Life, stated in substance that the film represented rather obvious attempts to discredit bankers by casting Lionel Barrymore as a 'scrooge-type' so that he would be the most hated man in the picture. This, according to these sources, is a common trick used by Communists. addition, stated that, in his opinion, this picture deliberately maligned the upper class, attempting to show the people who had money were mean and despicable characters.\" Film historian Andrew Sarris observed as \"curious\" that \"the censors never noticed that the villainous Mr. Potter gets away with robbery without being caught or punished in any way\".\r\nIn 1990, It's a Wonderful Life was deemed \"culturally, historically, or aesthetically significant\" by the United States Library of Congress and selected for preservation in their National Film Registry.\r\nIn 2002, Channel 4 in the United Kingdom ranked It's a Wonderful Life as the seventh-greatest film ever made in its poll \"The 100 Greatest Films\". The channel airs the film to British viewers annually on Christmas Eve.\r\nIn June 2008, AFI revealed its 10 Top 10, the best 10 films in 10 \"classic\" American film genres, after polling over 1,500 people from the creative community. It's a Wonderful Life was acknowledged as the third-best film in the fantasy genre.\r\nSomewhat more iconoclastic views of the film and its contents are occasionally expressed. In his review for The New Republic in 1947, film critic Manny Farber wrote, \"To make his points, always takes an easy, simple-minded path that doesn't give much credit to the intelligence of the audience\", and adds that it has only a \"few unsentimental moments here and there\". Wendell Jamieson, in a 2008 article for The New York Times which was generally positive in its analysis of the film, observing that far from being simply a sweetly sentimental tale, it \"is a terrifying, asphyxiating story about growing up and relinquishing your dreams, of seeing your father driven to the grave before his time, of living among bitter, small-minded people. It is a story of being trapped, of compromising, of watching others move ahead and away, of becoming so filled with rage that you verbally abuse your children, their teacher, and your oppressively perfect wife.\"\r\n... one of the most profoundly pessimistic tales of human existence ever to achieve a lasting popularity.\r\n—Film historian Andrew Sarris in \"You Ain't Heard Nothin' Yet.\": The American Talking Film History & Memory, 1927-1949.\r\nIn a 2010 essay for Salon, Richard Cohen described It's a Wonderful Life as \"the most terrifying Hollywood film ever made\". In the \"Pottersville\" sequence, he wrote, George Bailey is not seeing the world that would exist had he never been born, but rather \"the world as it does exist, in his time and also in our own\". Nine years earlier, another Salon writer, Gary Kamiya, had expressed the opposing view that \"Pottersville rocks!\", adding: \"The gauzy, Currier-and-Ives veil Capra drapes over Bedford Falls has prevented viewers from grasping what a tiresome and, frankly, toxic environment it is ... We all live in Pottersville now.\"\r\nThe film's elevation to the status of a beloved classic came three decades after its initial release, when it became a television staple during Christmas season in 1976. This came as a welcome surprise to Frank Capra and others involved with its production. \"It's the damnedest thing I've ever seen\", Capra told The Wall Street Journal in 1984. \"The film has a life of its own now, and I can look at it like I had nothing to do with it. I'm like a parent whose kid grows up to be President. I'm proud ... but it's the kid who did the work. I didn't even think of it as a Christmas story when I first ran across it. I just liked the idea.\" In a 1946 interview, Capra described the film's theme as \"the individual's belief in himself\" and that he made it \"to combat a modern trend toward atheism\". It ranked 283rd among critics, and 107th among directors, in the 2012 Sight & Sound polls of the greatest films ever made.\r\nThe film's positive reception has continued. On review aggregator Rotten Tomatoes, the film holds an approval rating of 94% based on 93 reviews, with an average rating of 9.10/10. The website's critical consensus reads, \"The holiday classic to define all holiday classics, It's a Wonderful Life is one of a handful of films worth an annual viewing.\" On Metacritic, which assigns a normalized rating to reviews, the film has a score 89 out of 100, based on 17 critics, indicating \"universal acclaim\".\r\nMany filmmakers have praised the film, ranging from Steven Spielberg, Akira Kurosawa, Frank Darabont and David Lynch. Spielberg once said of the film: \"It’s a Wonderful Life shows that every human being on this Earth matters -- and that’s a very powerful message.\" Orson Welles played Mr. Potter in the made-for-television remake It Happened One Christmas; when asked by Henry Jaglom what he thought of the movie, Welles said, \"There's no way of hating that movie\".\r\nAwards and honors\r\nPrior to its Los Angeles release, Liberty Films mounted an extensive promotional campaign that included a daily advertisement highlighting one of the film's players, along with comments from reviewers. Jimmy Starr wrote, \"If I were an Oscar, I'd elope with It's a Wonderful Life lock, stock and barrel on the night of the Academy Awards\". The New York Daily Times published an editorial that declared the film and James Stewart's performance to be worthy of Academy Award consideration.\r\nIt's a Wonderful Life received five Academy Award nominations:\r\nThe Best Years of Our Lives, a drama about servicemen attempting to return to their pre-World War II lives, won most of the awards that year, including four of the five for which It's a Wonderful Life was nominated. (The award for \"Best Sound Recording\" was won by The Jolson Story.) The Best Years of Our Lives, directed by William Wyler, Capra's business partner along with George Stevens in Liberty Films, was also an outstanding commercial success, ultimately becoming the highest-grossing film of the decade, in contrast to the more modest initial box-office returns of It's a Wonderful Life.\r\nIt's a Wonderful Life received a Golden Globe Award for Capra as Best Motion Picture Director. He also won a \"CEC Award\" from the Cinema Writers Circle in Spain, for Mejor Película Extranjera (Best Foreign Film). Jimmy Hawkins won a \"Former Child Star Lifetime Achievement Award\" from the Young Artist Awards in 1994; the award recognized his role as Tommy Bailey as igniting his career, which lasted until the mid-1960s.\r\nRelease\r\nOwnership and copyright issues\r\nLiberty Films was purchased by Paramount Pictures, and remained a subsidiary until 1951. In 1955, M. & A. Alexander purchased the movie. This included key rights to the original television syndication, the original nitrate film elements, the music score, and the film rights to the story on which the film is based, The Greatest Gift. National Telefilm Associates took over the rights to the film soon thereafter.\r\nA clerical error at NTA prevented the copyright from being renewed properly in 1974. Despite the lapsed copyright, television stations that aired it still had to pay royalties because—though the film's images had entered the public domain—the film's story was still restricted as a derivative work of the published story The Greatest Gift, whose copyright Philip Van Doren Stern had renewed in 1971. The film became a perennial holiday favorite in the 1980s, possibly due to its repeated showings each holiday season on hundreds of local television stations. It was mentioned during the deliberations on the Copyright Term Extension Act of 1998.\r\nIn 1993, Republic Pictures, which was the successor to NTA, relied on the 1990 U.S. Supreme Court ruling in Stewart v. Abend (which involved another Stewart film, Rear Window) to enforce its claim to the copyright. While the film's copyright had not been renewed, Republic still owned the film rights to The Greatest Gift; thus, the plaintiffs were able to argue its status as a derivative work of a work still under copyright. That year, Republic made a deal with Turner Broadcasting System, authorizing only three airings of the movie, all on cable's TNT and TBS. However, the studio's attempt to reassert control was widely ignored since there were still some existing distribution deals that Republic had to honor.\r\nIn 1994, the studio sold exclusive television rights to NBC. \"We're thrilled that we will have the opportunity to broadcast this picture,\" said NBC Entertainment President Warren Littlefield at the time. \"We will broadcast the original director's cut in black and white, full-length, the way Frank Capra intended this picture to be seen.\"\r\nNBC traditionally shows it during the holidays after Thanksgiving and on Christmas Eve. Paramount (via parent company Viacom's 1998 acquisition of Republic's then-parent, Spelling Entertainment) once again has distribution rights for the first time since 1955.\r\nDue to all the above actions, this is one of the few RKO films not controlled by Turner Entertainment/Warner Bros. in the US. It is also one of two Capra films Paramount owns despite not having originally released it—the other is Broadway Bill (originally from Columbia, remade by Paramount as Riding High in 1950).\r\nColorization\r\nDirector Capra met with Wilson Markle about having Colorization Inc. colorize It's a Wonderful Life based on an enthusiastic response to the colorization of Topper from actor Cary Grant. The company's art director, Brian Holmes, prepared 10 minutes of colorized footage from It's a Wonderful Life for Capra to view, which resulted in Capra signing a contract with Colorization Inc., and his \"enthusiastic agree to pay half the $260,000 cost of colorizing the movie and to share any profits\" and giving \"preliminary approval to making similar color versions of two of his other black-and-white films, Meet John Doe (1941) and Lady for a Day (1933)\".\r\nHowever, the film was believed to be in the public domain at the time, and as a result, Markle and Holmes responded by returning Capra's initial investment, eliminating his financial participation, and refusing outright to allow the director to exercise artistic control over the colorization of his films, leading Capra to join in the campaign against the process.\r\nThree colorized versions have been produced. The first was released by Hal Roach Studios in 1986. The second was authorized and produced by the film's permanent owner, Republic Pictures, in 1989. Both Capra and Stewart took a critical stand on the colorized editions. The Hal Roach color version was re-released in 1989 to VHS via Video Treasures. A third, computer-colorized version was produced by Legend Films in 2007 and has been released on DVD, Blu-ray, and streaming services.\r\nHome media\r\nVHS\r\nThroughout the 1980s and early 1990s, when the film was still under public domain status, It's a Wonderful Life was released on VHS by a variety of home video companies. Among the companies that released the film on home video before Republic Pictures stepped in were Meda Video (which would later become Media Home Entertainment), Kartes Video Communications (under its Video Film Classics label), GoodTimes Home Video, and Video Treasures (now Anchor Bay Entertainment). After Republic reclaimed the rights to the film, all unofficial VHS copies of the film still in the hands of video distributors were supposed to have been destroyed.\r\nArtisan Entertainment (under license from Republic) took over home video rights in the mid-1990s. Artisan was later sold to Lions Gate Entertainment, which continued to hold US home video rights until late 2005, when they reverted to Paramount, which also owns video rights throughout Region 4 (Latin America and Australia) and in France. Video rights in the rest of the world are held by different companies; for example, the UK rights were once with Universal Studios, but have since reverted to Paramount.\r\nTechnological first: CD-ROM\r\nIn 1993, due in part to the confusion of the ownership and copyright issues, Kinesoft Development, with the support of Republic Pictures, released It's a Wonderful Life as one of the first commercial feature-length films on CD-ROM for the Windows PC (Windows 3.1). Antedating commercial DVDs by several years, it included such features as the ability to follow along with the complete shooting script as the film was playing.\r\nGiven the state of video playback on the PC at the time of its release, It's a Wonderful Life for Windows represented another milestone, as the longest-running video on a computer. Prior to its release, Windows could play back only about 32,000 frames of video, or about 35 minutes at 15 frames per second. Working with Microsoft, Kinesoft was able to enhance the video features of Windows to allow for the complete playback of the entire film—all of this on a PC with a 486SX processor and 8 MB of RAM.\r\nComputer Gaming World said in April 1994, \"The picture quality still has a way to go before it reaches television standards\", but was \"a noble effort\" that would \"please fans of the film\".\r\nDVD and Blu-ray\r\nThe film has seen multiple DVD releases since the availability of the format. In the autumn of 2001, Republic issued the film twice, once in August, and again with different packaging in September of that same year. On October 31, 2006, Paramount released a newly remastered \"60th Anniversary Edition\". On November 13, 2007, Paramount released a two-disc \"special edition\" DVD of the film that contained both the original theatrical black-and-white version, and a new, third colorized version, produced by Legend Films using the latest colorization technology. On November 3, 2009, Paramount re-released the previous DVD set as a \"Collector's Edition\" and debuted a Blu-ray edition, also containing both versions of the film.\r\nRestoration\r\nIn 2017, the film was restored in 4K resolution, available via streaming services and DCP.\r\n4K Ultra HD Blu-ray\r\nOn October 29, 2019, the film was released for the first time on 4K Ultra HD Blu-ray, along with digital copy featuring a new Dolby Vision transfer.\r\nAdaptations in other media\r\nThe film was twice adapted for radio in 1947, first on Lux Radio Theater (March 10) and then on the Screen Guild Theater (December 29), then again on the Screen Guild Theater broadcast of March 15, 1951. James Stewart and Donna Reed reprised their roles for all three radio productions. Stewart also starred in the May 8, 1949 radio adaptation presented on the Screen Directors Playhouse.\r\nA musical stage adaptation of the film, titled A Wonderful Life, was written by Sheldon Harnick and Joe Raposo. This version was first performed at the University of Michigan in 1986, but a planned professional production was stalled by legal wrangling with the estate of Philip Van Doren Stern. It was eventually performed in Washington, DC, by Arena Stage in 1991, and had revivals in the 21st century, including a staged concert version in New York City in 2005 and several productions by regional theatres.\r\nAnother musical stage adaptation of the film, titled It's a Wonderful Life – The Musical, was written by Bruce Greer and Keith Ferguson. This version premiered at the Majestic Theatre, Dallas, Texas, in 1998. It was an annual Christmas show at the theater for five years. It has since been performed at venues all around the United States.\r\nIn July 2019, it was revealed that another stage musical adaptation was in development with music and lyrics by Paul McCartney (making his musical theatre debut), lyrics and book by Lee Hall and produced by Bill Kenwright. The musical was set to debut late 2020, but is still yet to be announced.\r\nA 1986 skit on Saturday Night Live features William Shatner introducing the \"lost ending\" of It's a Wonderful Life in which George Bailey (Dana Carvey) and the citizens of Bedford Falls discover that Mr. Potter (Jon Lovitz) has stolen George's money and take turns beating him up in his office.\r\nIn 1992, the final episode of Tiny Toon Adventures parodied It's A Wonderful Life entitled \"It's A Wonderful Tiny Toon Christmas\". In it, Buster Bunny feels sad after the failure of his play and wishes he had never become a Tiny Toon, so a guardian angel shows Buster what life would have been like without him.\r\nThe film was also adapted into a play in two acts by James W. Rodgers. It was first performed on December 15, 1993, at Paul Laurence Dunbar High School. The play opens with George Bailey contemplating suicide and then goes back through major moments in his life. Many of the scenes from the movie are only alluded to or mentioned in the play rather than actually dramatized. For example, in the opening scene, Clarence just mentions George having saved his brother Harry after the latter had fallen through the ice.\r\nIt's a Wonderful Life: A Live Radio Play, a stage adaptation presented as a 1940s radio show, was adapted by Joe Landry and has been produced around the United States since 1997. The script is published by Playscripts, Inc.\r\nIn 1997, PBS aired Merry Christmas, George Bailey, taped from a live performance of the 1947 Lux Radio Theatre script at the Pasadena Playhouse. The presentation, which benefited the Elizabeth Glaser Pediatric AIDS Foundation, featured an all-star cast, including Bill Pullman as George, Nathan Lane as Clarence, Martin Landau as Mr. Potter, Penelope Ann Miller as Mary, and Sally Field as Mother Bailey.\r\nIn 2002, the television film It's a Very Merry Muppet Christmas Movie premiered on NBC. The film is a homage to It's a Wonderful Life. In the film, Kermit the Frog wishes that he had never been born.\r\nTony Palermo's 2005 stage adaptation has the story presented as actors making a radio-play complete with them making live sounds effects\r\nPhilip Grecian's 2006 radio play based on the film It's a Wonderful Life is a faithful adaptation, now in its third incarnation, that has been performed numerous times by local theatres in Canada.\r\nThe Last Temptation of Clarence Odbody is a 2011 novel written by John Pierson. The novel imagines the future lives of various characters if George had not survived his jump into the river.\r\nScenes from the film are seen in the 2016 documentary Abacus: Small Enough to Jail, where Abacus Federal Savings Bank founder and chairman Thomas Sung talked about how It's a Wonderful Life influenced him.\r\nA stage-adaptation of the story was presented at The Tower Theatre in Winchester in December 2016 by Blue Apple Theatre with Lawrie Morris in the role of George Bailey. This is believed to be the first time an actor with an intellectual disability (Lawrie Morris had Down's Syndrome) has had the role.\r\nA new \"cinematic audio\" adaptation by David Ossman of the Firesign Theatre was produced and directed by Ossman and his wife Judith Walcutt of Otherworld Media in December 2019 at the Whidbey Island Center for the Arts. Their version combined elements of traditional and radio theatre, with costumes, sets, makeup, and lighting effects, as well as live music, live sound effects, and over 20 microphones.\r\nRemakes\r\nIt Happened One Christmas was a 1977 television movie remake of the classic film, whose screenplay Lionel Chetwynd based on both the original Van Doren Stern short story and the 1946 screenplay. This remake employed gender-reversal, with Marlo Thomas as the protagonist Mary Bailey, Wayne Rogers as George Hatch, and Cloris Leachman as the angel Clara Oddbody. Leachman received her tenth Emmy nomination for this role. In a significant departure from his earlier roles, Orson Welles was cast as Mr. Potter. Following initial positive reviews, the made-for-television film was rebroadcast twice in 1978 and 1979, but has not been shown since on national re-broadcasts or issued to home media.\r\nMerry Christmas, George Bailey was a 1997 PBS television movie adaptation of the film directed by Matthew Diamond and starring Bill Pullman as George Bailey, Penelope Ann Miller as Mary, Nathan Lane as Clarence and Martin Landau as Potter.\r\nThe Christmas Spirit was a retelling of the movie starring Nicollette Sheridan as Charlotte Hart. This was a made-for-TV film aired on December 1, 2013, on the Hallmark Channel executive produced by Sheridan under her company, Wyke Lane Productions, and Brad Krevoy Television. The film was directed and written by Jack Angelo. Spirit was set in the present day, with the Hart character working to save a \"quiet New England town from a ruthless real estate developer\". The film was planned to kick off a film series about the Hart character. The film had 3.372 million viewers overall.\r\n\"The Greatest Gift\", the 2011 Warehouse 13 season 3 Christmas episode, tells a similar story after agent Pete Lattimer touches Stern's brush.\r\nSequel\r\nIn 1990, the made-for-television film Clarence stars Robert Carradine in a new tale of the helpful angel, Clarence Odbody.\r\nPotential\r\nA purported sequel was in development for a 2015 release, and was to be called It's a Wonderful Life: The Rest of the Story. It was to be written by Bob Farnsworth and Martha Bolton and follow the angel of George Bailey's daughter Zuzu (played once again by Karolyn Grimes), as she teaches Bailey's evil grandson how different the world would have been if he had never been born. Producers were considering directors and hoped to shoot the film with a $25–$35 million budget in Louisiana early in 2014.\r\nThe film had been announced as being produced by Star Partners and Hummingbird Productions, neither of which are affiliated with Paramount, owners of the original film (Farnsworth claimed that It's a Wonderful Life was in the public domain). Later, a Paramount spokesperson claimed that they were not granting permission to make the film; \"To date, these individuals have not obtained any of the necessary rights, and we would take all appropriate steps to protect those rights\", the spokesperson said. As of Christmas 2022, no further developmental plans have since arisen.\r\nSesame Street urban legend\r\nIt is commonly believed that the characters of Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the cabdriver. However, in a correction for the 1999 \"Annual Xmas Quiz\" in the San Francisco Chronicle, which made this claim, series writer Jerry Juhl confirmed that, per producer Jon Stone, the shared names were merely a coincidence. Despite this, the 1996 holiday special Elmo Saves Christmas references the rumor, during a scene where Bert and Ernie walk by a TV set, which is playing the movie. The pair are surprised by the line: \"Bert! Ernie! What's the matter with you two guys? You were here on my wedding night!\"\r\nStephan's Quintet usage\r\nThe angelic figures depicted at the beginning of the film is an image of Stephan's Quintet, a group of four interacting galaxies.",
+      "html": "<p>It's a Wonderful Life is a 1946 American Christmas fantasy drama film produced and directed by Frank Capra. It is based on the short story and booklet The Greatest Gift self-published by Philip Van Doren Stern in 1943, which itself is loosely based on the 1843 Charles Dickens novella A Christmas Carol. The film stars James Stewart as George Bailey, a man who has given up his personal dreams in order to help others in his community and whose thoughts of suicide on Christmas Eve bring about the intervention of his guardian angel, Clarence Odbody (Henry Travers). Clarence shows George all the lives he touched and what the world would be like if he did not exist.</p><p>Theatrically, the film's break-even point was $6.3 million, about twice the production cost, a figure it did not come close to achieving on its initial release. Because of the film's disappointing sales, Capra was seen by some studios as having lost his ability to produce popular, financially successful films. Although It's a Wonderful Life initially received mixed reviews and was unsuccessful at the box office, it became a Christmas classic after its copyright lapsed in 1974 and it fell into the public domain, which allowed it to be broadcast without licensing or royalty fees.</p><p>Today, It's a Wonderful Life is considered to be one of the greatest films of all time and among the best Christmas films. It was nominated for five Academy Awards, including Best Picture, and has been recognized by the American Film Institute as one of the 100 best American films ever made. It was No. 11 on the American Film Institute's 1998 greatest movie list, No. 20 on its 2007 greatest movie list, and No. 1 on its list of the most inspirational American films of all time. Capra revealed that it was his favorite among the films he directed and that he screened it for his family every Christmas season. It was one of Stewart's favorite films. In 1990, It's a Wonderful Life was designated as \"culturally, historically or aesthetically significant\" and added to the National Film Registry of the Library of Congress.</p><br/><h3>Plot</h3><p>On Christmas Eve 1945, in Bedford Falls, New York, George Bailey contemplates suicide. The prayers of his family and friends reach Heaven, where guardian angel second class Clarence Odbody is assigned to save George in order to earn his wings. Clarence is shown flashbacks of George's life. He watches 12-year-old George rescue his younger brother Harry from drowning, leaving George deaf in his left ear. George later prevents the pharmacist, Mr. Gower, from accidentally poisoning a customer's prescription.</p><p>In 1928, George plans a world tour before college. He is reintroduced to Mary Hatch, who has been enamored with him since childhood. When his father dies suddenly, George postpones his travel to settle the family business, Bailey Brothers Building and Loan. Avaricious board member Henry Potter, who controls most of the town, seeks to dissolve it, but the board votes to keep the Building and Loan open if George runs it. George acquiesces and works alongside his uncle Billy, giving his tuition to Harry with the understanding that Harry will run the business when he graduates.</p><p>Harry returns from college married and with a job offer from his father-in-law, and George resigns himself to running the Building and Loan. George and Mary rekindle their relationship and wed. They witness a run on the bank and use their honeymoon savings to keep the Building and Loan solvent. Under George, the company establishes Bailey Park, a housing development surpassing Potter's overpriced slums. Potter entices George with a $20,000/year job, but realizing that Potter's true intention is to close the Building and Loan, George rebuffs him.</p><p>On Christmas Eve 1945, the town prepares a hero's welcome for Harry, who, as a U.S. Navy fighter pilot, was awarded the Medal of Honor for preventing a kamikaze attack on a troop transport. Billy goes to Potter's bank to deposit $8,000 of the Building and Loan's money. He taunts Potter with a newspaper headline about Harry, then absentmindedly wraps the cash in Potter's newspaper. Potter finds and keeps the money, while Billy cannot recall how he misplaced it. With a bank examiner reviewing the company's records, George realizes scandal and criminal charges will follow. Fruitlessly retracing Billy's steps, George berates him and takes out his frustration on Mary and their children. George appeals to Potter for a loan, offering his life insurance policy as collateral. Potter scoffs that George is worth more dead than alive, refuses to help, and phones the police.</p><p>George flees Potter's office, gets drunk at a bar, and prays for help. Suicidally despondent, he goes to a nearby bridge, but before he can jump, Clarence dives into the river, and George rescues him. When George wishes he had never been born, Clarence shows George a timeline in which he never existed. Bedford Falls is now Pottersville, an unsavory town occupied by sleazy entertainment venues, crime, and callous people. Mr. Gower was imprisoned for manslaughter because George was not there to stop him from poisoning the customer. George's mother does not know him. Uncle Billy was institutionalized after the Building and Loan failed. Bailey Park is a cemetery, where George discovers Harry's grave. Without George, Harry drowned as a child, and without Harry to save them, the troops aboard the transport ship were killed. George finds Mary, now a spinster, and when he grabs her and claims to be her husband, she screams and runs.</p><p>George flees back to the bridge and begs Clarence for his life back. The original reality is restored, and a grateful George rushes home to await his arrest. Meanwhile, Mary and Billy have rallied the townspeople, who come into the Bailey home and donate more than enough to cover the missing money. Harry arrives and toasts George as \"the richest man in town\". Among the donations George finds a copy of The Adventures of Tom Sawyer, a gift from Clarence and inscribed, \"Remember, no man is a failure who has friends. Thanks for the wings!\" When a bell on the Christmas tree rings, George's youngest daughter, Zuzu, explains that \"every time a bell rings, an angel gets his wings.\" George looks upward smiling and says, \"Atta boy, Clarence!\"</p><br/><h3>Cast</h3><ul><li>James Stewart as George Bailey</li><li>Donna Reed as Mary Hatch Bailey</li><li>Lionel Barrymore as Henry Potter</li><li>Thomas Mitchell as Uncle Billy</li><li>Henry Travers as Clarence</li><li>Beulah Bondi as Mrs. Bailey</li><li>Frank Faylen as Ernie Bishop</li><li>Ward Bond as Bert</li><li>Gloria Grahame as Violet Bick</li><li>H. B. Warner as Mr. Gower</li><li>Frank Albertson as Sam Wainwright</li><li>Todd Karns as Harry Bailey</li><li>Samuel S. Hinds as Pa Bailey</li><li>Mary Treen as Cousin Tilly</li><li>Virginia Patton as Ruth Dakin</li><li>Charles Williams as Cousin Eustace</li><li>Sara Edwards as Mrs. Hatch</li><li>Bill Edmunds as Mr. Giuseppe Martini</li><li>Lillian Randolph as Annie</li><li>Argentina Brunetti as Mrs. Martini</li><li>Bobbie Anderson as Little George</li><li>Ronnie Ralph as Little Sam</li><li>Jean Gale as Little Mary</li><li>Jeanine Ann Roose as Little Violet</li><li>Danny Mummert as Little Marty Hatch</li><li>Georgie Nokes as Little Harry Bailey</li><li>Sheldon Leonard as Nick</li><li>Frank Hagney as Potter's Bodyguard</li><li>Ray Walker as Joe (Luggage Shop)</li><li>Charlie Lane as Real Estate Salesman</li><li>Edward Kean as Tom (Bldg. & Loan)</li></ul><ul><li>Carol Coomes as Janie</li><li>Karolyn Grimes as Zuzu</li><li>Larry Simms as Pete</li><li>Jimmy Hawkins as Tommy</li></ul><p>Famous or memorable uncredited cast members include:</p><ul><li>Jimmy as Uncle Billy's pet raven</li><li>Stanley Andrews as Mr. Welch, the teacher's husband</li><li>Al Bridge as the Sheriff with the arrest warrant against George</li><li>Adriana Caselotti as Singer at Martini's</li><li>Ellen Corby as Bailey Brothers Building & Loan customer, Miss Davis</li><li>Dick Elliott as the bald man on his front porch</li><li>Tom Fadden as the bridge tollhouse keeper</li><li>Charles Halton as the bank examiner, Mr. Carter</li><li>Harry Holman as high school principal, Mr. Partridge</li><li>Harold Landon as Marty Hatch</li><li>J. Farrell MacDonald as the man whose great-grandfather planted the tree George drives into</li><li>Mark Roberts as Mickey, the student with the swimming pool floor key</li><li>Almira Sessions as Potter's secretary</li><li>Carl Switzer as Freddie Othello, the student who unsuccessfully tries to flirt with Mary</li><li>Joseph Granby voiced the Angel Joseph</li><li>Moroni Olsen voiced the Senior Angel Franklin</li><li>Marian Carr as Jane Wainwright</li></ul><br/><h3>Production</h3><h4>Background</h4><p>The original story, The Greatest Gift, was written by Philip Van Doren Stern in November 1939. After it was rejected by several publishers, he had it printed as a 24-page pamphlet and mailed to 200 family members and friends for Christmas 1943. The story came to the attention of either Cary Grant or RKO producer David Hempstead, who showed it to Grant's agent. In April 1944, RKO Pictures bought the rights to the story for $10,000, hoping to turn it into a vehicle for Grant.</p><p>Dalton Trumbo, Clifford Odets, and Marc Connelly each worked on versions of the screenplay before RKO shelved the project. In Trumbo's draft, George Bailey is an idealistic politician who grows more cynical as the story progresses, then tries to commit suicide after losing an election. The angel shows him Bedford Falls not as it would be if he had never been born, but if he had gone into business instead of politics. Grant went on to make another Christmas movie staple, The Bishop's Wife.</p><p>RKO studio chief Charles Koerner urged Frank Capra to read \"The Greatest Gift\". Capra's new production company, Liberty Films, had a nine-film distribution agreement with RKO. Capra immediately saw its potential, and wanted it for his first Hollywood film after making documentaries and training films during the war. RKO sold Capra the rights for $10,000 and threw in the three earlier scripts for free. (Capra claimed the rights and the scripts cost him $50,000.) Capra salvaged a few scenes from Odets' earlier screenplay and worked with writers Frances Goodrich and Albert Hackett, Jo Swerling, Michael Wilson, and Dorothy Parker (brought in to \"polish\" the script), on many drafts of the screenplay.</p><p>It was not a harmonious collaboration. Goodrich called Capra \"that horrid man\" and recalled, \"He couldn't wait to get writing it himself.\" Her husband, Albert Hackett, said, \"We told him what we were going to do, and he said 'That sounds fine.' We were trying to move the story along and work it out, and then somebody told us that and Jo Swerling were working on it together, and that sort of took the guts out of it. Jo Swerling was a very close friend of ours, and when we heard he was doing this we felt rather bad about it. We were getting near the end and word came that Capra wanted to know how soon we'd be finished. So my wife said, 'We're finished right now.' We quickly wrote out the last scene and we never saw him again after that. He's a very arrogant son of a bitch.\"</p><p>Later, a dispute ensued over the writing credits. The final screenplay, renamed by Capra It's a Wonderful Life, was credited to Goodrich, Hackett, and Capra, with \"additional scenes\" by Jo Swerling. Capra said, \"The Screen Writers' Arbitration committee decided that Hackett and Goodrich and I should get the credit for the writing. Jo Swerling hasn't talked to me since. That was five years ago.\"</p><p>Some in Seneca Falls, New York, believe Capra was inspired to model Bedford Falls after the town following a visit in 1945. The town has an annual \"It's a Wonderful Life Festival\" on the second weekend in December. On December 10, 2010, the \"It's a Wonderful Life\" Museum opened in Seneca Falls, with Karolyn Grimes, who played Zuzu in the movie, cutting the ribbon. However, film historian Jeanine Basinger, curator of the Frank Capra archives at Wesleyan University and author of The 'It's A Wonderful Life' Book, has said no evidence exists for Seneca Falls' claim. \"I have been through every piece of paper in Frank Capra's diaries, his archives, everything. There's no evidence of any sort whatsoever to support this. That doesn't mean it isn't true, but no one is ever going to prove it.\" Basinger said that Capra always described Bedford Falls as an \"Everytown\".</p><p>Philip Van Doren Stern said in a 1946 interview, \"Incidentally, the movie takes place in Westchester County. Actually, the town I had in mind was Califon, N.J.\" The historic iron bridge in Califon is similar to the bridge that George Bailey considered jumping from in the movie.</p><h4>Casting</h4><p>In his autobiography, Capra recalled: \"Of all actors' roles I believe the most difficult is the role of a Good Sam who doesn't know that he is a Good Sam. I knew one man who could play it ... James Stewart. ... I spoke to Lew Wasserman, the MCA agent who handled Jimmy, told him I wanted to tell Jimmy the story. Wasserman said Stewart would gladly play the part without hearing the story.\" Stewart and Capra had previously collaborated on You Can't Take It with You (1938) and Mr. Smith Goes to Washington (1939).</p><p>Henry Fonda, Stewart's best friend, was also considered. Both actors had returned from the war with no employment prospects. Fonda, however, was cast in John Ford's My Darling Clementine (1946), which was filmed at the same time that Capra shot It's a Wonderful Life. For 17 supporting roles in the film, Capra considered more than 170 established actors.</p><p>Jean Arthur, Stewart's co-star in You Can't Take It With You and Mr. Smith Goes to Washington, was first offered the role of Mary, but had recently dropped out of the Broadway show Born Yesterday from exhaustion shortly before its premiere. Capra next considered Olivia de Havilland, Martha Scott, Ann Dvorak, and Ginger Rogers before borrowing Donna Reed from MGM. Rogers turned it down because she considered it \"too bland\". In chapter 26 of her autobiography Ginger: My Story, she questioned her decision by asking her readers: \"Foolish, you say?\"</p><p>A long list of actors was considered for the role of Potter (originally named Herbert Potter): Edward Arnold, Charles Bickford, Edgar Buchanan, Louis Calhern, Victor Jory, Raymond Massey, Thomas Mitchell, and Vincent Price. Lionel Barrymore, who eventually was cast, was a famous Ebenezer Scrooge in radio dramatizations of A Christmas Carol at the time, and was a natural choice for the role. Barrymore had also worked with Capra and Stewart on Capra's 1938 Best Picture Oscar winner, You Can't Take It with You.</p><p>Before Capra decided on Ward Bond as Bert, he also considered Sam Levene, Barton MacLane, Robert Mitchum, John Alexander and Irving Bacon for the role.</p><p>Before Capra cast Thomas Mitchell as Uncle Billy, he also considered Walter Brennan and W. C. Fields for the role.</p><p>H. B. Warner, who was cast as Mr. Gower, the pharmacist, had studied medicine before going into acting. He was also in some of Capra's other films, including Mr. Deeds Goes to Town, Lost Horizon, You Can't Take It with You, and Mr. Smith Goes to Washington. In the silent era, he had played the role of Jesus Christ in Cecil B. DeMille's The King of Kings (1927). The name Gower came from Capra's employer Columbia Pictures, which had been located on Gower Street for many years. Also on Gower Street was a drugstore that was a favorite for the studio's employees.</p><p>Charles Williams, who was cast as Eustace Bailey, and Mary Treen, who was cast as Matilda \"Tilly\" Bailey, were both B-list actors, having appeared in 90 films each before It's a Wonderful Life.</p><p>Jimmy the raven (Uncle Billy's pet) appeared in You Can't Take It with You and each subsequent Capra film.</p><h4>Filming</h4><p>It's a Wonderful Life was shot at RKO Radio Pictures Studios in Culver City, California, and the 89-acre RKO movie ranch in Encino, where \"Bedford Falls\" was adapted from Oscar-winning sets originally designed by art director Max Ree for the 1931 epic film Cimarron. Covering 4 acres (1.6 ha), the town consisted of a main street stretching 300 yards (three city blocks) with 75 stores and buildings, and a residential neighborhood. Capra added a tree-lined center parkway, built a working bank set, and planted 20 full-grown oak trees. Pigeons, cats, and dogs were allowed to roam the mammoth set to give the \"town\" a lived-in feel.</p><p>Due to the requirements of filming in an \"alternate reality\", as well as different seasons, the exterior set was extremely adaptable. RKO studio's head of special effects, Russell Shearman, developed a new compound using water, soap flakes, foamite, and sugar to create \"chemical snow\" for the film. Before then, movie snow was usually made from untoasted cornflakes, which were so loud when stepped on that dialogue had to be redubbed afterwards.</p><p>Filming started on April 15, 1946, and wrapped on July 27, 1946, exactly on deadline for the 90-day principal photography schedule.</p><p>Only two locations from the film survive. The first, the swimming pool that was unveiled during the high-school dance sequence, is located in the gymnasium at Beverly Hills High School and is still in use as of 2013. The second is the \"Martini home\" in La Cañada Flintridge, California. RKO's movie ranch in Encino was razed in 1954.</p><p>The scene where young George saves his brother Harry from drowning was different in an early draft of the script. The boys play ice hockey on the river (which is on Potter's property) as Potter watches with disdain. George shoots the puck, but it goes astray and breaks the \"No Trespassing\" sign and lands in Potter's yard. Potter becomes irate and his gardener releases attack dogs, which cause the boys to flee. Harry falls in the ice and George saves him with the same results.</p><p>In another draft, after he unsuccessfully attempts to consult his father about Mr. Gower and the pills, George considers asking Uncle Billy, but he is on the phone with the bank examiner. Billy lights his cigar and throws his match in the wastebasket. George turns to Tilly (who, along with Eustace, are his cousins, although not Billy's kids), but she is on the phone with her friend, Martha. She says, \"Potter's here, the bank examiner's coming. It's a day of judgment.\" The wastebasket suddenly catches fire and Billy cries for help. Tilly runs in and puts the fire out with a pot of coffee. George decides to deal with the Gower situation by himself.</p><p>According to Bobbie Anderson, in the confrontation between Mr. Gower and young George, H. B. Warner, who was drunk at the time of the drug store scene, slapped him for real and made his ear bleed, reducing him to tears. Warner hugged him after the scene was shot.</p><p>Composer Dimitri Tiomkin had written \"Death Telegram\" and \"Gower's Deliverance\" for the drugstore sequence, but Capra elected to forgo music in those scenes. Tiomkin had worked on many of Capra's previous films, but those changes, and others, led to a falling out between the two men. Tiomkin felt as though his work was being seen as a mere suggestion. In his autobiography Please Don't Hate Me, he called the incident, \"an all around scissors job\".</p><p>In the scene where Uncle Billy gets drunk at Harry and Ruth's welcome home/newlyweds' party and staggers away off camera, a crash is heard off screen. Mitchell, as Uncle Billy, yells, \"I'm all right! I'm all right!\", implying that Uncle Billy had knocked into some trash cans. A technician had actually knocked over some equipment; Capra left in Mitchell's impromptu ad lib and rewarded the technician with $10 (equal to $141.84 in 2021), thanking him for his 'sound improvement'.</p><p>According to rare stills that have been unearthed, several sequences were filmed but subsequently cut. Alternative endings were also considered. Capra's first script had Bailey fall to his knees to recite \"The Lord's Prayer\" (the script also called for an opening scene with the townspeople in prayer). Feeling that an overly religious tone undermined the emotional impact of the family and friends rushing to George's rescue, the closing scenes were rewritten.</p><p>Capra found the film's original cinematographer Victor Milner slow and pretentious, and when Milner became ill, Capra borrowed Joseph Walker from Columbia. Walker had lensed 19 previous Capra films. But when Rosalind Russell demanded that Walker return to Columbia Pictures to shoot her next film, Walker trained veteran camera operator Joseph Biroc to be his replacement. Although working with three cinematographers was difficult for Capra, in Walker's opinion it turned out very well because the scenes each cinematographer shot were so different that they did not have to match each other's visual styles.</p><br/><h3>Reception</h3><h4>Critical response</h4><p>According to a 2006 book, \"A spate of movies appeared just after the ending of the Second World War, including It's a Wonderful Life (1946) and Stairway to Heaven (1946), perhaps tapping into so many people's experience of loss of loved ones and offering a kind of consolation.\" It's a Wonderful Life premiered at the Globe Theatre in New York City on December 20, 1946, to mixed reviews. While Capra thought the contemporary critical reviews were either universally negative, or at best dismissive, Time said, \"It's a Wonderful Life is a pretty wonderful movie. It has only one formidable rival (Goldwyn's The Best Years of Our Lives) as Hollywood's best picture of the year. Director Capra's inventiveness, humor, and affection for human beings keep it glowing with life and excitement.\"</p><p>Bosley Crowther, writing for The New York Times, complimented some of the actors, including Stewart and Reed, but concluded, \"the weakness of this picture, from this reviewer's point of view, is the sentimentality of it—its illusory concept of life. Mr. Capra's nice people are charming, his small town is a quite beguiling place and his pattern for solving problems is most optimistic and facile. But somehow, they all resemble theatrical attitudes, rather than average realities.\"</p><p>The film, which went into general release on January 7, 1947, placed 26th ($3.3 million) in box-office revenues for 1947 (out of more than 400 features released), one place ahead of another Christmas film, Miracle on 34th Street. The film was supposed to be released in January 1947, but was moved up to December 1946 to make it eligible for the 19th Academy Awards held in March 1947. This move was seen as worse for the film, as 1947 did not have quite the stiff competition as 1946. If it had entered the 1947 awards, its strongest competitor would have been Miracle on 34th Street. The number-one grossing movie of 1947, The Best Years of Our Lives, made $11.5 million.</p><p>The film recorded a loss of $525,000 at the box office for RKO.</p><p>On May 26, 1947, the Federal Bureau of Investigation issued a memo stating, \"With regard to the picture It's a Wonderful Life, stated in substance that the film represented rather obvious attempts to discredit bankers by casting Lionel Barrymore as a 'scrooge-type' so that he would be the most hated man in the picture. This, according to these sources, is a common trick used by Communists. addition, stated that, in his opinion, this picture deliberately maligned the upper class, attempting to show the people who had money were mean and despicable characters.\" Film historian Andrew Sarris observed as \"curious\" that \"the censors never noticed that the villainous Mr. Potter gets away with robbery without being caught or punished in any way\".</p><p>In 1990, It's a Wonderful Life was deemed \"culturally, historically, or aesthetically significant\" by the United States Library of Congress and selected for preservation in their National Film Registry.</p><p>In 2002, Channel 4 in the United Kingdom ranked It's a Wonderful Life as the seventh-greatest film ever made in its poll \"The 100 Greatest Films\". The channel airs the film to British viewers annually on Christmas Eve.</p><p>In June 2008, AFI revealed its 10 Top 10, the best 10 films in 10 \"classic\" American film genres, after polling over 1,500 people from the creative community. It's a Wonderful Life was acknowledged as the third-best film in the fantasy genre.</p><p>Somewhat more iconoclastic views of the film and its contents are occasionally expressed. In his review for The New Republic in 1947, film critic Manny Farber wrote, \"To make his points, always takes an easy, simple-minded path that doesn't give much credit to the intelligence of the audience\", and adds that it has only a \"few unsentimental moments here and there\". Wendell Jamieson, in a 2008 article for The New York Times which was generally positive in its analysis of the film, observing that far from being simply a sweetly sentimental tale, it \"is a terrifying, asphyxiating story about growing up and relinquishing your dreams, of seeing your father driven to the grave before his time, of living among bitter, small-minded people. It is a story of being trapped, of compromising, of watching others move ahead and away, of becoming so filled with rage that you verbally abuse your children, their teacher, and your oppressively perfect wife.\"</p><blockquote>... one of the most profoundly pessimistic tales of human existence ever to achieve a lasting popularity.</blockquote><p>—Film historian Andrew Sarris in \"You Ain't Heard Nothin' Yet.\": The American Talking Film History & Memory, 1927-1949.</p><p>In a 2010 essay for Salon, Richard Cohen described It's a Wonderful Life as \"the most terrifying Hollywood film ever made\". In the \"Pottersville\" sequence, he wrote, George Bailey is not seeing the world that would exist had he never been born, but rather \"the world as it does exist, in his time and also in our own\". Nine years earlier, another Salon writer, Gary Kamiya, had expressed the opposing view that \"Pottersville rocks!\", adding: \"The gauzy, Currier-and-Ives veil Capra drapes over Bedford Falls has prevented viewers from grasping what a tiresome and, frankly, toxic environment it is ... We all live in Pottersville now.\"</p><p>The film's elevation to the status of a beloved classic came three decades after its initial release, when it became a television staple during Christmas season in 1976. This came as a welcome surprise to Frank Capra and others involved with its production. \"It's the damnedest thing I've ever seen\", Capra told The Wall Street Journal in 1984. \"The film has a life of its own now, and I can look at it like I had nothing to do with it. I'm like a parent whose kid grows up to be President. I'm proud ... but it's the kid who did the work. I didn't even think of it as a Christmas story when I first ran across it. I just liked the idea.\" In a 1946 interview, Capra described the film's theme as \"the individual's belief in himself\" and that he made it \"to combat a modern trend toward atheism\". It ranked 283rd among critics, and 107th among directors, in the 2012 Sight & Sound polls of the greatest films ever made.</p><p>The film's positive reception has continued. On review aggregator Rotten Tomatoes, the film holds an approval rating of 94% based on 93 reviews, with an average rating of 9.10/10. The website's critical consensus reads, \"The holiday classic to define all holiday classics, It's a Wonderful Life is one of a handful of films worth an annual viewing.\" On Metacritic, which assigns a normalized rating to reviews, the film has a score 89 out of 100, based on 17 critics, indicating \"universal acclaim\".</p><p>Many filmmakers have praised the film, ranging from Steven Spielberg, Akira Kurosawa, Frank Darabont and David Lynch. Spielberg once said of the film: \"It’s a Wonderful Life shows that every human being on this Earth matters -- and that’s a very powerful message.\" Orson Welles played Mr. Potter in the made-for-television remake It Happened One Christmas; when asked by Henry Jaglom what he thought of the movie, Welles said, \"There's no way of hating that movie\".</p><br/><h3>Awards and honors</h3><p>Prior to its Los Angeles release, Liberty Films mounted an extensive promotional campaign that included a daily advertisement highlighting one of the film's players, along with comments from reviewers. Jimmy Starr wrote, \"If I were an Oscar, I'd elope with It's a Wonderful Life lock, stock and barrel on the night of the Academy Awards\". The New York Daily Times published an editorial that declared the film and James Stewart's performance to be worthy of Academy Award consideration.</p><p>It's a Wonderful Life received five Academy Award nominations:</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Year</th><th>Award</th><th>Result</th><th width=\"500\">Nominee / Winner</th></tr><tr><td rowspan=\"6\"><span>1946</span></td><td><span>Best Picture</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Liberty Films</span> <br> <small>Winner was <span>Samuel Goldwyn Productions</span> – <i><span>The Best Years of Our Lives</span></i></small></td></tr><tr><td><span>Best Director</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Frank Capra</span> <br> <small>Winner was <span>William Wyler</span> – <i><span>The Best Years of Our Lives</span></i></small></td></tr><tr><td><span>Best Actor</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>James Stewart</span> <br> <small>Winner was <span>Fredric March</span> – <i><span>The Best Years of Our Lives</span></i></small></td></tr><tr><td><span>Best Film Editing</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>William Hornbeck</span> <br> <small>Winner was <span>Daniel Mandell</span> – <i><span>The Best Years of Our Lives</span></i></small></td></tr><tr><td><span class=\"mw-redirect\">Best Sound Recording</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span class=\"mw-redirect\">John Aalberg</span> <br> <small>Winner was <span>John P. Livadary</span> – <i><span>The Jolson Story</span></i></small></td></tr><tr><td><span>Technical Achievement Award</span></td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><span>Russell Shearman</span> and <span>RKO Radio Studio Special Effects Dept.</span><br> <small>For the development of a new method of simulating falling snow on motion picture sets.</small></td></tr></tbody></table><p>The Best Years of Our Lives, a drama about servicemen attempting to return to their pre-World War II lives, won most of the awards that year, including four of the five for which It's a Wonderful Life was nominated. (The award for \"Best Sound Recording\" was won by The Jolson Story.) The Best Years of Our Lives, directed by William Wyler, Capra's business partner along with George Stevens in Liberty Films, was also an outstanding commercial success, ultimately becoming the highest-grossing film of the decade, in contrast to the more modest initial box-office returns of It's a Wonderful Life.</p><p>It's a Wonderful Life received a Golden Globe Award for Capra as Best Motion Picture Director. He also won a \"CEC Award\" from the Cinema Writers Circle in Spain, for Mejor Película Extranjera (Best Foreign Film). Jimmy Hawkins won a \"Former Child Star Lifetime Achievement Award\" from the Young Artist Awards in 1994; the award recognized his role as Tommy Bailey as igniting his career, which lasted until the mid-1960s.</p><br/><h3>Release</h3><h4>Ownership and copyright issues</h4><p>Liberty Films was purchased by Paramount Pictures, and remained a subsidiary until 1951. In 1955, M. & A. Alexander purchased the movie. This included key rights to the original television syndication, the original nitrate film elements, the music score, and the film rights to the story on which the film is based, The Greatest Gift. National Telefilm Associates took over the rights to the film soon thereafter.</p><p>A clerical error at NTA prevented the copyright from being renewed properly in 1974. Despite the lapsed copyright, television stations that aired it still had to pay royalties because—though the film's images had entered the public domain—the film's story was still restricted as a derivative work of the published story The Greatest Gift, whose copyright Philip Van Doren Stern had renewed in 1971. The film became a perennial holiday favorite in the 1980s, possibly due to its repeated showings each holiday season on hundreds of local television stations. It was mentioned during the deliberations on the Copyright Term Extension Act of 1998.</p><p>In 1993, Republic Pictures, which was the successor to NTA, relied on the 1990 U.S. Supreme Court ruling in Stewart v. Abend (which involved another Stewart film, Rear Window) to enforce its claim to the copyright. While the film's copyright had not been renewed, Republic still owned the film rights to The Greatest Gift; thus, the plaintiffs were able to argue its status as a derivative work of a work still under copyright. That year, Republic made a deal with Turner Broadcasting System, authorizing only three airings of the movie, all on cable's TNT and TBS. However, the studio's attempt to reassert control was widely ignored since there were still some existing distribution deals that Republic had to honor.</p><p>In 1994, the studio sold exclusive television rights to NBC. \"We're thrilled that we will have the opportunity to broadcast this picture,\" said NBC Entertainment President Warren Littlefield at the time. \"We will broadcast the original director's cut in black and white, full-length, the way Frank Capra intended this picture to be seen.\"</p><p>NBC traditionally shows it during the holidays after Thanksgiving and on Christmas Eve. Paramount (via parent company Viacom's 1998 acquisition of Republic's then-parent, Spelling Entertainment) once again has distribution rights for the first time since 1955.</p><p>Due to all the above actions, this is one of the few RKO films not controlled by Turner Entertainment/Warner Bros. in the US. It is also one of two Capra films Paramount owns despite not having originally released it—the other is Broadway Bill (originally from Columbia, remade by Paramount as Riding High in 1950).</p><h4>Colorization</h4><p>Director Capra met with Wilson Markle about having Colorization Inc. colorize It's a Wonderful Life based on an enthusiastic response to the colorization of Topper from actor Cary Grant. The company's art director, Brian Holmes, prepared 10 minutes of colorized footage from It's a Wonderful Life for Capra to view, which resulted in Capra signing a contract with Colorization Inc., and his \"enthusiastic agree to pay half the $260,000 cost of colorizing the movie and to share any profits\" and giving \"preliminary approval to making similar color versions of two of his other black-and-white films, Meet John Doe (1941) and Lady for a Day (1933)\".</p><p>However, the film was believed to be in the public domain at the time, and as a result, Markle and Holmes responded by returning Capra's initial investment, eliminating his financial participation, and refusing outright to allow the director to exercise artistic control over the colorization of his films, leading Capra to join in the campaign against the process.</p><p>Three colorized versions have been produced. The first was released by Hal Roach Studios in 1986. The second was authorized and produced by the film's permanent owner, Republic Pictures, in 1989. Both Capra and Stewart took a critical stand on the colorized editions. The Hal Roach color version was re-released in 1989 to VHS via Video Treasures. A third, computer-colorized version was produced by Legend Films in 2007 and has been released on DVD, Blu-ray, and streaming services.</p><br/><h3>Home media</h3><h4>VHS</h4><p>Throughout the 1980s and early 1990s, when the film was still under public domain status, It's a Wonderful Life was released on VHS by a variety of home video companies. Among the companies that released the film on home video before Republic Pictures stepped in were Meda Video (which would later become Media Home Entertainment), Kartes Video Communications (under its Video Film Classics label), GoodTimes Home Video, and Video Treasures (now Anchor Bay Entertainment). After Republic reclaimed the rights to the film, all unofficial VHS copies of the film still in the hands of video distributors were supposed to have been destroyed.</p><p>Artisan Entertainment (under license from Republic) took over home video rights in the mid-1990s. Artisan was later sold to Lions Gate Entertainment, which continued to hold US home video rights until late 2005, when they reverted to Paramount, which also owns video rights throughout Region 4 (Latin America and Australia) and in France. Video rights in the rest of the world are held by different companies; for example, the UK rights were once with Universal Studios, but have since reverted to Paramount.</p><h4>Technological first: CD-ROM</h4><p>In 1993, due in part to the confusion of the ownership and copyright issues, Kinesoft Development, with the support of Republic Pictures, released It's a Wonderful Life as one of the first commercial feature-length films on CD-ROM for the Windows PC (Windows 3.1). Antedating commercial DVDs by several years, it included such features as the ability to follow along with the complete shooting script as the film was playing.</p><p>Given the state of video playback on the PC at the time of its release, It's a Wonderful Life for Windows represented another milestone, as the longest-running video on a computer. Prior to its release, Windows could play back only about 32,000 frames of video, or about 35 minutes at 15 frames per second. Working with Microsoft, Kinesoft was able to enhance the video features of Windows to allow for the complete playback of the entire film—all of this on a PC with a 486SX processor and 8 MB of RAM.</p><p>Computer Gaming World said in April 1994, \"The picture quality still has a way to go before it reaches television standards\", but was \"a noble effort\" that would \"please fans of the film\".</p><h4>DVD and Blu-ray</h4><p>The film has seen multiple DVD releases since the availability of the format. In the autumn of 2001, Republic issued the film twice, once in August, and again with different packaging in September of that same year. On October 31, 2006, Paramount released a newly remastered \"60th Anniversary Edition\". On November 13, 2007, Paramount released a two-disc \"special edition\" DVD of the film that contained both the original theatrical black-and-white version, and a new, third colorized version, produced by Legend Films using the latest colorization technology. On November 3, 2009, Paramount re-released the previous DVD set as a \"Collector's Edition\" and debuted a Blu-ray edition, also containing both versions of the film.</p><h4>Restoration</h4><p>In 2017, the film was restored in 4K resolution, available via streaming services and DCP.</p><h4>4K Ultra HD Blu-ray</h4><p>On October 29, 2019, the film was released for the first time on 4K Ultra HD Blu-ray, along with digital copy featuring a new Dolby Vision transfer.</p><br/><h3>Adaptations in other media</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td class=\"mbox-text\"><div class=\"mbox-text-span\">This section <b>needs additional citations for <span>verification</span></b>.<span class=\"hide-when-compact\"> Please help <span class=\"external text\">improve this article</span> by <span>adding citations to reliable sources</span> in this section. Unsourced material may be challenged and removed.</span>  <span class=\"date-container\"><i>(<span class=\"date\">September 2020</span>)</i></span><span class=\"hide-when-compact\"><i> (<small><span>Learn how and when to remove this template message</span></small>)</i></span></div></td></tr></tbody></table><p>The film was twice adapted for radio in 1947, first on Lux Radio Theater (March 10) and then on the Screen Guild Theater (December 29), then again on the Screen Guild Theater broadcast of March 15, 1951. James Stewart and Donna Reed reprised their roles for all three radio productions. Stewart also starred in the May 8, 1949 radio adaptation presented on the Screen Directors Playhouse.</p><p>A musical stage adaptation of the film, titled A Wonderful Life, was written by Sheldon Harnick and Joe Raposo. This version was first performed at the University of Michigan in 1986, but a planned professional production was stalled by legal wrangling with the estate of Philip Van Doren Stern. It was eventually performed in Washington, DC, by Arena Stage in 1991, and had revivals in the 21st century, including a staged concert version in New York City in 2005 and several productions by regional theatres.</p><p>Another musical stage adaptation of the film, titled It's a Wonderful Life – The Musical, was written by Bruce Greer and Keith Ferguson. This version premiered at the Majestic Theatre, Dallas, Texas, in 1998. It was an annual Christmas show at the theater for five years. It has since been performed at venues all around the United States.</p><p>In July 2019, it was revealed that another stage musical adaptation was in development with music and lyrics by Paul McCartney (making his musical theatre debut), lyrics and book by Lee Hall and produced by Bill Kenwright. The musical was set to debut late 2020, but is still yet to be announced.</p><p>A 1986 skit on Saturday Night Live features William Shatner introducing the \"lost ending\" of It's a Wonderful Life in which George Bailey (Dana Carvey) and the citizens of Bedford Falls discover that Mr. Potter (Jon Lovitz) has stolen George's money and take turns beating him up in his office.</p><p>In 1992, the final episode of Tiny Toon Adventures parodied It's A Wonderful Life entitled \"It's A Wonderful Tiny Toon Christmas\". In it, Buster Bunny feels sad after the failure of his play and wishes he had never become a Tiny Toon, so a guardian angel shows Buster what life would have been like without him.</p><p>The film was also adapted into a play in two acts by James W. Rodgers. It was first performed on December 15, 1993, at Paul Laurence Dunbar High School. The play opens with George Bailey contemplating suicide and then goes back through major moments in his life. Many of the scenes from the movie are only alluded to or mentioned in the play rather than actually dramatized. For example, in the opening scene, Clarence just mentions George having saved his brother Harry after the latter had fallen through the ice.</p><p>It's a Wonderful Life: A Live Radio Play, a stage adaptation presented as a 1940s radio show, was adapted by Joe Landry and has been produced around the United States since 1997. The script is published by Playscripts, Inc.</p><p>In 1997, PBS aired Merry Christmas, George Bailey, taped from a live performance of the 1947 Lux Radio Theatre script at the Pasadena Playhouse. The presentation, which benefited the Elizabeth Glaser Pediatric AIDS Foundation, featured an all-star cast, including Bill Pullman as George, Nathan Lane as Clarence, Martin Landau as Mr. Potter, Penelope Ann Miller as Mary, and Sally Field as Mother Bailey.</p><p>In 2002, the television film It's a Very Merry Muppet Christmas Movie premiered on NBC. The film is a homage to It's a Wonderful Life. In the film, Kermit the Frog wishes that he had never been born.</p><p>Tony Palermo's 2005 stage adaptation has the story presented as actors making a radio-play complete with them making live sounds effects</p><p>Philip Grecian's 2006 radio play based on the film It's a Wonderful Life is a faithful adaptation, now in its third incarnation, that has been performed numerous times by local theatres in Canada.</p><p>The Last Temptation of Clarence Odbody is a 2011 novel written by John Pierson. The novel imagines the future lives of various characters if George had not survived his jump into the river.</p><p>Scenes from the film are seen in the 2016 documentary Abacus: Small Enough to Jail, where Abacus Federal Savings Bank founder and chairman Thomas Sung talked about how It's a Wonderful Life influenced him.</p><p>A stage-adaptation of the story was presented at The Tower Theatre in Winchester in December 2016 by Blue Apple Theatre with Lawrie Morris in the role of George Bailey. This is believed to be the first time an actor with an intellectual disability (Lawrie Morris had Down's Syndrome) has had the role.</p><p>A new \"cinematic audio\" adaptation by David Ossman of the Firesign Theatre was produced and directed by Ossman and his wife Judith Walcutt of Otherworld Media in December 2019 at the Whidbey Island Center for the Arts. Their version combined elements of traditional and radio theatre, with costumes, sets, makeup, and lighting effects, as well as live music, live sound effects, and over 20 microphones.</p><h4>Remakes</h4><ul><li>It Happened One Christmas was a 1977 television movie remake of the classic film, whose screenplay Lionel Chetwynd based on both the original Van Doren Stern short story and the 1946 screenplay. This remake employed gender-reversal, with Marlo Thomas as the protagonist Mary Bailey, Wayne Rogers as George Hatch, and Cloris Leachman as the angel Clara Oddbody. Leachman received her tenth Emmy nomination for this role. In a significant departure from his earlier roles, Orson Welles was cast as Mr. Potter. Following initial positive reviews, the made-for-television film was rebroadcast twice in 1978 and 1979, but has not been shown since on national re-broadcasts or issued to home media.</li><li>Merry Christmas, George Bailey was a 1997 PBS television movie adaptation of the film directed by Matthew Diamond and starring Bill Pullman as George Bailey, Penelope Ann Miller as Mary, Nathan Lane as Clarence and Martin Landau as Potter.</li><li>The Christmas Spirit was a retelling of the movie starring Nicollette Sheridan as Charlotte Hart. This was a made-for-TV film aired on December 1, 2013, on the Hallmark Channel executive produced by Sheridan under her company, Wyke Lane Productions, and Brad Krevoy Television. The film was directed and written by Jack Angelo. Spirit was set in the present day, with the Hart character working to save a \"quiet New England town from a ruthless real estate developer\". The film was planned to kick off a film series about the Hart character. The film had 3.372 million viewers overall.</li><li>\"The Greatest Gift\", the 2011 Warehouse 13 season 3 Christmas episode, tells a similar story after agent Pete Lattimer touches Stern's brush.</li></ul><h4>Sequel</h4><p>In 1990, the made-for-television film Clarence stars Robert Carradine in a new tale of the helpful angel, Clarence Odbody.</p><h4>Potential</h4><p>A purported sequel was in development for a 2015 release, and was to be called It's a Wonderful Life: The Rest of the Story. It was to be written by Bob Farnsworth and Martha Bolton and follow the angel of George Bailey's daughter Zuzu (played once again by Karolyn Grimes), as she teaches Bailey's evil grandson how different the world would have been if he had never been born. Producers were considering directors and hoped to shoot the film with a $25–$35 million budget in Louisiana early in 2014.</p><p>The film had been announced as being produced by Star Partners and Hummingbird Productions, neither of which are affiliated with Paramount, owners of the original film (Farnsworth claimed that It's a Wonderful Life was in the public domain). Later, a Paramount spokesperson claimed that they were not granting permission to make the film; \"To date, these individuals have not obtained any of the necessary rights, and we would take all appropriate steps to protect those rights\", the spokesperson said. As of Christmas 2022, no further developmental plans have since arisen.</p><br/><h3>Sesame Street urban legend</h3><p>It is commonly believed that the characters of Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the cabdriver. However, in a correction for the 1999 \"Annual Xmas Quiz\" in the San Francisco Chronicle, which made this claim, series writer Jerry Juhl confirmed that, per producer Jon Stone, the shared names were merely a coincidence. Despite this, the 1996 holiday special Elmo Saves Christmas references the rumor, during a scene where Bert and Ernie walk by a TV set, which is playing the movie. The pair are surprised by the line: \"Bert! Ernie! What's the matter with you two guys? You were here on my wedding night!\"</p><br/><h3>Stephan's Quintet usage</h3><p>The angelic figures depicted at the beginning of the film is an image of Stephan's Quintet, a group of four interacting galaxies.</p><br/>"
+    },
+    "errorMessage": ""
+  },
+  "posters": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "posters": [],
+    "backdrops": [],
+    "errorMessage": ""
+  },
+  "images": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "items": [
+      {
+        "title": "Frank Capra and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzk0MzNkNDMtM2ZkNS00ZGY1LThmNWQtZDg3OTgzOTY1MDI2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, Carol Coombs, Karolyn Grimes, Jimmy Hawkins, and Larry Simms in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQxNTM4Mjg1NV5BMl5BanBnXkFtZTgwNDYyNzM4NjM@._V1_Ratio1.2800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, Carol Coombs, Jimmy Hawkins, and Larry Simms in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU5NTY4MTU4Nl5BMl5BanBnXkFtZTgwNTYyNzM4NjM@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Thomas Mitchell, Mary Treen, and Charles Williams in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjAxOTIxOTMwOV5BMl5BanBnXkFtZTgwNjYyNzM4NjM@._V1_Ratio1.2600_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Ernie Adams, Ellen Corby, and Jimmy the Crow in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTcxMjY4ODYxMV5BMl5BanBnXkFtZTgwNzYyNzM4NjM@._V1_Ratio1.2600_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYxNjU4Mjc1MF5BMl5BanBnXkFtZTcwMjY4NjIxNw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Henry Travers in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM1MjE2NTkxMl5BMl5BanBnXkFtZTcwNTY4NjIxNw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, Carol Coombs, Karolyn Grimes, and Jimmy Hawkins in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk2NDU1ODU4NV5BMl5BanBnXkFtZTcwOTY4NjIxNw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Ward Bond, Donna Reed, Gloria Grahame, Beulah Bondi, Frank Faylen, Todd Karns, Thomas Mitchell, Lillian Randolph, H.B. Warner, and Charles Williams in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNDQyMzQ1Ml5BMl5BanBnXkFtZTcwNTc4NjIxNw@@._V1_Ratio1.4000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Karolyn Grimes in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyNzk5MzA1MF5BMl5BanBnXkFtZTcwNDUwMTExNA@@._V1_Ratio1.4400_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU3NTc1OTY4N15BMl5BanBnXkFtZTcwNTUwMTExNA@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, Carol Coombs, Karolyn Grimes, Jimmy Hawkins, and Larry Simms in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQwNDYyODUzMF5BMl5BanBnXkFtZTcwNzUwMTExNA@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTY0MDEzOF5BMl5BanBnXkFtZTcwMzA4MTc4Mw@@._V1_Ratio1.4400_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDEzNzc2NzE4MV5BMl5BanBnXkFtZTcwNTA4MTc4Mw@@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "\"It's A Wonderful Life\" Jimmy Stewart, 1947 RKO / **I.V.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDIzMzY5NF5BMl5BanBnXkFtZTYwOTExOTM2._V1_Ratio1.2400_AL_.jpg"
+      },
+      {
+        "title": "\"It's A Wonderful Life\" Jimmy Stewart 1947 RKO / **I.V.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4MjA0NjA4N15BMl5BanBnXkFtZTYwMTIxOTM2._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "\"It's A Wonderful Life\" Jimmy Stewart 1947 RKO / **I.V.",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkxMzcwMDI2MF5BMl5BanBnXkFtZTYwNDIxOTM2._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "\"It's a Wonderful Life\" Jimmy Stewart, Henry Travers 1946 RKO **I.V.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDI2NDg4NF5BMl5BanBnXkFtZTYwMjExOTM2._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzI3ZmMzNmUtOWU3YS00OWE3LTkwOGYtNjIxNzgxOWRmNjhmXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Karolyn Grimes at an event for It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTczNGU1N2QtZjk0Zi00ZTFiLWFlNWItYjI0YzkyNWE0ZDBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDcyMGI1YWMtMTM4ZC00MWUxLTk0OWUtYWRmMzBiYzRmYzYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.2400_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODU4MzEtOGM4NC00ZjE3LTlkZGUtZjVkZTZlNjNhZTQxXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYyOTAzZDUtMWUzYS00MjY4LTlmMTgtMGI5NzdmMWI5Y2FmXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Lobby Card, 11 x 14",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc4NzI5OTI4N15BMl5BanBnXkFtZTYwNzUyOTY4._V1_Ratio1.3000_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0MzgzNzU4N15BMl5BanBnXkFtZTcwMzE4MDczMQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Robert J. Anderson and Jeanne Gail in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGVhNGNiMzktOTQyOS00YTAwLWExYjUtODhkMTBmNmViMDNhXkEyXkFqcGdeQXVyNTQzMTI1MTc@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "Todd Karns in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDU5ZjU1MDYtZTQ5My00ZjU3LWFkZDAtNWM5MGU5NmJiZjg4XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Todd Karns in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTRiZmQ0MWQtYWE2OC00M2EwLWJmNzUtNTNkMTViNzViYTZmXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, and Karolyn Grimes in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDQwYjZjNDgtN2Y0OS00ZWJlLWI0ZTMtYmIxNGU1YjU5MDM2XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, and Karolyn Grimes in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzIyOWI5Y2MtYTMzMC00NmY5LTlkYTktODE0YWJkNjk0YWMyXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Donna Reed, Carol Coombs, Karolyn Grimes, Jimmy Hawkins, and Larry Simms in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDVjYTFiZTktNWZhNi00ZjRjLTk0OWMtODgzODJhZDRmOTIzXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA1MmRhNjItMTZlYy00YzI0LTllYTMtNjM3ODFkNDFkMDEwXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Donna Reed in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRkYjIxN2ItODVlYy00OWQ2LTk4OTEtYzJjMmRjMWRkMDUxXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Beulah Bondi, and Todd Karns in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWRmYWVjZTUtMjY3MC00MzM0LThhZGQtMDhmYTY3YmYyOWI5XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA0YmQ5YjEtYjI4Ny00NDYzLTk3NjItZjk2MDA3ZmIyYzU2XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDliMTdlNTUtNThjNS00MWNhLTkzZGItODYzZDdkMWRkZGI1XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzJmZWQxOWEtM2M2ZC00MTFkLWE0ZTItZTI5MmVkNjYyY2JmXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTI5YjkzYzUtMzVmMi00NTUxLThmYTMtZjdlODUzM2I5N2M2XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMThlOTM3NDgtZGQzNC00MjEyLWI0MTMtNjU2ZGEwZDc0OGE5XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTZhMGQ2NTQtM2M2My00M2UxLTk3ZDEtNmI4ZGM2OTEwNDI3XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_Ratio1.7800_AL_.jpg"
+      },
+      {
+        "title": "It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGRjY2NmNDktNjM0Zi00YTFlLTgwM2ItMjk1NDM1ZjY0ZDljXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "Charles Halton in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2QwOWJjZjEtNDY3Mi00ZjlkLWI1ZjYtY2QxM2ZlMTgwODQ5XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "Lionel Barrymore and Frank Hagney in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDQyY2RmOWQtN2EwYi00MzE3LTk2YjUtMjQzMzkzZWY0ZmQyXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "Mary Treen and Charles Williams in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDJjZmYzMDAtNzFjYS00NjgxLThiMDEtYzEzNjFlYTA4MTIyXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "Lionel Barrymore, Frank Hagney, and Thomas Mitchell in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2NkN2JmMzAtMmI5MC00MDgxLWFhOGUtYzE2NGM2YjQ1NDIxXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Sheldon Leonard in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkzYTZiZjktMDU0Yy00NTU1LThiZDAtZDVjYzIxZDY1MzFmXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "Stanley Andrews in It's a Wonderful Life (1946)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTEzM2FmNGQtMTVmMy00NWUwLWE3NDAtOWZmZTkxNjNiZDY2XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3400_AL_.jpg"
+      }
+    ],
+    "errorMessage": ""
+  },
+  "trailer": {
+    "imDbId": "tt0038650",
+    "title": "It's a Wonderful Life",
+    "fullTitle": "It's a Wonderful Life (1946)",
+    "type": "Movie",
+    "year": "1946",
+    "videoId": "vi1101988121",
+    "videoTitle": "It's a Wonderful Life",
+    "videoDescription": "Home Video Trailer from Artisan",
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmUyMzVmNjgtMWQ1MS00OTkwLWEzMTktOTFlYmRiNmE1MWZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "uploadDate": "04/11/2008 14:35:46",
+    "link": "https://www.imdb.com/video/vi1101988121",
+    "linkEmbed": "https://www.imdb.com/video/imdb/vi1101988121/imdb/embed",
+    "errorMessage": ""
+  },
+  "boxOffice": {
+    "budget": "$3,180,000 (estimated)",
+    "openingWeekendUSA": "$44,000",
+    "grossUSA": "$1,483,643",
+    "cumulativeWorldwideGross": "$8,574,081"
+  },
+  "tagline": null,
+  "keywords": "christmas,small town life,alternate history,guardian angel,angel on earth",
+  "keywordList": [
+    "christmas",
+    "small town life",
+    "alternate history",
+    "guardian angel",
+    "angel on earth"
+  ],
+  "similars": [
+    {
+      "id": "tt0110357",
+      "title": "The Lion King",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.5"
+    },
+    {
+      "id": "tt0245429",
+      "title": "Spirited Away",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.6"
+    },
+    {
+      "id": "tt0910970",
+      "title": "WALL·E",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.4"
+    },
+    {
+      "id": "tt0114709",
+      "title": "Toy Story",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.3"
+    },
+    {
+      "id": "tt0059742",
+      "title": "The Sound of Music",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWFhNjg3YjctMjg2Ny00YjBkLTg5M2EtMTk2MjA1NDY3NzQ2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0435761",
+      "title": "Toy Story 3",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_Ratio0.7053_AL_.jpg",
+      "imDbRating": "8.3"
+    },
+    {
+      "id": "tt0032138",
+      "title": "The Wizard of Oz",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt1049413",
+      "title": "Up",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.3"
+    },
+    {
+      "id": "tt2380307",
+      "title": "Coco",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_Ratio0.7053_AL_.jpg",
+      "imDbRating": "8.4"
+    },
+    {
+      "id": "tt0266543",
+      "title": "Finding Nemo",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_Ratio0.6860_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0012349",
+      "title": "The Kid",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.3"
+    }
+  ],
+  "tvSeriesInfo": null,
+  "tvEpisodeInfo": null,
+  "errorMessage": ""
+}

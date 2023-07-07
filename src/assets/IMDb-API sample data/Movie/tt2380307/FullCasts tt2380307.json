@@ -1,0 +1,4085 @@
+{
+  "imDbId": "tt2380307",
+  "title": "Coco",
+  "fullTitle": "Coco (2017)",
+  "type": "Movie",
+  "year": "2017",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0881279",
+        "name": "Lee Unkrich",
+        "description": "(directed by)"
+      },
+      {
+        "id": "nm2937122",
+        "name": "Adrian Molina",
+        "description": "(co-director) (co-directed by)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0881279",
+        "name": "Lee Unkrich",
+        "description": "(original story by) &"
+      },
+      {
+        "id": "nm0441735",
+        "name": "Jason Katz",
+        "description": "(original story by) &"
+      },
+      {
+        "id": "nm0017690",
+        "name": "Matthew Aldrich",
+        "description": "(original story by) &"
+      },
+      {
+        "id": "nm2937122",
+        "name": "Adrian Molina",
+        "description": "(original story by)"
+      },
+      {
+        "id": "nm2937122",
+        "name": "Adrian Molina",
+        "description": "(screenplay by) &"
+      },
+      {
+        "id": "nm0017690",
+        "name": "Matthew Aldrich",
+        "description": "(screenplay by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm5645519",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgwNmY1MDktMjBhOC00NDgzLTlmYjItMGZjMDU5Y2JlM2IwXkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anthony Gonzalez",
+      "asCharacter": "Miguel (voice)"
+    },
+    {
+      "id": "nm0305558",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzNjg4NzMwNF5BMl5BanBnXkFtZTYwMjExNjQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gael García Bernal",
+      "asCharacter": "Héctor (voice)"
+    },
+    {
+      "id": "nm0000973",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDIwOTI5N15BMl5BanBnXkFtZTcwMDcwMjQyNg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Benjamin Bratt",
+      "asCharacter": "Ernesto de la Cruz (voice)"
+    },
+    {
+      "id": "nm0005513",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE5YmJhZTAtN2RiYi00ZmFiLThiMmQtZjgxNzdlNjg0MzZhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alanna Ubach",
+      "asCharacter": "Mamá Imelda (voice)"
+    },
+    {
+      "id": "nm0896149",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzODg4NjU4M15BMl5BanBnXkFtZTYwOTA4NjA0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Renee Victor",
+      "asCharacter": "Abuelita (voice) (as Renée Victor)"
+    },
+    {
+      "id": "nm0131781",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0OTM1MjA1M15BMl5BanBnXkFtZTcwMzc0MzY1Mw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jaime Camil",
+      "asCharacter": "Papá (voice)"
+    },
+    {
+      "id": "nm0000778",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ4ODg0OTY0OF5BMl5BanBnXkFtZTcwNjA1MzMzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alfonso Arau",
+      "asCharacter": "Papá Julio (voice)"
+    },
+    {
+      "id": "nm0797567",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA3ZWI5MzgtNDdkMC00MTNhLThkMjYtMjA0YjExYWU3N2FhXkEyXkFqcGdeQXVyNjM0ODk1MDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Herbert Siguenza",
+      "asCharacter": "Tío Oscar / Tío Felipe (voice)"
+    },
+    {
+      "id": "nm0407101",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyNzk4NTQ4Ml5BMl5BanBnXkFtZTgwMTA1OTEwNjE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gabriel Iglesias",
+      "asCharacter": "Clerk (voice)"
+    },
+    {
+      "id": "nm0101603",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MTE0MzUzMV5BMl5BanBnXkFtZTYwNTcxNTAz._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lombardo Boyar",
+      "asCharacter": "Plaza Mariachi / Gustavo (voice)"
+    },
+    {
+      "id": "nm0613872",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ana Ofelia Murguía",
+      "asCharacter": "Mamá Coco (voice)"
+    },
+    {
+      "id": "nm3086285",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRjMDdiZDItNDIxOC00ODFjLTkxMzUtMTZkNTQyZjY4Njc1XkEyXkFqcGdeQXVyNTE3MTczMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Natalia Cordova-Buckley",
+      "asCharacter": "Frida Kahlo (voice)"
+    },
+    {
+      "id": "nm0526090",
+      "image": "https://m.media-amazon.com/images/M/MV5BODZiOTlmNGItNjA2Ni00MDFlLWFhZDItOTJmMzg3OGUyMDEzXkEyXkFqcGdeQXVyNzQwMDg0OTc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Selene Luna",
+      "asCharacter": "Tía Rosita (voice)"
+    },
+    {
+      "id": "nm0001579",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzODQzODQ4OF5BMl5BanBnXkFtZTcwMDczMTkxNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Edward James Olmos",
+      "asCharacter": "Chicharrón (voice)"
+    },
+    {
+      "id": "nm2016172",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxNzAyODI5M15BMl5BanBnXkFtZTgwODU0MjI0NDE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Sofía Espinosa",
+      "asCharacter": "Mamá (voice)"
+    },
+    {
+      "id": "nm3770662",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carla Medina",
+      "asCharacter": "Departures Agent (voice)"
+    },
+    {
+      "id": "nm0650969",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQxOWY3NTgtODUzNi00NjE2LWFhYzItODYwMmI1NmZhZGJmXkEyXkFqcGdeQXVyMTUzMzYwOTk@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Dyana Ortelli",
+      "asCharacter": "Tía Victoria (voice)"
+    },
+    {
+      "id": "nm0883609",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luis Valdez",
+      "asCharacter": "Tío Berto / Don Hidalgo (voice)"
+    },
+    {
+      "id": "nm3834375",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBkYjVmMzMtMTNiMS00OTZhLTk2M2EtM2ZiODlkODU3MTM5XkEyXkFqcGdeQXVyNjc5NDM1ODI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Blanca Araceli",
+      "asCharacter": "Emcee (voice)"
+    },
+    {
+      "id": "nm4491431",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Salvador Reyes",
+      "asCharacter": "Security Guard (voice)"
+    },
+    {
+      "id": "nm0001507",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyODU1ODEzOF5BMl5BanBnXkFtZTYwMzkwODY1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Cheech Marin",
+      "asCharacter": "Corrections Officer (voice)"
+    },
+    {
+      "id": "nm1844396",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Octavio Solis",
+      "asCharacter": "Arrivals Agent (voice)"
+    },
+    {
+      "id": "nm0001652",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjljYTUwNGMtMjhhMC00MzY3LWEwNjQtMjBmMzJhM2ViNmExXkEyXkFqcGdeQXVyMTc5Mjc5OTc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "John Ratzenberger",
+      "asCharacter": "Juan Ortodoncia (voice)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0026565",
+          "name": "Darla K. Anderson",
+          "description": "producer (produced by) (p.g.a.)"
+        },
+        {
+          "id": "nm1216321",
+          "name": "Mary Alice Drumm",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0005124",
+          "name": "John Lasseter",
+          "description": "executive producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0315974",
+          "name": "Michael Giacchino",
+          "description": "(original score composed by)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0003479",
+          "name": "Steve Bloom",
+          "description": "film editor"
+        },
+        {
+          "id": "nm0881279",
+          "name": "Lee Unkrich",
+          "description": "film editor"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm1411468",
+          "name": "Carla Hool",
+          "description": ""
+        },
+        {
+          "id": "nm2925260",
+          "name": "Natalie Lyon",
+          "description": ""
+        },
+        {
+          "id": "nm0716816",
+          "name": "Kevin Reher",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0422263",
+          "name": "Harley Jessup",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm1653631",
+          "name": "Bert Berry",
+          "description": ""
+        },
+        {
+          "id": "nm5555009",
+          "name": "Tim Evatt",
+          "description": "(additional set art direction)"
+        },
+        {
+          "id": "nm0572406",
+          "name": "Nathaniel McLaughlin",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm2454133",
+          "name": "Kim Collins",
+          "description": "additional production management"
+        },
+        {
+          "id": "nm6947964",
+          "name": "Meredith Hom",
+          "description": "characters manager"
+        },
+        {
+          "id": "nm2835403",
+          "name": "David Park",
+          "description": "production manager"
+        },
+        {
+          "id": "nm2458218",
+          "name": "Rachel Raffael-Gates",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm1130695",
+          "name": "Jessie Thiele Schroeder",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm3771366",
+          "name": "Jeremy Slome",
+          "description": "associate post-production supervisor"
+        },
+        {
+          "id": "nm0846198",
+          "name": "Robert Tachoires",
+          "description": "studio mastering manager"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0135296",
+          "name": "Jim Capobianco",
+          "description": "story artist"
+        },
+        {
+          "id": "nm1154836",
+          "name": "Enrico Casarosa",
+          "description": "story artist"
+        },
+        {
+          "id": "nm9335957",
+          "name": "Brandon Coates",
+          "description": "art intern"
+        },
+        {
+          "id": "nm0215455",
+          "name": "Ronnie Del Carmen",
+          "description": "story artist"
+        },
+        {
+          "id": "nm0287740",
+          "name": "Craig Foster",
+          "description": "graphic designer"
+        },
+        {
+          "id": "nm5431486",
+          "name": "Piper Freeman",
+          "description": "art department manager"
+        },
+        {
+          "id": "nm0297306",
+          "name": "Tony Fucile",
+          "description": "character designer"
+        },
+        {
+          "id": "nm9165510",
+          "name": "Drew Hartel",
+          "description": "art intern"
+        },
+        {
+          "id": "nm1751564",
+          "name": "Sam Hood",
+          "description": "story artist"
+        },
+        {
+          "id": "nm6174064",
+          "name": "Jenna Huerta",
+          "description": "lead graphic designer"
+        },
+        {
+          "id": "nm0408016",
+          "name": "Bryn Imagire",
+          "description": "designer"
+        },
+        {
+          "id": "nm3266016",
+          "name": "Trevor Jimenez",
+          "description": "story artist"
+        },
+        {
+          "id": "nm0441735",
+          "name": "Jason Katz",
+          "description": "story supervisor"
+        },
+        {
+          "id": "nm2836285",
+          "name": "Dean Kelly",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm1788241",
+          "name": "Courtney Casper Kent",
+          "description": "art department manager"
+        },
+        {
+          "id": "nm2937142",
+          "name": "Robert Kondo",
+          "description": "visual development artist"
+        },
+        {
+          "id": "nm3394913",
+          "name": "Vladimir Kooperman",
+          "description": "story artist"
+        },
+        {
+          "id": "nm1942698",
+          "name": "Tony Maki",
+          "description": "story artist"
+        },
+        {
+          "id": "nm0572406",
+          "name": "Nathaniel McLaughlin",
+          "description": "designer"
+        },
+        {
+          "id": "nm1756369",
+          "name": "Laura Meyer",
+          "description": "title designer"
+        },
+        {
+          "id": "nm2215044",
+          "name": "Daniel Lopez Muñoz",
+          "description": "character designer"
+        },
+        {
+          "id": "nm2296930",
+          "name": "Ernesto Nemesio",
+          "description": "designer"
+        },
+        {
+          "id": "nm8069954",
+          "name": "John Nevarez",
+          "description": "character design"
+        },
+        {
+          "id": "nm2824954",
+          "name": "Xavier Riffault",
+          "description": "story artist"
+        },
+        {
+          "id": "nm3185614",
+          "name": "Octavio E. Rodriguez",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm3487288",
+          "name": "Travis Ruiz",
+          "description": "art intern"
+        },
+        {
+          "id": "nm7714337",
+          "name": "Gleb Sanchez-Lobashov",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm9434136",
+          "name": "Sona Sargsyan",
+          "description": "art intern"
+        },
+        {
+          "id": "nm0788130",
+          "name": "Don Shank",
+          "description": "set designer"
+        },
+        {
+          "id": "nm6461347",
+          "name": "Madeline Sharafian",
+          "description": "story artist"
+        },
+        {
+          "id": "nm6040142",
+          "name": "Shelly Wan",
+          "description": "sketch artist"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm6156863",
+          "name": "Rachael Bigelow",
+          "description": "additional production sound"
+        },
+        {
+          "id": "nm0102110",
+          "name": "Christopher Boyes",
+          "description": "re-recording mixer / sound designer (as Chris Boyes) / supervising sound editor"
+        },
+        {
+          "id": "nm9587553",
+          "name": "Daniel Boyes",
+          "description": "field recordist"
+        },
+        {
+          "id": "nm0115177",
+          "name": "Jeannette Browning",
+          "description": "dialogue recordist (as Jeanette Browning Hernandez)"
+        },
+        {
+          "id": "nm0138939",
+          "name": "Vince Caro",
+          "description": "original dialogue mixer / senior recording engineer"
+        },
+        {
+          "id": "nm0157954",
+          "name": "Lisa Chino",
+          "description": "first assistant sound editor"
+        },
+        {
+          "id": "nm3994310",
+          "name": "Blake Collins",
+          "description": "foley mixer"
+        },
+        {
+          "id": "nm2797020",
+          "name": "Justin Doyle",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0248757",
+          "name": "Teresa Eckton",
+          "description": "foley editor / sound effects editor (as Terry Eckton)"
+        },
+        {
+          "id": "nm0268635",
+          "name": "John P. Fasal",
+          "description": "field recordist (as John Fasal)"
+        },
+        {
+          "id": "nm0344197",
+          "name": "J.R. Grubbs",
+          "description": "supervising sound editor (as JR Grubbs)"
+        },
+        {
+          "id": "nm0347593",
+          "name": "Scott Guitteau",
+          "description": "field recordist"
+        },
+        {
+          "id": "nm0383655",
+          "name": "Bill Higley",
+          "description": "adr mixer"
+        },
+        {
+          "id": "nm0437301",
+          "name": "Doc Kane",
+          "description": "original dialogue mixer"
+        },
+        {
+          "id": "nm0510160",
+          "name": "James Likowski",
+          "description": "foley editor (as Jim Likowski)"
+        },
+        {
+          "id": "nm1433317",
+          "name": "Josh Lowden",
+          "description": "general manager"
+        },
+        {
+          "id": "nm7519248",
+          "name": "Adrian Maruri",
+          "description": "assistant recording engineer"
+        },
+        {
+          "id": "nm6678204",
+          "name": "Lucas Miller",
+          "description": "sound design assistant"
+        },
+        {
+          "id": "nm0588972",
+          "name": "Michael Miller",
+          "description": "original dialogue mixer"
+        },
+        {
+          "id": "nm1019628",
+          "name": "Steve Morris",
+          "description": "head of engineering: Skywalker Sound"
+        },
+        {
+          "id": "nm2357043",
+          "name": "Nick Murray",
+          "description": "trailer sound designer (uncredited)"
+        },
+        {
+          "id": "nm0637871",
+          "name": "Jon Null",
+          "description": "head of production"
+        },
+        {
+          "id": "nm6115530",
+          "name": "Kenny Pickett",
+          "description": "additional production sound"
+        },
+        {
+          "id": "nm1657197",
+          "name": "Eva Porter",
+          "description": "client services"
+        },
+        {
+          "id": "nm0782979",
+          "name": "Dee Selby",
+          "description": "foley editor"
+        },
+        {
+          "id": "nm0783713",
+          "name": "Michael Semanick",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0784836",
+          "name": "Tony Sereno",
+          "description": "assistant re-recording mixer"
+        },
+        {
+          "id": "nm5453435",
+          "name": "Cathy Shirk",
+          "description": "post-production sound accountant"
+        },
+        {
+          "id": "nm0799011",
+          "name": "Michael Silvers",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0861658",
+          "name": "Dennie Thorpe",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0888527",
+          "name": "Jana Vance",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm8809470",
+          "name": "Geoff Vaughan",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0926435",
+          "name": "Jack Whittaker",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0935350",
+          "name": "Marshall Winn",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0102110",
+          "name": "Christopher Boyes",
+          "description": "field recordist (uncredited)"
+        },
+        {
+          "id": "nm0186783",
+          "name": "Greg Crawford",
+          "description": "original dialogue mixer (uncredited)"
+        },
+        {
+          "id": "nm0344197",
+          "name": "J.R. Grubbs",
+          "description": "field recordist (uncredited)"
+        },
+        {
+          "id": "nm3963094",
+          "name": "Evan J Haley",
+          "description": "sound designer: D-Box Technologies (uncredited)"
+        },
+        {
+          "id": "nm7778941",
+          "name": "Nick Jimenez",
+          "description": "original dialogue recordist (uncredited)"
+        },
+        {
+          "id": "nm8068691",
+          "name": "Ramon Llorente",
+          "description": "sound recordist (uncredited)"
+        },
+        {
+          "id": "nm0518708",
+          "name": "Howard London",
+          "description": "adr mixer (uncredited)"
+        },
+        {
+          "id": "nm1593107",
+          "name": "Paul McGrath",
+          "description": "additional adr recordist (uncredited)"
+        },
+        {
+          "id": "nm7789879",
+          "name": "Edgar Meza",
+          "description": "engineering services (uncredited)"
+        },
+        {
+          "id": "nm6678204",
+          "name": "Lucas Miller",
+          "description": "field recordist (uncredited)"
+        },
+        {
+          "id": "nm0670503",
+          "name": "David Peifer",
+          "description": "digital editorial support (uncredited)"
+        },
+        {
+          "id": "nm0799011",
+          "name": "Michael Silvers",
+          "description": "sound effects editor (uncredited)"
+        },
+        {
+          "id": "nm0933261",
+          "name": "Dave Wilson",
+          "description": "adr mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm7536581",
+          "name": "Harsh Agrawal",
+          "description": "character shading td"
+        },
+        {
+          "id": "nm4362317",
+          "name": "Amy L. Allen",
+          "description": "set dressing lead"
+        },
+        {
+          "id": "nm5892852",
+          "name": "Dustin Anderson",
+          "description": "crowds technical director"
+        },
+        {
+          "id": "nm0027358",
+          "name": "Robert Anderson",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm2529791",
+          "name": "Eric Andraos",
+          "description": "set shading lead"
+        },
+        {
+          "id": "nm2216740",
+          "name": "Mimia Arbelaez",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm3482097",
+          "name": "Nick Bartone",
+          "description": "shot lighting artist"
+        },
+        {
+          "id": "nm0059786",
+          "name": "Byron Bashforth",
+          "description": "character shading and groom lead"
+        },
+        {
+          "id": "nm1023948",
+          "name": "Gavin Baxter",
+          "description": "simulation technical director"
+        },
+        {
+          "id": "nm9451265",
+          "name": "Tyler Bay",
+          "description": "visual effects artist: Set Shading TD Intern"
+        },
+        {
+          "id": "nm2496284",
+          "name": "Adrian Bell",
+          "description": "renderman software developer"
+        },
+        {
+          "id": "nm9438795",
+          "name": "Itamar Belson",
+          "description": "technical director"
+        },
+        {
+          "id": "nm12338753",
+          "name": "Yekaterina Benson",
+          "description": "sets dressing artist"
+        },
+        {
+          "id": "nm0076604",
+          "name": "Lloyd Bernberg",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm1274863",
+          "name": "Tim Best",
+          "description": "lighting supervisor"
+        },
+        {
+          "id": "nm3442079",
+          "name": "Max Bickley",
+          "description": "master lighting artist (as Maxwell Bickley)"
+        },
+        {
+          "id": "nm2239777",
+          "name": "Jeremy Birn",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm2783518",
+          "name": "Chris Bolwyn",
+          "description": "visual effects artist: creature effect technical director"
+        },
+        {
+          "id": "nm2095982",
+          "name": "Kristopher Campbell",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm1819618",
+          "name": "Tracy Lee Church",
+          "description": "sets shading artist"
+        },
+        {
+          "id": "nm2937194",
+          "name": "Charu Clark",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm3540410",
+          "name": "Aaron Conover",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm2713755",
+          "name": "Trent Crow",
+          "description": "shading technical artist"
+        },
+        {
+          "id": "nm9294571",
+          "name": "Juan de Joya",
+          "description": "global technology engineer"
+        },
+        {
+          "id": "nm7171202",
+          "name": "Ethan Dean",
+          "description": "character shading artist"
+        },
+        {
+          "id": "nm4287859",
+          "name": "Jessica Psy DeLacy",
+          "description": "simulation td"
+        },
+        {
+          "id": "nm1463156",
+          "name": "Airton Dittz Jr.",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm2938042",
+          "name": "Sarah Beth Eisinger",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm2699176",
+          "name": "Nino Ellington",
+          "description": "render pipeline specialist"
+        },
+        {
+          "id": "nm2937063",
+          "name": "Masha Ellsworth",
+          "description": "character technical director"
+        },
+        {
+          "id": "nm6162767",
+          "name": "Matt Elser",
+          "description": "production systems operations: Pixar Studio Team"
+        },
+        {
+          "id": "nm6040126",
+          "name": "Marlena Fecho",
+          "description": "rendering lead"
+        },
+        {
+          "id": "nm2499985",
+          "name": "Landis R. Fields IV",
+          "description": "visual effects artist (as landis fields)"
+        },
+        {
+          "id": "nm5704944",
+          "name": "Andrew Finley",
+          "description": "shading technical director"
+        },
+        {
+          "id": "nm3483455",
+          "name": "Jared Fong",
+          "description": "character modeler/rigger"
+        },
+        {
+          "id": "nm1531626",
+          "name": "Susan Fisher Fong",
+          "description": "rendering supervisor"
+        },
+        {
+          "id": "nm5195065",
+          "name": "Lisa Fotheringham",
+          "description": "lighting manager"
+        },
+        {
+          "id": "nm3684545",
+          "name": "Michael Frederickson",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm5431486",
+          "name": "Piper Freeman",
+          "description": "sweatbox manager"
+        },
+        {
+          "id": "nm4021023",
+          "name": "Shaun Galinak",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm3191658",
+          "name": "Mariana Galindo",
+          "description": "tailoring artist"
+        },
+        {
+          "id": "nm2751174",
+          "name": "Robert Graf",
+          "description": "technical director"
+        },
+        {
+          "id": "nm9908108",
+          "name": "Parker Greene",
+          "description": "rendering intern"
+        },
+        {
+          "id": "nm3436504",
+          "name": "Emron Grover",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm4129810",
+          "name": "Dorien Gunnels",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm3703169",
+          "name": "Stephen Matthew Gustafson",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm4419467",
+          "name": "Dave Hale",
+          "description": "effects lead"
+        },
+        {
+          "id": "nm5430296",
+          "name": "Jack Hattori",
+          "description": "shading technical director"
+        },
+        {
+          "id": "nm2148230",
+          "name": "Jamie Hecker",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm6038910",
+          "name": "Christian Hoffman",
+          "description": "character supervisor"
+        },
+        {
+          "id": "nm3875297",
+          "name": "Jonathan Hoffman",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm6947964",
+          "name": "Meredith Hom",
+          "description": "sweatbox manager"
+        },
+        {
+          "id": "nm4319133",
+          "name": "Michael Honsel",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm10925329",
+          "name": "Kayra Hopkins",
+          "description": "global technology technical director/rendering technical director"
+        },
+        {
+          "id": "nm2705652",
+          "name": "Radford Hurn",
+          "description": "simulation technical director"
+        },
+        {
+          "id": "nm2389083",
+          "name": "Geoffrey Jarrett",
+          "description": "crowd td"
+        },
+        {
+          "id": "nm8695350",
+          "name": "Pol Jeremias-Vila",
+          "description": "core engineering: Software Research & Development"
+        },
+        {
+          "id": "nm1285750",
+          "name": "Andrew Jimenez",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm1791889",
+          "name": "Matt Johnson",
+          "description": "senior software engineer"
+        },
+        {
+          "id": "nm0426677",
+          "name": "Jason Johnston",
+          "description": "effects artist"
+        },
+        {
+          "id": "nm1604663",
+          "name": "Tobin Jones",
+          "description": "senior fx technical director"
+        },
+        {
+          "id": "nm3988177",
+          "name": "Thidaratana Annee Jonjai",
+          "description": "sets shading artist"
+        },
+        {
+          "id": "nm1260839",
+          "name": "Carl Kaphan",
+          "description": "effects artist"
+        },
+        {
+          "id": "nm1380511",
+          "name": "Ryan Kautzman",
+          "description": "software engineer"
+        },
+        {
+          "id": "nm5430841",
+          "name": "Jonathan Kiker",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm4598381",
+          "name": "Laurie Nguyen Kim",
+          "description": "simulation artist"
+        },
+        {
+          "id": "nm2483076",
+          "name": "Jennifer Leigh King",
+          "description": "lighting technical director"
+        },
+        {
+          "id": "nm1145618",
+          "name": "Keith Daniel Klohn",
+          "description": "effects lead"
+        },
+        {
+          "id": "nm6040124",
+          "name": "Tiffany Erickson Klohn",
+          "description": "tailoring artist"
+        },
+        {
+          "id": "nm3875881",
+          "name": "Alexander Kolliopoulos",
+          "description": "rendering & optimization artist"
+        },
+        {
+          "id": "nm0465738",
+          "name": "Mitch Kopelman",
+          "description": "lighting lead"
+        },
+        {
+          "id": "nm2646182",
+          "name": "Tanja Krampfert",
+          "description": "character modeler/rigger"
+        },
+        {
+          "id": "nm4181513",
+          "name": "Markus Kranzler",
+          "description": "shot lighting artist"
+        },
+        {
+          "id": "nm3877144",
+          "name": "Jacob Kuenzel",
+          "description": "character shading artist"
+        },
+        {
+          "id": "nm7595507",
+          "name": "Aimei Kutt",
+          "description": "tailoring artist"
+        },
+        {
+          "id": "nm5448786",
+          "name": "Lucy Laliberte",
+          "description": "animation second unit & crowds manager"
+        },
+        {
+          "id": "nm4476911",
+          "name": "David Lally",
+          "description": "crowds technical director"
+        },
+        {
+          "id": "nm0487368",
+          "name": "Ken Lao",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm0494934",
+          "name": "Alison Leaf",
+          "description": "set dressing artist"
+        },
+        {
+          "id": "nm1425351",
+          "name": "Erin Lehmkühl",
+          "description": "stereo technical director"
+        },
+        {
+          "id": "nm1473896",
+          "name": "Philippe Leprince",
+          "description": "renderman developer"
+        },
+        {
+          "id": "nm4151615",
+          "name": "Linhan Li",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm3960159",
+          "name": "Lyon Liew",
+          "description": "simulation technical director"
+        },
+        {
+          "id": "nm6008474",
+          "name": "Andy Lin",
+          "description": "character lighting lead"
+        },
+        {
+          "id": "nm3875740",
+          "name": "Hsiao-Hsien Lo",
+          "description": "crowds technical lead"
+        },
+        {
+          "id": "nm0520782",
+          "name": "Michael Lorenzen",
+          "description": "crowds technical artist"
+        },
+        {
+          "id": "nm2647868",
+          "name": "Amber Stewart Lunderville",
+          "description": "lightning td"
+        },
+        {
+          "id": "nm7625989",
+          "name": "David Luoh",
+          "description": "set extension lead"
+        },
+        {
+          "id": "nm9342921",
+          "name": "Richard Marrujo",
+          "description": "rendering technical director"
+        },
+        {
+          "id": "nm3941758",
+          "name": "Kirsten Peterson Marshall",
+          "description": "department manager (as Kirsten Peterson)"
+        },
+        {
+          "id": "nm0566717",
+          "name": "Daniel McCoy",
+          "description": "software development"
+        },
+        {
+          "id": "nm1114728",
+          "name": "Ryan Michero",
+          "description": "shot lighter"
+        },
+        {
+          "id": "nm3205844",
+          "name": "Thomas Moser",
+          "description": "simulation technical director"
+        },
+        {
+          "id": "nm0612863",
+          "name": "David Munier",
+          "description": "software research and development"
+        },
+        {
+          "id": "nm1657317",
+          "name": "Shawn Neely",
+          "description": "software research & development"
+        },
+        {
+          "id": "nm9086907",
+          "name": "Owen Neuburger",
+          "description": "rendering technical director"
+        },
+        {
+          "id": "nm0639724",
+          "name": "Michael O'Brien",
+          "description": "visual effects supervisor (as Michael K. O'Brien)"
+        },
+        {
+          "id": "nm5153136",
+          "name": "Jonathan Page",
+          "description": "character modeler/rigger"
+        },
+        {
+          "id": "nm4099254",
+          "name": "Leon JeongWook Park",
+          "description": "simulation technical director"
+        },
+        {
+          "id": "nm3877609",
+          "name": "Greg Peltz",
+          "description": "sets modeling artist"
+        },
+        {
+          "id": "nm2451906",
+          "name": "Burt Peng",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm3607712",
+          "name": "Jonathan D. Penney",
+          "description": "lightspeed technical director"
+        },
+        {
+          "id": "nm1967432",
+          "name": "Davide Pesare",
+          "description": "lead software engineer"
+        },
+        {
+          "id": "nm2576414",
+          "name": "Stewart Pomeroy",
+          "description": "stereoscopic technical director"
+        },
+        {
+          "id": "nm2478797",
+          "name": "Ben Porter",
+          "description": "Groom Artist"
+        },
+        {
+          "id": "nm1657323",
+          "name": "Jonathan Pytko",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm3584643",
+          "name": "José Luis Ramos",
+          "description": "master lighter"
+        },
+        {
+          "id": "nm1666480",
+          "name": "Michael Ranalletta",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm1868334",
+          "name": "Farhez Rayani",
+          "description": "lighting artist: Pixar Animation Studios"
+        },
+        {
+          "id": "nm8211082",
+          "name": "Brenton Rayner",
+          "description": "renderman development / visual effects: renderman development"
+        },
+        {
+          "id": "nm6365985",
+          "name": "Clint Rea",
+          "description": "shading technical director"
+        },
+        {
+          "id": "nm7701853",
+          "name": "Cari Reiche",
+          "description": "technical director"
+        },
+        {
+          "id": "nm3983048",
+          "name": "Jordan Rempel",
+          "description": "master lighting artist"
+        },
+        {
+          "id": "nm4669822",
+          "name": "Zach Repasky",
+          "description": "lightspeed technical director"
+        },
+        {
+          "id": "nm1190844",
+          "name": "Kees Rijnen",
+          "description": "senior software engineer"
+        },
+        {
+          "id": "nm1657327",
+          "name": "Milton E. Rodriguez-Rios",
+          "description": "lighting td"
+        },
+        {
+          "id": "nm1657328",
+          "name": "Trina M. Roy",
+          "description": "renderman developer"
+        },
+        {
+          "id": "nm1752415",
+          "name": "David Ryu",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm2233514",
+          "name": "Donald Schmidt",
+          "description": "global technology engineer / rendering & optimization artist"
+        },
+        {
+          "id": "nm3688064",
+          "name": "Martin-Sebastian Senn",
+          "description": "set extensions artist (as Martin Sebastian Senn)"
+        },
+        {
+          "id": "nm2824223",
+          "name": "David Shavers",
+          "description": "lighting artist"
+        },
+        {
+          "id": "nm2151515",
+          "name": "Bill Sheffler",
+          "description": "character modeling & articulation artist / shot-sculpting artist"
+        },
+        {
+          "id": "nm0791775",
+          "name": "Erik Shepherd",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm10493937",
+          "name": "Alex Shilt",
+          "description": "sets modeling artist"
+        },
+        {
+          "id": "nm5430816",
+          "name": "Philip Shoebottom",
+          "description": "visual effects: master lighting artist"
+        },
+        {
+          "id": "nm5110103",
+          "name": "Megan Stifter",
+          "description": "sets shading artist"
+        },
+        {
+          "id": "nm2636449",
+          "name": "Dave Strick",
+          "description": "visual effects"
+        },
+        {
+          "id": "nm4594692",
+          "name": "Lana Chen Sun",
+          "description": "crowds technical director"
+        },
+        {
+          "id": "nm0847925",
+          "name": "Jeremie Talbot",
+          "description": "technical director"
+        },
+        {
+          "id": "nm1403640",
+          "name": "Chu Tang",
+          "description": "renderman developer"
+        },
+        {
+          "id": "nm4646448",
+          "name": "Lan Tang",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm6040173",
+          "name": "Yaa-Lirng Tu",
+          "description": "sets technical artist"
+        },
+        {
+          "id": "nm2077360",
+          "name": "Gaston Ugarte",
+          "description": "set modeling supervisor"
+        },
+        {
+          "id": "nm0886908",
+          "name": "Dirk Van Gelder",
+          "description": "senior engineering lead"
+        },
+        {
+          "id": "nm2553138",
+          "name": "Andy Whittock",
+          "description": "sets shading artist"
+        },
+        {
+          "id": "nm8936203",
+          "name": "Kylie Wijsmuller",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm5645006",
+          "name": "Jamie Williams",
+          "description": "technical director"
+        },
+        {
+          "id": "nm0934858",
+          "name": "Brad Winemiller",
+          "description": "simulation artist"
+        },
+        {
+          "id": "nm1104497",
+          "name": "Raymond Wong",
+          "description": "Technical Director: Sets modeling artist"
+        },
+        {
+          "id": "nm0941361",
+          "name": "Wayne Wooten",
+          "description": "renderman developer"
+        },
+        {
+          "id": "nm1156749",
+          "name": "Athena Xenakis",
+          "description": "technical director"
+        },
+        {
+          "id": "nm1752464",
+          "name": "Jane Yen",
+          "description": "crowds technical supervisor"
+        },
+        {
+          "id": "nm8646268",
+          "name": "Miguel Zozaya",
+          "description": "lighting td"
+        },
+        {
+          "id": "nm0612863",
+          "name": "David Munier",
+          "description": "sets shading artist (uncredited)"
+        },
+        {
+          "id": "nm3117410",
+          "name": "Bonnie Tai",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm6033325",
+          "name": "Brandon Wang",
+          "description": "software engineer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm2921423",
+          "name": "Matt Aspbury",
+          "description": "director of photography"
+        },
+        {
+          "id": "nm0270665",
+          "name": "Danielle Feinberg",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Animation Department",
+      "items": [
+        {
+          "id": "nm5752596",
+          "name": "Frank E. Abney III",
+          "description": "animator"
+        },
+        {
+          "id": "nm10080478",
+          "name": "Lauren Adassovsky",
+          "description": "animator"
+        },
+        {
+          "id": "nm9669952",
+          "name": "Paulie Alam",
+          "description": "crowds animator"
+        },
+        {
+          "id": "nm1547880",
+          "name": "Dovi Anderson",
+          "description": "animator"
+        },
+        {
+          "id": "nm2152783",
+          "name": "Daniel Arriaga",
+          "description": "character designer"
+        },
+        {
+          "id": "nm2893500",
+          "name": "Andrew Atteberry",
+          "description": "animator"
+        },
+        {
+          "id": "nm3089247",
+          "name": "Brendan Beesley",
+          "description": "animator"
+        },
+        {
+          "id": "nm1653631",
+          "name": "Bert Berry",
+          "description": "art director"
+        },
+        {
+          "id": "nm6396815",
+          "name": "Michael Bidinger",
+          "description": "animator"
+        },
+        {
+          "id": "nm2911606",
+          "name": "Shad Bradbury",
+          "description": "animator"
+        },
+        {
+          "id": "nm2710831",
+          "name": "Shaun Chacko",
+          "description": "animator"
+        },
+        {
+          "id": "nm3703077",
+          "name": "Guillaume Chartier",
+          "description": "animator"
+        },
+        {
+          "id": "nm4916121",
+          "name": "Johnson Cheng",
+          "description": "story/editorial/art production assistant"
+        },
+        {
+          "id": "nm2663361",
+          "name": "Kevin Chesnos",
+          "description": "animator"
+        },
+        {
+          "id": "nm2698701",
+          "name": "Simon Christen",
+          "description": "animator"
+        },
+        {
+          "id": "nm0168471",
+          "name": "Brett Coderre",
+          "description": "animator"
+        },
+        {
+          "id": "nm11474143",
+          "name": "Sophie Crowley",
+          "description": "graphic art intern"
+        },
+        {
+          "id": "nm2041298",
+          "name": "Don Crum",
+          "description": "animator"
+        },
+        {
+          "id": "nm7626008",
+          "name": "Joshua Dai",
+          "description": "animator"
+        },
+        {
+          "id": "nm3458448",
+          "name": "Claudio de Oliveira",
+          "description": "animator"
+        },
+        {
+          "id": "nm7706689",
+          "name": "Youri Dekker",
+          "description": "fix and additional animator"
+        },
+        {
+          "id": "nm1652107",
+          "name": "Paul Diaz",
+          "description": "animator"
+        },
+        {
+          "id": "nm7712296",
+          "name": "Brent Dienst",
+          "description": "second unit: crowds & fix animator"
+        },
+        {
+          "id": "nm1562989",
+          "name": "Greg Dykstra",
+          "description": "character designer"
+        },
+        {
+          "id": "nm6458448",
+          "name": "Teresa Falcone",
+          "description": "crowds animator"
+        },
+        {
+          "id": "nm2970052",
+          "name": "Lance Fite",
+          "description": "animator"
+        },
+        {
+          "id": "nm4232448",
+          "name": "Rachel Fite",
+          "description": "animator"
+        },
+        {
+          "id": "nm9153880",
+          "name": "Lucas Fraga Pacheco",
+          "description": "crowds, fix, and second unit animator"
+        },
+        {
+          "id": "nm2184476",
+          "name": "Michael Galbraith",
+          "description": "crowds and additional animation"
+        },
+        {
+          "id": "nm7914330",
+          "name": "Zaruhi Galstyan",
+          "description": "character designer"
+        },
+        {
+          "id": "nm5733651",
+          "name": "Andrea Goh",
+          "description": "promo layout artist"
+        },
+        {
+          "id": "nm0327530",
+          "name": "Louis Gonzales",
+          "description": "story artist"
+        },
+        {
+          "id": "nm8103353",
+          "name": "Andrew Gonzalez",
+          "description": "animator"
+        },
+        {
+          "id": "nm0329297",
+          "name": "Carter Goodrich",
+          "description": "character designer"
+        },
+        {
+          "id": "nm3254194",
+          "name": "Emilie Goulet",
+          "description": "crowds and 2nd unit animator"
+        },
+        {
+          "id": "nm4108658",
+          "name": "Andy Grisdale",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm1730874",
+          "name": "Travis Hathaway",
+          "description": "character development and animation"
+        },
+        {
+          "id": "nm3532206",
+          "name": "Neil Helm",
+          "description": "animator"
+        },
+        {
+          "id": "nm9309145",
+          "name": "Dionys Heurtel",
+          "description": "animator"
+        },
+        {
+          "id": "nm5354092",
+          "name": "Catherine Hicks",
+          "description": "animator"
+        },
+        {
+          "id": "nm1751564",
+          "name": "Sam Hood",
+          "description": "story artist"
+        },
+        {
+          "id": "nm3050375",
+          "name": "Guilherme Sauerbronn Jacinto",
+          "description": "directing animator"
+        },
+        {
+          "id": "nm10447606",
+          "name": "Paige Johnstone",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm9902683",
+          "name": "Rami Kasim",
+          "description": "second unit, crowds, and fix animator"
+        },
+        {
+          "id": "nm2836285",
+          "name": "Dean Kelly",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm2856647",
+          "name": "Ken Kim",
+          "description": "animator"
+        },
+        {
+          "id": "nm4856915",
+          "name": "Seong-Young Kim",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm3306712",
+          "name": "Aaron Koressel",
+          "description": "animator"
+        },
+        {
+          "id": "nm1850238",
+          "name": "Bruce Kuei",
+          "description": "animator"
+        },
+        {
+          "id": "nm8750285",
+          "name": "Charles Larrieu",
+          "description": "animator"
+        },
+        {
+          "id": "nm3877112",
+          "name": "John Chun Chiu Lee",
+          "description": "character animator"
+        },
+        {
+          "id": "nm2147562",
+          "name": "John LeGrande",
+          "description": "animation shot support"
+        },
+        {
+          "id": "nm0510936",
+          "name": "Patrick Lin",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm2158103",
+          "name": "Bernard Lizon",
+          "description": "rough layout artist"
+        },
+        {
+          "id": "nm9357575",
+          "name": "Cody Lyon",
+          "description": "animator"
+        },
+        {
+          "id": "nm3582148",
+          "name": "Carolina López Dau",
+          "description": "crowds animation lead"
+        },
+        {
+          "id": "nm1942698",
+          "name": "Tony Maki",
+          "description": "story artist"
+        },
+        {
+          "id": "nm9838330",
+          "name": "Aviv Mano",
+          "description": "crowd animator"
+        },
+        {
+          "id": "nm3601805",
+          "name": "Alonso Martinez",
+          "description": "character designer"
+        },
+        {
+          "id": "nm2644868",
+          "name": "Jesus Martinez",
+          "description": "animation manager"
+        },
+        {
+          "id": "nm0579343",
+          "name": "Paul Mendoza",
+          "description": "animation second unit and crowds supervisor"
+        },
+        {
+          "id": "nm2271802",
+          "name": "Tony Mitzelfelt",
+          "description": "lightspeed technical director"
+        },
+        {
+          "id": "nm3127013",
+          "name": "Kyle Mohr",
+          "description": "animator"
+        },
+        {
+          "id": "nm4717791",
+          "name": "Arnold Moon",
+          "description": "sets modeling artist"
+        },
+        {
+          "id": "nm0612391",
+          "name": "Dave Mullins",
+          "description": "additional animation"
+        },
+        {
+          "id": "nm1920861",
+          "name": "Jan Pfenninger",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm1677431",
+          "name": "Jayson Price",
+          "description": "animator"
+        },
+        {
+          "id": "nm7159668",
+          "name": "Michael Ravella",
+          "description": "technical director"
+        },
+        {
+          "id": "nm7561394",
+          "name": "Nicole Ridgwell",
+          "description": "animator"
+        },
+        {
+          "id": "nm3331090",
+          "name": "Arjun Rihan",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm2597504",
+          "name": "Gwendelyn Robson",
+          "description": "animator"
+        },
+        {
+          "id": "nm6040212",
+          "name": "Adam Rodriguez",
+          "description": "animator"
+        },
+        {
+          "id": "nm5430506",
+          "name": "Manuel Zenon Rodriguez",
+          "description": "animator"
+        },
+        {
+          "id": "nm3185614",
+          "name": "Octavio E. Rodriguez",
+          "description": "story artist"
+        },
+        {
+          "id": "nm2601011",
+          "name": "K.C. Roeyer",
+          "description": "animator"
+        },
+        {
+          "id": "nm3190330",
+          "name": "Nickolas Rosario",
+          "description": "directing animator"
+        },
+        {
+          "id": "nm5710731",
+          "name": "Montaque Ruffin",
+          "description": "animator"
+        },
+        {
+          "id": "nm0750641",
+          "name": "Ben Rush",
+          "description": "animator"
+        },
+        {
+          "id": "nm3089430",
+          "name": "Allison Rutland",
+          "description": "character animator"
+        },
+        {
+          "id": "nm3351463",
+          "name": "Max Sachar",
+          "description": "editorial manager"
+        },
+        {
+          "id": "nm7625991",
+          "name": "Sara K. Sampson",
+          "description": "animation support (as Sara Sampson)"
+        },
+        {
+          "id": "nm0762586",
+          "name": "Mark Sanford",
+          "description": "layout artist"
+        },
+        {
+          "id": "nm0764102",
+          "name": "Gini Cruz Santos",
+          "description": "supervising animator"
+        },
+        {
+          "id": "nm1536101",
+          "name": "Leo Santos",
+          "description": "layout lead"
+        },
+        {
+          "id": "nm4188360",
+          "name": "Michael Sauls",
+          "description": "animator"
+        },
+        {
+          "id": "nm2848289",
+          "name": "Brett Schulz",
+          "description": "animator"
+        },
+        {
+          "id": "nm6461347",
+          "name": "Madeline Sharafian",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm10340451",
+          "name": "Jane Snow Cassidy",
+          "description": "animator"
+        },
+        {
+          "id": "nm3877680",
+          "name": "Terry Song",
+          "description": "animator (as Terry Youngkil Song)"
+        },
+        {
+          "id": "nm2522668",
+          "name": "Mike Stern",
+          "description": "animator"
+        },
+        {
+          "id": "nm6040213",
+          "name": "Jane Snow Stewart",
+          "description": "animator"
+        },
+        {
+          "id": "nm3264947",
+          "name": "Matthew Strangio",
+          "description": "animator"
+        },
+        {
+          "id": "nm6040140",
+          "name": "Daniela Strijleva",
+          "description": "character designer"
+        },
+        {
+          "id": "nm10586689",
+          "name": "Devon Stubblefield",
+          "description": "additional character designer"
+        },
+        {
+          "id": "nm2026198",
+          "name": "Benjamin Su",
+          "description": "animator"
+        },
+        {
+          "id": "nm9640789",
+          "name": "Maggie Sugar",
+          "description": "background painter (as Maggie Sugars)"
+        },
+        {
+          "id": "nm2657892",
+          "name": "Raphael Suter",
+          "description": "animator"
+        },
+        {
+          "id": "nm7311679",
+          "name": "Hikari Toriumi",
+          "description": "crowds, fix, and second unit animator"
+        },
+        {
+          "id": "nm2683848",
+          "name": "David Torres",
+          "description": "animator"
+        },
+        {
+          "id": "nm1905109",
+          "name": "Jessica Torres",
+          "description": "animator (as Jessica Sances)"
+        },
+        {
+          "id": "nm9335102",
+          "name": "Maura Turner",
+          "description": "animation second unit & crowds coordinator"
+        },
+        {
+          "id": "nm3742553",
+          "name": "Luis Carlos Uribe",
+          "description": "fix and additional animator"
+        },
+        {
+          "id": "nm0893433",
+          "name": "Michael Venturini",
+          "description": "supervising animator"
+        },
+        {
+          "id": "nm0471693",
+          "name": "Kristoff Vergne",
+          "description": "sketch artist (as kristophe vergne)"
+        },
+        {
+          "id": "nm7376469",
+          "name": "David Verona",
+          "description": "lightspeed td"
+        },
+        {
+          "id": "nm3663064",
+          "name": "Priscila Vertamatti",
+          "description": "animation department"
+        },
+        {
+          "id": "nm4252199",
+          "name": "Amanda Wagner",
+          "description": "animator"
+        },
+        {
+          "id": "nm4231451",
+          "name": "Leslie Watters",
+          "description": "animator"
+        },
+        {
+          "id": "nm2189584",
+          "name": "Royce Wesley",
+          "description": "animator"
+        },
+        {
+          "id": "nm4428407",
+          "name": "Ricky Wight",
+          "description": "animator"
+        },
+        {
+          "id": "nm0938933",
+          "name": "Anthony Ho Wong",
+          "description": "animator"
+        },
+        {
+          "id": "nm2140399",
+          "name": "Stephen L. Wong",
+          "description": "animator"
+        },
+        {
+          "id": "nm2684824",
+          "name": "Tom Zach",
+          "description": "animator"
+        },
+        {
+          "id": "nm5373414",
+          "name": "Manny Hernandez",
+          "description": "story artist (uncredited)"
+        },
+        {
+          "id": "nm3983907",
+          "name": "Tal Shwarzman",
+          "description": "animator: second unit (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm2811242",
+          "name": "Natalie Ballesteros",
+          "description": "casting associate"
+        },
+        {
+          "id": "nm0087592",
+          "name": "Beth Blanks",
+          "description": "location casting associate"
+        },
+        {
+          "id": "nm0235261",
+          "name": "Terri Douglas",
+          "description": "adr voice casting"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0026690",
+          "name": "Erik Anderson",
+          "description": "digital cinema supervisor"
+        },
+        {
+          "id": "nm1629055",
+          "name": "Susan Brunig",
+          "description": "Color grading operator"
+        },
+        {
+          "id": "nm2850497",
+          "name": "Krissy Cababa",
+          "description": "editorial manager"
+        },
+        {
+          "id": "nm5513276",
+          "name": "Charles Choo Jr.",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm2349572",
+          "name": "Mark Dinicola",
+          "description": "colorist"
+        },
+        {
+          "id": "nm0267980",
+          "name": "D.R. Farquharson",
+          "description": "digital cinema producer"
+        },
+        {
+          "id": "nm5152274",
+          "name": "Tim Fox",
+          "description": "second film editor"
+        },
+        {
+          "id": "nm5812627",
+          "name": "Jack Gilpatrick",
+          "description": "post-production"
+        },
+        {
+          "id": "nm2584753",
+          "name": "Thomas Gonzales",
+          "description": "international editorial"
+        },
+        {
+          "id": "nm0422403",
+          "name": "Jennifer Neysa Jew",
+          "description": "first assistant editor"
+        },
+        {
+          "id": "nm3050121",
+          "name": "Chloe Kloezeman",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm4608928",
+          "name": "Cris Knight",
+          "description": "media control center operator"
+        },
+        {
+          "id": "nm1730496",
+          "name": "Meghan Kraft",
+          "description": "additional editorial"
+        },
+        {
+          "id": "nm8290293",
+          "name": "Mike H. Mahony",
+          "description": "software engineer"
+        },
+        {
+          "id": "nm3609161",
+          "name": "Brian A. Perry",
+          "description": "international editorial"
+        },
+        {
+          "id": "nm2204583",
+          "name": "Sarah K. Reimers",
+          "description": "additional editorial"
+        },
+        {
+          "id": "nm3351463",
+          "name": "Max Sachar",
+          "description": "editorial manager"
+        },
+        {
+          "id": "nm8939117",
+          "name": "Félix O. Santiago",
+          "description": "software engineer"
+        },
+        {
+          "id": "nm7141458",
+          "name": "Jessica Shimshak",
+          "description": "editorial coordinator (as Jessica Katz)"
+        },
+        {
+          "id": "nm3657932",
+          "name": "Geoffrey Sledge",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm0811465",
+          "name": "Greg Snyder",
+          "description": "second film editor"
+        },
+        {
+          "id": "nm2242089",
+          "name": "Jeff Stone",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm1488477",
+          "name": "Freddie Sulit",
+          "description": "editorial coordinator"
+        },
+        {
+          "id": "nm1418483",
+          "name": "Nicole Vanderneut",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm0938488",
+          "name": "Anna Wolitzky",
+          "description": "additional editor"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm1791092",
+          "name": "Mark Adams",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm1784190",
+          "name": "Eun-Mee Ahn",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm1125129",
+          "name": "Christopher Anderson-Bazzoli",
+          "description": "music preparation"
+        },
+        {
+          "id": "nm2844448",
+          "name": "Kristen Anderson-Lopez",
+          "description": "songs: music and lyrics by"
+        },
+        {
+          "id": "nm1223253",
+          "name": "Chris Barrett",
+          "description": "assistant music engineer"
+        },
+        {
+          "id": "nm2924361",
+          "name": "Steve Becknell",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm4488026",
+          "name": "Marissa Benedict",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm0074478",
+          "name": "Wayne Bergeron",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm0077444",
+          "name": "Mark Berrow",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm8319687",
+          "name": "Miguel Bezanilla",
+          "description": "additional orchestration and arrangements source music"
+        },
+        {
+          "id": "nm6414478",
+          "name": "Emad Borjian",
+          "description": "scoring stage crew"
+        },
+        {
+          "id": "nm3953763",
+          "name": "David Boucher",
+          "description": "music mixer"
+        },
+        {
+          "id": "nm0100885",
+          "name": "Marshall Bowen",
+          "description": "conductor / orchestrator"
+        },
+        {
+          "id": "nm2000802",
+          "name": "Connie Boylan",
+          "description": "assistant orchestra contractor"
+        },
+        {
+          "id": "nm2210499",
+          "name": "Belinda Broughton",
+          "description": "concertmaster"
+        },
+        {
+          "id": "nm3204821",
+          "name": "Warren Brown",
+          "description": "music editor"
+        },
+        {
+          "id": "nm5131638",
+          "name": "Liz Caplan",
+          "description": "vocal consultant: Benjamin Bratt"
+        },
+        {
+          "id": "nm0149566",
+          "name": "Ashley Chafin",
+          "description": "music manager / music production"
+        },
+        {
+          "id": "nm4607110",
+          "name": "Blake Cooper",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm3581327",
+          "name": "Grace Davidson",
+          "description": "vocalist: soprano"
+        },
+        {
+          "id": "nm1017049",
+          "name": "Stephen M. Davis",
+          "description": "music editor"
+        },
+        {
+          "id": "nm0230392",
+          "name": "George Doering",
+          "description": "musician"
+        },
+        {
+          "id": "nm2035803",
+          "name": "Andrew Duckles",
+          "description": "musician: viola"
+        },
+        {
+          "id": "nm9737840",
+          "name": "David Everson",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm3049774",
+          "name": "Nina Evtuhov",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm1529015",
+          "name": "Chuck Findley",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm6374764",
+          "name": "Ramón Flores",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm2712333",
+          "name": "Dan Fornero",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm1184901",
+          "name": "Germaine Franco",
+          "description": "composer: additional music / orchestrator / song producer / songs: music by"
+        },
+        {
+          "id": "nm1348669",
+          "name": "John Fumo",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm0309031",
+          "name": "Mark Gasbarro",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm5835831",
+          "name": "Abdiel Gonzalez",
+          "description": "singer"
+        },
+        {
+          "id": "nm0004208",
+          "name": "Gabriel Guy",
+          "description": "music recordist: songs"
+        },
+        {
+          "id": "nm0362436",
+          "name": "Tom Hardisty",
+          "description": "score recordist"
+        },
+        {
+          "id": "nm0392610",
+          "name": "Steve Holtman",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm2483469",
+          "name": "Scott Hosfeld",
+          "description": "musician"
+        },
+        {
+          "id": "nm6341939",
+          "name": "Riley Hughes",
+          "description": "music preparation"
+        },
+        {
+          "id": "nm0407618",
+          "name": "Alex Iles",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0412639",
+          "name": "Joel Iwataki",
+          "description": "scoring mixer"
+        },
+        {
+          "id": "nm0417252",
+          "name": "Gregory Jamrok",
+          "description": "music preparation"
+        },
+        {
+          "id": "nm0427539",
+          "name": "Barney Jones",
+          "description": "senior production music editor"
+        },
+        {
+          "id": "nm0438184",
+          "name": "Alan Kaplan",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm12229873",
+          "name": "Tanjeeb Khan",
+          "description": "musician"
+        },
+        {
+          "id": "nm1949480",
+          "name": "Brian Kilgore",
+          "description": "musician: percussion"
+        },
+        {
+          "id": "nm3445863",
+          "name": "Chris Kollgaard",
+          "description": "musician: bass"
+        },
+        {
+          "id": "nm0471280",
+          "name": "Sam Kriger",
+          "description": "vocal coach"
+        },
+        {
+          "id": "nm3115909",
+          "name": "Jeff Kryka",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm1469550",
+          "name": "Camilo Lara",
+          "description": "theme music composer"
+        },
+        {
+          "id": "nm0090798",
+          "name": "Edie Lehmann Boddicker",
+          "description": "vocalist"
+        },
+        {
+          "id": "nm3039705",
+          "name": "Mark LeVang",
+          "description": "B3 and Keyboards"
+        },
+        {
+          "id": "nm0507382",
+          "name": "Jon Lewis",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm9912628",
+          "name": "Nick Lok",
+          "description": "musician: percussionist"
+        },
+        {
+          "id": "nm2481110",
+          "name": "Lora'nd Lokustza",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm9401752",
+          "name": "Maria Dominique Lopez",
+          "description": "musician"
+        },
+        {
+          "id": "nm0520188",
+          "name": "Robert Lopez",
+          "description": "songs: music and lyrics by"
+        },
+        {
+          "id": "nm3328817",
+          "name": "Norman Ludwin",
+          "description": "musician: bass"
+        },
+        {
+          "id": "nm0185415",
+          "name": "Tom MacDougall",
+          "description": "music supervisor"
+        },
+        {
+          "id": "nm1094324",
+          "name": "Brian Mann",
+          "description": "Accordion"
+        },
+        {
+          "id": "nm2164813",
+          "name": "Luke Maurer",
+          "description": "musician: viola"
+        },
+        {
+          "id": "nm6970285",
+          "name": "Baraka May",
+          "description": "singer: featured soloist"
+        },
+        {
+          "id": "nm1319523",
+          "name": "Darrin McCann",
+          "description": "musician: principal viola"
+        },
+        {
+          "id": "nm10447029",
+          "name": "Martin McClellan",
+          "description": "music preparation"
+        },
+        {
+          "id": "nm4948468",
+          "name": "Aaron Meyer",
+          "description": "music preparation"
+        },
+        {
+          "id": "nm2236807",
+          "name": "Joe Meyer",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm3638059",
+          "name": "Lucia Micarelli",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm2937122",
+          "name": "Adrian Molina",
+          "description": "songs: lyrics by"
+        },
+        {
+          "id": "nm9044286",
+          "name": "Carlos Murguia",
+          "description": "vocalist"
+        },
+        {
+          "id": "nm1862412",
+          "name": "Dan Navarro",
+          "description": "vocalist"
+        },
+        {
+          "id": "nm3251928",
+          "name": "Jenni Olson",
+          "description": "musician: flute"
+        },
+        {
+          "id": "nm4468345",
+          "name": "Danielle Ondarza",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0656104",
+          "name": "Andrew Page",
+          "description": "executive director: music production"
+        },
+        {
+          "id": "nm0665823",
+          "name": "Cameron Patrick",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm1341071",
+          "name": "Jason Poss",
+          "description": "music transcription"
+        },
+        {
+          "id": "nm0708627",
+          "name": "Federico Ramos",
+          "description": "guitars and vihuela"
+        },
+        {
+          "id": "nm0002535",
+          "name": "Jasper Randall",
+          "description": "vocal contractor"
+        },
+        {
+          "id": "nm8046604",
+          "name": "Teag Reaves",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0717023",
+          "name": "Bill Reichenbach",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm9516937",
+          "name": "Luis David Reyes Reyes",
+          "description": "music supervisor"
+        },
+        {
+          "id": "nm0724079",
+          "name": "Emil Richards",
+          "description": "musician: percussion"
+        },
+        {
+          "id": "nm0733066",
+          "name": "Ryan Robinson",
+          "description": "scoring technical support engineer"
+        },
+        {
+          "id": "nm3470287",
+          "name": "Walter Rodriquez",
+          "description": "musician (as Walter Rodriguez)"
+        },
+        {
+          "id": "nm4079718",
+          "name": "Amy Sanchez",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm3056507",
+          "name": "Rob Schaer",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm5720465",
+          "name": "Anton Schwarz",
+          "description": "russian music supervisor"
+        },
+        {
+          "id": "nm0792165",
+          "name": "Fletcher Sheridan",
+          "description": "score vocalist"
+        },
+        {
+          "id": "nm3660693",
+          "name": "Antonio Sol",
+          "description": "playback singer / vocal coach"
+        },
+        {
+          "id": "nm2468581",
+          "name": "Tereza Stanislav",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm3115371",
+          "name": "Andrew Synowiec",
+          "description": "musician"
+        },
+        {
+          "id": "nm0857125",
+          "name": "James Thatcher",
+          "description": "musician: French horn"
+        },
+        {
+          "id": "nm2650776",
+          "name": "Doug Tornquist",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm10558405",
+          "name": "Francisco Torres",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0898688",
+          "name": "Karl Vincent",
+          "description": "musician"
+        },
+        {
+          "id": "nm3441714",
+          "name": "Irina Voloshina",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm3447290",
+          "name": "Dave Washburn",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm2039194",
+          "name": "Rich Wheeler",
+          "description": "scoring stage crew"
+        },
+        {
+          "id": "nm0924537",
+          "name": "Booker White",
+          "description": "head of music preparation"
+        },
+        {
+          "id": "nm2183072",
+          "name": "Lara Wickes",
+          "description": "musician: oboe"
+        },
+        {
+          "id": "nm1282247",
+          "name": "Jonathan Williams",
+          "description": "musician: cello"
+        },
+        {
+          "id": "nm0934003",
+          "name": "Reggie Wilson",
+          "description": "orchestra contractor"
+        },
+        {
+          "id": "nm1020391",
+          "name": "Rachel Bolt",
+          "description": "musician: viola (uncredited)"
+        },
+        {
+          "id": "nm6632842",
+          "name": "James Carroll",
+          "description": "song production assistant (uncredited) / source music: additional arrangements (uncredited)"
+        },
+        {
+          "id": "nm2708786",
+          "name": "Nicholas J. Cazares",
+          "description": "music preparation (uncredited)"
+        },
+        {
+          "id": "nm6611722",
+          "name": "Pierre Derycz",
+          "description": "additional music preparation (uncredited)"
+        },
+        {
+          "id": "nm5571498",
+          "name": "Curtis Green",
+          "description": "additional music prep (uncredited)"
+        },
+        {
+          "id": "nm5839471",
+          "name": "Steve Mair",
+          "description": "double-bass (uncredited)"
+        },
+        {
+          "id": "nm5948860",
+          "name": "Ethmer Roten",
+          "description": "musician: flute (uncredited)"
+        },
+        {
+          "id": "nm2236318",
+          "name": "Joe Stone",
+          "description": "English horn (uncredited)"
+        },
+        {
+          "id": "nm0924559",
+          "name": "Bruce White",
+          "description": "musician: viola (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm1771096",
+          "name": "Amanda Deering Jones",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm2873574",
+          "name": "Lalo Alcaraz",
+          "description": "additional voices / cultural consultant"
+        },
+        {
+          "id": "nm7543266",
+          "name": "Collin Allen",
+          "description": "systems support: web development, pixar studio team"
+        },
+        {
+          "id": "nm0028764",
+          "name": "Mark Andrews",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm9401744",
+          "name": "Memo Aponte",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1750036",
+          "name": "Sanjay Bakshi",
+          "description": "additional production and technical leadership"
+        },
+        {
+          "id": "nm7105293",
+          "name": "Liliana Barba Meinecke",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm8900451",
+          "name": "Armando Barrios",
+          "description": "imax digital technician"
+        },
+        {
+          "id": "nm1443869",
+          "name": "Andrew Beall",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm3776459",
+          "name": "Dan Berman",
+          "description": "systems administrator"
+        },
+        {
+          "id": "nm9401745",
+          "name": "Emmanuel Bernal",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0078588",
+          "name": "David Berón",
+          "description": "additional voices (as David Beron) / additional voices"
+        },
+        {
+          "id": "nm0083348",
+          "name": "Brad Bird",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm9483391",
+          "name": "Nic Bishop",
+          "description": "systems administrator"
+        },
+        {
+          "id": "nm0087757",
+          "name": "Denise Blasor",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1433232",
+          "name": "Colin Bohrer",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm0094335",
+          "name": "Wilma Bonet",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0094399",
+          "name": "Óscar Bonfiglio",
+          "description": "additional voices (as Oscar Bonfiglio)"
+        },
+        {
+          "id": "nm2109698",
+          "name": "Katrin Bratland",
+          "description": "RenderMan development"
+        },
+        {
+          "id": "nm4175137",
+          "name": "Mattie Brehm",
+          "description": "development: Pixar studio team"
+        },
+        {
+          "id": "nm3975935",
+          "name": "Shaun Brown",
+          "description": "systems administrator"
+        },
+        {
+          "id": "nm5430720",
+          "name": "Joel Bruck",
+          "description": "systems management: Pixar Studio Team"
+        },
+        {
+          "id": "nm6040224",
+          "name": "Wesley Callow",
+          "description": "systems coordinator"
+        },
+        {
+          "id": "nm6040099",
+          "name": "Michael Capbarat",
+          "description": "Story Manager"
+        },
+        {
+          "id": "nm1154836",
+          "name": "Enrico Casarosa",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm7625992",
+          "name": "Daryn Cash",
+          "description": "systems support: mac and windows, Pixar studio team"
+        },
+        {
+          "id": "nm1241050",
+          "name": "Alex Castillo",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0146216",
+          "name": "Ed Catmull",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm0148869",
+          "name": "Gary Carlos Cervantes",
+          "description": "additional voices (as Gary Cervantes)"
+        },
+        {
+          "id": "nm0972841",
+          "name": "Leila Chesloff",
+          "description": "Marketing: Consumer Products"
+        },
+        {
+          "id": "nm10261317",
+          "name": "Kelley Choi",
+          "description": "pixar university: Pixar Studio Team"
+        },
+        {
+          "id": "nm1202835",
+          "name": "Keri Shawn Cicolani",
+          "description": "theme parks: Pixar Studio Team"
+        },
+        {
+          "id": "nm1471194",
+          "name": "Mary Coleman",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm0172491",
+          "name": "Lindsey Collins",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm9581064",
+          "name": "Teresa Conaty",
+          "description": "unix desktop support: Pixar Studio Team"
+        },
+        {
+          "id": "nm0184748",
+          "name": "David Cowgill",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm11038533",
+          "name": "Keith L. Craig",
+          "description": "distribution"
+        },
+        {
+          "id": "nm2859563",
+          "name": "Bernardo Cubria",
+          "description": "additional voices (as Bernardo Cubría)"
+        },
+        {
+          "id": "nm0198721",
+          "name": "Lars R. Damerow",
+          "description": "systems technical lead"
+        },
+        {
+          "id": "nm0205615",
+          "name": "Vicki Davis",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm3168702",
+          "name": "Marcela Davison Aviles",
+          "description": "additional voices / cultural consultant"
+        },
+        {
+          "id": "nm7006860",
+          "name": "Matilda De Angelis",
+          "description": "voice dubbing: Tía Victoria Rivera"
+        },
+        {
+          "id": "nm0215455",
+          "name": "Ronnie Del Carmen",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm3620161",
+          "name": "Matt DeMartini",
+          "description": "additional production support"
+        },
+        {
+          "id": "nm9401747",
+          "name": "Daniel Diaz",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0232247",
+          "name": "Roberto Donati",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1492612",
+          "name": "Arik Ehle",
+          "description": "marketing"
+        },
+        {
+          "id": "nm7776596",
+          "name": "Maxwell Ernst",
+          "description": "assistant production accountant"
+        },
+        {
+          "id": "nm2697168",
+          "name": "Claire Faggioli",
+          "description": "additional production support"
+        },
+        {
+          "id": "nm0270263",
+          "name": "Brian Fee",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm3536655",
+          "name": "Richmond Felton",
+          "description": "creative coordinator"
+        },
+        {
+          "id": "nm0276691",
+          "name": "Efrain Figueroa",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0003387",
+          "name": "Deb Fink",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1435401",
+          "name": "Julian Fong",
+          "description": "renderman development: Pixar studio team"
+        },
+        {
+          "id": "nm9401750",
+          "name": "Libertad García Fonzi",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm3356012",
+          "name": "John Henry Frankenhauser",
+          "description": "unix desktop support: Pixar Studio Team"
+        },
+        {
+          "id": "nm3978371",
+          "name": "Dana Frankoff",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm0294490",
+          "name": "Mandy Freund",
+          "description": "consumer products/interactive/publishing: Pixar studio team"
+        },
+        {
+          "id": "nm4575734",
+          "name": "Adam Fuchs",
+          "description": "database administrator (as Adams Fuchs)"
+        },
+        {
+          "id": "nm9401749",
+          "name": "Emilio Fuentes",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1978375",
+          "name": "Laura Galinson",
+          "description": "studio teacher"
+        },
+        {
+          "id": "nm1977947",
+          "name": "Sally Garbarini",
+          "description": "pixar production department head"
+        },
+        {
+          "id": "nm0306571",
+          "name": "Daniella Garcia",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm12016744",
+          "name": "Rose Grisel García Jiménez",
+          "description": "publicist"
+        },
+        {
+          "id": "nm0308164",
+          "name": "Lillian Garrett",
+          "description": "additional voices (as Lillian Groag)"
+        },
+        {
+          "id": "nm1649258",
+          "name": "Dominic Glynn",
+          "description": "senior scientist"
+        },
+        {
+          "id": "nm6606843",
+          "name": "Emily Goldsborough",
+          "description": "production coordinator: international"
+        },
+        {
+          "id": "nm9401751",
+          "name": "Mike Gomez",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm3365042",
+          "name": "Winston O. Good",
+          "description": "software engineer"
+        },
+        {
+          "id": "nm11359117",
+          "name": "Lauren Goralski",
+          "description": "pixar studio team: marketing"
+        },
+        {
+          "id": "nm0336395",
+          "name": "Mauro Gravina",
+          "description": "voice dubbing: Papá Enrique Rivera"
+        },
+        {
+          "id": "nm2937200",
+          "name": "Marc S. Greenberg",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm5166169",
+          "name": "Joshua Guerrero",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm3035095",
+          "name": "Jonathan Hadden",
+          "description": "systems support: backups, Pixar studio team"
+        },
+        {
+          "id": "nm0202314",
+          "name": "Sarah Jo Helton",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm3262403",
+          "name": "Montse Hernandez",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0381215",
+          "name": "Christophe Hery",
+          "description": "Software Research/Development Design/Engineering Leadership"
+        },
+        {
+          "id": "nm2923698",
+          "name": "Mark Hessler",
+          "description": "presto animation system and core engineer: software research and development, Pixar studio team"
+        },
+        {
+          "id": "nm3127839",
+          "name": "Shawn Hovis",
+          "description": "systems support: unix"
+        },
+        {
+          "id": "nm6040203",
+          "name": "Nancy Howard",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm0398837",
+          "name": "Ling Hsu",
+          "description": "systems analyst"
+        },
+        {
+          "id": "nm0407179",
+          "name": "Jose Ignacio",
+          "description": "systems support storage and backups"
+        },
+        {
+          "id": "nm5152718",
+          "name": "Thomas Indermaur",
+          "description": "systems technical lead: Pixar studio team"
+        },
+        {
+          "id": "nm5770709",
+          "name": "Alex Ivker",
+          "description": "assistant to the producers"
+        },
+        {
+          "id": "nm0415811",
+          "name": "Marabina Jaimes",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0423099",
+          "name": "Jossara Jinaro",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0428873",
+          "name": "Mike Jones",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm5430887",
+          "name": "Jim Kennedy",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm5108872",
+          "name": "John Kirkman",
+          "description": "senior technology team: Pixar"
+        },
+        {
+          "id": "nm13812708",
+          "name": "Daniela Kriston",
+          "description": "researcher"
+        },
+        {
+          "id": "nm0472549",
+          "name": "Stephen Krug",
+          "description": "Additional Production"
+        },
+        {
+          "id": "nm1012823",
+          "name": "Mike Lane",
+          "description": "production service"
+        },
+        {
+          "id": "nm2267815",
+          "name": "Christian Lanz",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1734334",
+          "name": "Brian Larsen",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm1826499",
+          "name": "Chris Lasell",
+          "description": "systems technical lead: Pixar studio team"
+        },
+        {
+          "id": "nm6656631",
+          "name": "Constanza Lechuga",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm5231160",
+          "name": "Junn Lee",
+          "description": "characters production coordinator"
+        },
+        {
+          "id": "nm0503899",
+          "name": "Luisa Leschin",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1740567",
+          "name": "Gillian Libbert",
+          "description": "production department head: Pixar (as Gillian Libbert-Duncan)"
+        },
+        {
+          "id": "nm0515207",
+          "name": "Ruth Livier",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1779438",
+          "name": "Valentina Lodovini",
+          "description": "voice dubbing: Mamá Luisa Rivera"
+        },
+        {
+          "id": "nm9401752",
+          "name": "Maria Dominique Lopez",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0520188",
+          "name": "Robert Lopez",
+          "description": "original songs by"
+        },
+        {
+          "id": "nm3201147",
+          "name": "Suz Loshin",
+          "description": "development manager"
+        },
+        {
+          "id": "nm3636116",
+          "name": "Kyle Lovrien",
+          "description": "core engineering"
+        },
+        {
+          "id": "nm3699817",
+          "name": "John Robert Loy",
+          "description": "software research and development core engineer (as John Loy)"
+        },
+        {
+          "id": "nm6116193",
+          "name": "Lauren Lukow",
+          "description": "development: Pixar studio team"
+        },
+        {
+          "id": "nm0531035",
+          "name": "Sue Maatouk-Kalache",
+          "description": "management: software research and development, Pixar studio team"
+        },
+        {
+          "id": "nm0533691",
+          "name": "Angus MacLane",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm3139510",
+          "name": "Mara Maionchi",
+          "description": "voice dubbing: Mamá Coco Rivera"
+        },
+        {
+          "id": "nm3677311",
+          "name": "Valeria Maldonado",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm11198683",
+          "name": "Mark Manca",
+          "description": "renderman development: pixar studio team"
+        },
+        {
+          "id": "nm2937738",
+          "name": "Lourdes Marquez Alba",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm10343631",
+          "name": "Matt Martin",
+          "description": "production intern"
+        },
+        {
+          "id": "nm0562134",
+          "name": "Steve May",
+          "description": "senior technology team: Pixar"
+        },
+        {
+          "id": "nm0563859",
+          "name": "Lori McAdams",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm3770662",
+          "name": "Carla Medina",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0592455",
+          "name": "Richard Miro",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2937122",
+          "name": "Adrian Molina",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0602265",
+          "name": "Daniel Edward Mora",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1019884",
+          "name": "Carlos Moreno Jr.",
+          "description": "additional voices / corn man"
+        },
+        {
+          "id": "nm1098840",
+          "name": "BoB 'Naked BoB' Morgan",
+          "description": "systems support: backups, Pixar studio team (as Bob Morgan)"
+        },
+        {
+          "id": "nm0606640",
+          "name": "Jim Morris",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm1105929",
+          "name": "Terry Lee Moseley",
+          "description": "systems support: Mac and Windows - Pixar studio team"
+        },
+        {
+          "id": "nm0618706",
+          "name": "Vivianne Nacif",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm6543260",
+          "name": "Tiajha Nakahara",
+          "description": "Pixar University: Pixar Studio Team"
+        },
+        {
+          "id": "nm9401754",
+          "name": "Jonathan Nichols",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0629618",
+          "name": "Jonathan Nichols-Navarro",
+          "description": "additional voices (as Jonathan Nichols)"
+        },
+        {
+          "id": "nm1001559",
+          "name": "Shannon Ryan Nicosia",
+          "description": "marketing: Pixar Studio Team (as Shannon Nicosia)"
+        },
+        {
+          "id": "nm1269669",
+          "name": "Levi Nunez",
+          "description": "additional voices (as Levi Nuñez)"
+        },
+        {
+          "id": "nm5353244",
+          "name": "Krissy Ober",
+          "description": "senior assistant to the producers"
+        },
+        {
+          "id": "nm2453472",
+          "name": "Edgar A. Ochoa",
+          "description": "logistics supervisor"
+        },
+        {
+          "id": "nm0650969",
+          "name": "Dyana Ortelli",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm5620984",
+          "name": "Arthur Ortiz",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0652296",
+          "name": "Eben Ostby",
+          "description": "production department head: Pixar (as Eben F. Ostby)"
+        },
+        {
+          "id": "nm2834274",
+          "name": "Jessica Pacheco",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2085466",
+          "name": "Juan Pacheco",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm3000525",
+          "name": "Silvia Palara",
+          "description": "Creative Services"
+        },
+        {
+          "id": "nm1190635",
+          "name": "Jack Paulus",
+          "description": "engineering and design lead: software research and development, Pixar studio team"
+        },
+        {
+          "id": "nm0677037",
+          "name": "Bob Peterson",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm2451983",
+          "name": "Will Phan",
+          "description": "systems technical lead"
+        },
+        {
+          "id": "nm0034791",
+          "name": "Jacqueline Pinol",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm4147296",
+          "name": "James Ponce",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2937832",
+          "name": "Allan Poore",
+          "description": "RenderMan development: VP RenderMan"
+        },
+        {
+          "id": "nm5263944",
+          "name": "Tanase Popa",
+          "description": "senior assistant to the producers"
+        },
+        {
+          "id": "nm0692312",
+          "name": "Thomas Porter",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm0700760",
+          "name": "Steve Purcell",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm0702925",
+          "name": "Guido Quaroni",
+          "description": "senior technology team: Pixar"
+        },
+        {
+          "id": "nm2458218",
+          "name": "Rachel Raffael-Gates",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm10294833",
+          "name": "Kenya Randle",
+          "description": "production resource associate"
+        },
+        {
+          "id": "nm9041507",
+          "name": "Brian Rankin",
+          "description": "safety & security"
+        },
+        {
+          "id": "nm1288335",
+          "name": "Lee Rasé",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm7280926",
+          "name": "William Reusch",
+          "description": "additional production finance support"
+        },
+        {
+          "id": "nm5430289",
+          "name": "Steven Ricks",
+          "description": "Media Systems Engineer"
+        },
+        {
+          "id": "nm0729304",
+          "name": "Jonas Rivera",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm2734510",
+          "name": "Gates Roberg-Clark",
+          "description": "software engineer"
+        },
+        {
+          "id": "nm0734989",
+          "name": "Al Rodrigo",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm4323231",
+          "name": "J. Francisco Rodriguez",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2412813",
+          "name": "Polo Rojas",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0406939",
+          "name": "Eduardo Roman",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0741758",
+          "name": "Kevin Rose-Williams",
+          "description": "promotional animation: Pixar studio team"
+        },
+        {
+          "id": "nm1057643",
+          "name": "Rob Rowe",
+          "description": "consumer products/interactive/publishing: Pixar studio team"
+        },
+        {
+          "id": "nm9128453",
+          "name": "Susanne Rublein",
+          "description": "systems assets administrator"
+        },
+        {
+          "id": "nm3965150",
+          "name": "Claudia Salcedo",
+          "description": "assistant: Gael García Bernal"
+        },
+        {
+          "id": "nm1146844",
+          "name": "Johnny A. Sanchez",
+          "description": "additional voices (as Johnny Sanchez III)"
+        },
+        {
+          "id": "nm0992733",
+          "name": "Eddie Santiago",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2397478",
+          "name": "Melissa Santos",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0764780",
+          "name": "Katherine Sarafian",
+          "description": "senior leadership team: Pixar"
+        },
+        {
+          "id": "nm0765947",
+          "name": "Beth Sasseen",
+          "description": "talent strategy and operations: Pixar Animation Studio"
+        },
+        {
+          "id": "nm0768959",
+          "name": "Dan Scanlon",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm6825590",
+          "name": "Erika Schmidt",
+          "description": "development: Pixar studio team"
+        },
+        {
+          "id": "nm2674295",
+          "name": "Matthew Seife",
+          "description": "assistant to the producers (as Matthew Reid Seife)"
+        },
+        {
+          "id": "nm0786212",
+          "name": "Adriana Sevan",
+          "description": "additional voices (as Adriana Sevahn Nichols)"
+        },
+        {
+          "id": "nm12292147",
+          "name": "Elliot Simons",
+          "description": "business affairs & legal counsel"
+        },
+        {
+          "id": "nm2998485",
+          "name": "Burton Siu",
+          "description": "presto animation system and core engineer: software research and development - Pixar Studio Team"
+        },
+        {
+          "id": "nm4091353",
+          "name": "Jessica Snipes",
+          "description": "systems engineer"
+        },
+        {
+          "id": "nm0812307",
+          "name": "Peter Sohn",
+          "description": "senior creative team: Pixar"
+        },
+        {
+          "id": "nm1844396",
+          "name": "Octavio Solis",
+          "description": "cultural consultant"
+        },
+        {
+          "id": "nm0813106",
+          "name": "Luis Solís",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm4688963",
+          "name": "Rosalba Sotelo",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1740632",
+          "name": "David Sotnick",
+          "description": "systems technical lead: Pixar Studio Team"
+        },
+        {
+          "id": "nm2575563",
+          "name": "Tiffany Taira",
+          "description": "university and archives: pixar studio team"
+        },
+        {
+          "id": "nm0858474",
+          "name": "Andy Thomas",
+          "description": "systems support: storage"
+        },
+        {
+          "id": "nm3940254",
+          "name": "Chris Triana",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm1488623",
+          "name": "Trujo",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm0875124",
+          "name": "Jenni Tsoi",
+          "description": "production department head: Pixar"
+        },
+        {
+          "id": "nm9335102",
+          "name": "Maura Turner",
+          "description": "production office assistant"
+        },
+        {
+          "id": "nm0881279",
+          "name": "Lee Unkrich",
+          "description": "additional voices / senior creative team: Pixar"
+        },
+        {
+          "id": "nm9917764",
+          "name": "Jeffrey Varga",
+          "description": "renderman development: Pixar studio team"
+        },
+        {
+          "id": "nm0897788",
+          "name": "Ligiah Villalobos",
+          "description": "cultural consultant"
+        },
+        {
+          "id": "nm9943643",
+          "name": "Freeson Wang",
+          "description": "technical director"
+        },
+        {
+          "id": "nm2298544",
+          "name": "David Wehr",
+          "description": "management: software research and development"
+        },
+        {
+          "id": "nm1383482",
+          "name": "Ian Westcott",
+          "description": "unix desktop support: Pixar Studio Team"
+        },
+        {
+          "id": "nm1552646",
+          "name": "Christine Wilcock",
+          "description": "production resource associate"
+        },
+        {
+          "id": "nm5286545",
+          "name": "Emily Wilson",
+          "description": "Production Coordinator"
+        },
+        {
+          "id": "nm8566357",
+          "name": "Kelly Younger",
+          "description": "Story Trust"
+        },
+        {
+          "id": "nm8654917",
+          "name": "Vassia Zacharopoulou",
+          "description": "voice dubbing"
+        },
+        {
+          "id": "nm0952399",
+          "name": "Ruth Zalduondo",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm4429726",
+          "name": "James Zavaleta",
+          "description": "additional voices"
+        },
+        {
+          "id": "nm2464244",
+          "name": "Mark Zuckerbrow",
+          "description": "sweatbox coordinator"
+        },
+        {
+          "id": "nm3061394",
+          "name": "Carolina Ángel",
+          "description": "additional voices / production coordinator"
+        },
+        {
+          "id": "nm11871324",
+          "name": "Ilke Demir",
+          "description": "software infrastructure intern (uncredited)"
+        },
+        {
+          "id": "nm12051453",
+          "name": "Thomas S. Ellsworth",
+          "description": "production technology developer (uncredited)"
+        },
+        {
+          "id": "nm1216370",
+          "name": "Sandra Equihua",
+          "description": "creative consultant (uncredited)"
+        },
+        {
+          "id": "nm1509613",
+          "name": "Jorge R. Gutiérrez",
+          "description": "creative consultant (uncredited)"
+        },
+        {
+          "id": "nm7365180",
+          "name": "Allie Moreno",
+          "description": "additional voices (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm9709642",
+          "name": "Irene Aguilar",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709620",
+          "name": "Rosanna Esparza Ahrens",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709656",
+          "name": "Adolfo Alcocer",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm1944971",
+          "name": "Raúl Aldana",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709619",
+          "name": "Mary J. Andrade",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709657",
+          "name": "Jose Arroyo",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709623",
+          "name": "Marisa Canales",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709659",
+          "name": "Michael Anthony Carnacchi",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709641",
+          "name": "Juan Carlos Cedeño",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709628",
+          "name": "Maria Luisa Colmenarez",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709662",
+          "name": "Marta Lilian Duarte de Gonzalez",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709634",
+          "name": "María López de León",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709632",
+          "name": "Eduardo Díaz",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709630",
+          "name": "Benjamín Juén Echenique",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709645",
+          "name": "Denise Muñoz Echeverri",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm1101630",
+          "name": "Dave Eggers",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9302747",
+          "name": "Ofelia Esparza",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709624",
+          "name": "Evelina Fernandez",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709629",
+          "name": "Consuelo Ferreira",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709633",
+          "name": "Rudy F. Garcia",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709664",
+          "name": "Pedro Alberto Gonzalez",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709637",
+          "name": "Dan Guerrero",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709644",
+          "name": "Beatriz Vázquez Gómez",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709643",
+          "name": "Ricardo Linares Gómez",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709625",
+          "name": "Atiuh Hawk",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709621",
+          "name": "Roberto Hernandez",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709640",
+          "name": "Rodolfo Juárez",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709660",
+          "name": "Nigel Keep",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm3827556",
+          "name": "Arturo López Gavito",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709638",
+          "name": "Emilytrisha Lopez Marchena",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709635",
+          "name": "Concepcion J. Saucedo Martinez",
+          "description": "special thanks: cultural advisor (as Dr. Concecpion J. Saucedo Martinez)"
+        },
+        {
+          "id": "nm0598895",
+          "name": "Chris Montan",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm1733918",
+          "name": "Dana Murray",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm2169250",
+          "name": "Becky Neiman",
+          "description": "additional thanks (as Becky Neiman-Cobb)"
+        },
+        {
+          "id": "nm0630923",
+          "name": "Mark Nielsen",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm2847331",
+          "name": "Alex Nogales",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm0342430",
+          "name": "Nicole Paradis Grindle",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709626",
+          "name": "Laura E. Pérez",
+          "description": "special thanks: cultural advisor (as Dr. Laura E. Pérez)"
+        },
+        {
+          "id": "nm0706032",
+          "name": "Kori Rae",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709663",
+          "name": "Vanessa Ramos",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm0714066",
+          "name": "Denise Ream",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709665",
+          "name": "Dave Reynolds",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709631",
+          "name": "Lauryn Salazar",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709639",
+          "name": "Herbert Seguenza",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm0839877",
+          "name": "Galyn Susman",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709658",
+          "name": "Claudia Tagimaroa",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709661",
+          "name": "Hilda Trujillo",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm9709622",
+          "name": "Luis Valdez",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709627",
+          "name": "Lupe Valdez",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm9709636",
+          "name": "José Luis Valenzuela",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm0897788",
+          "name": "Ligiah Villalobos",
+          "description": "special thanks: cultural advisor"
+        },
+        {
+          "id": "nm0907869",
+          "name": "John Walker",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm0912717",
+          "name": "Andrea Warren",
+          "description": "additional thanks"
+        },
+        {
+          "id": "nm8566357",
+          "name": "Kelly Younger",
+          "description": "thanks: Disney Animation Story Trust"
+        },
+        {
+          "id": "nm9709654",
+          "name": "Jacobo Ángeles",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        },
+        {
+          "id": "nm9709655",
+          "name": "María Ángeles",
+          "description": "thank you to the families, individuals and organizations who assisted us in our research"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

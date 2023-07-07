@@ -1,0 +1,1785 @@
+{
+  "imDbId": "tt0081398",
+  "title": "Raging Bull",
+  "fullTitle": "Raging Bull (1980)",
+  "type": "Movie",
+  "year": "1980",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000217",
+        "name": "Martin Scorsese",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0483766",
+        "name": "Jake LaMotta",
+        "description": "(based on the book by) (as Jake La Motta)"
+      },
+      {
+        "id": "nm0141734",
+        "name": "Joseph Carter",
+        "description": "(with) and"
+      },
+      {
+        "id": "nm0678014",
+        "name": "Peter Savage",
+        "description": "(with)"
+      },
+      {
+        "id": "nm0001707",
+        "name": "Paul Schrader",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0552731",
+        "name": "Mardik Martin",
+        "description": "(screenplay)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000134",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert De Niro",
+      "asCharacter": "Jake La Motta"
+    },
+    {
+      "id": "nm0001550",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzOTc1NjU4MjFeQTJeQWpwZ15BbWU2MDc3NjgzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Cathy Moriarty",
+      "asCharacter": "Vickie La Motta"
+    },
+    {
+      "id": "nm0000582",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc3MTcxNDYxNV5BMl5BanBnXkFtZTcwOTI3NjE1Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joe Pesci",
+      "asCharacter": "Joey"
+    },
+    {
+      "id": "nm0898634",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODM3ODA3N15BMl5BanBnXkFtZTYwNzg1ODQ1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Vincent",
+      "asCharacter": "Salvy"
+    },
+    {
+      "id": "nm0170225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNDkyODMzNV5BMl5BanBnXkFtZTcwMjgzNjIyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Nicholas Colasanto",
+      "asCharacter": "Tommy Como"
+    },
+    {
+      "id": "nm0757854",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ0NjAwMjA4MV5BMl5BanBnXkFtZTgwOTE0MDIxOTE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Theresa Saldana",
+      "asCharacter": "Lenore"
+    },
+    {
+      "id": "nm0002869",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmM4MTQ2ZjAtYjcyNi00NjBjLWFmZjYtZTE4Mjg3YzA4YWJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Mario Gallo",
+      "asCharacter": "Mario"
+    },
+    {
+      "id": "nm0012376",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNjAyNTU5N15BMl5BanBnXkFtZTgwMzc0MzQwNzM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Adonis",
+      "asCharacter": "Patsy"
+    },
+    {
+      "id": "nm0095114",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Bono",
+      "asCharacter": "Guido"
+    },
+    {
+      "id": "nm0867666",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Topham",
+      "asCharacter": "Toppy"
+    },
+    {
+      "id": "nm0281349",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFhNzY4NDktN2Q0Ny00MWExLTgzYjktNzA0OWZkNmY4MmQzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Lori Anne Flax",
+      "asCharacter": "Irma"
+    },
+    {
+      "id": "nm0778737",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNjM5OTg4OF5BMl5BanBnXkFtZTcwNjM3MjkxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Scorsese",
+      "asCharacter": "Charlie - Man with Como"
+    },
+    {
+      "id": "nm0242988",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Don Dunphy",
+      "asCharacter": "Self - Radio Announcer for Dauthuille Fight"
+    },
+    {
+      "id": "nm0360545",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Hanrahan",
+      "asCharacter": "Eddie Eagan"
+    },
+    {
+      "id": "nm1631599",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rita Bennett",
+      "asCharacter": "Emma - Miss 48's"
+    },
+    {
+      "id": "nm0160696",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James V. Christy",
+      "asCharacter": "Dr. Pinto"
+    },
+    {
+      "id": "nm0020300",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZkYTM4ZTAtMzNjZC00MmE0LWIzODItZjNlOWQ1OTlhYmE1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bernie Allen",
+      "asCharacter": "Comedian"
+    },
+    {
+      "id": "nm0026718",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Floyd Anderson",
+      "asCharacter": "Jimmy Reeves - Reeves Fight"
+    },
+    {
+      "id": "nm0494061",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWI2ODM0NmMtYTY3NC00OTg1LTk0MTktMjUxNjEyOGViYTY2XkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Gene LeBell",
+      "asCharacter": "Ring Announcer - Reeves Fight (as Gene Lebell)"
+    },
+    {
+      "id": "nm0883478",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harold Valan",
+      "asCharacter": "Referee - Reeves Fight"
+    },
+    {
+      "id": "nm0536312",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Magnotta",
+      "asCharacter": "Fighting Soldier - Reeves Fight"
+    },
+    {
+      "id": "nm0055652",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWM1OTNlOGYtMmE2ZC00NDNkLTk5MjUtZmFmMDg0ZjJhYzc4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Johnny Barnes",
+      "asCharacter": "Sugar Ray Robinson - First Robinson Fight"
+    },
+    {
+      "id": "nm0859045",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Thomas",
+      "asCharacter": "Trainer - First Robinson Fight"
+    },
+    {
+      "id": "nm0204972",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kenny Davis",
+      "asCharacter": "Referee - First Robinson Fight"
+    },
+    {
+      "id": "nm0138368",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Carmello",
+      "asCharacter": "Ring Announcer - First Robinson Fight"
+    },
+    {
+      "id": "nm0502021",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmy Lennon Sr.",
+      "asCharacter": "Ring Announcer - Second Robinson Fight and Dauthuille Fight (as Jimmy Lennon)"
+    },
+    {
+      "id": "nm0727648",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bobby Rings",
+      "asCharacter": "Referee - Second Robinson Fight"
+    },
+    {
+      "id": "nm0537094",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kevin Mahon",
+      "asCharacter": "Tony Janiro - Janiro Fight"
+    },
+    {
+      "id": "nm0219286",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marty Denkin",
+      "asCharacter": "Referee - Janiro Fight (as Martin Denkin)"
+    },
+    {
+      "id": "nm0240474",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI4MzkwMTAyNl5BMl5BanBnXkFtZTcwOTQ1MjEzMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Shay Duffin",
+      "asCharacter": "Ring Announcer - Janiro Fight"
+    },
+    {
+      "id": "nm0611245",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Mustafa Muhammad",
+      "asCharacter": "Billy Fox - Fox Fight"
+    },
+    {
+      "id": "nm0926539",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDc2NGMwODUtMTMwNy00MmNiLTg0NDMtYzlhYmUyN2FlZDVhXkEyXkFqcGdeQXVyMjM2ODYwMQ@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Dick Whittington",
+      "asCharacter": "Ring Announcer - Fox Fight (as 'Sweet' Dick Whittington)"
+    },
+    {
+      "id": "nm0521569",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5NjkwNjMyNV5BMl5BanBnXkFtZTYwNjk2MTEz._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Lotz",
+      "asCharacter": "Referee - Fox Fight"
+    },
+    {
+      "id": "nm0107740",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTMxODkxODY1OV5BMl5BanBnXkFtZTcwNTg0MzUxOQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Kevin Breslin",
+      "asCharacter": "Heckler - Fox Fight"
+    },
+    {
+      "id": "nm0706383",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWE5NjlhZWEtMGZhMy00MWNmLWJhNDMtZDc4NDcxN2RiOTBjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Louis Raftis",
+      "asCharacter": "Marcel Cerdan - Cerdan Fight"
+    },
+    {
+      "id": "nm0787594",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Shain",
+      "asCharacter": "Ring Announcer - Cerdan Fight"
+    },
+    {
+      "id": "nm0908577",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Coley Wallace",
+      "asCharacter": "Joe Louis - Cerdan Fight"
+    },
+    {
+      "id": "nm0383386",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fritzie Higgins",
+      "asCharacter": "Woman with Vickie - Cerdan Fight"
+    },
+    {
+      "id": "nm0490262",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Latka",
+      "asCharacter": "Referee - Cerdan Fight"
+    },
+    {
+      "id": "nm0219453",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fred Dennis",
+      "asCharacter": "Cornerman #1 - Cerdan Fight"
+    },
+    {
+      "id": "nm0521024",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert B. Loring",
+      "asCharacter": "Cornerman #2 - Cerdan Fight"
+    },
+    {
+      "id": "nm0877663",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnny Turner",
+      "asCharacter": "Laurent Dauthuille - Dauthuille Fight"
+    },
+    {
+      "id": "nm0210884",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vern De Paul",
+      "asCharacter": "Dauthuille's Trainer - Dauthuille Fight"
+    },
+    {
+      "id": "nm0368469",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chuck Hassett",
+      "asCharacter": "Referee - Dauthuille Fight"
+    },
+    {
+      "id": "nm1250365",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ken Richards",
+      "asCharacter": "Reporter at Phone Booth - Dauthuille Fight"
+    },
+    {
+      "id": "nm0265376",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Fain",
+      "asCharacter": "Dauthuille Corner Man - Dauthuille Fight"
+    },
+    {
+      "id": "nm0889703",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billy Varga",
+      "asCharacter": "Ring announcer - Third Robinson Fight (as Count Billy Varga)"
+    },
+    {
+      "id": "nm0663655",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDc4NDM1MzgtYzNiNy00NTZhLTg1ZDgtYzBjNjI3ZGMxZTk3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harvey Parry",
+      "asCharacter": "Referee - Third Robinson Fight"
+    },
+    {
+      "id": "nm0403903",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmU0OTQ0ZWYtOGU4Mi00Njk4LWE4YTEtOGU2MzM1ZTgzNTUzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ted Husing",
+      "asCharacter": "Self - Third Robinson Fight Announcer (voice) (archive footage)"
+    },
+    {
+      "id": "nm0045937",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzExOTM3ZmMtODMyNS00ZjNlLTljZDctNGY2NzBjYzAwMGEwXkEyXkFqcGdeQXVyMTQ5Njc3Nzcw._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Badalucco",
+      "asCharacter": "Soda Fountain Clerk"
+    },
+    {
+      "id": "nm0516416",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Beansy Lobasso",
+      "asCharacter": "Beansy"
+    },
+    {
+      "id": "nm0286679",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Forrest",
+      "asCharacter": "Monsignor"
+    },
+    {
+      "id": "nm0677830",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Petrella",
+      "asCharacter": "Johnny"
+    },
+    {
+      "id": "nm0866435",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sal Serafino Tomassetti",
+      "asCharacter": "Webster Hall Bouncer"
+    },
+    {
+      "id": "nm0808318",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NDUzOTgzMl5BMl5BanBnXkFtZTYwMzE4MDAz._V1_Ratio0.8182_AL_.jpg",
+      "name": "Geraldine Smith",
+      "asCharacter": "Janet"
+    },
+    {
+      "id": "nm0552731",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDgyOWZmNzQtYjM1Ny00OGFiLWIxYzYtNjIxNzRhZmVjNmU5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mardik Martin",
+      "asCharacter": "Copa Waiter"
+    },
+    {
+      "id": "nm0491360",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Maryjane Lauria",
+      "asCharacter": "Girl #1"
+    },
+    {
+      "id": "nm0037983",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Linda Artuso",
+      "asCharacter": "Girl #2"
+    },
+    {
+      "id": "nm0678014",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1NzQ2MDIyM15BMl5BanBnXkFtZTcwMjE1MTk1OA@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Peter Savage",
+      "asCharacter": "Jackie Curtie"
+    },
+    {
+      "id": "nm0176224",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daniel P. Conte",
+      "asCharacter": "Detroit Promoter"
+    },
+    {
+      "id": "nm0538923",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Malanga",
+      "asCharacter": "Bodyguard"
+    },
+    {
+      "id": "nm0876944",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sabine Turco Jr.",
+      "asCharacter": "Bouncer at Copa"
+    },
+    {
+      "id": "nm0650025",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Steve Orlando",
+      "asCharacter": "Bouncer at Copa"
+    },
+    {
+      "id": "nm0305713",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Silvio García Jr.",
+      "asCharacter": "Bouncer at Copa"
+    },
+    {
+      "id": "nm0033571",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Arceri",
+      "asCharacter": "Maitre 'D"
+    },
+    {
+      "id": "nm0602524",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph A. Morale",
+      "asCharacter": "Man at Table #1"
+    },
+    {
+      "id": "nm0227443",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Dimodica",
+      "asCharacter": "Man at Table #1"
+    },
+    {
+      "id": "nm0881953",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Uricola",
+      "asCharacter": "Man Outside Cab"
+    },
+    {
+      "id": "nm0649972",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andrea Orlando",
+      "asCharacter": "Woman in Cab"
+    },
+    {
+      "id": "nm0538896",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Allan Malamud",
+      "asCharacter": "Reporter at Jake's House"
+    },
+    {
+      "id": "nm0086219",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "D.J. Blair",
+      "asCharacter": "State Attorney Bronson"
+    },
+    {
+      "id": "nm0416686",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Laura James",
+      "asCharacter": "Mrs. Bronson"
+    },
+    {
+      "id": "nm0573478",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBlMzUwZDctZTc2NS00Yzk2LWE0NTgtNDQ2NzVlNDFmZmQwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Richard McMurray",
+      "asCharacter": "J.R."
+    },
+    {
+      "id": "nm0016366",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mary Albee",
+      "asCharacter": "Underage I.D. Girl"
+    },
+    {
+      "id": "nm0441772",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lisa Katz",
+      "asCharacter": "Woman with I.D. Girl"
+    },
+    {
+      "id": "nm0600993",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxODQ0ODgxMl5BMl5BanBnXkFtZTcwMTkyNTcxMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Candy Moore",
+      "asCharacter": "Linda"
+    },
+    {
+      "id": "nm0075281",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard A. Berk",
+      "asCharacter": "Musician #1"
+    },
+    {
+      "id": "nm0766977",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Theodore Saunders",
+      "asCharacter": "Musician #2"
+    },
+    {
+      "id": "nm0949928",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Noah Young",
+      "asCharacter": "Musician #3"
+    },
+    {
+      "id": "nm0873135",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nick Trisko",
+      "asCharacter": "Bartender Carlo"
+    },
+    {
+      "id": "nm0862522",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lou Tiano",
+      "asCharacter": "Ricky"
+    },
+    {
+      "id": "nm0172638",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Evan Collins",
+      "asCharacter": "Arresting Deputy #1"
+    },
+    {
+      "id": "nm0076976",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wally K. Berns",
+      "asCharacter": "Arresting Deputy #2 (as Wally Berns)"
+    },
+    {
+      "id": "nm0430535",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFiNDFjOWMtMjAxMy00YmVlLTg2M2YtNzViOGZkYTg3YzEzXkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Allen Joseph",
+      "asCharacter": "Jeweler (as Allan Joseph)"
+    },
+    {
+      "id": "nm0007443",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Aaron",
+      "asCharacter": "Prison Guard #1"
+    },
+    {
+      "id": "nm0550899",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Glenn Leigh Marshall",
+      "asCharacter": "Prison Guard #2"
+    },
+    {
+      "id": "nm0000217",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Martin Scorsese",
+      "asCharacter": "Barbizon Stagehand"
+    },
+    {
+      "id": "nm0053587",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vincent Barbi",
+      "asCharacter": "New Yorker (uncredited)"
+    },
+    {
+      "id": "nm0074810",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Bergmann",
+      "asCharacter": "Sailor at Ballroom (uncredited)"
+    },
+    {
+      "id": "nm13104216",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTkzZTIyMjYtNDM3Ni00NzdkLTkxMGUtZjFhOTc2N2M2NmMyXkEyXkFqcGdeQXVyMTM3MzIyMzg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ron Carmichael",
+      "asCharacter": "Ringside Spectator (uncredited)"
+    },
+    {
+      "id": "nm1093865",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTRlZjg2YjEtNTRlYi00ZDQ4LWExNmItYWI5M2EzYWM2YjgyXkEyXkFqcGdeQXVyMzYzMjE4Mg@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Scott Crawford",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm2437773",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRkOGZmMWQtYzMwMi00ZjE0LTk3ZGMtODEzNGU4MGI4ZjE0XkEyXkFqcGdeQXVyMTk1OTUyNjY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dennis Crosswhite",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0196872",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Dahdah",
+      "asCharacter": "Restaurant Doorman (uncredited)"
+    },
+    {
+      "id": "nm0224176",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA5MzU3Y2YtZTZhMS00YzlhLTg4ZjUtNzgwN2FiYTBhNGU3XkEyXkFqcGdeQXVyMjAyNDc4NTg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Vincent Di Paolo",
+      "asCharacter": "Police officer (uncredited)"
+    },
+    {
+      "id": "nm0226553",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bruno DiGiorgi",
+      "asCharacter": "Soda Fountain Clerk #2 (uncredited)"
+    },
+    {
+      "id": "nm0268279",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marty Farrell",
+      "asCharacter": "Heckler in Bar (uncredited)"
+    },
+    {
+      "id": "nm0763807",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bobby Giordano",
+      "asCharacter": "New Yorker (uncredited)"
+    },
+    {
+      "id": "nm0321453",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWExOWFhODYtYzM5Yi00OWU5LWFmMTQtNjI4NTU2OWJmMThlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "R. Michael Givens",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0345336",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Guardino",
+      "asCharacter": "New Yorker (uncredited)"
+    },
+    {
+      "id": "nm0363193",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIxZTU3NDUtODllOC00OGE0LWE2OTItOGIzMGZkYjgwMDRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bob Harks",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm0382820",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MzY4MTk5NF5BMl5BanBnXkFtZTYwNDExNzky._V1_Ratio0.7727_AL_.jpg",
+      "name": "Chuck Hicks",
+      "asCharacter": "Cornerman (uncredited)"
+    },
+    {
+      "id": "nm0384524",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Charles Hill",
+      "asCharacter": "Boxing Fan (uncredited)"
+    },
+    {
+      "id": "nm3546231",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leonard B. John",
+      "asCharacter": "New Yorker (uncredited)"
+    },
+    {
+      "id": "nm0479023",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Walt La Rue",
+      "asCharacter": "Cornerman (uncredited)"
+    },
+    {
+      "id": "nm0483634",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angelo Lamonea",
+      "asCharacter": "Cornerman (uncredited)"
+    },
+    {
+      "id": "nm0495588",
+      "image": "https://m.media-amazon.com/images/M/MV5BMThhMGZhOTgtOWZmMi00MWM4LTk4OGUtNDA1MGJmMzIzZTVmXkEyXkFqcGdeQXVyMTMzODU3NDA1._V1_Ratio0.7273_AL_.jpg",
+      "name": "David LeBell",
+      "asCharacter": "Mall Patron (uncredited)"
+    },
+    {
+      "id": "nm0513401",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tony Lip",
+      "asCharacter": "Patron at Nightclub (uncredited)"
+    },
+    {
+      "id": "nm0563242",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Mazer",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0614746",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Murphy",
+      "asCharacter": "J.R.'s Friend (uncredited)"
+    },
+    {
+      "id": "nm1217404",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdhOTA2ODMtNTM4Mi00NWYxLTk0YTgtZGM4YTQ4MTM5ODljXkEyXkFqcGdeQXVyMTY1ODYxNjgy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joe Napoleone",
+      "asCharacter": "Street Vendor (uncredited)"
+    },
+    {
+      "id": "nm0642138",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmMzYjhlMTgtMjJlNC00Mzg2LWExM2UtNzcyN2Y2MmQxNjFiXkEyXkFqcGdeQXVyMDk0NDIwNQ@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Dennis O'Neill",
+      "asCharacter": "Dancer (uncredited)"
+    },
+    {
+      "id": "nm0673945",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk3ZDY3MGItNmYzOC00N2ZjLTgyNTktODQ0ZjQxN2I2YzczXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Gil Perkins",
+      "asCharacter": "Cornerman (uncredited)"
+    },
+    {
+      "id": "nm0688113",
+      "image": "https://m.media-amazon.com/images/M/MV5BODYwZDM5ZDctZGJjMy00ZDE4LTg1ZTUtNTA3YmQ5MDk1MmJlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Gene Poe",
+      "asCharacter": "Audie Murphy (uncredited)"
+    },
+    {
+      "id": "nm0775094",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jerry Schram",
+      "asCharacter": "Party Dancer (uncredited)"
+    },
+    {
+      "id": "nm2006011",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Glenn Stanton",
+      "asCharacter": "Bar Hand (uncredited)"
+    },
+    {
+      "id": "nm0001806",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzYwNjgwMjMxMF5BMl5BanBnXkFtZTcwNjUwOTc3NQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "John Turturro",
+      "asCharacter": "Man at Webster Hall Table (uncredited)"
+    },
+    {
+      "id": "nm0922877",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDIzNTUxMTIxOV5BMl5BanBnXkFtZTYwNTg5MDM1._V1_Ratio0.7273_AL_.jpg",
+      "name": "McKenzie Westmore",
+      "asCharacter": "Jake's Daughter (uncredited)"
+    },
+    {
+      "id": "nm0930911",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmy Williams",
+      "asCharacter": "Reporter (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0153590",
+          "name": "Robert Chartoff",
+          "description": "producer"
+        },
+        {
+          "id": "nm0688788",
+          "name": "Hal W. Polaire",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0678014",
+          "name": "Peter Savage",
+          "description": "produced in association with"
+        },
+        {
+          "id": "nm0005563",
+          "name": "Irwin Winkler",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0152469",
+          "name": "Michael Chapman",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0774817",
+          "name": "Thelma Schoonmaker",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0180015",
+          "name": "Cis Corman",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0009055",
+          "name": "Phil Abramson",
+          "description": ""
+        },
+        {
+          "id": "nm0918009",
+          "name": "Frederic C. Weiler",
+          "description": "(as Fred Weiler)"
+        },
+        {
+          "id": "nm0081128",
+          "name": "Carl Biddiscombe",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0101532",
+          "name": "John Boxer",
+          "description": ""
+        },
+        {
+          "id": "nm0116529",
+          "name": "Richard Bruno",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0142348",
+          "name": "Verne Caruso",
+          "description": "hairstylist"
+        },
+        {
+          "id": "nm0444191",
+          "name": "Mary Keats",
+          "description": "hairstylist"
+        },
+        {
+          "id": "nm0535962",
+          "name": "Mike Maggi",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0625397",
+          "name": "Greg Nelson",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0650590",
+          "name": "Mona Orr",
+          "description": "hairstylist"
+        },
+        {
+          "id": "nm0123437",
+          "name": "Jean Burt Reilly",
+          "description": "hairstylist"
+        },
+        {
+          "id": "nm0922878",
+          "name": "Michael Westmore",
+          "description": "makeup creator"
+        },
+        {
+          "id": "nm0668250",
+          "name": "Allen Payne",
+          "description": "hair stylist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0115384",
+          "name": "James D. Brubaker",
+          "description": "production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0111391",
+          "name": "Henry Bronchtein",
+          "description": "dga trainee"
+        },
+        {
+          "id": "nm0169896",
+          "name": "Elie Cohn",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0334845",
+          "name": "Jerry Grandey",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0270746",
+          "name": "Joan Van Horn",
+          "description": "second assistant director (as Joan Feinstein)"
+        },
+        {
+          "id": "nm0921599",
+          "name": "Allan Wertheim",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0058565",
+          "name": "Robert Barth",
+          "description": "second assistant director (uncredited)"
+        },
+        {
+          "id": "nm0778737",
+          "name": "Charles Scorsese",
+          "description": "second unit director: rooftop wedding sequence (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0011395",
+          "name": "Terry L. Adams",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0043574",
+          "name": "Kirk Axtell",
+          "description": "art director: Los Angeles"
+        },
+        {
+          "id": "nm0061827",
+          "name": "Hank Bauer",
+          "description": "chief carpenter"
+        },
+        {
+          "id": "nm0004158",
+          "name": "Emily Ferry",
+          "description": "property master"
+        },
+        {
+          "id": "nm0352200",
+          "name": "Sheldon Haber",
+          "description": "art director: New York"
+        },
+        {
+          "id": "nm0523377",
+          "name": "William Lowry",
+          "description": "construction grip (as William J. Lowry Sr.)"
+        },
+        {
+          "id": "nm0524943",
+          "name": "Gene Ludvigsen",
+          "description": "construction foreman"
+        },
+        {
+          "id": "nm0543756",
+          "name": "Alan Manser",
+          "description": "art director: Los Angeles"
+        },
+        {
+          "id": "nm0607749",
+          "name": "Jack Mortellaro",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm0694113",
+          "name": "Eugene Powell",
+          "description": "scenic artist"
+        },
+        {
+          "id": "nm0748908",
+          "name": "Gene Rudolf",
+          "description": "production designer: New York"
+        },
+        {
+          "id": "nm0755029",
+          "name": "Thomas Saccio",
+          "description": "property master (as Tom Saccio)"
+        },
+        {
+          "id": "nm0841804",
+          "name": "Hans Swanson",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0869308",
+          "name": "Louis S. Toth Jr.",
+          "description": "head construction grip (as Lou Toth Jr.)"
+        },
+        {
+          "id": "nm0174201",
+          "name": "Linda Conaway-Parsloe",
+          "description": "assistant art director (uncredited)"
+        },
+        {
+          "id": "nm2200560",
+          "name": "Tom Jung",
+          "description": "poster designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0263781",
+          "name": "Michael Evje",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0314416",
+          "name": "Gary S. Gerlich",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0315179",
+          "name": "Walter A. Gest",
+          "description": "recordist (as Walter Gest)"
+        },
+        {
+          "id": "nm0347424",
+          "name": "Richard Guinness",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0453795",
+          "name": "David J. Kimball",
+          "description": "re-recording engineer"
+        },
+        {
+          "id": "nm0493796",
+          "name": "Les Lazarowitz",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0553178",
+          "name": "Victoria Martin",
+          "description": "assistant sound effects editor"
+        },
+        {
+          "id": "nm0593290",
+          "name": "Donald O. Mitchell",
+          "description": "re-recording engineer"
+        },
+        {
+          "id": "nm0629779",
+          "name": "Bill Nicholson",
+          "description": "re-recording engineer"
+        },
+        {
+          "id": "nm0728562",
+          "name": "Gary Ritchie",
+          "description": "recordist"
+        },
+        {
+          "id": "nm0778515",
+          "name": "Robert Sciretta",
+          "description": "cableman"
+        },
+        {
+          "id": "nm0796989",
+          "name": "Murray Siegel",
+          "description": "cableman"
+        },
+        {
+          "id": "nm0806153",
+          "name": "Chester Slomka",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0839530",
+          "name": "Pat Suraci",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0912466",
+          "name": "Frank E. Warner",
+          "description": "sound effects supervising editor (as Frank Warner)"
+        },
+        {
+          "id": "nm0943772",
+          "name": "Bill Wylie",
+          "description": "sound effects editor (as William J. Wylie)"
+        },
+        {
+          "id": "nm0240764",
+          "name": "Ken Dufva",
+          "description": "foley artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0458940",
+          "name": "Raymond Klein",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0939880",
+          "name": "Max E. Wood",
+          "description": "special effects"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0495588",
+          "name": "David LeBell",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0630022",
+          "name": "Jimmy Nickerson",
+          "description": "stunt coordinator (as Jim Nickerson)"
+        },
+        {
+          "id": "nm1985214",
+          "name": "David Copeland",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm0600934",
+          "name": "Bennie Moore",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0790601",
+          "name": "Konrad Sheehan",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0087919",
+          "name": "Dustin Blauvelt",
+          "description": "first assistant cameraman"
+        },
+        {
+          "id": "nm0106758",
+          "name": "Peter J. Breen",
+          "description": "dolly grip"
+        },
+        {
+          "id": "nm0175539",
+          "name": "Robert Connors",
+          "description": "best boy (as Robert Conners)"
+        },
+        {
+          "id": "nm0270276",
+          "name": "Rick Fee",
+          "description": "second assistant cameraman (as Richard Fee)"
+        },
+        {
+          "id": "nm0299298",
+          "name": "Henry Fusco",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0319211",
+          "name": "Tom Gilligan",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0324963",
+          "name": "Edward Gold",
+          "description": "camera operator (as Eddie Gold)"
+        },
+        {
+          "id": "nm0004413",
+          "name": "Brian Hamill",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0521388",
+          "name": "Christine M. Loss",
+          "description": "still photographer (as Christine Loss)"
+        },
+        {
+          "id": "nm0531411",
+          "name": "Bruce MacCallum",
+          "description": "second assistant cameraman (as Bruce Mc Callum)"
+        },
+        {
+          "id": "nm0549812",
+          "name": "Joe R. Marquette Jr.",
+          "description": "camera operator (as Joe Marquette)"
+        },
+        {
+          "id": "nm0579086",
+          "name": "Ray Mendez",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0589216",
+          "name": "Robert Miller",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0684133",
+          "name": "Barry Ping",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0703730",
+          "name": "Richard Quinlan",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0703830",
+          "name": "Ed Quinn",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0708292",
+          "name": "Eddie Ramirez",
+          "description": "first assistant cameraman (as Ed Ramirez)"
+        },
+        {
+          "id": "nm0111739",
+          "name": "Ricki-Ellen Brooke",
+          "description": "second assistant camera: \"b\" camera (uncredited)"
+        },
+        {
+          "id": "nm0232923",
+          "name": "Vincent Donohue",
+          "description": "rigging grip (uncredited)"
+        },
+        {
+          "id": "nm0005703",
+          "name": "Don E. FauntLeRoy",
+          "description": "first assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0280029",
+          "name": "William E. Fitch",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0356603",
+          "name": "James Halligan",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0393439",
+          "name": "Albert Hood",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0446501",
+          "name": "Joe Kelly",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0453981",
+          "name": "Adam Kimmel",
+          "description": "camera apprentice (uncredited)"
+        },
+        {
+          "id": "nm0478060",
+          "name": "Gábor Kövér",
+          "description": "assistant camera (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm0441075",
+          "name": "Gail Kaszynski",
+          "description": "casting assistant"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0517704",
+          "name": "William Loger",
+          "description": "costumer (as Bill Loger)"
+        },
+        {
+          "id": "nm0637416",
+          "name": "Betty M. Nowell",
+          "description": "costumer"
+        },
+        {
+          "id": "nm0701229",
+          "name": "Marilyn Putnam",
+          "description": "costumer"
+        },
+        {
+          "id": "nm0804376",
+          "name": "Dean Skipworth",
+          "description": "costumer"
+        },
+        {
+          "id": "nm0915811",
+          "name": "Andrea E. Weaver",
+          "description": "costumer (as Andrea Weaver)"
+        },
+        {
+          "id": "nm0406308",
+          "name": "Robert Iannaccone",
+          "description": "set costumer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0060202",
+          "name": "Craig Bassett",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0060205",
+          "name": "Donah Bassett",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm0107855",
+          "name": "Melissa Bretherton",
+          "description": "assistant editor (as Mellissa Bretherton)"
+        },
+        {
+          "id": "nm0161497",
+          "name": "Lisa Zeno Churgin",
+          "description": "assistant editor (as Lisa Churgin)"
+        },
+        {
+          "id": "nm0295243",
+          "name": "Jeffrey Friedman",
+          "description": "assistant editor (as Jeff Friedman)"
+        },
+        {
+          "id": "nm1012811",
+          "name": "Jim Henry",
+          "description": "timer: black and white"
+        },
+        {
+          "id": "nm0457212",
+          "name": "Yoshio Kishi",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0550261",
+          "name": "John Mavros",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0588998",
+          "name": "Michael R. Miller",
+          "description": "assistant editor (as Michael Miller)"
+        },
+        {
+          "id": "nm0607673",
+          "name": "Susan E. Morse",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0689806",
+          "name": "Sonya Polonsky",
+          "description": "first assistant editor"
+        },
+        {
+          "id": "nm0708085",
+          "name": "Erik T. Ramberg",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0779555",
+          "name": "Mary Scott",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0827759",
+          "name": "Karen I. Stern",
+          "description": "assistant editor (as Karen Stern)"
+        },
+        {
+          "id": "nm0873123",
+          "name": "George Trirogoff",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0912536",
+          "name": "Mark Warner",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0153587",
+          "name": "William Chartoff",
+          "description": "apprentice editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0072467",
+          "name": "Dale Benson",
+          "description": "location manager"
+        },
+        {
+          "id": "nm0188851",
+          "name": "Christopher Cronyn",
+          "description": "location manager (as Chris Cronyn)"
+        },
+        {
+          "id": "nm0623716",
+          "name": "Michael Neale",
+          "description": "location manager (uncredited)"
+        },
+        {
+          "id": "nm0777359",
+          "name": "Marty Eli Schwartz",
+          "description": "location manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0377619",
+          "name": "Jim Henrikson",
+          "description": "music editor"
+        },
+        {
+          "id": "nm3592104",
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "description": "musician"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0770422",
+          "name": "Hannah Scheel",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0017459",
+          "name": "George Alden",
+          "description": "transportation captain"
+        },
+        {
+          "id": "nm0037685",
+          "name": "Ed Arter",
+          "description": "transportation captain (as Edward D. Arter)"
+        },
+        {
+          "id": "nm9723205",
+          "name": "Michael A McGrath",
+          "description": "production driver (uncredited)"
+        },
+        {
+          "id": "nm0639859",
+          "name": "Tom O'Brien",
+          "description": "transportation captain"
+        },
+        {
+          "id": "nm0936203",
+          "name": "Ed Wirth",
+          "description": "driver"
+        },
+        {
+          "id": "nm0389598",
+          "name": "Patrick Hogan",
+          "description": "driver (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0040392",
+          "name": "Tim Athan",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0082490",
+          "name": "Marion Billings",
+          "description": "publicist"
+        },
+        {
+          "id": "nm0130327",
+          "name": "John Callas",
+          "description": "assistant to unit production manager"
+        },
+        {
+          "id": "nm0153587",
+          "name": "William Chartoff",
+          "description": "production assistant (as Billy Chartoff)"
+        },
+        {
+          "id": "nm0174762",
+          "name": "Charles Conley",
+          "description": "craft service (as Bud Conley)"
+        },
+        {
+          "id": "nm0189001",
+          "name": "Janet Crosby",
+          "description": "assistant to producers"
+        },
+        {
+          "id": "nm0210585",
+          "name": "Jean De Niro",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0238473",
+          "name": "Lenay Drucker",
+          "description": "assistant to associate producer"
+        },
+        {
+          "id": "nm0317642",
+          "name": "Donna Gigliotti",
+          "description": "assistant: Mr. Scorsese"
+        },
+        {
+          "id": "nm0349182",
+          "name": "June Rachel Guterman",
+          "description": "production assistant (as June Guterman)"
+        },
+        {
+          "id": "nm0382645",
+          "name": "Mary Hickey",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0401849",
+          "name": "Rob Hummel",
+          "description": "special assistance"
+        },
+        {
+          "id": "nm0408146",
+          "name": "Lori Imbler",
+          "description": "assistant to producers"
+        },
+        {
+          "id": "nm0446703",
+          "name": "Moira Kelly",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0483766",
+          "name": "Jake LaMotta",
+          "description": "consultant (as Jake La Motta)"
+        },
+        {
+          "id": "nm0565218",
+          "name": "Kyle McCarthy",
+          "description": "assistant to associate producer (as Kyle Mc Carthy)"
+        },
+        {
+          "id": "nm0614245",
+          "name": "Emmet Murphy",
+          "description": "special assistance"
+        },
+        {
+          "id": "nm0635813",
+          "name": "Gloria Norris",
+          "description": "research"
+        },
+        {
+          "id": "nm0674635",
+          "name": "Dan Perri",
+          "description": "title designer"
+        },
+        {
+          "id": "nm0673812",
+          "name": "Janice Pieroni",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0720478",
+          "name": "Lydia Resurreccion",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm1012841",
+          "name": "Mark Rubin",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0748908",
+          "name": "Gene Rudolf",
+          "description": "visual consultant: Los Angeles"
+        },
+        {
+          "id": "nm0771834",
+          "name": "Deborah Schindler",
+          "description": "assistant: Mr. Scorsese"
+        },
+        {
+          "id": "nm0774961",
+          "name": "Steve Schottenfeld",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0783216",
+          "name": "Meryle Selinger",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0759299",
+          "name": "Al Silvani",
+          "description": "boxing technical advisor"
+        },
+        {
+          "id": "nm0806256",
+          "name": "Shawn Slovo",
+          "description": "assistant: Mr. De Niro"
+        },
+        {
+          "id": "nm0807998",
+          "name": "Donna Smith",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0814817",
+          "name": "Marie Sorell",
+          "description": "first aid"
+        },
+        {
+          "id": "nm0818963",
+          "name": "Helene Spinner",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0096149",
+          "name": "Michael Sweney",
+          "description": "production assistant (as Michael Sweney)"
+        },
+        {
+          "id": "nm0862719",
+          "name": "David Ticotin",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0001797",
+          "name": "Rachel Ticotin",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0865199",
+          "name": "Johanne Todd",
+          "description": "assistant: Mr. De Niro"
+        },
+        {
+          "id": "nm0867666",
+          "name": "Frank Topham",
+          "description": "technical advisor"
+        },
+        {
+          "id": "nm2405589",
+          "name": "Jan Tucker",
+          "description": "craft service"
+        },
+        {
+          "id": "nm0935203",
+          "name": "Charles Winkler",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm1312698",
+          "name": "Todd Coleman",
+          "description": "personal assistant: Mr. De Niro (uncredited)"
+        },
+        {
+          "id": "nm0172276",
+          "name": "Dianne E. Collins",
+          "description": "publicist: M/S Billings Publicity Ltd. (uncredited)"
+        },
+        {
+          "id": "nm2151421",
+          "name": "Doby Daenger",
+          "description": "gofer (uncredited)"
+        },
+        {
+          "id": "nm0203374",
+          "name": "Jim Davidson",
+          "description": "assistant accountant (uncredited)"
+        },
+        {
+          "id": "nm0215527",
+          "name": "Mark Del Costello",
+          "description": "personal assistant: Mr. Scorsese (uncredited)"
+        },
+        {
+          "id": "nm0326419",
+          "name": "Wayne D. Goldwyn",
+          "description": "location projectionist (uncredited)"
+        },
+        {
+          "id": "nm0522160",
+          "name": "Guy J. Louthan",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0668913",
+          "name": "Derry J. Pearce",
+          "description": "production staff (uncredited)"
+        },
+        {
+          "id": "nm0736201",
+          "name": "Bob Roe",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0880036",
+          "name": "Harry J. Ufland",
+          "description": "production (uncredited)"
+        },
+        {
+          "id": "nm0882388",
+          "name": "Michael E. Uslan",
+          "description": "production attorney (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm1058896",
+          "name": "Haig Manoogian",
+          "description": "acknowledgement: remembering teacher, May 23, 1916 - May 26, 1980, with love and resolution, Marty. (as Haig P. Manoogian)"
+        },
+        {
+          "id": "nm0775977",
+          "name": "Budd Schulberg",
+          "description": "acknowledgement: excerpts taken from the screenplay of \"On the Waterfront\""
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

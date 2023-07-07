@@ -1,0 +1,609 @@
+{
+  "imDbId": "tt0021749",
+  "title": "City Lights",
+  "fullTitle": "City Lights (1931)",
+  "type": "Movie",
+  "year": "1931",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin",
+        "description": "(written by)"
+      },
+      {
+        "id": "nm0139714",
+        "name": "Harry Carr",
+        "description": "(uncredited)"
+      },
+      {
+        "id": "nm0188357",
+        "name": "Harry Crocker",
+        "description": "(uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0156039",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGYwMDFhMzgtNzk0YS00YWY2LTgyZjAtMDk0MTQ3ZjE4YTE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Virginia Cherrill",
+      "asCharacter": "A Blind Girl"
+    },
+    {
+      "id": "nm5681967",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Florence Lee",
+      "asCharacter": "The Blind Girl's Grandmother"
+    },
+    {
+      "id": "nm0616729",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y3NTdlZmYtNzFiYS00MTg4LWE1NmYtMGM4ZWVjNTZmYmY0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harry Myers",
+      "asCharacter": "An Eccentric Millionaire"
+    },
+    {
+      "id": "nm0305087",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY2MjQzNTItYjNkOS00Mzc2LTk4Y2EtNzcwYmJmYzhiMjMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Al Ernest Garcia",
+      "asCharacter": "The Millionaire's Butler (as Allan Garcia)"
+    },
+    {
+      "id": "nm0003424",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkzMDQxNTktNDg3YS00MTQ4LWIzYWUtMTNhZmUyNzJhOTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Hank Mann",
+      "asCharacter": "A Prizefighter"
+    },
+    {
+      "id": "nm0000122",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Chaplin",
+      "asCharacter": "A Tramp (as Charlie Chaplin)"
+    },
+    {
+      "id": "nm0008609",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnny Aber",
+      "asCharacter": "Newsboy (uncredited)"
+    },
+    {
+      "id": "nm1033905",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Alexander",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm1035024",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "T.S. Alexander",
+      "asCharacter": "Doctor (uncredited)"
+    },
+    {
+      "id": "nm1033907",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Alexander",
+      "asCharacter": "Superstitious Boxer (uncredited)"
+    },
+    {
+      "id": "nm0042317",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzVjMDQxM2ItZjJmNy00ZmZjLWI5MTQtNmQ1Yzk1ZWI1MjhiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Albert Austin",
+      "asCharacter": "Street Sweeper / Burglar (uncredited)"
+    },
+    {
+      "id": "nm1035060",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Ayers",
+      "asCharacter": "Cop (uncredited)"
+    },
+    {
+      "id": "nm0048417",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVjODQ4YjItMjAyNi00YTFhLWFkYTAtYjQwYzBiZjJjODk5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eddie Baker",
+      "asCharacter": "Boxing Fight Referee (uncredited)"
+    },
+    {
+      "id": "nm0074788",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NjNGQxZWMtMjI3NC00ZjE0LTkzMzktMGE4NzNiNmJkODZiXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Henry Bergman",
+      "asCharacter": "Mayor / Blind Girl's Downstairs Neighbor (uncredited)"
+    },
+    {
+      "id": "nm0080930",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzA0YjcxNTUtYjdjZC00MmNjLWI0MGMtZjE5Nzc1YjEyMDgzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edward Biby",
+      "asCharacter": "Nightclub Patron (uncredited)"
+    },
+    {
+      "id": "nm0086199",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Betty Blair",
+      "asCharacter": "Woman at Center of Table in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm0110886",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM2MDAxYTQtNGNjOS00M2ZkLWIzOWUtZTczYmM5M2E3MDUxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Buster Brodie",
+      "asCharacter": "Bald Party Guest (uncredited)"
+    },
+    {
+      "id": "nm0139370",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeanne Carpenter",
+      "asCharacter": "Diner in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm0178237",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marie Cooper",
+      "asCharacter": "Dancer (uncredited)"
+    },
+    {
+      "id": "nm0218774",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Dempsey",
+      "asCharacter": "Boxer (uncredited)"
+    },
+    {
+      "id": "nm1035298",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Diego",
+      "asCharacter": "Man in Mix-Up with Coat and Hat (uncredited)"
+    },
+    {
+      "id": "nm0232717",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Donnelly",
+      "asCharacter": "Street Sweepers' Foreman (uncredited)"
+    },
+    {
+      "id": "nm0259545",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjlmM2JjYjEtY2RiOS00Mzc4LWI1MTQtNzgxMDJjMmMyNzFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ray Erlenborn",
+      "asCharacter": "Newsboy (uncredited)"
+    },
+    {
+      "id": "nm3609143",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ruth Garcia",
+      "asCharacter": "Woman at Left of Table in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm0333004",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Milton Gowman",
+      "asCharacter": "Street Passerby (uncredited)"
+    },
+    {
+      "id": "nm0336344",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2UwZGZkMjEtYjllOS00YTEzLWExZjAtOTM3ZDdmNmYxNTQ1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Graves",
+      "asCharacter": "Police Officer (uncredited)"
+    },
+    {
+      "id": "nm0358657",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Hammond",
+      "asCharacter": "Street Passerby (uncredited)"
+    },
+    {
+      "id": "nm0001318",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NzI4OTg2N15BMl5BanBnXkFtZTYwNDQwNjU2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jean Harlow",
+      "asCharacter": "Diner in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm1035509",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ad Herman",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm0380609",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Herrick",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm0422425",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Austen Jewell",
+      "asCharacter": "Newsboy (uncredited)"
+    },
+    {
+      "id": "nm0444532",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Willie Keeler",
+      "asCharacter": "Boxer (uncredited)"
+    },
+    {
+      "id": "nm1015133",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "A.B. Lane",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm1031219",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie McAuliffe",
+      "asCharacter": "Eddie Mason - Boxer (uncredited)"
+    },
+    {
+      "id": "nm0570786",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjUyZmFmNGItOGU1MS00NmVmLTk4NTAtMzg5ZDQzMDYxZjI5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Leila McIntyre",
+      "asCharacter": "Flower Shop Assistant (uncredited)"
+    },
+    {
+      "id": "nm0621306",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Nardelli",
+      "asCharacter": "Nightclub Patron (uncredited)"
+    },
+    {
+      "id": "nm0646931",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margaret Oliver",
+      "asCharacter": "Street Passerby (uncredited)"
+    },
+    {
+      "id": "nm0663577",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWI1MTk0N2QtNTBmNC00YjQ1LTllNTMtMGQxZTRiZWU4M2EwXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Robert Parrish",
+      "asCharacter": "Newsboy (uncredited)"
+    },
+    {
+      "id": "nm1032047",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mrs. Pope",
+      "asCharacter": "Diner in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm0709466",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZiYmI4MzUtOWMzMC00ZWM3LThmM2QtYjMyZTM2ZTYzZTgyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "John Rand",
+      "asCharacter": "Tramp Who Dives for Cigar (uncredited)"
+    },
+    {
+      "id": "nm0715056",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Granville Redmond",
+      "asCharacter": "Sculptor (uncredited)"
+    },
+    {
+      "id": "nm10437441",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wyn Ritchie Evans",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0733176",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "W.C. Robinson",
+      "asCharacter": "Man Who Throws Away Cigar (uncredited)"
+    },
+    {
+      "id": "nm0791028",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Sheldon",
+      "asCharacter": "Young Man (uncredited)"
+    },
+    {
+      "id": "nm0806118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cy Slocum",
+      "asCharacter": "Boxing Match Spectator (uncredited)"
+    },
+    {
+      "id": "nm0820886",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tony Stabenau",
+      "asCharacter": "Victorious Boxer - Later Knocked Out (uncredited)"
+    },
+    {
+      "id": "nm0835015",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mark Strong",
+      "asCharacter": "Man in Restaurant (uncredited)"
+    },
+    {
+      "id": "nm0840108",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Sutherland",
+      "asCharacter": "Tall Man at Party (uncredited)"
+    },
+    {
+      "id": "nm0887504",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Van Meter",
+      "asCharacter": "Burglar (uncredited)"
+    },
+    {
+      "id": "nm0905879",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emmett Wagner",
+      "asCharacter": "Second (uncredited)"
+    },
+    {
+      "id": "nm0911883",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tiny Ward",
+      "asCharacter": "Man in Elevator in Front of the Art Shop (uncredited)"
+    },
+    {
+      "id": "nm0923657",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stanhope Wheatcroft",
+      "asCharacter": "Distinguished Gentleman in Cafe (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000122",
+          "name": "Charles Chaplin",
+          "description": "producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0000122",
+          "name": "Charles Chaplin",
+          "description": "(music composed by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0689661",
+          "name": "Gordon Pollock",
+          "description": "(photographer)"
+        },
+        {
+          "id": "nm0005906",
+          "name": "Roland Totheroh",
+          "description": "(as Rollie Totheroh) (photographer)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0000122",
+          "name": "Charles Chaplin",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0630119",
+          "name": "Willard Nico",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0305087",
+          "name": "Al Ernest Garcia",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0166975",
+          "name": "Henry Clive",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0716146",
+          "name": "Alfred Reeves",
+          "description": "production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0042317",
+          "name": "Albert Austin",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0074788",
+          "name": "Henry Bergman",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0188357",
+          "name": "Harry Crocker",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0355405",
+          "name": "Charles D. Hall",
+          "description": "settings"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0715716",
+          "name": "Theodore Reed",
+          "description": "sound supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm8893958",
+          "name": "Edward B. Anderson",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0059233",
+          "name": "Ralph Barton",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0548525",
+          "name": "Mark Marlatt",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm1682137",
+          "name": "Frank Testera",
+          "description": "gaffer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0191756",
+          "name": "Peter Culverwell",
+          "description": "assistant editor: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0344045",
+          "name": "Tim Grover",
+          "description": "assistant editor: 1988 recording of Chaplin's score"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0002301",
+          "name": "Carl Davis",
+          "description": "musical director: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0368899",
+          "name": "Robert Hathaway",
+          "description": "music editor (as Bob Hathaway) (1988 recording of Chaplin's score)"
+        },
+        {
+          "id": "nm0371758",
+          "name": "John Hayward",
+          "description": "music dubbing mixer: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0426534",
+          "name": "Arthur Johnston",
+          "description": "musical arrangement"
+        },
+        {
+          "id": "nm0507938",
+          "name": "Dick Lewzey",
+          "description": "music recordist: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0000055",
+          "name": "Alfred Newman",
+          "description": "musical director"
+        },
+        {
+          "id": "nm0655739",
+          "name": "José Padilla",
+          "description": "composer: additional music"
+        },
+        {
+          "id": "nm0934964",
+          "name": "Paul Wing",
+          "description": "orchestral contractor: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0000055",
+          "name": "Alfred Newman",
+          "description": "musical arrangements (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0824523",
+          "name": "Della Steele",
+          "description": "script supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0465231",
+          "name": "Toraichi Kono",
+          "description": "driver: Mr. Chaplin (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0002206",
+          "name": "Kevin Brownlow",
+          "description": "supervisor: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0318647",
+          "name": "David Gill",
+          "description": "supervisor: 1988 recording of Chaplin's score"
+        },
+        {
+          "id": "nm0188357",
+          "name": "Harry Crocker",
+          "description": "unit publicist (uncredited)"
+        },
+        {
+          "id": "nm0732445",
+          "name": "Carlyle Robinson",
+          "description": "press representative (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

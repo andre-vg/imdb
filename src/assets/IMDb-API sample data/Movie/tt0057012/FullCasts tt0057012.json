@@ -1,0 +1,562 @@
+{
+  "imDbId": "tt0057012",
+  "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "fullTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+  "type": "Movie",
+  "year": "1964",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0816143",
+        "name": "Terry Southern",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0313570",
+        "name": "Peter George",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0313570",
+        "name": "Peter George",
+        "description": "(based on the book: \"Red Alert\" by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000634",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI0MjE1MjczMF5BMl5BanBnXkFtZTYwMDIxNTQ2._V1_Ratio0.8182_AL_.jpg",
+      "name": "Peter Sellers",
+      "asCharacter": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove"
+    },
+    {
+      "id": "nm0001715",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2EyMjgyZWYtOTE1YS00MDFhLTk4YzAtMjIyMzkzN2U3OTI0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "George C. Scott",
+      "asCharacter": "Gen. 'Buck' Turgidson"
+    },
+    {
+      "id": "nm0001330",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MTk1NjkzN15BMl5BanBnXkFtZTcwMzA1MjE1Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sterling Hayden",
+      "asCharacter": "Brig. Gen. Jack D. Ripper"
+    },
+    {
+      "id": "nm0943978",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3NjM3MTM3OV5BMl5BanBnXkFtZTYwODM2MjI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Keenan Wynn",
+      "asCharacter": "Col. 'Bat' Guano"
+    },
+    {
+      "id": "nm0001620",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM5MDQyNjI3Nl5BMl5BanBnXkFtZTcwMTA1MjE1Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Slim Pickens",
+      "asCharacter": "Maj. 'King' Kong"
+    },
+    {
+      "id": "nm0119988",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4ODg5MDAxMF5BMl5BanBnXkFtZTcwNjE0MDkxNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Peter Bull",
+      "asCharacter": "Russian Ambassador Alexi de Sadesky"
+    },
+    {
+      "id": "nm0000469",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNTg1MzMwM15BMl5BanBnXkFtZTcwNTQyMDgyMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Earl Jones",
+      "asCharacter": "Lt. Lothar Zogg"
+    },
+    {
+      "id": "nm1064352",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MjU2OTMyN15BMl5BanBnXkFtZTcwMzI0MDkxNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tracy Reed",
+      "asCharacter": "Miss Scott"
+    },
+    {
+      "id": "nm0155043",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU2NzRhYjYtNjBmMS00MDMwLWFmYjYtYTliNDIzMDY1N2FlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Jack Creley",
+      "asCharacter": "Mr. Staines"
+    },
+    {
+      "id": "nm0077543",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Berry",
+      "asCharacter": "Lt. H.R. Dietrich"
+    },
+    {
+      "id": "nm0642056",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZmMTAzMTAtMjY5Yi00Njg0LWI1OWUtYjQ2MjRkNzgwZjNiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Robert O'Neil",
+      "asCharacter": "Adm. Randolph"
+    },
+    {
+      "id": "nm0065140",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM4ZGFmMWUtYTE1MC00NTlhLTgwODItY2YzOWE0Mjg3ZTY4XkEyXkFqcGdeQXVyNDU4NDMzNDY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Glenn Beck",
+      "asCharacter": "Lt. Kivel (as Glen Beck)"
+    },
+    {
+      "id": "nm0827144",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roy Stephens",
+      "asCharacter": "Frank"
+    },
+    {
+      "id": "nm0727300",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDMwNjUxM15BMl5BanBnXkFtZTcwMTM1MDcxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Shane Rimmer",
+      "asCharacter": "Capt. 'Ace' Owens"
+    },
+    {
+      "id": "nm0302115",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTE1ODQwYjYtMGVjZS00ZjUzLWE2ZTgtODExMzg4YjYyM2E5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Hal Galili",
+      "asCharacter": "Burpelson AFB Defense Team Member"
+    },
+    {
+      "id": "nm0848470",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Tamarin",
+      "asCharacter": "Lt. Goldberg"
+    },
+    {
+      "id": "nm0378814",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM1ZDgzMDUtMWVlNi00NTcyLTlkNTEtNDM1NjUyNGYxYzM0XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Laurence Herder",
+      "asCharacter": "Burpelson AFB Defense Team Member"
+    },
+    {
+      "id": "nm0849638",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmM3NTJiZDctNzgwYS00MTVlLWIwMzEtYzVlY2Y1OTlkMDkwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Gordon Tanner",
+      "asCharacter": "Gen. Faceman"
+    },
+    {
+      "id": "nm0565171",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John McCarthy",
+      "asCharacter": "Burpelson AFB Defense Team Member"
+    },
+    {
+      "id": "nm0187565",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dan Cressey",
+      "asCharacter": "War Room Aid (uncredited)"
+    },
+    {
+      "id": "nm0201696",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGVmMzg1N2UtZTc4ZC00YTM3LWI0YjYtYWRjNDM1ZTNmMTU3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Paul Darrow",
+      "asCharacter": "Navigator Lt. Sweets (uncredited)"
+    },
+    {
+      "id": "nm1660029",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Doye",
+      "asCharacter": "War Room Aid (uncredited)"
+    },
+    {
+      "id": "nm0263129",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Evans",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm0288822",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chick Fowles",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm3134822",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjIyMDY0OWYtZDhhNi00N2NkLTk1OGYtZmEzMTQ5OGY2ZjQyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Victor Harrington",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm0372121",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Head",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm8093127",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Hibbert",
+      "asCharacter": "Computer Room Officer (uncredited)"
+    },
+    {
+      "id": "nm8949643",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Holdcroft",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm5805250",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fred Machon",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm8702342",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Phelps",
+      "asCharacter": "General in War Room (uncredited)"
+    },
+    {
+      "id": "nm1169403",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Roy",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm0798018",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNmMWZjZjgtY2IwMi00NzE2LWFlN2QtN2U3YzZmZWIyYzg5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Jeff Silk",
+      "asCharacter": "Advisor in War Room (uncredited)"
+    },
+    {
+      "id": "nm0859725",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUwYWJkNmQtOTllMy00MDYxLTk0YjgtNGY2YTNhYjY1OGY1XkEyXkFqcGdeQXVyNjg5MjUzNDE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Reg Thomason",
+      "asCharacter": "War Room Aide (uncredited)"
+    },
+    {
+      "id": "nm0875813",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY5ZGI1ODMtZjA5MC00NjNmLTg3OTUtNTAwNTQyMjI2ZWYwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Burnell Tucker",
+      "asCharacter": "Mandrake's Aide (uncredited)"
+    },
+    {
+      "id": "nm12487253",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Martin Voss",
+      "asCharacter": "War Room Aid (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "producer"
+        },
+        {
+          "id": "nm0528540",
+          "name": "Victor Lyndon",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0591543",
+          "name": "Lee Minoff",
+          "description": "executive producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0006145",
+          "name": "Laurie Johnson",
+          "description": "(music)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0852405",
+          "name": "Gilbert Taylor",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0367431",
+          "name": "Anthony Harvey",
+          "description": "film editor"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0010553",
+          "name": "Ken Adam",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0615465",
+          "name": "Peter Murton",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0293084",
+          "name": "Stuart Freeborn",
+          "description": "makeup artist (as Stewart Freeborn)"
+        },
+        {
+          "id": "nm0728528",
+          "name": "Barbara Ritchie",
+          "description": "hairdresser"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0104746",
+          "name": "Clifton Brandon",
+          "description": "production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0711918",
+          "name": "Eric Rattray",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm1857033",
+          "name": "Tomi Ungerer",
+          "description": "poster artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0017640",
+          "name": "John Aldred",
+          "description": "dubbing mixer"
+        },
+        {
+          "id": "nm0083434",
+          "name": "Richard Bird",
+          "description": "recordist"
+        },
+        {
+          "id": "nm0185090",
+          "name": "John Cox",
+          "description": "sound supervisor"
+        },
+        {
+          "id": "nm0388278",
+          "name": "Leslie Hodgson",
+          "description": "sound editor"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0891764",
+          "name": "Wally Veevers",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0117274",
+          "name": "Alan Bryce",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0271460",
+          "name": "Arthur 'Weegee' Fellig",
+          "description": "special effects advisor (uncredited)"
+        },
+        {
+          "id": "nm0303890",
+          "name": "Brian Gamby",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0007049",
+          "name": "Garth Inns",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0789887",
+          "name": "Mike Shaw",
+          "description": "special effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0546890",
+          "name": "Vic Margutti",
+          "description": "travelling matte"
+        },
+        {
+          "id": "nm0091098",
+          "name": "Jim Body",
+          "description": "visual effects camera operator (uncredited)"
+        },
+        {
+          "id": "nm0191235",
+          "name": "Bob Cuff",
+          "description": "matte painter (uncredited)"
+        },
+        {
+          "id": "nm0274876",
+          "name": "Doug Ferris",
+          "description": "matte camera (uncredited) / matte painter (uncredited)"
+        },
+        {
+          "id": "nm0539426",
+          "name": "Alan Maley",
+          "description": "visual effects artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0829151",
+          "name": "Alan Stuart",
+          "description": "stunt double: Peter Sellers (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0285522",
+          "name": "Bernard Ford",
+          "description": "camera assistant"
+        },
+        {
+          "id": "nm0683233",
+          "name": "Kelvin Pike",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0671962",
+          "name": "Bob Penn",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0910094",
+          "name": "Michael Walter",
+          "description": "key grip (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0783337",
+          "name": "Bridget Sellers",
+          "description": "wardrobe"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0296749",
+          "name": "Geoffrey Fry",
+          "description": "assembly editor"
+        },
+        {
+          "id": "nm0522487",
+          "name": "Ray Lovejoy",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0072636",
+          "name": "Roy Benson",
+          "description": "assistant editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0138220",
+          "name": "Pamela Carlton",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0187682",
+          "name": "John Crewdson",
+          "description": "aviation advisor (as Capt. John Crewdson)"
+        },
+        {
+          "id": "nm1764462",
+          "name": "Jean Bernard",
+          "description": "pilot: outside bomber views (uncredited)"
+        },
+        {
+          "id": "nm0274998",
+          "name": "Pablo Ferro",
+          "description": "main title design: Ferro, Mohammed & Schwartz, Inc. (uncredited)"
+        },
+        {
+          "id": "nm0829151",
+          "name": "Alan Stuart",
+          "description": "body double: Peter Sellers (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

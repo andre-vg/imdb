@@ -1,0 +1,29 @@
+{
+  "imDbId": "tt0088484",
+  "title": "Blackadder II",
+  "fullTitle": "Blackadder II (TV Series 1986–1986)",
+  "type": "TVSeries",
+  "year": "1986",
+  "description": "1 win & 1 nomination",
+  "items": [
+    {
+      "eventTitle": "CableACE Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "1988 Winner ACE",
+          "for": "Comedy Series",
+          "description": "John Lloyd (producer)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMzNzAxMTM3N15BMl5BanBnXkFtZTcwOTAzODQyNw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1988 Nominee ACE",
+          "for": "Writing a Comedy Series",
+          "description": "Richard Curtis - Ben Elton"
+        }
+      ]
+    }
+  ],
+  "awardsHtml": "<div class=\"awards\">\r\n    <h5>1 win & 1 nomination</h5>\r\n    <h3>CableACE Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1988 Winner ACE</b>\r\n                    <br />\r\n                    Comedy Series\r\n                    <br />\r\n                    John Lloyd (producer)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1988 Nominee ACE</b>\r\n                    <br />\r\n                    Writing a Comedy Series\r\n                    <br />\r\n                    Richard Curtis - Ben Elton\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n</div>\r\n",
+  "errorMessage": ""
+}

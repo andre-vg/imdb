@@ -1,0 +1,4498 @@
+{
+  "imDbId": "tt0107290",
+  "title": "Jurassic Park",
+  "fullTitle": "Jurassic Park (1993)",
+  "type": "Movie",
+  "year": "1993",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000229",
+        "name": "Steven Spielberg",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000341",
+        "name": "Michael Crichton",
+        "description": "(novel)"
+      },
+      {
+        "id": "nm0000341",
+        "name": "Michael Crichton",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0462895",
+        "name": "David Koepp",
+        "description": "(screenplay)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000554",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUyMTU0MzA0MF5BMl5BanBnXkFtZTgwNTA4MTQ4NjM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Neill",
+      "asCharacter": "Grant"
+    },
+    {
+      "id": "nm0000368",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzY0MDQxMF5BMl5BanBnXkFtZTcwNzMwMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Laura Dern",
+      "asCharacter": "Ellie"
+    },
+    {
+      "id": "nm0000156",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jeff Goldblum",
+      "asCharacter": "Malcolm"
+    },
+    {
+      "id": "nm0000277",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwMDQzMTAwN15BMl5BanBnXkFtZTcwNTI4NTgwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Richard Attenborough",
+      "asCharacter": "Hammond"
+    },
+    {
+      "id": "nm0669629",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NzM1NDI0MV5BMl5BanBnXkFtZTcwNzk2NTgwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Bob Peck",
+      "asCharacter": "Muldoon"
+    },
+    {
+      "id": "nm0274684",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNTE3MDY3OV5BMl5BanBnXkFtZTcwNjI2NTgwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Martin Ferrero",
+      "asCharacter": "Gennaro"
+    },
+    {
+      "id": "nm0000703",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "BD Wong",
+      "asCharacter": "Wu (as B. D. Wong)"
+    },
+    {
+      "id": "nm0001515",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTcwNzA3MzMwOF5BMl5BanBnXkFtZTcwOTkzNjI5OA@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Joseph Mazzello",
+      "asCharacter": "Tim"
+    },
+    {
+      "id": "nm0000611",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI4MDQ0ODI1N15BMl5BanBnXkFtZTcwMTk2NTgwMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ariana Richards",
+      "asCharacter": "Lex"
+    },
+    {
+      "id": "nm0000168",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Samuel L. Jackson",
+      "asCharacter": "Arnold"
+    },
+    {
+      "id": "nm0001431",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM1N2MwY2ItMzRmMi00Nzc4LWEzOGEtZTdlZWI4OGQxYjdiXkEyXkFqcGdeQXVyNTUwNzA4Mw@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Wayne Knight",
+      "asCharacter": "Nedry"
+    },
+    {
+      "id": "nm0596520",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTExMTQ5NTI0MTFeQTJeQWpwZ15BbWU3MDU5NTQ2MTg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gerald R. Molen",
+      "asCharacter": "Harding (as Jerry Molen)"
+    },
+    {
+      "id": "nm0762153",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzIxNWRhYzItZDUzOC00NzRmLWE3NTUtMzZhY2NkZWUzMGFlXkEyXkFqcGdeQXVyMzEyNDkzNQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Miguel Sandoval",
+      "asCharacter": "Rostagno"
+    },
+    {
+      "id": "nm0861151",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjcxMmI3NjAtMjllYS00NWM4LWEyOTgtNmZhMzgwYTU5MjUwXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Cameron Thor",
+      "asCharacter": "Dodgson"
+    },
+    {
+      "id": "nm0276211",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christopher John Fields",
+      "asCharacter": "Volunteer #1"
+    },
+    {
+      "id": "nm0381035",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4ODg5Njc4Ml5BMl5BanBnXkFtZTcwNjI4MDgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Whit Hertford",
+      "asCharacter": "Volunteer Boy"
+    },
+    {
+      "id": "nm0005678",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3MjQwMzU5Nl5BMl5BanBnXkFtZTcwNTQxNzg5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dean Cundey",
+      "asCharacter": "Mate"
+    },
+    {
+      "id": "nm0113909",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMjk4NTc2M15BMl5BanBnXkFtZTYwNDk1Mjcy._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jophery C. Brown",
+      "asCharacter": "Worker in Raptor Pen (as Jophery Brown)"
+    },
+    {
+      "id": "nm0592781",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Mishler",
+      "asCharacter": "Helicopter Pilot"
+    },
+    {
+      "id": "nm0123354",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Greg Burson",
+      "asCharacter": "Mr. D.N.A. (voice)"
+    },
+    {
+      "id": "nm0260379",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Adrian Escober",
+      "asCharacter": "Worker at Amber Mine"
+    },
+    {
+      "id": "nm0453006",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIwMzk3NTQ0Nl5BMl5BanBnXkFtZTYwMDA5OTM2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Richard Kiley",
+      "asCharacter": "Jurassic Park Tour Voice (voice)"
+    },
+    {
+      "id": "nm0075534",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Berlau",
+      "asCharacter": "Bald Man (uncredited)"
+    },
+    {
+      "id": "nm0118705",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwNzY2NzIwNl5BMl5BanBnXkFtZTgwNTkzNTg5MTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brad M. Bucklin",
+      "asCharacter": "Lab Technician (uncredited)"
+    },
+    {
+      "id": "nm1013335",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFjZmM2ZWYtMjEyZS00YjBkLWE0ODEtZmIyNjY5NDUwYzAwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Laura Burnett",
+      "asCharacter": "Archeologist (uncredited)"
+    },
+    {
+      "id": "nm0487177",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Lantieri",
+      "asCharacter": "Customer at San Jose restaurant (uncredited)"
+    },
+    {
+      "id": "nm0735324",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzk2MDkzMjAyNF5BMl5BanBnXkFtZTcwNjMwNzkzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gary Rodriguez",
+      "asCharacter": "Miner - Dug Out Mosquito (uncredited)"
+    },
+    {
+      "id": "nm0752671",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lata Ryan",
+      "asCharacter": "Control Room technician (uncredited)"
+    },
+    {
+      "id": "nm0810706",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brian Smrz",
+      "asCharacter": "Driver of Grant, Sattler & Malcolm's Jeep (uncredited)"
+    },
+    {
+      "id": "nm9321833",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rip Lee Walker",
+      "asCharacter": "Raptor #1 (uncredited)"
+    },
+    {
+      "id": "nm0952174",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert 'Bobby Z' Zajonc",
+      "asCharacter": "InGen Helicopter Pilot (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0005086",
+          "name": "Kathleen Kennedy",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0596520",
+          "name": "Gerald R. Molen",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0752671",
+          "name": "Lata Ryan",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0933213",
+          "name": "Colin Wilson",
+          "description": "associate producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0002354",
+          "name": "John Williams",
+          "description": "(music by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005678",
+          "name": "Dean Cundey",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0434883",
+          "name": "Michael Kahn",
+          "description": "(film edited by)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0386664",
+          "name": "Janet Hirshenson",
+          "description": "(casting by)"
+        },
+        {
+          "id": "nm0420747",
+          "name": "Jane Jenkins",
+          "description": "(casting by)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0141437",
+          "name": "Rick Carter",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0068290",
+          "name": "John Bell",
+          "description": ""
+        },
+        {
+          "id": "nm0853812",
+          "name": "William James Teegarden",
+          "description": "(as Jim Teegarden)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0139728",
+          "name": "Jackie Carr",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0032711",
+          "name": "Fríða Aradóttir",
+          "description": "assistant hair supervisor (as Frida Aradottir)"
+        },
+        {
+          "id": "nm0348546",
+          "name": "Lynda Gurasich",
+          "description": "hair styles supervisor"
+        },
+        {
+          "id": "nm0807702",
+          "name": "Christina Smith",
+          "description": "makeup supervisor"
+        },
+        {
+          "id": "nm0825166",
+          "name": "Julie C. Steffes",
+          "description": "body makeup (as Julie Steffes)"
+        },
+        {
+          "id": "nm0922881",
+          "name": "Monty Westmore",
+          "description": "assistant makeup supervisor"
+        },
+        {
+          "id": "nm0006436",
+          "name": "Dean Gates",
+          "description": "makeup lab (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0213226",
+          "name": "Paul Deason",
+          "description": "unit production manager"
+        },
+        {
+          "id": "nm2261284",
+          "name": "Jason Pomerantz",
+          "description": "production manager (3D IMAX 2013 version)"
+        },
+        {
+          "id": "nm0807998",
+          "name": "Donna Smith",
+          "description": "executive in charge of production"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0470971",
+          "name": "John T. Kretchmer",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0565892",
+          "name": "Carla McClosky",
+          "description": "first assistant director: second unit (as Carla McCloskey)"
+        },
+        {
+          "id": "nm0461300",
+          "name": "David B. Nowell",
+          "description": "director: aerial unit (as David Nowell)"
+        },
+        {
+          "id": "nm0659334",
+          "name": "Michele Panelli-Venetis",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0744849",
+          "name": "Fred Roth",
+          "description": "dga trainee"
+        },
+        {
+          "id": "nm0799047",
+          "name": "Kenneth J. Silverstein",
+          "description": "second second assistant director"
+        },
+        {
+          "id": "nm0405223",
+          "name": "Gary Hymes",
+          "description": "second unit director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0019105",
+          "name": "Yarek Alfer",
+          "description": "chief sculptor"
+        },
+        {
+          "id": "nm0074236",
+          "name": "John Berger",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0113809",
+          "name": "Jeff Brown",
+          "description": "greensman"
+        },
+        {
+          "id": "nm0147191",
+          "name": "Janine Cavoto",
+          "description": "set dressing coordinator"
+        },
+        {
+          "id": "nm0181682",
+          "name": "Lauren Cory",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0186471",
+          "name": "Tom Cranham",
+          "description": "illustrator"
+        },
+        {
+          "id": "nm0232407",
+          "name": "Tim Donelan",
+          "description": "lead man"
+        },
+        {
+          "id": "nm2836817",
+          "name": "John R. Elliott",
+          "description": "construction foreman (as John Elliott)"
+        },
+        {
+          "id": "nm0272170",
+          "name": "Anthony Feola",
+          "description": "tool foreman"
+        },
+        {
+          "id": "nm13345970",
+          "name": "John Foster",
+          "description": "propmaker gangboss"
+        },
+        {
+          "id": "nm0326939",
+          "name": "Nancy Gomes",
+          "description": "paint foreman"
+        },
+        {
+          "id": "nm0380422",
+          "name": "Hugo Herrera",
+          "description": "greensman"
+        },
+        {
+          "id": "nm0398685",
+          "name": "Tom Hrupcho",
+          "description": "paint foreman"
+        },
+        {
+          "id": "nm0430056",
+          "name": "Kay Jordan",
+          "description": "construction accountant"
+        },
+        {
+          "id": "nm0459647",
+          "name": "Martin A. Kline",
+          "description": "assistant art director (as Marty Kline)"
+        },
+        {
+          "id": "nm0472276",
+          "name": "Maureen Kropf",
+          "description": "set painter"
+        },
+        {
+          "id": "nm0502821",
+          "name": "Tony Leonardi",
+          "description": "stand-by painter"
+        },
+        {
+          "id": "nm0504178",
+          "name": "Scott W. Leslie",
+          "description": "swing gang (as Scott Leslie)"
+        },
+        {
+          "id": "nm0523204",
+          "name": "David Lowery",
+          "description": "illustrator"
+        },
+        {
+          "id": "nm0542115",
+          "name": "Kevin Mangan",
+          "description": "greens foreman"
+        },
+        {
+          "id": "nm0557919",
+          "name": "Masako Masuda",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0608998",
+          "name": "Jerry Moss",
+          "description": "property master"
+        },
+        {
+          "id": "nm0648571",
+          "name": "Dan Ondrejko",
+          "description": "head greensman (as Danny Ondrejko)"
+        },
+        {
+          "id": "nm0002624",
+          "name": "Dan Pemberton",
+          "description": "construction foreman"
+        },
+        {
+          "id": "nm3163388",
+          "name": "Ken Peterson",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0689276",
+          "name": "Lauren E. Polizzi",
+          "description": "set designer (as Lauren Polizzi)"
+        },
+        {
+          "id": "nm0703783",
+          "name": "Caroline Quinn",
+          "description": "art department coordinator"
+        },
+        {
+          "id": "nm0706823",
+          "name": "Craig Raiche",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0730260",
+          "name": "David Robbie",
+          "description": "plaster foreman"
+        },
+        {
+          "id": "nm0734149",
+          "name": "Brian Rock",
+          "description": "head laborer"
+        },
+        {
+          "id": "nm0804042",
+          "name": "Bob Skemp",
+          "description": "greensman"
+        },
+        {
+          "id": "nm0814496",
+          "name": "Paul Sonski",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0872397",
+          "name": "Dave Trevino",
+          "description": "paint foreman"
+        },
+        {
+          "id": "nm0898056",
+          "name": "John Villarino",
+          "description": "construction coordinator"
+        },
+        {
+          "id": "nm0898057",
+          "name": "Mike Villarino",
+          "description": "construction general foreman"
+        },
+        {
+          "id": "nm0023570",
+          "name": "John Alvin",
+          "description": "poster artist (uncredited)"
+        },
+        {
+          "id": "nm1923693",
+          "name": "Victor Anderson",
+          "description": "propmaker (uncredited)"
+        },
+        {
+          "id": "nm0032292",
+          "name": "William Apperson",
+          "description": "propmaker foreman (uncredited)"
+        },
+        {
+          "id": "nm0059612",
+          "name": "Carlo Basail",
+          "description": "greens crafts service (uncredited)"
+        },
+        {
+          "id": "nm0112165",
+          "name": "Mike B. Brooks",
+          "description": "propmaker (uncredited)"
+        },
+        {
+          "id": "nm0127902",
+          "name": "Alvin S. Cabrinha Jr.",
+          "description": "carpenter (uncredited)"
+        },
+        {
+          "id": "nm1924363",
+          "name": "Randy L. Childs",
+          "description": "propmaker gangboss (uncredited)"
+        },
+        {
+          "id": "nm0235223",
+          "name": "Richard Bryan Douglas",
+          "description": "construction (uncredited)"
+        },
+        {
+          "id": "nm0307613",
+          "name": "Rob Garlow",
+          "description": "propmaker (uncredited)"
+        },
+        {
+          "id": "nm2339068",
+          "name": "John Giuliano",
+          "description": "propmaker (uncredited)"
+        },
+        {
+          "id": "nm0493055",
+          "name": "Fireball Tim Lawrence",
+          "description": "vehicle designer (uncredited)"
+        },
+        {
+          "id": "nm0578831",
+          "name": "Ron Mendell",
+          "description": "lead model maker (uncredited)"
+        },
+        {
+          "id": "nm0589459",
+          "name": "Tony Miller",
+          "description": "set plasterer (uncredited)"
+        },
+        {
+          "id": "nm0611177",
+          "name": "Luigi Mugavero",
+          "description": "set dresser (uncredited)"
+        },
+        {
+          "id": "nm1001906",
+          "name": "Craig T. Shordon",
+          "description": "set painter (uncredited)"
+        },
+        {
+          "id": "nm0853811",
+          "name": "Greg Teegarden",
+          "description": "set designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0047653",
+          "name": "Sandina Bailo-Lape",
+          "description": "foley editor"
+        },
+        {
+          "id": "nm0092781",
+          "name": "Sara Bolder",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0102110",
+          "name": "Christopher Boyes",
+          "description": "assistant sound designer (as Chris Boyes) / foley recordist (as Chris Boyes)"
+        },
+        {
+          "id": "nm0236587",
+          "name": "Dean Drabin",
+          "description": "adr mixer"
+        },
+        {
+          "id": "nm0248757",
+          "name": "Teresa Eckton",
+          "description": "sound effects editor (as Terry Eckton)"
+        },
+        {
+          "id": "nm0271859",
+          "name": "Andre Fenley",
+          "description": "apprentice editor"
+        },
+        {
+          "id": "nm0279017",
+          "name": "Ken Fischer",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0338992",
+          "name": "Douglas Greenfield",
+          "description": "stereo sound consultant: Dolby"
+        },
+        {
+          "id": "nm0344197",
+          "name": "J.R. Grubbs",
+          "description": "assistant sound effects editor"
+        },
+        {
+          "id": "nm0347593",
+          "name": "Scott Guitteau",
+          "description": "assistant sound effects editor"
+        },
+        {
+          "id": "nm0352939",
+          "name": "Ann Hadsell",
+          "description": "adr recordist"
+        },
+        {
+          "id": "nm0368652",
+          "name": "Ruth Hasty",
+          "description": "asst. supervising sound editor"
+        },
+        {
+          "id": "nm0390843",
+          "name": "Tim Holland",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0405232",
+          "name": "Richard Hymns",
+          "description": "supervising sound editor"
+        },
+        {
+          "id": "nm1896427",
+          "name": "Robert Jackson",
+          "description": "boom operator (as Bob Jackson)"
+        },
+        {
+          "id": "nm0415439",
+          "name": "Donna Jaffe",
+          "description": "assistant dialogue editor"
+        },
+        {
+          "id": "nm0431954",
+          "name": "Ron Judkins",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0480525",
+          "name": "Laurel Ladevich",
+          "description": "adr editor"
+        },
+        {
+          "id": "nm0495294",
+          "name": "Mary Helen Leasman",
+          "description": "foley editor"
+        },
+        {
+          "id": "nm0554384",
+          "name": "Robert Marty",
+          "description": "assistant adr editor (as Bob Marty)"
+        },
+        {
+          "id": "nm0601577",
+          "name": "Marnie Moore",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0004156",
+          "name": "Shawn Murphy",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0691453",
+          "name": "Susan Popovic",
+          "description": "assistant foley editor (as Susan Popovich)"
+        },
+        {
+          "id": "nm0003977",
+          "name": "Gary Rydstrom",
+          "description": "re-recording mixer / sound designer"
+        },
+        {
+          "id": "nm0799011",
+          "name": "Michael Silvers",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0838707",
+          "name": "Gary Summers",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0861658",
+          "name": "Dennie Thorpe",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0884317",
+          "name": "Tove Blue Valentine",
+          "description": "cable person"
+        },
+        {
+          "id": "nm0893988",
+          "name": "Maia Veres",
+          "description": "assistant dialogue editor"
+        },
+        {
+          "id": "nm0020614",
+          "name": "James Allen",
+          "description": "re-recordist (uncredited)"
+        },
+        {
+          "id": "nm0102110",
+          "name": "Christopher Boyes",
+          "description": "sound effects recordist (uncredited)"
+        },
+        {
+          "id": "nm0183612",
+          "name": "John Countryman",
+          "description": "re-recordist (uncredited)"
+        },
+        {
+          "id": "nm0431954",
+          "name": "Ron Judkins",
+          "description": "sound recordist (uncredited)"
+        },
+        {
+          "id": "nm0769042",
+          "name": "Christopher Scarabosio",
+          "description": "sound designer/supervising sound editor (uncredited)"
+        },
+        {
+          "id": "nm0808372",
+          "name": "Greg Smith",
+          "description": "sound effects recordist (uncredited)"
+        },
+        {
+          "id": "nm0835381",
+          "name": "Lionel Strutt",
+          "description": "adr mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0043150",
+          "name": "Francesca Avila",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0050420",
+          "name": "Lloyd Ball",
+          "description": "hydraulic engineer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0056487",
+          "name": "Craig Barr",
+          "description": "technical coordinator: T-Rex, Stan Winston Studio"
+        },
+        {
+          "id": "nm0060324",
+          "name": "Bill Basso",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0070873",
+          "name": "David Beneke",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0104039",
+          "name": "Evan Brainard",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0120618",
+          "name": "Steve Bunyea",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0121158",
+          "name": "Len Burge",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0128793",
+          "name": "Sebastien Caillabet",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0146253",
+          "name": "Craig Caton",
+          "description": "mechanical department coordinator: Stan Winston Studio (as Craig Caton-Largent)"
+        },
+        {
+          "id": "nm0183360",
+          "name": "Mitchell J. Coughlin",
+          "description": "art department: Stan Winston Studio (as Mitch Coughlin)"
+        },
+        {
+          "id": "nm0205752",
+          "name": "Richard Davison",
+          "description": "dinosaur skin fabricator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0205914",
+          "name": "Jon Dawe",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0220631",
+          "name": "Kim Derry",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0236532",
+          "name": "Marilyn Dozer-Chaney",
+          "description": "dinosaur skin fabricator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0244093",
+          "name": "Matthew Durham",
+          "description": "mechanical department: Stan Winston Studio (as Matt Durham)"
+        },
+        {
+          "id": "nm0250083",
+          "name": "Jeff Edwards",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0254433",
+          "name": "Donald Elliott",
+          "description": "special effects foreman (as Don Elliot)"
+        },
+        {
+          "id": "nm0268971",
+          "name": "Cory Faucher",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0276563",
+          "name": "Greg Figiel",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0292366",
+          "name": "Nathalie Fratti",
+          "description": "art department: Stan Winston Studio (as Nathalie Fratti-Rapoport)"
+        },
+        {
+          "id": "nm0301227",
+          "name": "Anthony Gaillard",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0302218",
+          "name": "Rick Galinson",
+          "description": "mechanical designer: Stan Winston Studio (as Richard Galinson)"
+        },
+        {
+          "id": "nm0311855",
+          "name": "Joss Geiduschek",
+          "description": "special effects engineer"
+        },
+        {
+          "id": "nm0328056",
+          "name": "Armando González",
+          "description": "master welder: Stan Winston Studio"
+        },
+        {
+          "id": "nm0335959",
+          "name": "David Grasso",
+          "description": "key artist: Stan Winston Studio (as Dave Grasso)"
+        },
+        {
+          "id": "nm0361796",
+          "name": "Erik Haraldsted",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0368861",
+          "name": "Beth Hathaway",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0369320",
+          "name": "Richard Haugen",
+          "description": "mechanical designer: Stan Winston Studio (as Rich Haugen)"
+        },
+        {
+          "id": "nm0385536",
+          "name": "Rob Hinderstein",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0427417",
+          "name": "Adam Jones",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0432960",
+          "name": "Mark Jurinko",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0441011",
+          "name": "Eileen Kastner-Delago",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0455331",
+          "name": "Terry W. King",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0471506",
+          "name": "Brad Krisko",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0484939",
+          "name": "Richard J. Landon",
+          "description": "mechanical department coordinator: Stan Winston Studio (as Richard Landon)"
+        },
+        {
+          "id": "nm0487176",
+          "name": "Louie Lantieri",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0487177",
+          "name": "Michael Lantieri",
+          "description": "special dinosaur effects"
+        },
+        {
+          "id": "nm0517830",
+          "name": "Mark Lohff",
+          "description": "production coordinator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0527468",
+          "name": "Frank Charles Lutkus III",
+          "description": "mechanical designer: Stan Winston Studio (as Charles Lutkus III)"
+        },
+        {
+          "id": "nm0532285",
+          "name": "Lindsay MacGowan",
+          "description": "art department: Stan Winston Studio (as Lindsay McGowan)"
+        },
+        {
+          "id": "nm0536752",
+          "name": "Shane Mahan",
+          "description": "art department coordinator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0542433",
+          "name": "Greg Manion",
+          "description": "mechanical department: Stan Winston Studio (as Gregory Manion)"
+        },
+        {
+          "id": "nm1398537",
+          "name": "Jules Mann",
+          "description": "assistant model maker"
+        },
+        {
+          "id": "nm0550048",
+          "name": "Nick Marra",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0556790",
+          "name": "Karen Mason",
+          "description": "dinosaur skin fabricator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0566938",
+          "name": "Tony McCray",
+          "description": "master mold maker: Stan Winston Studio (as Anthony McCray)"
+        },
+        {
+          "id": "nm0567000",
+          "name": "Mark 'Crash' McCreery",
+          "description": "concept artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0568119",
+          "name": "Matt McDonnell",
+          "description": "special effects (as Matthew J. McDonnell)"
+        },
+        {
+          "id": "nm0574643",
+          "name": "Kevin McTurk",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0575165",
+          "name": "Tara Meaney-Crocitto",
+          "description": "production coordinator: Stan Winston Studio"
+        },
+        {
+          "id": "nm0577189",
+          "name": "Paul Mejias",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0591467",
+          "name": "Bruce Minkus",
+          "description": "special effects"
+        },
+        {
+          "id": "nm1116826",
+          "name": "Tim Moran",
+          "description": "special effects rigging foreman"
+        },
+        {
+          "id": "nm0620612",
+          "name": "Brian Namanny",
+          "description": "mechanical department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0633888",
+          "name": "Mark Noel",
+          "description": "special effects (as Mark T. Noel)"
+        },
+        {
+          "id": "nm0634985",
+          "name": "Tim Nordella",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0650415",
+          "name": "Joey Orosco",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0652231",
+          "name": "Dan Ossello",
+          "description": "special effects (as Daniel Ossello)"
+        },
+        {
+          "id": "nm0652493",
+          "name": "Eric Ostroff",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0656612",
+          "name": "Tom Pahk",
+          "description": "special effects shop supervisor"
+        },
+        {
+          "id": "nm0673753",
+          "name": "Jeff Periera",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0683234",
+          "name": "Kevin Pike",
+          "description": "special effects: custom props"
+        },
+        {
+          "id": "nm0692176",
+          "name": "Jon Porter",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0705003",
+          "name": "E. Wayne Rabouin",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0708925",
+          "name": "Robert Ramsdell",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0713918",
+          "name": "Joe Reader",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0774756",
+          "name": "Andy Schoneberg",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0778798",
+          "name": "J. Alan Scott",
+          "description": "mechanical designer: Stan Winston Studio (as Alan Scott)"
+        },
+        {
+          "id": "nm0790339",
+          "name": "Shannon Shea",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0790483",
+          "name": "Patrick Shearn",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0815952",
+          "name": "Alfred Sousa",
+          "description": "mechanical designer: Stan Winston Studio"
+        },
+        {
+          "id": "nm0823138",
+          "name": "Bruce Stark",
+          "description": "mechanical department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0828953",
+          "name": "Ian Stevenson",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0842576",
+          "name": "Christopher Swift",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0846482",
+          "name": "Michiko Tagawa",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0857701",
+          "name": "Pierre-Olivier Thevenin",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0864164",
+          "name": "Brian Tipton",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0871543",
+          "name": "Mike Trcic",
+          "description": "key artist: Stan Winston Studio"
+        },
+        {
+          "id": "nm0881646",
+          "name": "Scott 'Gwidge' Urban",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0894892",
+          "name": "Kimberly Verros",
+          "description": "production assistant: Stan Winston Studio"
+        },
+        {
+          "id": "nm0932376",
+          "name": "Kevin Willis",
+          "description": "art department: Stan Winston Studio"
+        },
+        {
+          "id": "nm0935644",
+          "name": "Stan Winston",
+          "description": "live action dinosaurs"
+        },
+        {
+          "id": "nm0957445",
+          "name": "Chuck Zlotnick",
+          "description": "production assistant: Stan Winston Studio"
+        },
+        {
+          "id": "nm0045474",
+          "name": "Cynthia Bachman Brown",
+          "description": "dinosaur skin fabricator: Stan Winston Studio (uncredited)"
+        },
+        {
+          "id": "nm0393049",
+          "name": "Thomas R. Homsher",
+          "description": "special effects technician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0012693",
+          "name": "Barbara Affonso",
+          "description": "chief model maker"
+        },
+        {
+          "id": "nm5599895",
+          "name": "Hunny Agarwal",
+          "description": "stereo roto artist (3D version 2013)"
+        },
+        {
+          "id": "nm5562384",
+          "name": "Nikita Agrawal",
+          "description": "production coordinator: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4202670",
+          "name": "Anjel Alcaraz",
+          "description": "senior stereoscopic artist: stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4323401",
+          "name": "Jonathan Angelo",
+          "description": "senior pipeline developer: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm2034157",
+          "name": "Erick Aragon",
+          "description": "rotoscope artist (3D version 2013)"
+        },
+        {
+          "id": "nm0035697",
+          "name": "Eric Armstrong",
+          "description": "computer graphics animator"
+        },
+        {
+          "id": "nm0036884",
+          "name": "Joel Aron",
+          "description": "computer graphics technical assistant"
+        },
+        {
+          "id": "nm0038801",
+          "name": "Paul Ashdown",
+          "description": "computer graphics software developer / visual effects producer"
+        },
+        {
+          "id": "nm4550665",
+          "name": "Paul A. Baccam",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm4092719",
+          "name": "K.C. Barnes",
+          "description": "senior stereoscopic artist: stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0056474",
+          "name": "Bill Barr",
+          "description": "stage technician: ILM (as William Barr)"
+        },
+        {
+          "id": "nm4513994",
+          "name": "Mark Battle",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0063803",
+          "name": "Randall K. Bean",
+          "description": "scanning operator"
+        },
+        {
+          "id": "nm0066420",
+          "name": "Kathleen Beeler",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm3851238",
+          "name": "Jaelyn May Belle",
+          "description": "visual effects supervisor: Digital Caliber Inc. (as Jason Richardson) (3D version 2013)"
+        },
+        {
+          "id": "nm3788878",
+          "name": "Brian N. Bentley",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm0078237",
+          "name": "John Andrew Berton Jr.",
+          "description": "CG department operations manager: ILM"
+        },
+        {
+          "id": "nm4215869",
+          "name": "Maxime Besner",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm4235192",
+          "name": "Aaron D. Beyer",
+          "description": "visual effects: stereoscopic conversion (3D version 2013)"
+        },
+        {
+          "id": "nm0079928",
+          "name": "Ken Beyer",
+          "description": "computer graphics systems supporter"
+        },
+        {
+          "id": "nm0081515",
+          "name": "Mike Bienstock",
+          "description": "animatics: Tippett Studio"
+        },
+        {
+          "id": "nm0086670",
+          "name": "Nicholas Blake",
+          "description": "engineer: Tippett Studio"
+        },
+        {
+          "id": "nm0087170",
+          "name": "Kim Blanchette",
+          "description": "animatics: Tippett Studio"
+        },
+        {
+          "id": "nm0087881",
+          "name": "Patricia Blau",
+          "description": "executive in charge of production: ILM"
+        },
+        {
+          "id": "nm0093116",
+          "name": "Mike Bolles",
+          "description": "camera engineer: ILM"
+        },
+        {
+          "id": "nm0094127",
+          "name": "Conrad Bonderson",
+          "description": "engineer: Tippett Studio"
+        },
+        {
+          "id": "nm5718577",
+          "name": "Mayumi Boruah",
+          "description": "production coordinator: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4442921",
+          "name": "James Robert Bosley",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0107253",
+          "name": "Barbara Brennan",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm4964260",
+          "name": "Kyle Patrick Brown",
+          "description": "compositor (3D version 2013)"
+        },
+        {
+          "id": "nm2874800",
+          "name": "Bryan Burger",
+          "description": "ingest manager: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4059347",
+          "name": "Caitlin Campbell",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0132470",
+          "name": "Geoff Campbell",
+          "description": "computer graphics animator"
+        },
+        {
+          "id": "nm5058060",
+          "name": "Tasha Carlson",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm4164647",
+          "name": "Jeremy P. Carroll",
+          "description": "lead stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0141220",
+          "name": "Dave Carson",
+          "description": "digital artist (as David Carson)"
+        },
+        {
+          "id": "nm4268736",
+          "name": "Gabriel D. Cervantes",
+          "description": "stereoscopic artist: Stereo D (as Gabe Cervantes) (3D Version 2013)"
+        },
+        {
+          "id": "nm5627606",
+          "name": "Snata Chakraborty",
+          "description": "stereo roto artist (3D version 2013)"
+        },
+        {
+          "id": "nm0159263",
+          "name": "Terry Chostner",
+          "description": "visual effects camera operator"
+        },
+        {
+          "id": "nm4077323",
+          "name": "Bradley Chowning",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm1790984",
+          "name": "Graham D. Clark",
+          "description": "head of stereography: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4011491",
+          "name": "Jimi Clark",
+          "description": "senior stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm3385958",
+          "name": "Darrell Claunch",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0165380",
+          "name": "Charlie Clavadetscher",
+          "description": "computer graphics camera matchmover"
+        },
+        {
+          "id": "nm0176250",
+          "name": "Michael Conte",
+          "description": "computer graphics technical assistant: ILM"
+        },
+        {
+          "id": "nm4229163",
+          "name": "Matt Cordero",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0192337",
+          "name": "Jean M. Cunningham",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm5075825",
+          "name": "Ryan Cunningham",
+          "description": "visual effects coordinator (3D version 2013)"
+        },
+        {
+          "id": "nm0192929",
+          "name": "Gail Currey",
+          "description": "cg department production manager"
+        },
+        {
+          "id": "nm4270042",
+          "name": "Josh Deason",
+          "description": "stereo compositor: stereoscopic conversion (3D version 2013)"
+        },
+        {
+          "id": "nm0228147",
+          "name": "Mark A.Z. Dippé",
+          "description": "co-visual effects supervisor"
+        },
+        {
+          "id": "nm4075216",
+          "name": "Gus Djuro",
+          "description": "senior stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0238317",
+          "name": "Lisa Drostova",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm0241095",
+          "name": "Sheila Duignan",
+          "description": "production coordinator: Tippett Studio"
+        },
+        {
+          "id": "nm0242357",
+          "name": "Edwin Dunkley",
+          "description": "computer graphics technical assistant"
+        },
+        {
+          "id": "nm4269584",
+          "name": "Vanessa Antoinette Dunn",
+          "description": "compositor: 3D Stereo Conversion (as Vanessa LaMarche)"
+        },
+        {
+          "id": "nm0244833",
+          "name": "Randal M. Dutra",
+          "description": "senior animator: Tippett Studio"
+        },
+        {
+          "id": "nm0004157",
+          "name": "TyRuben Ellingson",
+          "description": "visual effects art director"
+        },
+        {
+          "id": "nm1290751",
+          "name": "John Ellis",
+          "description": "optical supervisor: ILM"
+        },
+        {
+          "id": "nm0254992",
+          "name": "Mike Ellis",
+          "description": "scanning operator"
+        },
+        {
+          "id": "nm0256827",
+          "name": "Eric Enderton",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm0258395",
+          "name": "Douglas Epps",
+          "description": "computer technician: Tippett Studio"
+        },
+        {
+          "id": "nm4268069",
+          "name": "Bryan T. Evans",
+          "description": "matchmove artist (3d version)"
+        },
+        {
+          "id": "nm0262600",
+          "name": "Christopher Evans",
+          "description": "matte artist"
+        },
+        {
+          "id": "nm0266777",
+          "name": "Stefen Fangmeier",
+          "description": "lead computer graphics supervision (as Stefen M. Fangmeier)"
+        },
+        {
+          "id": "nm4076332",
+          "name": "Brian Fanska",
+          "description": "stereo matchmove artist (3D Version 2013)"
+        },
+        {
+          "id": "nm0268141",
+          "name": "Scott Farrar",
+          "description": "additional plate photographer"
+        },
+        {
+          "id": "nm5654069",
+          "name": "Robin Ferber",
+          "description": "stereoscopic conversion artist (3D version 2013)"
+        },
+        {
+          "id": "nm4252915",
+          "name": "Robin Pierce Ferber",
+          "description": "stereoscopic conversion artist (3D version 2013)"
+        },
+        {
+          "id": "nm0278023",
+          "name": "Robert Finley Jr.",
+          "description": "stage technician: ILM"
+        },
+        {
+          "id": "nm5564511",
+          "name": "Jerod Finn",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0280633",
+          "name": "Pat Fitzsimmons",
+          "description": "stage technician: ILM"
+        },
+        {
+          "id": "nm4259285",
+          "name": "Emily Francione",
+          "description": "stereoscopic roto lead (3D version 2013)"
+        },
+        {
+          "id": "nm0292767",
+          "name": "Carl N. Frederick",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm4269389",
+          "name": "Travis Fruci",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm0303709",
+          "name": "George Gambetta",
+          "description": "scanning operator"
+        },
+        {
+          "id": "nm7193007",
+          "name": "Mayur Gangasagar",
+          "description": "stereo compositor"
+        },
+        {
+          "id": "nm5000615",
+          "name": "Adam Garnier",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm3684133",
+          "name": "Meredith Garrison",
+          "description": "visual effects production assistant (3D version 2013)"
+        },
+        {
+          "id": "nm0310697",
+          "name": "Steve Gawley",
+          "description": "chief model maker"
+        },
+        {
+          "id": "nm0004021",
+          "name": "Tim Geideman",
+          "description": "optical lab technician"
+        },
+        {
+          "id": "nm4446592",
+          "name": "Matthew E. Gill",
+          "description": "stereo production assistant: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0320477",
+          "name": "Bart Giovanetti",
+          "description": "digital artist (as Bart Giovannetti)"
+        },
+        {
+          "id": "nm0322328",
+          "name": "Michael Gleason",
+          "description": "visual effects editor: ILM"
+        },
+        {
+          "id": "nm0337559",
+          "name": "Jeffrey Greeley",
+          "description": "camera assistant: ILM (as Jeff Greeley)"
+        },
+        {
+          "id": "nm0339400",
+          "name": "Timothy Greenwood",
+          "description": "projectionist: ILM (as Timothy A. Greenwood)"
+        },
+        {
+          "id": "nm3884768",
+          "name": "Nathan Grubbs",
+          "description": "stereo compositor: stereoscopic conversion (3D version 2013)"
+        },
+        {
+          "id": "nm3072943",
+          "name": "Josh Handley",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3260141",
+          "name": "Derek Hanson",
+          "description": "stereo compositor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm3268025",
+          "name": "Reginald Harber Jr.",
+          "description": "stereoscopic conversion lead: Stereo D (3D Version 2013)"
+        },
+        {
+          "id": "nm4593913",
+          "name": "Kyle Hardin",
+          "description": "senior stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm4494994",
+          "name": "Rich Hardy Jr.",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3469590",
+          "name": "Brian Hawkins",
+          "description": "stereoscopic technical director: Stereo D (3D Version 2013)"
+        },
+        {
+          "id": "nm0370960",
+          "name": "Craig Hayes",
+          "description": "computer interface engineer: Tippett Studio"
+        },
+        {
+          "id": "nm0372329",
+          "name": "Janet Healy",
+          "description": "visual effects producer"
+        },
+        {
+          "id": "nm4154099",
+          "name": "Alex Heffner",
+          "description": "stereoscopic lead artist (3D version 2013)"
+        },
+        {
+          "id": "nm4599925",
+          "name": "Veronica Hernandez",
+          "description": "rotoscope artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4851125",
+          "name": "Jordan Heskett",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm0384614",
+          "name": "Robert Hill",
+          "description": "camera assistant: ILM"
+        },
+        {
+          "id": "nm0390666",
+          "name": "Diane Holland",
+          "description": "digital matte coordinator"
+        },
+        {
+          "id": "nm0394855",
+          "name": "John Horn",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm0396887",
+          "name": "Sandy Houston",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm0398172",
+          "name": "Wade Howie",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm4969136",
+          "name": "Katherine Hupp",
+          "description": "stereoscopic roto artist"
+        },
+        {
+          "id": "nm0404413",
+          "name": "Tom L. Hutchinson",
+          "description": "computer graphics artist (as Thomas L. Hutchinson)"
+        },
+        {
+          "id": "nm4268855",
+          "name": "Paul Ingegneri",
+          "description": "visual effects assistant: StereoD (3D version 2013)"
+        },
+        {
+          "id": "nm0425517",
+          "name": "Keith Johnson",
+          "description": "optical camera operator (as Keith L. Johnson)"
+        },
+        {
+          "id": "nm1578412",
+          "name": "Tim Johnson",
+          "description": "finaling department manager: StereoD (3D version 2013)"
+        },
+        {
+          "id": "nm4215548",
+          "name": "Katherine Renee Jones",
+          "description": "stereoscopic conversion lead: Stereo D (as Katherine Rodtsbrooks) (3D Version 2013)"
+        },
+        {
+          "id": "nm4209356",
+          "name": "Corey Just",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm0434194",
+          "name": "Zoran Kacic-Alesic",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm5599932",
+          "name": "Vijay Kadapatti",
+          "description": "stereo production coordinator (3D version 2013)"
+        },
+        {
+          "id": "nm4657028",
+          "name": "Prateek Kaushal",
+          "description": "stereoscopic lead: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0443030",
+          "name": "Douglas S. Kay",
+          "description": "senior CG department manager (as Douglas Scott Kay)"
+        },
+        {
+          "id": "nm0443369",
+          "name": "Pam Kaye",
+          "description": "production accountant: ILM (as Pamela Kaye)"
+        },
+        {
+          "id": "nm0444512",
+          "name": "Ira Keeler",
+          "description": "chief model maker"
+        },
+        {
+          "id": "nm4584626",
+          "name": "Ian Kelly",
+          "description": "senior rotoscope artist (3D version 2013)"
+        },
+        {
+          "id": "nm4524517",
+          "name": "Terry Klopfenstein",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0460686",
+          "name": "Brian Knep",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm4531049",
+          "name": "Gerry Kodo",
+          "description": "stereo compositor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0465115",
+          "name": "Peter Konig",
+          "description": "animatics: Tippett Studio"
+        },
+        {
+          "id": "nm4088228",
+          "name": "Alvado Landaberde",
+          "description": "stereoscopic compositor: stereoscopic conversion (3D version 2013)"
+        },
+        {
+          "id": "nm4431702",
+          "name": "Grant Lee",
+          "description": "lead stereo compositor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0501744",
+          "name": "Jay Lenci",
+          "description": "computer graphics systems supporter"
+        },
+        {
+          "id": "nm0504784",
+          "name": "Joe Letteri",
+          "description": "computer graphics technical director: ILM"
+        },
+        {
+          "id": "nm1728903",
+          "name": "Mari Levitan",
+          "description": "stereo production coordinator (3D version 2013)"
+        },
+        {
+          "id": "nm4540675",
+          "name": "Seth Lickiss",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0509933",
+          "name": "Jeffrey B. Light",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm0510541",
+          "name": "James Lim",
+          "description": "optical camera operator (as James C. Lim)"
+        },
+        {
+          "id": "nm4091739",
+          "name": "Son Lu",
+          "description": "stereoscopic lead (3D version 2013)"
+        },
+        {
+          "id": "nm0524759",
+          "name": "Nancy Luckoff",
+          "description": "computer graphics coordinator (as Nancy Jill Luckoff)"
+        },
+        {
+          "id": "nm4475519",
+          "name": "Rob Lutz",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3860367",
+          "name": "Yael Majors",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3467458",
+          "name": "David Maldonado",
+          "description": "senior depth artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4352917",
+          "name": "Sebastian Maldonado",
+          "description": "senior stereoscopic paint artist (3D version 2013)"
+        },
+        {
+          "id": "nm0540553",
+          "name": "Greg Maloney",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm5501914",
+          "name": "Pavan Maradia",
+          "description": "technical assistant: StereoD (3D version 2013)"
+        },
+        {
+          "id": "nm0560241",
+          "name": "Tina Matthies",
+          "description": "production assistant: ILM"
+        },
+        {
+          "id": "nm4014930",
+          "name": "Kindra McCall",
+          "description": "stereoscopic depth artist: 2013 3D Version"
+        },
+        {
+          "id": "nm5165441",
+          "name": "Brandon Jay McCartney",
+          "description": "depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm0567000",
+          "name": "Mark 'Crash' McCreery",
+          "description": "concept artist"
+        },
+        {
+          "id": "nm0569871",
+          "name": "Roberto McGrath",
+          "description": "assistant editor: ILM"
+        },
+        {
+          "id": "nm5601958",
+          "name": "Elizabeth McKinney",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm4545948",
+          "name": "David McMahon",
+          "description": "compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3479159",
+          "name": "Carlos Mendoza Jr.",
+          "description": "senior stereoscopic artist stereoD uncredited"
+        },
+        {
+          "id": "nm0583122",
+          "name": "Gary Meyer",
+          "description": "video engineer: ILM"
+        },
+        {
+          "id": "nm0583539",
+          "name": "Fred Meyers",
+          "description": "video engineer: ILM"
+        },
+        {
+          "id": "nm4532336",
+          "name": "David Miller III",
+          "description": "senior stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0588914",
+          "name": "Mark S. Miller",
+          "description": "plate producer: ILM (as Mark Miller)"
+        },
+        {
+          "id": "nm0593437",
+          "name": "Jim Mitchell",
+          "description": "computer graphics artist (as James D. Mitchell)"
+        },
+        {
+          "id": "nm0594459",
+          "name": "Curt I. Miyashiro",
+          "description": "computer graphics technical assistant"
+        },
+        {
+          "id": "nm0596616",
+          "name": "Steve Molin",
+          "description": "computer graphics technical assistant"
+        },
+        {
+          "id": "nm0605065",
+          "name": "Tim Morgan",
+          "description": "stage technician: ILM (as Timothy Morgan)"
+        },
+        {
+          "id": "nm0606640",
+          "name": "Jim Morris",
+          "description": "general manager: ILM"
+        },
+        {
+          "id": "nm4525075",
+          "name": "Carson Murdy",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0613830",
+          "name": "Dennis Muren",
+          "description": "full-motion dinosaurs"
+        },
+        {
+          "id": "nm0614279",
+          "name": "George Murphy",
+          "description": "computer graphics supervisor"
+        },
+        {
+          "id": "nm4230685",
+          "name": "Michael Murphy",
+          "description": "head of quality control: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0616825",
+          "name": "Patrick T. Myers",
+          "description": "computer graphics camera matchmover"
+        },
+        {
+          "id": "nm4853440",
+          "name": "Naren Naidoo",
+          "description": "roto artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm3028415",
+          "name": "Emmi Nakagawa",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm5601923",
+          "name": "Mohan Narayanaswamy",
+          "description": "quality manager (3D version 2013)"
+        },
+        {
+          "id": "nm0622354",
+          "name": "Michael J. Natkin",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm0623809",
+          "name": "Patrick Neary",
+          "description": "computer graphics technical assistant"
+        },
+        {
+          "id": "nm2755394",
+          "name": "Chris O'Connell",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm1935116",
+          "name": "Patrick O'Riley",
+          "description": "rotoscope coordinator: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0664689",
+          "name": "Joe Pasquale",
+          "description": "computer graphics artist (as Joseph Pasquale)"
+        },
+        {
+          "id": "nm3224841",
+          "name": "Demetrios Patsiaris",
+          "description": "stereoscopic roto artist (3D version 2013)"
+        },
+        {
+          "id": "nm4268928",
+          "name": "Lyndsey Pendley",
+          "description": "stereoscopic paint artist (2013 3D version)"
+        },
+        {
+          "id": "nm4659373",
+          "name": "Daniel Perez",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0677285",
+          "name": "Lorne Peterson",
+          "description": "chief model maker"
+        },
+        {
+          "id": "nm2991507",
+          "name": "Ezra Pike",
+          "description": "stereo roto artist (3D version 2013)"
+        },
+        {
+          "id": "nm0003256",
+          "name": "Joshua Pines",
+          "description": "scanning supervisor"
+        },
+        {
+          "id": "nm0686774",
+          "name": "Gary Platek",
+          "description": "engineer: Tippett Studio"
+        },
+        {
+          "id": "nm4808110",
+          "name": "Cody Poag",
+          "description": "stereoscopic depth artist: 3D re-release"
+        },
+        {
+          "id": "nm0690936",
+          "name": "Ellen Poon",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm0697164",
+          "name": "Stephen L. Price",
+          "description": "computer graphics animator (as Steve Price)"
+        },
+        {
+          "id": "nm0699286",
+          "name": "Derek N. Prusak",
+          "description": "stereoscopic editorial supervisor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm3845731",
+          "name": "Juan Carlos Quintana",
+          "description": "senior stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0714920",
+          "name": "Steve Reding",
+          "description": "computer technician: Tippett Studio"
+        },
+        {
+          "id": "nm0715359",
+          "name": "Christopher Reed",
+          "description": "chief model maker"
+        },
+        {
+          "id": "nm1945820",
+          "name": "William Reges",
+          "description": "stereoscopic artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4689563",
+          "name": "Mick Reid",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm4488601",
+          "name": "Patrick Reilly",
+          "description": "visual effects artist (3D Version 2013)"
+        },
+        {
+          "id": "nm0719382",
+          "name": "Carolyn Ensle Rendu",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm4302423",
+          "name": "Pedro Luis Reyes",
+          "description": "depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm2301534",
+          "name": "Grover Richardson",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0729329",
+          "name": "Louis Rivera",
+          "description": "negative cutter: ILM"
+        },
+        {
+          "id": "nm4406218",
+          "name": "Arturo Rodriguez",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm0738707",
+          "name": "Jules Roman",
+          "description": "production supervisor: Tippett studio (as Jules Tippett)"
+        },
+        {
+          "id": "nm0742155",
+          "name": "Stephen Rosenbaum",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm4926248",
+          "name": "German Sandoval",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm4164098",
+          "name": "Eric Sanford",
+          "description": "lead tracking artist / matchmove artist"
+        },
+        {
+          "id": "nm5098820",
+          "name": "Lukas Sarralde",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0771985",
+          "name": "Rebecca Schiros",
+          "description": "production: Tippett Studio"
+        },
+        {
+          "id": "nm0772068",
+          "name": "John Schlag",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm4093870",
+          "name": "Daniel Schrepf",
+          "description": "stereoscopic roto lead (3D version 2013)"
+        },
+        {
+          "id": "nm4092052",
+          "name": "Jameson Schultz",
+          "description": "stereoscopic conversion lead: Stereo D (3D Version 2013)"
+        },
+        {
+          "id": "nm0782390",
+          "name": "Alex Seiden",
+          "description": "computer graphics supervisor"
+        },
+        {
+          "id": "nm4540783",
+          "name": "Stanislav Shapetskiy",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0796970",
+          "name": "Linda Siegel",
+          "description": "computer graphics systems supporter"
+        },
+        {
+          "id": "nm0800765",
+          "name": "Jerry Simonsen",
+          "description": "courier coordinator: ILM"
+        },
+        {
+          "id": "nm4077566",
+          "name": "Corey Smith",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0820398",
+          "name": "Tom St. Amand",
+          "description": "animator: Tippett studio"
+        },
+        {
+          "id": "nm4236333",
+          "name": "Andrea R. Stephens",
+          "description": "department manager: Deluxe 3D (3D version 2013)"
+        },
+        {
+          "id": "nm0829391",
+          "name": "G. Allen Stewart",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm4361346",
+          "name": "Nicholas Stocker",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0833766",
+          "name": "James Straus",
+          "description": "computer graphics animator (as James Satoru Straus)"
+        },
+        {
+          "id": "nm4406827",
+          "name": "Allison Sturdy",
+          "description": "stereoscopic depth artist (3D version 2013)"
+        },
+        {
+          "id": "nm0840086",
+          "name": "Duncan Sutherland",
+          "description": "camera engineer: ILM"
+        },
+        {
+          "id": "nm0842419",
+          "name": "Eric Swenson",
+          "description": "animatics: Tippett Studio"
+        },
+        {
+          "id": "nm1340080",
+          "name": "Joe Takai",
+          "description": "computer graphics software developer"
+        },
+        {
+          "id": "nm2086413",
+          "name": "David Tanaka",
+          "description": "editorial coordinator: ILM"
+        },
+        {
+          "id": "nm3466606",
+          "name": "Brandon Taylor",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0857369",
+          "name": "Ginger Theisen",
+          "description": "computer graphics coordinator"
+        },
+        {
+          "id": "nm4075975",
+          "name": "Jason Thomas",
+          "description": "stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm4431813",
+          "name": "Brian Thomason",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm3894587",
+          "name": "Eric Timm",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0864138",
+          "name": "Phil Tippett",
+          "description": "dinosaur supervisor"
+        },
+        {
+          "id": "nm2700226",
+          "name": "Robert Tobin",
+          "description": "stereoscopic conversion artist (3D version 2013)"
+        },
+        {
+          "id": "nm3669466",
+          "name": "Khuong Tran",
+          "description": "stereo compositor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm4380389",
+          "name": "Mark Victor Trappett",
+          "description": "render technical assistant (3D version 2013)"
+        },
+        {
+          "id": "nm0871154",
+          "name": "Kristen Trattner",
+          "description": "optical line-up"
+        },
+        {
+          "id": "nm5300946",
+          "name": "Daniel Trebac",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm0872620",
+          "name": "Bart Trickel",
+          "description": "engineer: Tippett Studio"
+        },
+        {
+          "id": "nm0874383",
+          "name": "Tien Truong",
+          "description": "computer graphics artist"
+        },
+        {
+          "id": "nm3529126",
+          "name": "Ervin Tuazon",
+          "description": "stereoscopic artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0877786",
+          "name": "Pat Turner",
+          "description": "visual effects camera operator"
+        },
+        {
+          "id": "nm4190200",
+          "name": "Lisa Dawn Tynes",
+          "description": "rotoscope artist (as Lisa Dawn Rogolsky) (3D version 2013)"
+        },
+        {
+          "id": "nm0880013",
+          "name": "Yusei Uesugi",
+          "description": "matte artist"
+        },
+        {
+          "id": "nm0883628",
+          "name": "Adam Valdez",
+          "description": "computer systems: Tippett Studio"
+        },
+        {
+          "id": "nm5048505",
+          "name": "Sherin Varghese",
+          "description": "stereoscopic supervisor: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm0891212",
+          "name": "Lisa Vaughn",
+          "description": "optical coordinator / scanning coordinator"
+        },
+        {
+          "id": "nm5065791",
+          "name": "Aurelio x. Vera Jr.",
+          "description": "visual effects producer: Digital Caliber Inc. (3D version 2013)"
+        },
+        {
+          "id": "nm5602049",
+          "name": "Vanessa Vera",
+          "description": "stereoscopic compositor (3D version 2013) / stereoscopic painter (3D version 2013)"
+        },
+        {
+          "id": "nm0909038",
+          "name": "Don Waller",
+          "description": "computer graphics animator"
+        },
+        {
+          "id": "nm1807011",
+          "name": "Pablo Wang",
+          "description": "digital artist (3D Version 2013) / stereo compositor (3D version 2013)"
+        },
+        {
+          "id": "nm0915877",
+          "name": "Judith Weaver",
+          "description": "visual effects coordinator: ILM"
+        },
+        {
+          "id": "nm4800720",
+          "name": "Evan Wen",
+          "description": "finaling artist (3D version 2013)"
+        },
+        {
+          "id": "nm0924218",
+          "name": "John Whisnant",
+          "description": "optical line-up (as John O. Whisnant)"
+        },
+        {
+          "id": "nm0931727",
+          "name": "Steve 'Spaz' Williams",
+          "description": "cg animator (as Steve Spaz Williams)"
+        },
+        {
+          "id": "nm0931824",
+          "name": "Tom Williams",
+          "description": "supervisor of software and digital technology (as Thomas A. Williams)"
+        },
+        {
+          "id": "nm4238225",
+          "name": "Jay Wilson",
+          "description": "senior stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm4277686",
+          "name": "Ryan M. Wilson",
+          "description": "stereoscopic artist (3D version 2013)"
+        },
+        {
+          "id": "nm4245616",
+          "name": "Peter M. Wu",
+          "description": "stereoscopic depth artist: Stereo D (3D version 2013)"
+        },
+        {
+          "id": "nm3970236",
+          "name": "Marvin Yanez",
+          "description": "stereoscopic roto lead (3D version 2013)"
+        },
+        {
+          "id": "nm0948970",
+          "name": "Suzanne Niki Yoshii",
+          "description": "production: Tippett Studio"
+        },
+        {
+          "id": "nm0956336",
+          "name": "Stuart Ziff",
+          "description": "engineer: Tippett Studio"
+        },
+        {
+          "id": "nm0956778",
+          "name": "Rita E. Zimmerman",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm1484530",
+          "name": "Darren Bailey",
+          "description": "operations assistant: Stereo D: 3D version 2013 (uncredited)"
+        },
+        {
+          "id": "nm4114570",
+          "name": "Jarret Ballard",
+          "description": "stereoscopic depth artist (uncredited)"
+        },
+        {
+          "id": "nm2932383",
+          "name": "Jeannie Ben-Hain",
+          "description": "stereoscopic compositor (uncredited)"
+        },
+        {
+          "id": "nm0082620",
+          "name": "Scott Billups",
+          "description": "pre-visualization (uncredited)"
+        },
+        {
+          "id": "nm4524543",
+          "name": "Jason Bomstein",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm4650889",
+          "name": "Shane Bouthillier",
+          "description": "stereoscopic artist (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm0114042",
+          "name": "Kris Brown",
+          "description": "visual effects engineer: ILM (uncredited)"
+        },
+        {
+          "id": "nm0124935",
+          "name": "Greg Butler",
+          "description": "camera engineering intern: ILM (uncredited)"
+        },
+        {
+          "id": "nm2860457",
+          "name": "Marbella Calvillo",
+          "description": "finaling lead: Stereo D (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm5918390",
+          "name": "Galen Caulfield",
+          "description": "stereoscopic compositor (uncredited) / stereoscopic compositor: 3D version (uncredited)"
+        },
+        {
+          "id": "nm4268245",
+          "name": "Kristy Chrobak",
+          "description": "stereo production coordinator (uncredited)"
+        },
+        {
+          "id": "nm0171800",
+          "name": "Susan Adele Colletta",
+          "description": "post production coordinator: ILM (uncredited)"
+        },
+        {
+          "id": "nm4268814",
+          "name": "Thomas Crow",
+          "description": "stereo artist (uncredited)"
+        },
+        {
+          "id": "nm5525745",
+          "name": "Sarah Davis",
+          "description": "stereo compositor: Stereo D (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm5566902",
+          "name": "Rachel Pieper Decker",
+          "description": "data i/o manager: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4899085",
+          "name": "Val Dela Rosa",
+          "description": "systems architect: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm0236552",
+          "name": "David Dozoretz",
+          "description": "digital artist (uncredited)"
+        },
+        {
+          "id": "nm5686316",
+          "name": "Jeckson Edmilao",
+          "description": "desktop administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4268752",
+          "name": "Paul John Faeldo",
+          "description": "stereo compositor: Stereo D (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm0291572",
+          "name": "Warren Franklin",
+          "description": "Group VP ILM (uncredited)"
+        },
+        {
+          "id": "nm4094090",
+          "name": "Bryan Gauna",
+          "description": "sr. systems architect: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm5686942",
+          "name": "William F. Hamilton",
+          "description": "systems administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm2676588",
+          "name": "Bryan Haynes",
+          "description": "model maker: ILM (uncredited)"
+        },
+        {
+          "id": "nm3543932",
+          "name": "Mike F. Hedayati",
+          "description": "stereographer (uncredited) / stereoscopic supervisor (uncredited)"
+        },
+        {
+          "id": "nm4677937",
+          "name": "Adam Hickey",
+          "description": "stereoscopic conversion (3D Version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4432151",
+          "name": "Ryan Keely",
+          "description": "digital compositor (uncredited)"
+        },
+        {
+          "id": "nm4899453",
+          "name": "Mike Knox",
+          "description": "systems engineer: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm1725159",
+          "name": "David Krause",
+          "description": "vp of technology: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4215921",
+          "name": "Michael Ligammare",
+          "description": "tracking artist: Stereo D (uncredited)"
+        },
+        {
+          "id": "nm5687083",
+          "name": "Zach Mahon",
+          "description": "desktop administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm3995153",
+          "name": "Carson Majors",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm3449953",
+          "name": "Damon Martinez",
+          "description": "stereoscopic compositor (uncredited)"
+        },
+        {
+          "id": "nm0613830",
+          "name": "Dennis Muren",
+          "description": "visual effects supervisor: ILM (uncredited)"
+        },
+        {
+          "id": "nm5088499",
+          "name": "Travis Murray",
+          "description": "senior stereoscopic compositor (uncredited)"
+        },
+        {
+          "id": "nm4439305",
+          "name": "Scott Musselman",
+          "description": "stereoscopic depth artist (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm1266629",
+          "name": "Farzad 'Fuzz' Namdjoo",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm3009613",
+          "name": "Katharina Nimmervoll",
+          "description": "data administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm0633910",
+          "name": "Tony Noel",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm4593010",
+          "name": "Dano O'Shaughnessy",
+          "description": "stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm1367694",
+          "name": "Lionel Ivan Orozco",
+          "description": "stop motion armatures: Tippett Studio (uncredited)"
+        },
+        {
+          "id": "nm4927985",
+          "name": "Raphael Oseguera",
+          "description": "roto artist: stereoscopic conversion (uncredited)"
+        },
+        {
+          "id": "nm5719214",
+          "name": "Dana Passarella",
+          "description": "stereoscopic compositor (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm5918410",
+          "name": "Niki Patterson",
+          "description": "data administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4729466",
+          "name": "Binoy Peters",
+          "description": "senior production coordinator (uncredited)"
+        },
+        {
+          "id": "nm5861155",
+          "name": "Phets Phonasa",
+          "description": "stereoscopic artist (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm0694320",
+          "name": "Stephanie Powell",
+          "description": "blue screen supervisor (uncredited)"
+        },
+        {
+          "id": "nm4539689",
+          "name": "Mike Rim",
+          "description": "stereoscopic compositor (uncredited)"
+        },
+        {
+          "id": "nm2375819",
+          "name": "Zachary J. Rose",
+          "description": "desktop administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm4269903",
+          "name": "Dylan Sanchez",
+          "description": "stereo compositor: Stereo D (uncredited)"
+        },
+        {
+          "id": "nm4090432",
+          "name": "Evan Saunders",
+          "description": "senior stereoscopic artist (uncredited)"
+        },
+        {
+          "id": "nm0774021",
+          "name": "Scott Schneider",
+          "description": "model maker (uncredited)"
+        },
+        {
+          "id": "nm3915818",
+          "name": "Brian Schultz",
+          "description": "digital stereoscopic compositor (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm3062929",
+          "name": "Brian Schumacher",
+          "description": "stereoscopic supervisor: Stereo D (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm2292408",
+          "name": "Stacey Simmons",
+          "description": "production technology manager: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm6389341",
+          "name": "Nicole Stevenson",
+          "description": "render technical assistant: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm5918380",
+          "name": "Jeffrey Stewart",
+          "description": "visual effects coordinator (uncredited)"
+        },
+        {
+          "id": "nm4898901",
+          "name": "Thomas Tran",
+          "description": "desktop administrator: StereoD (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm3796002",
+          "name": "Jared James Vest",
+          "description": "digital artist (uncredited)"
+        },
+        {
+          "id": "nm4405903",
+          "name": "Faith Whitehead",
+          "description": "depth artist (3D version 2013) (uncredited)"
+        },
+        {
+          "id": "nm8781792",
+          "name": "Amy Young",
+          "description": "stage technician: Industrial Light & Magic (uncredited)"
+        },
+        {
+          "id": "nm5292776",
+          "name": "Elana Zaklis",
+          "description": "stereoscopic artist (3D version 2013) (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0093164",
+          "name": "Nathalie B. Bollinger",
+          "description": "stunts (as Natalie Bolinger)"
+        },
+        {
+          "id": "nm0201970",
+          "name": "Laura Dash",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0205003",
+          "name": "Larry Davis",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0258344",
+          "name": "Gary Epper",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0262719",
+          "name": "Donna Evans",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0361363",
+          "name": "Rusty Hanson",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0397917",
+          "name": "Norman Howell",
+          "description": "stunt double: Sam Neill"
+        },
+        {
+          "id": "nm0405223",
+          "name": "Gary Hymes",
+          "description": "stunt coordinator"
+        },
+        {
+          "id": "nm0489041",
+          "name": "Les Larson",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0572255",
+          "name": "Gary McLarty",
+          "description": "stunts (as Gary McClarty)"
+        },
+        {
+          "id": "nm0738939",
+          "name": "Pat Romano",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0740008",
+          "name": "R.A. Rondell",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0810706",
+          "name": "Brian Smrz",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0848191",
+          "name": "Patricia Tallman",
+          "description": "stunt double: Laura Dern"
+        },
+        {
+          "id": "nm9951198",
+          "name": "James Chick Keating",
+          "description": "stunt coordinator (uncredited)"
+        },
+        {
+          "id": "nm0629406",
+          "name": "Larry Nicholas",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0777379",
+          "name": "Myke Schwartz",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0013889",
+          "name": "Lloyd Ahern II",
+          "description": "additional photographer"
+        },
+        {
+          "id": "nm0136326",
+          "name": "Ron Cardarelli",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0136327",
+          "name": "Steven Cardarelli",
+          "description": "grip (as Steve Cardarelli)"
+        },
+        {
+          "id": "nm0151468",
+          "name": "Steve Chandler",
+          "description": "assistant chief lighting technician"
+        },
+        {
+          "id": "nm0153189",
+          "name": "Henry Charleston",
+          "description": "lighting technician (as Harry 'Hank' Henderson)"
+        },
+        {
+          "id": "nm0167098",
+          "name": "Murray Close",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0170095",
+          "name": "John Coker",
+          "description": "grip"
+        },
+        {
+          "id": "nm0174997",
+          "name": "John Connell",
+          "description": "assistant camera: aerial unit"
+        },
+        {
+          "id": "nm0220539",
+          "name": "Thomas DeRose",
+          "description": "rigging electric (as Tom Derose)"
+        },
+        {
+          "id": "nm0229699",
+          "name": "Marty Dobkousky",
+          "description": "grip"
+        },
+        {
+          "id": "nm0333925",
+          "name": "Ben O. Graham",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm3728141",
+          "name": "Eldon Hansen",
+          "description": "rigging electrician"
+        },
+        {
+          "id": "nm0372692",
+          "name": "Michael Ronald Heath",
+          "description": "grip (as Michael R. Heath)"
+        },
+        {
+          "id": "nm0375287",
+          "name": "Bud Heller",
+          "description": "key rigging grip"
+        },
+        {
+          "id": "nm0446431",
+          "name": "Ian Kelly",
+          "description": "video engineer"
+        },
+        {
+          "id": "nm0446979",
+          "name": "Deborah Kelman",
+          "description": "additional video assist operator"
+        },
+        {
+          "id": "nm0524487",
+          "name": "Sid Lucero",
+          "description": "best boy grip"
+        },
+        {
+          "id": "nm0551094",
+          "name": "Patrick Marshall",
+          "description": "rigging gaffer (as Pat Marshall)"
+        },
+        {
+          "id": "nm0564095",
+          "name": "Patrick McArdle",
+          "description": "assistant camera: plate photography"
+        },
+        {
+          "id": "nm0641105",
+          "name": "John O'Grady",
+          "description": "grip"
+        },
+        {
+          "id": "nm0730907",
+          "name": "Calmar Roberts",
+          "description": "first assistant camera (as Cal Roberts)"
+        },
+        {
+          "id": "nm0746305",
+          "name": "Keith Roverud",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm0004038",
+          "name": "Jack S. Schlosser",
+          "description": "gaffer: second unit (as Jack Schlosser)"
+        },
+        {
+          "id": "nm0786954",
+          "name": "Stephen Sfetku",
+          "description": "camera loader (as Steve Sfetku)"
+        },
+        {
+          "id": "nm0815719",
+          "name": "Mark Soucie",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm0826310",
+          "name": "Raymond Stella",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0859812",
+          "name": "Edward R. Thompson Jr.",
+          "description": "lighting technician (as Edward Thompson)"
+        },
+        {
+          "id": "nm0860656",
+          "name": "Roger Thompson",
+          "description": "electrician: Hawaii"
+        },
+        {
+          "id": "nm0869745",
+          "name": "Neil Toussaint",
+          "description": "2nd Assistant Camera 2nd Unit"
+        },
+        {
+          "id": "nm0890729",
+          "name": "Ruben Vasquez",
+          "description": "grip: Hawaii"
+        },
+        {
+          "id": "nm0892993",
+          "name": "Bill Venegas",
+          "description": "grip"
+        },
+        {
+          "id": "nm0905203",
+          "name": "Dave Wachtman",
+          "description": "dolly grip (as David Wachtman)"
+        },
+        {
+          "id": "nm0908080",
+          "name": "O'Shana Walker",
+          "description": "assistant chief lighting technician"
+        },
+        {
+          "id": "nm0910451",
+          "name": "Mark Walthour",
+          "description": "chief lighting technician"
+        },
+        {
+          "id": "nm0936140",
+          "name": "Jolanda R. Wipfli",
+          "description": "second assistant camera (as Jolanda Wipfli)"
+        },
+        {
+          "id": "nm0938929",
+          "name": "Anthony Wong",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm0940859",
+          "name": "Ron Woodside",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm0179149",
+          "name": "Glenn Corbett",
+          "description": "rigging gaffer (uncredited)"
+        },
+        {
+          "id": "nm0261662",
+          "name": "Kenneth Estes",
+          "description": "video playback operator (uncredited)"
+        },
+        {
+          "id": "nm0286544",
+          "name": "J.W. 'Corkey' Fornof",
+          "description": "pilot: camera plane (uncredited)"
+        },
+        {
+          "id": "nm0322746",
+          "name": "Adam Glick",
+          "description": "set lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0349721",
+          "name": "Mark Gutterud",
+          "description": "camera operator: VistaVision (uncredited)"
+        },
+        {
+          "id": "nm0475093",
+          "name": "Ron Kunecke",
+          "description": "night light operator (uncredited)"
+        },
+        {
+          "id": "nm0527218",
+          "name": "Jim Luske",
+          "description": "location camera operator (uncredited)"
+        },
+        {
+          "id": "nm0577535",
+          "name": "Mark Mele",
+          "description": "rigging electrician (uncredited)"
+        },
+        {
+          "id": "nm0627692",
+          "name": "Ron Newburn",
+          "description": "rigging electrician (uncredited)"
+        },
+        {
+          "id": "nm0646557",
+          "name": "Douglas Olivares",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0786954",
+          "name": "Stephen Sfetku",
+          "description": "second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm1396333",
+          "name": "Pattie Stone",
+          "description": "light board operator (uncredited)"
+        },
+        {
+          "id": "nm2692362",
+          "name": "Tim Stratton",
+          "description": "electrician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Animation Department",
+      "items": [
+        {
+          "id": "nm0476021",
+          "name": "Bob Kurtz",
+          "description": "movement designer: 'Mr. D.N.A.' animation"
+        },
+        {
+          "id": "nm0671376",
+          "name": "Robert Peluce",
+          "description": "layout designer: 'Mr. D.N.A.' animation"
+        },
+        {
+          "id": "nm0177478",
+          "name": "Pam Cooke",
+          "description": "animator: 'Mr. D.N.A.' animation (uncredited)"
+        },
+        {
+          "id": "nm0971816",
+          "name": "Lee Crowe",
+          "description": "assistant animator: 'Mr. D.N.A.' animation (uncredited)"
+        },
+        {
+          "id": "nm1810196",
+          "name": "Johan Klingler",
+          "description": "animator (uncredited)"
+        },
+        {
+          "id": "nm0600724",
+          "name": "Gary Mooney",
+          "description": "animator: 'Mr. D.N.A.' animation (uncredited)"
+        },
+        {
+          "id": "nm1409414",
+          "name": "Frank Suarez",
+          "description": "assistant animator: 'Mr. D.N.A.' animation (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm0341602",
+          "name": "Susanna Griffith",
+          "description": "casting assistant"
+        },
+        {
+          "id": "nm0364456",
+          "name": "Barbara Harris",
+          "description": "voice casting"
+        },
+        {
+          "id": "nm0386665",
+          "name": "Michael Hirshenson",
+          "description": "casting associate"
+        },
+        {
+          "id": "nm0506072",
+          "name": "Mia Levinson",
+          "description": "casting assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0448496",
+          "name": "Mitchell Ray Kenney",
+          "description": "set costumer (as Mitch Kenney)"
+        },
+        {
+          "id": "nm0601904",
+          "name": "Sue Moore",
+          "description": "costume supervisor: women"
+        },
+        {
+          "id": "nm0692191",
+          "name": "Kelly Porter",
+          "description": "set costumer"
+        },
+        {
+          "id": "nm0761259",
+          "name": "Eric H. Sandberg",
+          "description": "costume supervisor: men (as Eric Sandberg)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm3161462",
+          "name": "Milton Adamou",
+          "description": "stereoscopic post executive: 3D version 2013"
+        },
+        {
+          "id": "nm3149909",
+          "name": "Michael Buck",
+          "description": "stereoscopic assistant editor (3D version 2013)"
+        },
+        {
+          "id": "nm0123163",
+          "name": "Gary Burritt",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm0129692",
+          "name": "Dale Caldwell",
+          "description": "color timer"
+        },
+        {
+          "id": "nm0168560",
+          "name": "Alan Cody",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm4215705",
+          "name": "David Cowles",
+          "description": "supervising stereoscopic editor (3D version 2013)"
+        },
+        {
+          "id": "nm0186410",
+          "name": "Patrick Crane",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm1973350",
+          "name": "Greg Emerson",
+          "description": "senior stereoscopic editor: 3D version 2013"
+        },
+        {
+          "id": "nm0002412",
+          "name": "Michael Fallavollita",
+          "description": "apprentice editor"
+        },
+        {
+          "id": "nm0266703",
+          "name": "Peter Fandetti",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0354695",
+          "name": "Art Halissi",
+          "description": "color timer"
+        },
+        {
+          "id": "nm2549237",
+          "name": "Cris Mertens",
+          "description": "stereoscopic assistant editor: 3D version 2013"
+        },
+        {
+          "id": "nm0699286",
+          "name": "Derek N. Prusak",
+          "description": "stereoscopic editorial supervisor: 3D version 2013"
+        },
+        {
+          "id": "nm3099774",
+          "name": "Adrian Scherger",
+          "description": "stereoscopic assistant editor (3D version 2013)"
+        },
+        {
+          "id": "nm0922322",
+          "name": "Robert West",
+          "description": "post-production assistant"
+        },
+        {
+          "id": "nm0615562",
+          "name": "Dan Muscarella",
+          "description": "color timer (uncredited)"
+        },
+        {
+          "id": "nm0664932",
+          "name": "Jim Passon",
+          "description": "color timer: Deluxe (uncredited)"
+        },
+        {
+          "id": "nm0717359",
+          "name": "Mathieu Reid",
+          "description": "color timer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0498187",
+          "name": "Sam Lee",
+          "description": "assistant location manager: Hawaii"
+        },
+        {
+          "id": "nm3356413",
+          "name": "Ken Levine",
+          "description": "location manager: Hawaii unit"
+        },
+        {
+          "id": "nm0627127",
+          "name": "Stuart Neumann",
+          "description": "location manager"
+        },
+        {
+          "id": "nm0257839",
+          "name": "Rory Enke",
+          "description": "location scout (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm1791092",
+          "name": "Mark Adams",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm13856905",
+          "name": "Mark Baranov",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm2924361",
+          "name": "Steve Becknell",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0095650",
+          "name": "Bill Booth",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm10689778",
+          "name": "Ken Burwood-Hoy",
+          "description": "musician: viola"
+        },
+        {
+          "id": "nm1496151",
+          "name": "Agostino Castagnola",
+          "description": "score vocalist"
+        },
+        {
+          "id": "nm13856907",
+          "name": "Shoshana Claman",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm10668884",
+          "name": "Tony Cooke",
+          "description": "musician: cello"
+        },
+        {
+          "id": "nm0006021",
+          "name": "Alexander Courage",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm0207146",
+          "name": "Richard De Armas",
+          "description": "scoring crew (as Richard DeArmas)"
+        },
+        {
+          "id": "nm0214010",
+          "name": "Sandy DeCrescent",
+          "description": "music contractor"
+        },
+        {
+          "id": "nm0219337",
+          "name": "Greg Dennen",
+          "description": "scoring crew"
+        },
+        {
+          "id": "nm9821927",
+          "name": "Burnette Dillon",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm3445432",
+          "name": "David Duke",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0260576",
+          "name": "Mark Eshelman",
+          "description": "scoring crew"
+        },
+        {
+          "id": "nm1121016",
+          "name": "Alan Estes",
+          "description": "musician: percussion"
+        },
+        {
+          "id": "nm0288670",
+          "name": "Bruce Fowler",
+          "description": "musician: trombone (uncredited)"
+        },
+        {
+          "id": "nm10875748",
+          "name": "Jody Golightly",
+          "description": "score vocalist"
+        },
+        {
+          "id": "nm7225078",
+          "name": "Gregory Goodall",
+          "description": "musician: percussion"
+        },
+        {
+          "id": "nm10633045",
+          "name": "Donald Green",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm0345412",
+          "name": "Mario Guarneri",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm10450688",
+          "name": "Michael Hoffman",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0392610",
+          "name": "Steve Holtman",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm3115192",
+          "name": "Boyde Hood",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm2482917",
+          "name": "Tommy Johnson",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm0473280",
+          "name": "Armen Ksajikian",
+          "description": "musician: cello"
+        },
+        {
+          "id": "nm0525131",
+          "name": "Warren Luening",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm3420125",
+          "name": "Andy Malloy",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0572660",
+          "name": "Susan McLean",
+          "description": "scoring crew"
+        },
+        {
+          "id": "nm0573522",
+          "name": "Malcolm McNab",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm10449113",
+          "name": "Todd Miller",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0004156",
+          "name": "Shawn Murphy",
+          "description": "music scoring mixer"
+        },
+        {
+          "id": "nm2149152",
+          "name": "Richard Nash",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0626881",
+          "name": "John Neufeld",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm2477853",
+          "name": "Brian O'Connor",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm10705294",
+          "name": "Norman Pearson",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm10701567",
+          "name": "Gene Pokorny",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm8198110",
+          "name": "Roy Poper",
+          "description": "musician: trumpet"
+        },
+        {
+          "id": "nm0717023",
+          "name": "Bill Reichenbach",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm2480713",
+          "name": "John Reynolds",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm8198082",
+          "name": "Sheldon Sanov",
+          "description": "musician: violin"
+        },
+        {
+          "id": "nm10553127",
+          "name": "James Sawyer",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm1277400",
+          "name": "Jim Self",
+          "description": "musician: tuba"
+        },
+        {
+          "id": "nm0847988",
+          "name": "Bill Talbott",
+          "description": "scoring crew (as Bill Talbot)"
+        },
+        {
+          "id": "nm0857121",
+          "name": "George Thatcher",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm2501294",
+          "name": "Richard Todd",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm1320320",
+          "name": "Louise Di Tullio",
+          "description": "musician: flute"
+        },
+        {
+          "id": "nm0911194",
+          "name": "Kenneth Wannberg",
+          "description": "music editor"
+        },
+        {
+          "id": "nm3992815",
+          "name": "Phillip Yao",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0063973",
+          "name": "Chris Boardman",
+          "description": "music arranger (uncredited)"
+        },
+        {
+          "id": "nm2036352",
+          "name": "Tom Boyd",
+          "description": "musician: oboe soloist (uncredited) / musician: oboe (uncredited)"
+        },
+        {
+          "id": "nm11492285",
+          "name": "Tom Brown",
+          "description": "music copyist (uncredited)"
+        },
+        {
+          "id": "nm0119006",
+          "name": "Dennis Budimir",
+          "description": "musician: guitar (uncredited)"
+        },
+        {
+          "id": "nm0230392",
+          "name": "George Doering",
+          "description": "musician (uncredited)"
+        },
+        {
+          "id": "nm0106982",
+          "name": "Dennis Dreith",
+          "description": "additional orchestrator (uncredited)"
+        },
+        {
+          "id": "nm1309854",
+          "name": "Joan Elardo",
+          "description": "musician (uncredited)"
+        },
+        {
+          "id": "nm0324950",
+          "name": "Daniel Gold",
+          "description": "music prep (uncredited)"
+        },
+        {
+          "id": "nm0334204",
+          "name": "Mark Graham",
+          "description": "music librarian (uncredited)"
+        },
+        {
+          "id": "nm0340965",
+          "name": "Ralph Grierson",
+          "description": "musician: keyboards (uncredited)"
+        },
+        {
+          "id": "nm5543467",
+          "name": "Jim Hoffman",
+          "description": "music preparation (uncredited)"
+        },
+        {
+          "id": "nm3049582",
+          "name": "The Hollywood Studio Symphony",
+          "description": "music performed by (uncredited)"
+        },
+        {
+          "id": "nm0437260",
+          "name": "Artie Kane",
+          "description": "additional conductor (uncredited)"
+        },
+        {
+          "id": "nm0133813",
+          "name": "Jo Ann Kane",
+          "description": "music preparation (uncredited)"
+        },
+        {
+          "id": "nm0469688",
+          "name": "Tom Kramer",
+          "description": "preview music editor (uncredited)"
+        },
+        {
+          "id": "nm0679112",
+          "name": "Bryan Pezzone",
+          "description": "musician: piano soloist (uncredited)"
+        },
+        {
+          "id": "nm1882416",
+          "name": "Dorothy Remsen",
+          "description": "musician: harp (uncredited)"
+        },
+        {
+          "id": "nm0724079",
+          "name": "Emil Richards",
+          "description": "musician: percussion (uncredited)"
+        },
+        {
+          "id": "nm0795930",
+          "name": "Paul Shure",
+          "description": "musician: violin (uncredited)"
+        },
+        {
+          "id": "nm2974297",
+          "name": "Steven L. Smith",
+          "description": "music preparation (uncredited)"
+        },
+        {
+          "id": "nm12089765",
+          "name": "Patty Stein",
+          "description": "music production executive (uncredited)"
+        },
+        {
+          "id": "nm0828755",
+          "name": "Sally Stevens",
+          "description": "singer (uncredited)"
+        },
+        {
+          "id": "nm1142804",
+          "name": "Mirek Stiles",
+          "description": "assistant music engineer (uncredited)"
+        },
+        {
+          "id": "nm1204372",
+          "name": "Chet Swiatkowsky",
+          "description": "musician: keyboards (uncredited)"
+        },
+        {
+          "id": "nm0857125",
+          "name": "James Thatcher",
+          "description": "musician: French horn (uncredited)"
+        },
+        {
+          "id": "nm1320289",
+          "name": "Sebastian Toettcher",
+          "description": "musician: cello (uncredited)"
+        },
+        {
+          "id": "nm0907812",
+          "name": "James Walker",
+          "description": "musician: flute (uncredited)"
+        },
+        {
+          "id": "nm0002354",
+          "name": "John Williams",
+          "description": "conductor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0704088",
+          "name": "Ana Maria Quintana",
+          "description": "script supervisor"
+        },
+        {
+          "id": "nm0549369",
+          "name": "Malia Scotch Marmo",
+          "description": "script revisions (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm3205536",
+          "name": "Dave Busick",
+          "description": "set mechanic"
+        },
+        {
+          "id": "nm0129030",
+          "name": "Denny Caira",
+          "description": "transportation coordinator"
+        },
+        {
+          "id": "nm0129031",
+          "name": "Tino Caira",
+          "description": "driver"
+        },
+        {
+          "id": "nm0189535",
+          "name": "Don Crow",
+          "description": "driver"
+        },
+        {
+          "id": "nm0292668",
+          "name": "Jim Frear",
+          "description": "driver (as James Frear)"
+        },
+        {
+          "id": "nm0421984",
+          "name": "Gordon Jernberg",
+          "description": "driver"
+        },
+        {
+          "id": "nm0430079",
+          "name": "Lorin Jordan",
+          "description": "driver"
+        },
+        {
+          "id": "nm0489374",
+          "name": "Hal Lary",
+          "description": "transportation captain"
+        },
+        {
+          "id": "nm0524416",
+          "name": "Steve Luce",
+          "description": "driver"
+        },
+        {
+          "id": "nm0706822",
+          "name": "Becky Raiche",
+          "description": "driver"
+        },
+        {
+          "id": "nm0715551",
+          "name": "Leroy Reed",
+          "description": "driver"
+        },
+        {
+          "id": "nm0815078",
+          "name": "Steve Sorkin",
+          "description": "driver"
+        },
+        {
+          "id": "nm0880011",
+          "name": "Harry Ueshiro",
+          "description": "transportation captain: Hawaii"
+        },
+        {
+          "id": "nm0922510",
+          "name": "Mark Wescott",
+          "description": "driver (as Mark Westcott)"
+        },
+        {
+          "id": "nm0931914",
+          "name": "Wayne Williams",
+          "description": "driver"
+        },
+        {
+          "id": "nm0944818",
+          "name": "Mark Yacullo",
+          "description": "driver"
+        },
+        {
+          "id": "nm0053400",
+          "name": "Irish Barber",
+          "description": "driver (uncredited)"
+        },
+        {
+          "id": "nm0120793",
+          "name": "Richard Burch",
+          "description": "driver: insert car (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0003677",
+          "name": "Todd J. Adelman",
+          "description": "first aid/safety coordinator (as Todd Adelman)"
+        },
+        {
+          "id": "nm0027052",
+          "name": "Lance Anderson",
+          "description": "goat and body parts supplier"
+        },
+        {
+          "id": "nm0045660",
+          "name": "Michael Backes",
+          "description": "display graphics supervisor"
+        },
+        {
+          "id": "nm0050420",
+          "name": "Lloyd Ball",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0055873",
+          "name": "Craig Tex Barnett",
+          "description": "production assistant (as Craig Barnett)"
+        },
+        {
+          "id": "nm0056487",
+          "name": "Craig Barr",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0060324",
+          "name": "Bill Basso",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0070873",
+          "name": "David Beneke",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0093310",
+          "name": "Larry Bolster",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0104039",
+          "name": "Evan Brainard",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm1644092",
+          "name": "Kyle Brosius",
+          "description": "trailer titles"
+        },
+        {
+          "id": "nm0113928",
+          "name": "Judith M. Brown",
+          "description": "teacher (as Judy Brown)"
+        },
+        {
+          "id": "nm0128706",
+          "name": "Beth Cahn",
+          "description": "assistant: Ms. Kennedy"
+        },
+        {
+          "id": "nm0130507",
+          "name": "Brian Callier",
+          "description": "24 frame computer sync"
+        },
+        {
+          "id": "nm0134138",
+          "name": "Lynne Cannizzaro",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0146253",
+          "name": "Craig Caton",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0149737",
+          "name": "Rebecca Chaires",
+          "description": "assistant: Ms. Ryan"
+        },
+        {
+          "id": "nm0154762",
+          "name": "Leslie Cheatham",
+          "description": "assistant: Ms. Kennedy"
+        },
+        {
+          "id": "nm0156628",
+          "name": "David Chevalier",
+          "description": "picture pilot: aerial unit"
+        },
+        {
+          "id": "nm0183360",
+          "name": "Mitchell J. Coughlin",
+          "description": "puppeteer (as Mitch Coughlin)"
+        },
+        {
+          "id": "nm0193268",
+          "name": "Bonnie Curtis",
+          "description": "assistant: Mr. Spielberg"
+        },
+        {
+          "id": "nm0205752",
+          "name": "Richard Davison",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0205914",
+          "name": "Jon Dawe",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0213754",
+          "name": "Stefan Dechant",
+          "description": "computer design"
+        },
+        {
+          "id": "nm13983599",
+          "name": "Bob Dillon",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0228356",
+          "name": "Ben Diskin",
+          "description": "loop group"
+        },
+        {
+          "id": "nm0250083",
+          "name": "Jeff Edwards",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0271169",
+          "name": "Don Feldstein",
+          "description": "stand-in"
+        },
+        {
+          "id": "nm0276563",
+          "name": "Greg Figiel",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0302218",
+          "name": "Rick Galinson",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0324293",
+          "name": "Jane Goe",
+          "description": "production controller"
+        },
+        {
+          "id": "nm0327589",
+          "name": "Tim Gonzales",
+          "description": "craft service"
+        },
+        {
+          "id": "nm0328056",
+          "name": "Armando González",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0327571",
+          "name": "René González",
+          "description": "projectionist: Amblin"
+        },
+        {
+          "id": "nm0335959",
+          "name": "David Grasso",
+          "description": "puppeteer (as Dave Grasso)"
+        },
+        {
+          "id": "nm0348557",
+          "name": "John Gurche",
+          "description": "dinosaur specialist"
+        },
+        {
+          "id": "nm0356483",
+          "name": "Mark Hallett",
+          "description": "dinosaur specialist"
+        },
+        {
+          "id": "nm0368861",
+          "name": "Beth Hathaway",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0369320",
+          "name": "Richard Haugen",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0372216",
+          "name": "Angela Heald",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0376394",
+          "name": "Deborah Henderson",
+          "description": "assistant production accountant"
+        },
+        {
+          "id": "nm0376413",
+          "name": "Doug Henderson",
+          "description": "dinosaur specialist"
+        },
+        {
+          "id": "nm0390188",
+          "name": "Elena Holden Tuens",
+          "description": "assistant accountant (as Elena Holden)"
+        },
+        {
+          "id": "nm0395107",
+          "name": "Jack Horner",
+          "description": "consultant: paleontology"
+        },
+        {
+          "id": "nm0425435",
+          "name": "Johnny Johnson",
+          "description": "stand-in"
+        },
+        {
+          "id": "nm0448588",
+          "name": "J.M. Kenny",
+          "description": "production assistant (as Joseph J.M. Kenny)"
+        },
+        {
+          "id": "nm0476275",
+          "name": "Karen Bittenson Kushell",
+          "description": "second assistant: Mr. Spielberg (as Karen Bittenson-Kushell)"
+        },
+        {
+          "id": "nm0484939",
+          "name": "Richard J. Landon",
+          "description": "puppeteer (as Richard Landon)"
+        },
+        {
+          "id": "nm0514328",
+          "name": "Tim Litchauer",
+          "description": "safety coordinator"
+        },
+        {
+          "id": "nm0527468",
+          "name": "Frank Charles Lutkus III",
+          "description": "puppeteer (as Charles Lutkus III)"
+        },
+        {
+          "id": "nm0535291",
+          "name": "Cynthia Madvig",
+          "description": "stand-in"
+        },
+        {
+          "id": "nm0536752",
+          "name": "Shane Mahan",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0551176",
+          "name": "Sherry Marshall",
+          "description": "assistant production coordinator"
+        },
+        {
+          "id": "nm0556790",
+          "name": "Karen Mason",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0560487",
+          "name": "Victoria Mattson",
+          "description": "assistant production coordinator: Hawaii"
+        },
+        {
+          "id": "nm0567000",
+          "name": "Mark 'Crash' McCreery",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0577189",
+          "name": "Paul Mejias",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0587705",
+          "name": "Simon Millar",
+          "description": "assistant: Sam Neill"
+        },
+        {
+          "id": "nm0598684",
+          "name": "John Monsour",
+          "description": "24 frame computer sync"
+        },
+        {
+          "id": "nm0619917",
+          "name": "David Nakabayashi",
+          "description": "display graphics"
+        },
+        {
+          "id": "nm0634985",
+          "name": "Tim Nordella",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0638572",
+          "name": "Kristen J. Nye",
+          "description": "payroll accountant (as Kristen Nye)"
+        },
+        {
+          "id": "nm0650415",
+          "name": "Joey Orosco",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0666847",
+          "name": "Gregory Paul",
+          "description": "dinosaur specialist"
+        },
+        {
+          "id": "nm0673753",
+          "name": "Jeff Periera",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0004162",
+          "name": "Patti Podesta",
+          "description": "slide show coordinator"
+        },
+        {
+          "id": "nm0713918",
+          "name": "Joe Reader",
+          "description": "puppeteer (as Joseph Reader)"
+        },
+        {
+          "id": "nm0731953",
+          "name": "Marsha Robertson",
+          "description": "unit publicist"
+        },
+        {
+          "id": "nm0742603",
+          "name": "John Rosengrant",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0774756",
+          "name": "Andy Schoneberg",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0778798",
+          "name": "J. Alan Scott",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0790339",
+          "name": "Shannon Shea",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0790483",
+          "name": "Patrick Shearn",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0808790",
+          "name": "John Smith",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0815952",
+          "name": "Alfred Sousa",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0828953",
+          "name": "Ian Stevenson",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0829277",
+          "name": "Christine Stewart",
+          "description": "assistant accountant"
+        },
+        {
+          "id": "nm6178662",
+          "name": "Ian Sutherland",
+          "description": "assistant"
+        },
+        {
+          "id": "nm0842576",
+          "name": "Christopher Swift",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0843230",
+          "name": "Jules Sylvester",
+          "description": "animal trainer"
+        },
+        {
+          "id": "nm0846482",
+          "name": "Michiko Tagawa",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm0851231",
+          "name": "Traci Tateyama",
+          "description": "office assistant: Hawaii"
+        },
+        {
+          "id": "nm0862131",
+          "name": "Phyllis Thurber-Moffit",
+          "description": "textile artist"
+        },
+        {
+          "id": "nm0864001",
+          "name": "Diana Tinkley",
+          "description": "assistant: Mr. Molen"
+        },
+        {
+          "id": "nm0870706",
+          "name": "Arlene Trainoff",
+          "description": "assistant: David Koepp"
+        },
+        {
+          "id": "nm0871414",
+          "name": "Mark Travis",
+          "description": "security: Hawaii"
+        },
+        {
+          "id": "nm0871543",
+          "name": "Mike Trcic",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm14626951",
+          "name": "Aiko Tsutsui",
+          "description": "translator"
+        },
+        {
+          "id": "nm0877643",
+          "name": "Jim Turner",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0882858",
+          "name": "Davida Vaccaro",
+          "description": "stand-in"
+        },
+        {
+          "id": "nm0935616",
+          "name": "Matt Winston",
+          "description": "puppeteer"
+        },
+        {
+          "id": "nm5203248",
+          "name": "Etsuji Yamada",
+          "description": "staging"
+        },
+        {
+          "id": "nm0952172",
+          "name": "Cynthia Zajonc",
+          "description": "safety coordinator: aerial unit"
+        },
+        {
+          "id": "nm0952174",
+          "name": "Robert 'Bobby Z' Zajonc",
+          "description": "aerial coordinator: aerial unit (as Bobby Zajonc)"
+        },
+        {
+          "id": "nm0003059",
+          "name": "Joe Zimmerman",
+          "description": "stand-in: Mr. Goldblum"
+        },
+        {
+          "id": "nm0057572",
+          "name": "George Barris",
+          "description": "car modifications (uncredited)"
+        },
+        {
+          "id": "nm1580680",
+          "name": "Jon Brekke",
+          "description": "standin: Sam Neill: Hawaii (uncredited)"
+        },
+        {
+          "id": "nm0179823",
+          "name": "Bob Corff",
+          "description": "dialect coach (uncredited) / voice teacher (uncredited)"
+        },
+        {
+          "id": "nm0271169",
+          "name": "Don Feldstein",
+          "description": "photo double (uncredited)"
+        },
+        {
+          "id": "nm0340881",
+          "name": "Debra Grieco",
+          "description": "production accountant (uncredited)"
+        },
+        {
+          "id": "nm0353989",
+          "name": "Ron Hahn-Morin",
+          "description": "production assistant: Kauai (uncredited)"
+        },
+        {
+          "id": "nm5099286",
+          "name": "Alexander Hall",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0396000",
+          "name": "Craig Hosking",
+          "description": "helicopter pilot: Hawaii (uncredited)"
+        },
+        {
+          "id": "nm0452191",
+          "name": "Madeleine Klein",
+          "description": "dinosaur specialist (uncredited)"
+        },
+        {
+          "id": "nm0476472",
+          "name": "Steven R. Kutcher",
+          "description": "entomologist (uncredited)"
+        },
+        {
+          "id": "nm5676648",
+          "name": "Bruce Lamond",
+          "description": "software engineer (uncredited)"
+        },
+        {
+          "id": "nm0701042",
+          "name": "Alan D. Purwin",
+          "description": "helicopter pilot (uncredited)"
+        },
+        {
+          "id": "nm0777229",
+          "name": "Gary Schwartz",
+          "description": "adr loop group (uncredited)"
+        },
+        {
+          "id": "nm0003059",
+          "name": "Joe Zimmerman",
+          "description": "photo double: Mr. Goldblum (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm1299100",
+          "name": "Judy Drosd",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm1300604",
+          "name": "Don Lessem",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0000184",
+          "name": "George Lucas",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0950824",
+          "name": "JoAnn Yukimura",
+          "description": "special thanks (as Mayor Joan Yukimora)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

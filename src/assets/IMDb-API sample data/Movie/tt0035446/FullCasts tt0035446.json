@@ -1,0 +1,539 @@
+{
+  "imDbId": "tt0035446",
+  "title": "To Be or Not to Be",
+  "fullTitle": "To Be or Not to Be (1942)",
+  "type": "Movie",
+  "year": "1942",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0523932",
+        "name": "Ernst Lubitsch",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0501872",
+        "name": "Melchior Lengyel",
+        "description": "(original story)"
+      },
+      {
+        "id": "nm0562372",
+        "name": "Edwin Justus Mayer",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0523932",
+        "name": "Ernst Lubitsch",
+        "description": "(original story) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0001479",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTg5NjI3MDA5Nl5BMl5BanBnXkFtZTcwMzY3OTQ4Mg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Carole Lombard",
+      "asCharacter": "Maria Tura"
+    },
+    {
+      "id": "nm0000912",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwODk0MzE2MF5BMl5BanBnXkFtZTcwOTQ2NjMyNA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Benny",
+      "asCharacter": "Joseph Tura"
+    },
+    {
+      "id": "nm0821041",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM3ZjIwNGEtNjE2ZS00M2UwLWEzYTMtYTMxNDM0YjU1MWFlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Stack",
+      "asCharacter": "Lieutenant Stanislav Sobinski"
+    },
+    {
+      "id": "nm0107795",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc2MWFhYzUtMjgyZS00YzE3LWI0MzUtM2VkNWZiZjUyZThjXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Felix Bressart",
+      "asCharacter": "Greenberg"
+    },
+    {
+      "id": "nm0041172",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzI4NDMwNTAyOV5BMl5BanBnXkFtZTcwNzMxMDUzOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lionel Atwill",
+      "asCharacter": "Rawitch"
+    },
+    {
+      "id": "nm0725897",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjhkOTA0YzgtMDUyMC00ZTg2LTkyMjAtYWM4MWFlNmU0MGY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Stanley Ridges",
+      "asCharacter": "Professor Siletsky"
+    },
+    {
+      "id": "nm0750079",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGMyYzY2YjgtNjk2ZS00ZTEzLTlkZjItODU3MzY5OTI2MzllXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sig Ruman",
+      "asCharacter": "Colonel Ehrhardt"
+    },
+    {
+      "id": "nm0240836",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc3NjU0NjUtZjhkNy00MDJmLTkyNjEtNWY3NDJmNzJlOGUzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Tom Dugan",
+      "asCharacter": "Bronski"
+    },
+    {
+      "id": "nm0357111",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjdiNmQ1NjYtNDNhZi00MmIwLWE5YzctMzYyYmQ0OGQ2ZDg5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Halton",
+      "asCharacter": "Producer Jan Dobosz"
+    },
+    {
+      "id": "nm0528685",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZkMmJmYjQtZmU4Yy00ZDhmLWE4MzQtMmQxZmQyZmY4ODhhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "George Lynn",
+      "asCharacter": "Actor-Adjutant"
+    },
+    {
+      "id": "nm0896109",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM3OTg0NDgwN15BMl5BanBnXkFtZTgwNDQ0MjI1MzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Henry Victor",
+      "asCharacter": "Captain Schultz"
+    },
+    {
+      "id": "nm0248291",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZiMjIzMjEtMTg1MC00MTc1LWJjNWMtMzYzYmFlNzg4ZDBlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Maude Eburne",
+      "asCharacter": "Anna"
+    },
+    {
+      "id": "nm0387561",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcwNTJlOWEtZjNkMS00M2E3LTkyYzQtZjcwMjZhOTFhY2RmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Halliwell Hobbes",
+      "asCharacter": "General Armstrong"
+    },
+    {
+      "id": "nm0541766",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTAxOGU3OTYtZThhMi00NWExLWJjZGQtY2VmOWYyNDVlZjVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Miles Mander",
+      "asCharacter": "Major Cunningham"
+    },
+    {
+      "id": "nm0026049",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVmOTc4MjktYTliOS00ZDUyLWI3Y2EtZjE0ZTQwYTlmM2E3XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Rudolph Anders",
+      "asCharacter": "Gestapo Sergeant at Desk at Top of Hotel Stairs (uncredited)"
+    },
+    {
+      "id": "nm0057245",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Barrett",
+      "asCharacter": "Polish RAF Pilot (uncredited)"
+    },
+    {
+      "id": "nm0096455",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU3OWU3YjMtYmJiMS00OGJkLTgyNzAtYzY0NjE5OTFjZWQ4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Sven Hugo Borg",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm0097647",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Danny Borzage",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0110886",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM2MDAxYTQtNGNjOS00M2ZkLWIzOWUtZTczYmM5M2E3MDUxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Buster Brodie",
+      "asCharacter": "Townsman (uncredited)"
+    },
+    {
+      "id": "nm0129774",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Caldwell",
+      "asCharacter": "Wilhelm Kunze (uncredited)"
+    },
+    {
+      "id": "nm0185769",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkzOTM2NDUtZTk5Ni00ZjNkLTg5NTItNzhmN2FlZjQ5OGZmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Alec Craig",
+      "asCharacter": "Scottish Farmer Without Mustache (uncredited)"
+    },
+    {
+      "id": "nm0200626",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGU3YmNiMTUtNDFjYy00Njg4LWI5ZDgtYjQzODk0Mzg0ZjBiXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Helmut Dantine",
+      "asCharacter": "Co-Pilot (uncredited)"
+    },
+    {
+      "id": "nm0214401",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Deery",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0219219",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leslie Denison",
+      "asCharacter": "Captain (uncredited)"
+    },
+    {
+      "id": "nm0278006",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGM1MTIwMGEtN2ZhZC00ZTBhLTk1OTMtNTNmZmE1ZjNmZGQ4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Finlayson",
+      "asCharacter": "Scottish Farmer with Mustache (uncredited)"
+    },
+    {
+      "id": "nm0283170",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdkZTUwOGYtOGY4Ni00MjY4LTkxOTEtYzk2M2I4NmIxYjg0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bess Flowers",
+      "asCharacter": "Polish RAF Pilot's Assistant (uncredited)"
+    },
+    {
+      "id": "nm0319052",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Gillette",
+      "asCharacter": "Polish RAF Pilot (uncredited)"
+    },
+    {
+      "id": "nm0356128",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWYyZDk4YjItNjlkZi00ZDY3LTllYjUtYzIzOTQ0MDRhM2JjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Stuart Hall",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0388280",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRmOWM3NDItMzk0Yi00MzZmLWE0MmItN2VhZDI0NzUzODE1XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Leyland Hodgson",
+      "asCharacter": "Second Reporter (uncredited)"
+    },
+    {
+      "id": "nm0396473",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shep Houghton",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm0405340",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM3YTc0ZGQtN2NiNS00ZWQ5LTk5YmYtZTI4YTkxOGNmYTRjXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Olaf Hytten",
+      "asCharacter": "Polonius in Warsaw (uncredited)"
+    },
+    {
+      "id": "nm0410361",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM0MTNiYWUtYzM5OC00YmRhLWJhYzQtZmQ5NzU2ZWJjNTMyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Irwin",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0429361",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmZlMTcyN2QtODM3NC00MWM3LWIyNWQtNjVmNGQwMWEyNmNiXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Tiny Jones",
+      "asCharacter": "Townswoman (uncredited)"
+    },
+    {
+      "id": "nm0446120",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjcyODY5YTUtNDhlZi00NDExLWI0ZmEtODkzMTk3NzBlODk1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "John Kellogg",
+      "asCharacter": "Polish RAF Flyer (uncredited)"
+    },
+    {
+      "id": "nm0508985",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Adolf E. Licho",
+      "asCharacter": "Prompter (uncredited)"
+    },
+    {
+      "id": "nm0533101",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWEwNjljMWUtZDc5Zi00Y2M3LWE3NGYtZTY0MzQ3OTBjMWFmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wilbur Mack",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0580597",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Meredith",
+      "asCharacter": "English Wireless Operator (uncredited)"
+    },
+    {
+      "id": "nm0614515",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBkODQ2MmUtYzAxNS00NGVlLTlhZGYtMjhmNmY0ZjRkMWQ3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Maurice Murphy",
+      "asCharacter": "Polish RAF Pilot (uncredited)"
+    },
+    {
+      "id": "nm0624752",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzcxY2NmYzItYjQxMy00M2NlLThkNmItZTQ4ZTc5NzU3YWQzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Richard Neill",
+      "asCharacter": "Warsaw Bystander (uncredited)"
+    },
+    {
+      "id": "nm0694302",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcxMzI3MjUtZDZjMC00NWQ4LThiY2EtNzliMmY5M2Q1Njk3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Russ Powell",
+      "asCharacter": "Warsaw Bystander (uncredited)"
+    },
+    {
+      "id": "nm0717046",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg2NDE4NzYtYmZiOS00OTNkLTg1OTYtMjAyZTBmMjg4N2VhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Frank Reicher",
+      "asCharacter": "Polish Official (uncredited)"
+    },
+    {
+      "id": "nm0717137",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhmMzE3NWUtNWNkNi00ZThhLTgwZTYtNWYxMDA4NDBiMDExXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Otto Reichow",
+      "asCharacter": "Co-Pilot (uncredited)"
+    },
+    {
+      "id": "nm0729843",
+      "image": "https://m.media-amazon.com/images/M/MV5BODIyMzMzMjUzM15BMl5BanBnXkFtZTYwNDM4NTky._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gene Rizzi",
+      "asCharacter": "Polish RAF Pilot (uncredited)"
+    },
+    {
+      "id": "nm0747069",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDJhZjMzMmItMWU1NC00ZjNmLWI5OTktYzJhZmQ0MTY3ODI2XkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "John Roy",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0776746",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0ZTdjMGUtM2JhYy00NTRlLTg1NDgtNTJmNWIzYmQwNmViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Hans Schumm",
+      "asCharacter": "Special Investigations Squad (uncredited)"
+    },
+    {
+      "id": "nm0812855",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZkMDAwYmEtZGViYS00MmFjLWE2NjYtMzRhZmVjMDJiOTUwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Stephen Soldi",
+      "asCharacter": "Warsaw Bystander (uncredited)"
+    },
+    {
+      "id": "nm0825088",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Count Stefenelli",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0890131",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzc0MDA4NF5BMl5BanBnXkFtZTgwNDE3MDExMzE@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Roland Varno",
+      "asCharacter": "Pilot (uncredited)"
+    },
+    {
+      "id": "nm0893952",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWMyODAzNDItYWZmOS00MWI5LWJjNWMtNDk4NWU4M2MzMTVjXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ernö Verebes",
+      "asCharacter": "Stage Manager (uncredited)"
+    },
+    {
+      "id": "nm0889536",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMzYTRiMTktMGNlNC00NzcyLTgyMWItNzBiOTRmMDZkYmI4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Dorothy Vernon",
+      "asCharacter": "Member of Audience at Performance of Hamlet (uncredited)"
+    },
+    {
+      "id": "nm0942207",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Armand 'Curly' Wright",
+      "asCharacter": "Makeup Man (uncredited)"
+    },
+    {
+      "id": "nm0956517",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRiY2UzNjktNDJlMC00ZmRhLTkyZGMtYzI0NzU2ZWY0NWQ1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wolfgang Zilzer",
+      "asCharacter": "Man in Bookstore (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0523932",
+          "name": "Ernst Lubitsch",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0006128",
+          "name": "Werner R. Heymann",
+          "description": "(musical score by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005789",
+          "name": "Rudolph Maté",
+          "description": "(photographed by)"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0817929",
+          "name": "Dorothy Spencer",
+          "description": "film editor"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0840198",
+          "name": "Victor Sutker",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0466112",
+          "name": "Vincent Korda",
+          "description": "(production designed by)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0380243",
+          "name": "Julia Heron",
+          "description": "(interior decoration)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0061620",
+          "name": "Gordon Bau",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0562922",
+          "name": "Walter Mayo",
+          "description": "production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0568966",
+          "name": "William McGarry",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0876537",
+          "name": "William Tummel",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0425262",
+          "name": "J. McMillan Johnson",
+          "description": "associate art director (as J. MacMillan Johnson)"
+        },
+        {
+          "id": "nm2693653",
+          "name": "Jack Caffey",
+          "description": "props (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0536843",
+          "name": "Frank Maher",
+          "description": "sound"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0125022",
+          "name": "Lawrence W. Butler",
+          "description": "special effects (as Lawrence Butler)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0409898",
+          "name": "Irene",
+          "description": "costumes: Miss Lombard"
+        },
+        {
+          "id": "nm1287577",
+          "name": "Eugene Joseff",
+          "description": "costume jeweller (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0000067",
+          "name": "Miklós Rózsa",
+          "description": "composer: additional music (uncredited)"
+        },
+        {
+          "id": "nm0951746",
+          "name": "Eugene Zador",
+          "description": "orchestrator: Miklós Rózsa (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0466099",
+          "name": "Alexander Korda",
+          "description": "presenter"
+        },
+        {
+          "id": "nm0649572",
+          "name": "Ryszard Ordynski",
+          "description": "technical supervisor (as Richard Ordynski)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

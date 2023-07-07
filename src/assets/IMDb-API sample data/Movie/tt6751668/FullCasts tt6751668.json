@@ -1,0 +1,2683 @@
+{
+  "imDbId": "tt6751668",
+  "title": "Parasite",
+  "fullTitle": "Parasite (2019)",
+  "type": "Movie",
+  "year": "2019",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0094435",
+        "name": "Bong Joon Ho",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0094435",
+        "name": "Bong Joon Ho",
+        "description": "(story by)"
+      },
+      {
+        "id": "nm0094435",
+        "name": "Bong Joon Ho",
+        "description": "(screenplay by) and"
+      },
+      {
+        "id": "nm8243301",
+        "name": "Han Jin-won",
+        "description": "(screenplay by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0814280",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYyYzcyZTAtY2I4Yy00NGE2LThiNzYtYmVjNGIyNWU2YjVkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Song Kang-ho",
+      "asCharacter": "Ki Taek (as Song Kang Ho)"
+    },
+    {
+      "id": "nm1310525",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWNhYTI0OTctODExYi00MDAyLWI3ZmEtNGYwMmJiMjhhOGU4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Sun-kyun",
+      "asCharacter": "Dong Ik (as Lee Sun Kyun)"
+    },
+    {
+      "id": "nm1856097",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI3YWY1MjQtZDhmMC00MWFlLTk3NWYtMzU3MDYxNTcxZmUwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Cho Yeo-jeong",
+      "asCharacter": "Yeon Kyo (as Cho Yeo Jeong)"
+    },
+    {
+      "id": "nm6079248",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZkMzdlOWItMmUwNC00MmY0LTlkNTgtZjVmMGRhNTQwZjcyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Choi Woo-sik",
+      "asCharacter": "Ki Woo (as Choi Woo Shik)"
+    },
+    {
+      "id": "nm6476224",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWUzZmVkYWEtMzRmNy00ZGRiLWE3YmUtYTJkOWM5ODU2NjI3XkEyXkFqcGdeQXVyMjIyNzU0OA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Park So-dam",
+      "asCharacter": "Ki Jung (as Park So Dam)"
+    },
+    {
+      "id": "nm7553003",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTJjNDM0YTYtY2QxZS00YzkxLTk3NzYtYzRhYzJmYWRlMzczXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Jeong-eun",
+      "asCharacter": "Moon Gwang (as Lee Jung Eun)"
+    },
+    {
+      "id": "nm4525883",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRjOGZjOWUtZWUxMS00YjZiLTk4MmUtNmI3NjI5ZjQ5OTRjXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jang Hye-jin",
+      "asCharacter": "Chung Sook (as Chang Hyae Jin)"
+    },
+    {
+      "id": "nm3745391",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDNiZDFjYzctMTk4Yi00NjE1LWIwMzUtMmEzNDQ5N2MzNGZjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Park Myeong-hoon",
+      "asCharacter": "Geun Se (as Park Myeong Hoon)"
+    },
+    {
+      "id": "nm7616095",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWNmNWQ3ZjctNDhmZC00ZDc5LWFiOTktNjY4MzUwOTI4NmE4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jung Ji-so",
+      "asCharacter": "Da Hye (as Jung Ziso)"
+    },
+    {
+      "id": "nm10700274",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjVlNDc2OWUtMDNjNC00ZmJlLTkzOWMtYzAzYjAxZDQ0YjcyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jung Hyun-jun",
+      "asCharacter": "Da Song (as Jung Hyeon Jun)"
+    },
+    {
+      "id": "nm4522499",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjdhNmYwYTUtY2MxYS00YWUyLWIxYWItNDAyNzkyNjBjZTIyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Park Keun-rok",
+      "asCharacter": "Driver Yoon (as Park Keun Rok)"
+    },
+    {
+      "id": "nm10860732",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQwM2I1ZjYtZjZkNy00MzE2LWJhMjQtZjkzOWM2ZGE2NTczXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Jung Yi-seo",
+      "asCharacter": "CEO of Pizza Place (as Jeung Esuh)"
+    },
+    {
+      "id": "nm11261148",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jo Jae-myeong",
+      "asCharacter": "CEO's Brother of Pizza Place"
+    },
+    {
+      "id": "nm10215504",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ0Y2JkODYtM2I3My00ZWZlLWJhNzItZDgxNTNlOTQ5MTVlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jung Ik-han",
+      "asCharacter": "Neighbor (as Jung Ik Han)"
+    },
+    {
+      "id": "nm11044243",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTkzYzhjZWEtM2RiMS00NDdkLWJlNzUtNGM0Yjk2ZTYxYTEwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kim Kyu-baek",
+      "asCharacter": "Drunk Person 1"
+    },
+    {
+      "id": "nm11432327",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hwang In-kyung",
+      "asCharacter": "Internet Cafe Staff (as Hwang In Kyung)"
+    },
+    {
+      "id": "nm9086195",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjIxYTcxYzQtOWZlZi00ZDU1LTkyMWYtYTIyNzgzZTBhNjJiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ahn Seong-bong",
+      "asCharacter": "Street Fighting Person 1 (as Ahn Seong Bong)"
+    },
+    {
+      "id": "nm11432328",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Jin-hyung",
+      "asCharacter": "Street Fighting Person 2 (as Kim Jin Hyung)"
+    },
+    {
+      "id": "nm10783032",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yoon Young-woo",
+      "asCharacter": "Mercedes Benz Dealer (as Yoon Young Woo)"
+    },
+    {
+      "id": "nm1176304",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "JaeWook Park",
+      "asCharacter": "VR Expert (as Park Jae Wook)"
+    },
+    {
+      "id": "nm11432329",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kang Hyun-gyu",
+      "asCharacter": "Employee of Dong ik Company 1"
+    },
+    {
+      "id": "nm11432330",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Seo Hee-young",
+      "asCharacter": "Employee of Dong ik Company 2"
+    },
+    {
+      "id": "nm3727008",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFmMzFjN2MtZGQzMC00N2E5LWE5MjMtOTAxYTI5YmM3OTk2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Dong-yong",
+      "asCharacter": "Drunk Person 2 (as Lee Dong Yong)"
+    },
+    {
+      "id": "nm11432331",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ahn Jin-sang",
+      "asCharacter": "Shelter's Public Servant"
+    },
+    {
+      "id": "nm11432332",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeong Ah-reum",
+      "asCharacter": "Refugee Woman (as Jeong A. Reum)"
+    },
+    {
+      "id": "nm11432333",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Jung-woo",
+      "asCharacter": "Party Man 1"
+    },
+    {
+      "id": "nm11432334",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Geon",
+      "asCharacter": "Party Man 2"
+    },
+    {
+      "id": "nm10726591",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWU2YWJmMDAtMTE2Mi00NjJlLWE0OGEtZTFkMWMxMTAyZDAyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joo-hyung Lee",
+      "asCharacter": "Party Man 3 (as Lee Ju Hyung)"
+    },
+    {
+      "id": "nm11432335",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jung Jae-hoon",
+      "asCharacter": "Party Man 4"
+    },
+    {
+      "id": "nm11432336",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yang Sun-young",
+      "asCharacter": "Party Woman 1"
+    },
+    {
+      "id": "nm11432337",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTVhYmUyZDctMWNkZS00OGJhLTk5MGEtNWFjNmY3ZWNkMmIxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lee Lu-a",
+      "asCharacter": "Party Woman 2"
+    },
+    {
+      "id": "nm11432338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFmNzM0ZmUtYWRiNS00NWQzLTkwNTgtNzUzYzZhYTMzNDY3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Sang-kyung",
+      "asCharacter": "Party Woman 3"
+    },
+    {
+      "id": "nm10860733",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjUzZjVlZmEtMDgwZS00MWI3LWFkMzItODk0YTdmMjRkNGQ2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Ji-hye",
+      "asCharacter": "Soprano (as Lee Ji Hye)"
+    },
+    {
+      "id": "nm11432339",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Bo-ryoung",
+      "asCharacter": "Cellist"
+    },
+    {
+      "id": "nm11432340",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim I-seul",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432341",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Hyea-ryun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432342",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Young-jo",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432343",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Sung-joon",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432344",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Sung-su",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432345",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Ha-eun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432346",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Park Mi-ae",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432347",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Park Hye-sook",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432348",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Baik Seung-hwan",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432349",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Park Jae-wan",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432350",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Park Ga-bin",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432351",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Seol Min",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432352",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Seo Han-gyeol",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432353",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oh Mu-yong",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432354",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Si-hoo",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432355",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee In-kyung",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432356",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Si-eun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432357",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Do-woon",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432358",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oh Byeol-ha",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432359",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Yooin",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432360",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yu Chae-ryeon",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432361",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jang Ye-won",
+      "asCharacter": "Party Member (as Jang Ye-Won)"
+    },
+    {
+      "id": "nm11432362",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jung Se-hyun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432363",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeong Il-hwa",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432364",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ji-yeon",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432365",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ji Hye-yeong",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432366",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Je Seung-hyun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432367",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Choi Ji-won",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432368",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hee Ha-woun",
+      "asCharacter": "Party Member"
+    },
+    {
+      "id": "nm11432369",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Riccardo Ferraresso",
+      "asCharacter": "Italian Chef"
+    },
+    {
+      "id": "nm11432370",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Choi Jeong-hyun",
+      "asCharacter": "Chef's Assistant"
+    },
+    {
+      "id": "nm11432371",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzBjM2ZlNmYtOWEwNy00OTc0LWI1ODMtNjJjZjY0MzViNjZjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Go Gwan-jae",
+      "asCharacter": "Doctor"
+    },
+    {
+      "id": "nm11432372",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzVhZmQ1NzAtZTY0Yy00ZjZkLWIzZTUtMmE5Y2M2MDNhNGRiXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Si-hoon",
+      "asCharacter": "Detective"
+    },
+    {
+      "id": "nm11432373",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Seo Pok-hyun",
+      "asCharacter": "JTBC Reporter"
+    },
+    {
+      "id": "nm11432374",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shim Su-mi",
+      "asCharacter": "JTBC Reporter"
+    },
+    {
+      "id": "nm11432375",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzExOTcxNDItODVhNy00NjAzLWJmNjAtMDQ0MDdhNDk3NzJlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Yoon Hye-ri",
+      "asCharacter": "JTBC News Reporter"
+    },
+    {
+      "id": "nm8247628",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Baek Dong-hyeon",
+      "asCharacter": "Following Detective"
+    },
+    {
+      "id": "nm11432377",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jang Ji-woo",
+      "asCharacter": "Nurse"
+    },
+    {
+      "id": "nm9069396",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2Y5NmU1OGItYmZjOC00OWIwLWExM2YtMjczOTA1MzJmZDcyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Andreas Fronk",
+      "asCharacter": "German Father"
+    },
+    {
+      "id": "nm11432378",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2RmNDZkNDQtMWY4Yy00YmQ5LWI0OGQtNWQ0MDNmZDc5ZDAwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anna Elisabeth Rihlmann",
+      "asCharacter": "German Mother"
+    },
+    {
+      "id": "nm6673675",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Melinda McDonald",
+      "asCharacter": "German Daughter"
+    },
+    {
+      "id": "nm11432379",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sean Thomas",
+      "asCharacter": "German Son"
+    },
+    {
+      "id": "nm11432380",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rosie Peralta",
+      "asCharacter": "Housekeeper"
+    },
+    {
+      "id": "nm11432381",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Eun-hee",
+      "asCharacter": "Real Estate Agent 1 (as Eun-hee Lee)"
+    },
+    {
+      "id": "nm11432382",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Se-in",
+      "asCharacter": "Real Estate Agent 2"
+    },
+    {
+      "id": "nm11432383",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Han Mi-ja",
+      "asCharacter": "Supermarket Owner"
+    },
+    {
+      "id": "nm11432384",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ju Su-ji",
+      "asCharacter": "Hair Designer"
+    },
+    {
+      "id": "nm11432385",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shin Seung-min",
+      "asCharacter": "Architect Namgoong"
+    },
+    {
+      "id": "nm11432386",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gamja",
+      "asCharacter": "Jooney"
+    },
+    {
+      "id": "nm11432387",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mangchi",
+      "asCharacter": "Berry"
+    },
+    {
+      "id": "nm11432388",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mungchi",
+      "asCharacter": "Poopoo"
+    },
+    {
+      "id": "nm6124994",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY2OGM1NjEtNGRiZi00NGY5LThjMzMtOTViYTMwOGM2YmE0XkEyXkFqcGdeQXVyNzY1ODU1OTk@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Park Seo-joon",
+      "asCharacter": "Min (as Park Seo Jun)"
+    },
+    {
+      "id": "nm10113618",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmM3OTQ2YjctNGU1MC00MjEwLWJlYTMtNGI0OGQyNTlhYTFjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Kwak Sin-ae",
+      "asCharacter": "Judge (voice)"
+    },
+    {
+      "id": "nm3246050",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mark Siegmund",
+      "asCharacter": "German Couple (voice)"
+    },
+    {
+      "id": "nm11432390",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Katrin Maurer",
+      "asCharacter": "German Couple (voice)"
+    },
+    {
+      "id": "nm14346542",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Breanna Gray",
+      "asCharacter": "Pro Pizzaboxer (uncredited)"
+    },
+    {
+      "id": "nm9940906",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hyo-shin Pak",
+      "asCharacter": "Special Guest (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm10372819",
+          "name": "Min Heoi Heo",
+          "description": "co-executive producer"
+        },
+        {
+          "id": "nm0094435",
+          "name": "Bong Joon Ho",
+          "description": "producer"
+        },
+        {
+          "id": "nm2009249",
+          "name": "Miky Lee",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm6982463",
+          "name": "Min Chul Park",
+          "description": "line producer"
+        },
+        {
+          "id": "nm10113618",
+          "name": "Kwak Sin-ae",
+          "description": "producer"
+        },
+        {
+          "id": "nm11306825",
+          "name": "Moon Yang Kwon",
+          "description": "producer"
+        },
+        {
+          "id": "nm11306823",
+          "name": "Jang Young Hwan",
+          "description": "co-producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm8885840",
+          "name": "Jung Jae-il",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0393240",
+          "name": "Hong Kyung-pyo",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm2185967",
+          "name": "Jinmo Yang",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm4342766",
+          "name": "Lee Ha-jun",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm8243291",
+          "name": "Se-jin Lim",
+          "description": ""
+        },
+        {
+          "id": "nm4735177",
+          "name": "So-ra Mo",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm6657856",
+          "name": "Won-woo Cho",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm4265594",
+          "name": "Se-yeon Choi",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm9669823",
+          "name": "Kyung Hye Bae",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm9669821",
+          "name": "Ha-Eun Choi",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm9669818",
+          "name": "Joo Hyung Choi",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm5770040",
+          "name": "Hwang Hyo-kyun",
+          "description": "key special effects makeup designer / special makeup effects artist"
+        },
+        {
+          "id": "nm9669816",
+          "name": "Kim Ka-ryoon",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm9669822",
+          "name": "Ji Un Koo",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm5568784",
+          "name": "Hee Eun Lee",
+          "description": "special makeup effects artist"
+        },
+        {
+          "id": "nm9669819",
+          "name": "Hyo Eung Lee",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm8243326",
+          "name": "Kyoung Lee Lee",
+          "description": "assistant hair & makeup artist"
+        },
+        {
+          "id": "nm5441889",
+          "name": "Il Hwan Na",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm12953780",
+          "name": "Kristina Nazaryan",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm9669820",
+          "name": "Shin Young Park",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm9669817",
+          "name": "Ying Wu Park",
+          "description": "special effects makeup assistant"
+        },
+        {
+          "id": "nm7008150",
+          "name": "Young Kim Seo",
+          "description": "make-up & hair designer"
+        },
+        {
+          "id": "nm6255110",
+          "name": "Kwak Tae-yong",
+          "description": "key special effects makeup designer / special makeup effects artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm8618485",
+          "name": "Sang-Soo Kim",
+          "description": "production manager"
+        },
+        {
+          "id": "nm5045748",
+          "name": "Sungho Nam",
+          "description": "unit production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm3296900",
+          "name": "Jung-hoon Lee",
+          "description": "second unit director"
+        },
+        {
+          "id": "nm9566435",
+          "name": "Do-Geon Oh",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm4826354",
+          "name": "Hyun-Cheol Park",
+          "description": "third assistant director"
+        },
+        {
+          "id": "nm10783032",
+          "name": "Yoon Young-woo",
+          "description": "assistant director / first assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm8243294",
+          "name": "Hee Cho",
+          "description": "assistant set decorator"
+        },
+        {
+          "id": "nm5924599",
+          "name": "Hye-young Choi",
+          "description": "set designer"
+        },
+        {
+          "id": "nm8243292",
+          "name": "Ga-ram Han",
+          "description": "assistant set decorator"
+        },
+        {
+          "id": "nm11327188",
+          "name": "Ji-hyun Jeon",
+          "description": "set designer"
+        },
+        {
+          "id": "nm8243296",
+          "name": "So-ye Jo",
+          "description": "set designer"
+        },
+        {
+          "id": "nm8243531",
+          "name": "Jai Wook Jun",
+          "description": "property master"
+        },
+        {
+          "id": "nm11327189",
+          "name": "Bo-mi Kim",
+          "description": "set designer"
+        },
+        {
+          "id": "nm6657904",
+          "name": "Young-Duck Kim",
+          "description": "set team"
+        },
+        {
+          "id": "nm5903210",
+          "name": "Samuel King",
+          "description": "concept artist: Dexter Studios"
+        },
+        {
+          "id": "nm11327191",
+          "name": "Bo-hae Lee",
+          "description": "set designer"
+        },
+        {
+          "id": "nm4734619",
+          "name": "Jung-eun Lee",
+          "description": "property assistant"
+        },
+        {
+          "id": "nm6874628",
+          "name": "Soo Lee",
+          "description": "concept master"
+        },
+        {
+          "id": "nm4735419",
+          "name": "You-jin Oh",
+          "description": "property master"
+        },
+        {
+          "id": "nm11327190",
+          "name": "So-ra Park",
+          "description": "set designer"
+        },
+        {
+          "id": "nm11327187",
+          "name": "Hyo-won Seo",
+          "description": "set designer"
+        },
+        {
+          "id": "nm11249649",
+          "name": "Noh Seung-Goog",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm8243295",
+          "name": "Mee-kyoung Yoon",
+          "description": "set designer"
+        },
+        {
+          "id": "nm8243293",
+          "name": "Ki-eun Yu",
+          "description": "set designer"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm4049985",
+          "name": "Kim Byung-in",
+          "description": "supervising adr editor"
+        },
+        {
+          "id": "nm0354694",
+          "name": "Detlef Halaski",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm9595307",
+          "name": "Eun Hee-soo",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm7008160",
+          "name": "Young Kang Hye",
+          "description": "sound effects designer"
+        },
+        {
+          "id": "nm3975286",
+          "name": "Chung-gyu Lee",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm7204478",
+          "name": "Shin i Na",
+          "description": "foley editor"
+        },
+        {
+          "id": "nm11212229",
+          "name": "Sung-gyun Park",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm2372692",
+          "name": "Choi Tae-young",
+          "description": "sound supervisor"
+        },
+        {
+          "id": "nm0942470",
+          "name": "James Wright",
+          "description": "dolby consultant (as Jim Wright)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm1052668",
+          "name": "Jung Do-ahn",
+          "description": "special effects"
+        },
+        {
+          "id": "nm5770040",
+          "name": "Hwang Hyo-kyun",
+          "description": "special effect make up"
+        },
+        {
+          "id": "nm2239798",
+          "name": "Kyung-soo Park",
+          "description": "special effects"
+        },
+        {
+          "id": "nm11249654",
+          "name": "So-Youn Park",
+          "description": "special effect make up"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm5658802",
+          "name": "Peter Ahn",
+          "description": "vfx producer: Dexter Studios"
+        },
+        {
+          "id": "nm10724889",
+          "name": "Hyunjeong Baek",
+          "description": "asset lead: Asset Department"
+        },
+        {
+          "id": "nm3523468",
+          "name": "Dongho Cha",
+          "description": "matchmove lead: Matchmove Department"
+        },
+        {
+          "id": "nm10724972",
+          "name": "Daeseok Chae",
+          "description": "vfx lab engineer: VFX Lab"
+        },
+        {
+          "id": "nm10724894",
+          "name": "Moonseok Chea",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724897",
+          "name": "Mingeun Cho",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724888",
+          "name": "Byunghun Choi",
+          "description": "asset lead: Asset Department"
+        },
+        {
+          "id": "nm10722008",
+          "name": "ByungJung Choi",
+          "description": "system administrator: SE Department"
+        },
+        {
+          "id": "nm10724915",
+          "name": "Seokwon Choi",
+          "description": "technical artist: Animation Department"
+        },
+        {
+          "id": "nm10395629",
+          "name": "Seunggu Choi",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm10724922",
+          "name": "Seungmyung Choi",
+          "description": "lighting & rendering lead: Lighting & Render Department"
+        },
+        {
+          "id": "nm9159072",
+          "name": "Wanho Choi",
+          "description": "Director of VFX Lab: Dexter Studios"
+        },
+        {
+          "id": "nm10210975",
+          "name": "Jaegu Ha",
+          "description": "FX Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724994",
+          "name": "Sungwoo Ha",
+          "description": "Schedule Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724924",
+          "name": "Seo Young Heo",
+          "description": "lighting artist: Lighting Department"
+        },
+        {
+          "id": "nm10722011",
+          "name": "Yoohyun Ho",
+          "description": "system engineer: SE Department"
+        },
+        {
+          "id": "nm9559443",
+          "name": "Jeongho Hong",
+          "description": "visual effects supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724939",
+          "name": "Soojung Huh",
+          "description": "matte painting lead: Matte Painting Department"
+        },
+        {
+          "id": "nm10724934",
+          "name": "Eunbi Hwang",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10459586",
+          "name": "Cheong Hyun-jun",
+          "description": "fx artist: FX Department"
+        },
+        {
+          "id": "nm4379342",
+          "name": "Andras Ikladi",
+          "description": "head of 3D: BLAAD Studios"
+        },
+        {
+          "id": "nm6588153",
+          "name": "Jay Seung Jaegal",
+          "description": "vfx supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724916",
+          "name": "Hansaem Jang",
+          "description": "rigging and simulation artist: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm9389168",
+          "name": "Hyosun Jang",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm9749922",
+          "name": "Mi Jin Jang",
+          "description": "vfx coordinator: Dexter Studios"
+        },
+        {
+          "id": "nm10724911",
+          "name": "Huisu Jeong",
+          "description": "lead animator: Animation Department"
+        },
+        {
+          "id": "nm9159143",
+          "name": "Jonghyun Jin",
+          "description": "vfx supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724989",
+          "name": "Eunbyul Jo",
+          "description": "vfx editor: Dexter Studios"
+        },
+        {
+          "id": "nm10211122",
+          "name": "Seock Hee Joung",
+          "description": "cg supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724933",
+          "name": "Dasom Jung",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10210976",
+          "name": "Jihyung Jung",
+          "description": "Comp Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm2246751",
+          "name": "Sung-jin Jung",
+          "description": "executive vfx department director / executive vfx department director: Dexter Studios"
+        },
+        {
+          "id": "nm10724912",
+          "name": "Yeojin Jung",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm10724928",
+          "name": "Yeon-tae Jung",
+          "description": "fx artist: FX Department"
+        },
+        {
+          "id": "nm10724995",
+          "name": "Dabi Kang",
+          "description": "Schedule Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10395623",
+          "name": "Donghyuk Kang",
+          "description": "lead animator: Animation Department"
+        },
+        {
+          "id": "nm3354994",
+          "name": "Jong Ik Kang",
+          "description": "executive vfx planning director / executive vfx planning director: Dexter Studios"
+        },
+        {
+          "id": "nm10722026",
+          "name": "Kangjoo Kang",
+          "description": "crowd artist: Crowd Department"
+        },
+        {
+          "id": "nm4616152",
+          "name": "Kyung-Il Kang",
+          "description": "vendor management coordinator: Dexter Studios"
+        },
+        {
+          "id": "nm10724914",
+          "name": "Seongpil Kang",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm9559571",
+          "name": "Wonchul Kang",
+          "description": "cg supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm4527219",
+          "name": "Bokyung Kim",
+          "description": "vfx line producer: Dexter Studios"
+        },
+        {
+          "id": "nm4527253",
+          "name": "Bora Kim",
+          "description": "lead compositor: Compositing Department"
+        },
+        {
+          "id": "nm5547340",
+          "name": "Byunghoon Kim",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm3415811",
+          "name": "Chan-Jin Chris Kim",
+          "description": "vfx producer: Dexter Studios"
+        },
+        {
+          "id": "nm6308746",
+          "name": "Ellen Youkyoung Kim",
+          "description": "vfx lab engineer: VFX Lab"
+        },
+        {
+          "id": "nm7694165",
+          "name": "Eunji Kim",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm10724896",
+          "name": "Heeae Kim",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm8919518",
+          "name": "Hyeong Gi Kim",
+          "description": "lighting artist: Lighting Department"
+        },
+        {
+          "id": "nm12349180",
+          "name": "Hyeonggi Kim",
+          "description": "Lighting Artist: Dexter Studios"
+        },
+        {
+          "id": "nm5777652",
+          "name": "Jaehwan Kim",
+          "description": "animator: Animation Department / compositor: Compositing Department"
+        },
+        {
+          "id": "nm9782808",
+          "name": "Jinhee Kim",
+          "description": "visual effects producer"
+        },
+        {
+          "id": "nm10722010",
+          "name": "Jinse Kim",
+          "description": "system engineer: SE Department"
+        },
+        {
+          "id": "nm10724938",
+          "name": "Jisu Kim",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm5958676",
+          "name": "Katrina Kim",
+          "description": "visual effects line producer: Dexter Studios"
+        },
+        {
+          "id": "nm10724902",
+          "name": "Kwantae Kim",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm10361288",
+          "name": "Minhee Kim",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm9159111",
+          "name": "Sanghun Kim",
+          "description": "cg supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm3349240",
+          "name": "Tae-hoon Kim",
+          "description": "rigging and simulation lead: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm10482896",
+          "name": "Tae-hyung Kim",
+          "description": "fx artist: FX Department"
+        },
+        {
+          "id": "nm10210974",
+          "name": "Taeseob Kim",
+          "description": "Lighting Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm5594761",
+          "name": "Wooju Kim",
+          "description": "vfx editor: Dexter Studios"
+        },
+        {
+          "id": "nm9419710",
+          "name": "Yuna Kim",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724940",
+          "name": "Heekyung Ko",
+          "description": "matte painting artist: Matte Painting Department"
+        },
+        {
+          "id": "nm10724931",
+          "name": "Miseon Kong",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724923",
+          "name": "Yongho Kwon",
+          "description": "lighting artist: Lighting Department"
+        },
+        {
+          "id": "nm6959359",
+          "name": "Lee Dong Kyu",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724903",
+          "name": "Bomin Lee",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm10722009",
+          "name": "Byumgi Lee",
+          "description": "system engineer: SE Department"
+        },
+        {
+          "id": "nm6598169",
+          "name": "Dayoung Lee",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724926",
+          "name": "Eunseon Lee",
+          "description": "lighting artist: Lighting Department"
+        },
+        {
+          "id": "nm4954454",
+          "name": "Hanhee Hailey Lee",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724990",
+          "name": "Hyanghee Lee",
+          "description": "vfx editor: Dexter Studios"
+        },
+        {
+          "id": "nm2907565",
+          "name": "Jaewook Lee",
+          "description": "lead compositor: Compositing Department"
+        },
+        {
+          "id": "nm4527607",
+          "name": "Jiyeon Lee",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm5147716",
+          "name": "Kyoungmin Lee",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm10005559",
+          "name": "Minho Lee",
+          "description": "rigging and simulation artist: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm1615604",
+          "name": "Sang-yeol Lee",
+          "description": "fx artist: FX Department"
+        },
+        {
+          "id": "nm8930109",
+          "name": "Seungjin Lee",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm10724913",
+          "name": "Sinwoo Lee",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm2750767",
+          "name": "Songhee Lee",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm9159112",
+          "name": "Taehyung Lee",
+          "description": "vfx lab lead: VFX Lab"
+        },
+        {
+          "id": "nm5443374",
+          "name": "Young Shin Lee",
+          "description": "vfx lab engineer: VFX Lab"
+        },
+        {
+          "id": "nm10724935",
+          "name": "Youngyoung Lee",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm6031127",
+          "name": "Junling Liang",
+          "description": "lead compositor"
+        },
+        {
+          "id": "nm10724971",
+          "name": "Jaegwang Lim",
+          "description": "vfx lab engineer: VFX Lab"
+        },
+        {
+          "id": "nm2409874",
+          "name": "Taewoo Lim",
+          "description": "rigging and simulation artist: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm9159073",
+          "name": "Youngsu Lim",
+          "description": "asset supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724927",
+          "name": "Jeong Min-Hyuk",
+          "description": "fx lead: FX Department"
+        },
+        {
+          "id": "nm1545936",
+          "name": "Sung Oh Moon",
+          "description": "animation supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724893",
+          "name": "Sungsil Nam",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm3523608",
+          "name": "Geuk Tae Noh",
+          "description": "visual effects supervisor: blaad china"
+        },
+        {
+          "id": "nm10724942",
+          "name": "Yumin Oh",
+          "description": "matte painting artist: Matte Painting Department"
+        },
+        {
+          "id": "nm10088754",
+          "name": "Eun-Byeol Park",
+          "description": "vfx production assistant: W2studios"
+        },
+        {
+          "id": "nm9161283",
+          "name": "Hwon Park",
+          "description": "vfx supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10722015",
+          "name": "Hyeri Park",
+          "description": "rigging and simulation artist: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm6640672",
+          "name": "Jihyeon Park",
+          "description": "matte painting artist: Matte Painting Department"
+        },
+        {
+          "id": "nm9050533",
+          "name": "Junhyung Park",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724895",
+          "name": "Juri Park",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724925",
+          "name": "Sunghyeok Park",
+          "description": "lighting artist: Lighting Department"
+        },
+        {
+          "id": "nm10724892",
+          "name": "Binho Roh",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724937",
+          "name": "Gahee Ryu",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724996",
+          "name": "Eunju Seo",
+          "description": "Schedule Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm10724930",
+          "name": "Jongyeon Seok",
+          "description": "lead compositor: Compositing Department"
+        },
+        {
+          "id": "nm10379077",
+          "name": "Lee Seungyeon",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724988",
+          "name": "Jeongho Shin",
+          "description": "vfx production assistant: Dexter Studios"
+        },
+        {
+          "id": "nm10724890",
+          "name": "Sohee Shin",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10395628",
+          "name": "Keunsup Sohn",
+          "description": "matchmove artist: Matchmove Department"
+        },
+        {
+          "id": "nm9161361",
+          "name": "Wonrak Son",
+          "description": "Comp Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm5443243",
+          "name": "Young Nam Son",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm6450446",
+          "name": "Kim Soyoon",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm10724997",
+          "name": "Yuchae Sung",
+          "description": "Schedule Supervisor: Dexter Studios"
+        },
+        {
+          "id": "nm9389163",
+          "name": "Ahnwoo Yang",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724973",
+          "name": "Dohyeon Yang",
+          "description": "vfx lab engineer: VFX Lab"
+        },
+        {
+          "id": "nm10678047",
+          "name": "Do Seon Yeom",
+          "description": "animator: Animation Department"
+        },
+        {
+          "id": "nm10724891",
+          "name": "Soonghyuk Yoon",
+          "description": "asset artist: Asset Department"
+        },
+        {
+          "id": "nm10724941",
+          "name": "Hyeonjeong You",
+          "description": "matte painting artist: Matte Painting Department"
+        },
+        {
+          "id": "nm10724936",
+          "name": "Minseok Youn",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm10724932",
+          "name": "Mihwa Yu",
+          "description": "compositor: Compositing Department"
+        },
+        {
+          "id": "nm5811325",
+          "name": "Hee Yun",
+          "description": "rigging and simulation artist: Rigging & Simulation Department"
+        },
+        {
+          "id": "nm2909114",
+          "name": "Junshik-Raul Yun",
+          "description": "executive vfx producer: Blaad Studios"
+        },
+        {
+          "id": "nm10090060",
+          "name": "Sung-min Alvin Yun",
+          "description": "visual effects supervisor"
+        },
+        {
+          "id": "nm4450022",
+          "name": "Joseph Towe",
+          "description": "digital artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm13580062",
+          "name": "Daniel Kwanghwee Choi",
+          "description": "stunts: Previsual"
+        },
+        {
+          "id": "nm2525394",
+          "name": "Se-yeong Oh",
+          "description": "stunts (as SeaYoung Oh)"
+        },
+        {
+          "id": "nm4695288",
+          "name": "Sang-Seob Yoo",
+          "description": "martial arts / stunt coordinator"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm4480228",
+          "name": "Sang Jin Byun",
+          "description": "third assistant camera: \"a\" camera"
+        },
+        {
+          "id": "nm8243315",
+          "name": "Sung Min Cha",
+          "description": "grip"
+        },
+        {
+          "id": "nm8255115",
+          "name": "Hyelin Cho",
+          "description": "translator: grip department"
+        },
+        {
+          "id": "nm8243309",
+          "name": "Sang Won Cho",
+          "description": "grip"
+        },
+        {
+          "id": "nm8243307",
+          "name": "Yohan Chung",
+          "description": "second assistant \"b\" camera"
+        },
+        {
+          "id": "nm8243314",
+          "name": "Gyu Seok Han",
+          "description": "grip"
+        },
+        {
+          "id": "nm7291699",
+          "name": "Hana Hwang",
+          "description": "grip"
+        },
+        {
+          "id": "nm10659883",
+          "name": "Back Jong Hyeon",
+          "description": "generator"
+        },
+        {
+          "id": "nm2724756",
+          "name": "Seung-hwan Jeon",
+          "description": "grip"
+        },
+        {
+          "id": "nm12395743",
+          "name": "Shi Hyoung Jeon",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm14558357",
+          "name": "Min-su Jeong",
+          "description": "DIT Assistants"
+        },
+        {
+          "id": "nm1520104",
+          "name": "Kim Ji-yong",
+          "description": "b camera operator"
+        },
+        {
+          "id": "nm7628720",
+          "name": "Bum-keun Kim",
+          "description": "third assistant camera: b camera"
+        },
+        {
+          "id": "nm6977202",
+          "name": "Chang-ho Kim",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm5864205",
+          "name": "Dong-joo Kim",
+          "description": "steadicam"
+        },
+        {
+          "id": "nm8079032",
+          "name": "Seuiki Kim",
+          "description": "first assistant camera: b camera"
+        },
+        {
+          "id": "nm2908038",
+          "name": "Yong Jin Kim",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm8243540",
+          "name": "Yong Tae Kim",
+          "description": "grip"
+        },
+        {
+          "id": "nm6657800",
+          "name": "Yong-Seong Kim",
+          "description": "b camera operator"
+        },
+        {
+          "id": "nm8243304",
+          "name": "Chung Hee Lee",
+          "description": "second assistant camera \"a\" camera"
+        },
+        {
+          "id": "nm0497453",
+          "name": "Jae-Hyeok Lee",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm5885981",
+          "name": "Su-jin Lee",
+          "description": "data management technician"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm8243318",
+          "name": "Jin Her",
+          "description": "costumer"
+        },
+        {
+          "id": "nm8243316",
+          "name": "Dong-Yul Kang",
+          "description": "costumer"
+        },
+        {
+          "id": "nm1724871",
+          "name": "Hee Jae Kim",
+          "description": "costumer"
+        },
+        {
+          "id": "nm8243317",
+          "name": "Soo Bin Shin",
+          "description": "costumer"
+        },
+        {
+          "id": "nm8243320",
+          "name": "Hye Jeong Yoon",
+          "description": "costumer"
+        },
+        {
+          "id": "nm8243319",
+          "name": "Na Yeon Yoon",
+          "description": "costumer"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm11249651",
+          "name": "Kwon Bo-keun",
+          "description": "digital intermediate"
+        },
+        {
+          "id": "nm8243322",
+          "name": "Meeyeon Han",
+          "description": "on set editor"
+        },
+        {
+          "id": "nm2077302",
+          "name": "Im Hye Jin",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm11249652",
+          "name": "Sin Jung-eun",
+          "description": "digital intermediate"
+        },
+        {
+          "id": "nm9749174",
+          "name": "Sang-woo Kang",
+          "description": "digital intermediate"
+        },
+        {
+          "id": "nm7035259",
+          "name": "Jae-Won Kim",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm9127585",
+          "name": "Heeyeun Shin",
+          "description": "digital intermediate producers"
+        },
+        {
+          "id": "nm11790247",
+          "name": "Sam Slater",
+          "description": "tv spot editor"
+        },
+        {
+          "id": "nm11249650",
+          "name": "Goo Uni",
+          "description": "digital intermediate"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm11069746",
+          "name": "Kim Byoungkeuk",
+          "description": "music director"
+        },
+        {
+          "id": "nm4928678",
+          "name": "Norbert Elek",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm10868904",
+          "name": "Park Hyoshin",
+          "description": "music supervisor"
+        },
+        {
+          "id": "nm8885840",
+          "name": "Jung Jae-il",
+          "description": "composer/arranger / music director (as Jae-il Jung) / orchestrator"
+        },
+        {
+          "id": "nm3751737",
+          "name": "Tamas Kurina",
+          "description": "recording"
+        },
+        {
+          "id": "nm8810014",
+          "name": "Jihye Lee",
+          "description": "singing"
+        },
+        {
+          "id": "nm9387298",
+          "name": "Michael Werner Maas",
+          "description": "trailer music"
+        },
+        {
+          "id": "nm3169705",
+          "name": "Bálint Sapszon",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm11069752",
+          "name": "Márton Tóth",
+          "description": "conductor"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm8243301",
+          "name": "Han Jin-won",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm10108582",
+          "name": "Geum Ho Woo",
+          "description": "camera car operator"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm10860312",
+          "name": "Hye Sung An",
+          "description": "legal department"
+        },
+        {
+          "id": "nm10722019",
+          "name": "Cheolho Choi",
+          "description": "hr: Human Resource Department"
+        },
+        {
+          "id": "nm10724975",
+          "name": "Wonkyung Choi",
+          "description": "supervising assistant: VFX Supervisor Department"
+        },
+        {
+          "id": "nm4655988",
+          "name": "Frederic Dagmey",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0216136",
+          "name": "Alexis Delage-Toriel",
+          "description": "press attaché: france"
+        },
+        {
+          "id": "nm1093489",
+          "name": "Louisa Dent",
+          "description": "Managing Director: Curzon Artificial Eye"
+        },
+        {
+          "id": "nm7635620",
+          "name": "Kang Full",
+          "description": "comic: Parasite"
+        },
+        {
+          "id": "nm6143492",
+          "name": "Son Seok Hee",
+          "description": "dubbing script"
+        },
+        {
+          "id": "nm10722017",
+          "name": "Eunkyoung Hong",
+          "description": "financial management officer: Financial Management Department"
+        },
+        {
+          "id": "nm10372753",
+          "name": "Boram Hwang",
+          "description": "general manager: Strategy and Planning Department"
+        },
+        {
+          "id": "nm9566467",
+          "name": "Jung-Hyun Hwang",
+          "description": "trailer"
+        },
+        {
+          "id": "nm7495396",
+          "name": "Myung-kyoon Im",
+          "description": "financing executive"
+        },
+        {
+          "id": "nm11249655",
+          "name": "Kim Joo-Youn",
+          "description": "trailer"
+        },
+        {
+          "id": "nm11249656",
+          "name": "Park Joon-oh",
+          "description": "trailer"
+        },
+        {
+          "id": "nm8243350",
+          "name": "Hyojin Joel Jung",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm10722014",
+          "name": "Hyun-il Jung",
+          "description": "financial management head: Financial Management Department"
+        },
+        {
+          "id": "nm5776244",
+          "name": "Nayoung Jung",
+          "description": "assistant manager: Strategy and Planning Department"
+        },
+        {
+          "id": "nm10722013",
+          "name": "Yuyoung Jung",
+          "description": "assistant manager: Human Resource Department"
+        },
+        {
+          "id": "nm3822415",
+          "name": "Seo Jungwook",
+          "description": "production developer: VFX Production Department"
+        },
+        {
+          "id": "nm6253821",
+          "name": "Cate Kane",
+          "description": "head of acquisitions: Curzon Artificial Eye"
+        },
+        {
+          "id": "nm10860735",
+          "name": "Bo Reum Kim",
+          "description": "head accountant"
+        },
+        {
+          "id": "nm2260777",
+          "name": "Jina Kim",
+          "description": "hr manager: Human Resource Department"
+        },
+        {
+          "id": "nm5371919",
+          "name": "Jinseong Kim",
+          "description": "general manager: Strategy and Planning Department"
+        },
+        {
+          "id": "nm10860313",
+          "name": "Kun-ho Kim",
+          "description": "legal advisor"
+        },
+        {
+          "id": "nm10722021",
+          "name": "Shinhye Kim",
+          "description": "assistant manager: Human Resource Department / supervising manager: VFX Supervisor Department"
+        },
+        {
+          "id": "nm11249657",
+          "name": "Yi Kyu-Hyuk",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm9480575",
+          "name": "Ahnmin Lee",
+          "description": "assistant manager: Financial Management Department"
+        },
+        {
+          "id": "nm10722016",
+          "name": "Gyuan Lee",
+          "description": "deputy general manager: Financial Management Department"
+        },
+        {
+          "id": "nm10724974",
+          "name": "Kyeseon Lee",
+          "description": "production coordinator: VFX Production Department"
+        },
+        {
+          "id": "nm10722018",
+          "name": "Narae Lee",
+          "description": "assistant manager: Financial Management Department"
+        },
+        {
+          "id": "nm8555395",
+          "name": "Sang Min Lee",
+          "description": "martial arts team"
+        },
+        {
+          "id": "nm9849037",
+          "name": "Son-Young Lee",
+          "description": "co-financing executive"
+        },
+        {
+          "id": "nm10722020",
+          "name": "Jiwoo Lim",
+          "description": "assistant manager: Human Resource Department"
+        },
+        {
+          "id": "nm2231139",
+          "name": "Darcy Paquet",
+          "description": "subtitles: English Version"
+        },
+        {
+          "id": "nm10722015",
+          "name": "Hyeri Park",
+          "description": "financial management officer: Financial Management Department"
+        },
+        {
+          "id": "nm6982463",
+          "name": "Min Chul Park",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm11254886",
+          "name": "Simona Radoi",
+          "description": "pr manager RO"
+        },
+        {
+          "id": "nm10722012",
+          "name": "Chunho Ryu",
+          "description": "vp: ceo: SE Department"
+        },
+        {
+          "id": "nm5679137",
+          "name": "Ho-jin Seo",
+          "description": "strategy and planning: Strategy and Planning Department"
+        },
+        {
+          "id": "nm10860314",
+          "name": "Seung-hee Seo",
+          "description": "French adaptation: original version with subtitle"
+        },
+        {
+          "id": "nm10741974",
+          "name": "Gustave Shaimi",
+          "description": "press attaché: france"
+        },
+        {
+          "id": "nm4769633",
+          "name": "Hye-eun Shin",
+          "description": "production coordinator: VFX Production Department"
+        },
+        {
+          "id": "nm3996779",
+          "name": "Matt Jarman",
+          "description": "audio description (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm11192962",
+          "name": "Kim Ae Soo",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm11192835",
+          "name": "Ji Hwan Ahn",
+          "description": "special thanks: JTBC (as Ahn Ji Hwan)"
+        },
+        {
+          "id": "nm11192913",
+          "name": "Young Joo Ahn",
+          "description": "special thanks: Jaseng Hospital of Korean Medicine (as Ahn Young Joo)"
+        },
+        {
+          "id": "nm11192824",
+          "name": "Ki-Young Bae",
+          "description": "special thanks: The Class Hyosung (as Bae Ki Young)"
+        },
+        {
+          "id": "nm11192959",
+          "name": "Jung-min Baek",
+          "description": "special thanks: Jeonju Studio (as Baek Jung Min)"
+        },
+        {
+          "id": "nm11192838",
+          "name": "Kim Bong Su",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm8383065",
+          "name": "Hyo-min Bong",
+          "description": "director & producer would like to thank (as Bong Hyo Min)"
+        },
+        {
+          "id": "nm11192815",
+          "name": "Chang Ho Cho",
+          "description": "special thanks: Jeonju Film Commission (as Cho Chang Ho)"
+        },
+        {
+          "id": "nm11192965",
+          "name": "Inhwan Cho",
+          "description": "special thanks (as Cho In Hwan)"
+        },
+        {
+          "id": "nm0158638",
+          "name": "Min-ho Cho",
+          "description": "special thanks (as Cho Min Ho)"
+        },
+        {
+          "id": "nm2127512",
+          "name": "Dooho Choi",
+          "description": "director & producer would like to thank (as Choi Doo Ho)"
+        },
+        {
+          "id": "nm11192922",
+          "name": "Yeseul Choi",
+          "description": "special thanks: Wonkwang University Hospital (as Choi Ye Seul)"
+        },
+        {
+          "id": "nm11192964",
+          "name": "Choi Chul Min",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm11192834",
+          "name": "Jeon Dae Chul",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm9958106",
+          "name": "Seon Young Chung",
+          "description": "director & producer would like to thank (as Chung Seon Young)"
+        },
+        {
+          "id": "nm11192836",
+          "name": "Baek Doo San",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm0239556",
+          "name": "Jerome Duboz",
+          "description": "director & producer would like to thank"
+        },
+        {
+          "id": "nm11192823",
+          "name": "You Seung Gyun",
+          "description": "special thanks: Goyang Industry Promotion Agency, Contents Business Team"
+        },
+        {
+          "id": "nm11192831",
+          "name": "Jung Hae Kang",
+          "description": "special thanks: Vanguardwinemerchants Gangnam"
+        },
+        {
+          "id": "nm11192908",
+          "name": "Kim Han Bum",
+          "description": "special thanks: Seoul National University, Department of Physical Education"
+        },
+        {
+          "id": "nm11192822",
+          "name": "Lee Min Ho",
+          "description": "special thanks: Goyang Industry Promotion Agency, Contents Business Team"
+        },
+        {
+          "id": "nm11192904",
+          "name": "Myung Hye Ji",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm11192914",
+          "name": "Park Hye Ryung",
+          "description": "special thanks: Jaseng Hospital of Korean Medicine"
+        },
+        {
+          "id": "nm11192820",
+          "name": "Jo Jun Hyuk",
+          "description": "special thanks: Goyang Industry Promotion Agency, Industry Promotion Division"
+        },
+        {
+          "id": "nm11192907",
+          "name": "Seo Byong Ik",
+          "description": "special thanks: Seo Byong Ik Audio"
+        },
+        {
+          "id": "nm11192818",
+          "name": "Park In Seok",
+          "description": "special thanks: Advanced Industry Division"
+        },
+        {
+          "id": "nm11192757",
+          "name": "Park Jung Ja",
+          "description": "director & producer would like to thank"
+        },
+        {
+          "id": "nm11192909",
+          "name": "So Jae Moo",
+          "description": "special thanks: Konkuk University, Department of Physical Education"
+        },
+        {
+          "id": "nm5259281",
+          "name": "Suk Jae-Seung",
+          "description": "director & producer would like to thank (as Suk Jae Seung)"
+        },
+        {
+          "id": "nm11192925",
+          "name": "Sun-ae Jeon",
+          "description": "special thanks: Wonkwang University Hospital (as Jeon Sun Ae)"
+        },
+        {
+          "id": "nm11192917",
+          "name": "Yoo Ji Kwang",
+          "description": "special thanks: Seoul Metro"
+        },
+        {
+          "id": "nm11192911",
+          "name": "Oh Ji Soo",
+          "description": "special thanks: Konkuk University, Department of Physical Education"
+        },
+        {
+          "id": "nm10812708",
+          "name": "Park Ji-Ha",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm11192971",
+          "name": "Kim Jin Won",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm11192970",
+          "name": "Park Jin Won",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm11192923",
+          "name": "Lim Jong Hee",
+          "description": "special thanks: Wonkwang University Hospital"
+        },
+        {
+          "id": "nm11192816",
+          "name": "Dong Min Jung",
+          "description": "special thanks: Jeonju Film Commission (as Jung Dong Min)"
+        },
+        {
+          "id": "nm11192827",
+          "name": "Hyo Young Jung",
+          "description": "special thanks: The Class Hyosung (as Jung Hyo Young)"
+        },
+        {
+          "id": "nm0161242",
+          "name": "Ji-woo Jung",
+          "description": "director & producer would like to thank (as Jung Ji Woo)"
+        },
+        {
+          "id": "nm11192814",
+          "name": "Jin Wook Jung",
+          "description": "special thanks: Jeonju Film Commission (as Jung Jin Wook)"
+        },
+        {
+          "id": "nm6591140",
+          "name": "Yoonjin Jung",
+          "description": "director & producer would like to thank (as Jung Yoon Jin)"
+        },
+        {
+          "id": "nm11192915",
+          "name": "Younghoon Jung",
+          "description": "special thanks: Korea Association of Athletics Federations (as Jung Young Hoon)"
+        },
+        {
+          "id": "nm11192832",
+          "name": "Joo-Yeon Kang",
+          "description": "special thanks: Lotte Property & Development (as Kang Joo Yeon)"
+        },
+        {
+          "id": "nm11192961",
+          "name": "Kim Ki Wan",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm8698834",
+          "name": "Da-Young Kim",
+          "description": "special thanks (as Kim Da Young)"
+        },
+        {
+          "id": "nm11192906",
+          "name": "Do Jin Kim",
+          "description": "special thanks: JTBC (as Kim Do Jin)"
+        },
+        {
+          "id": "nm11192760",
+          "name": "Emma Kim",
+          "description": "director & producer would like to thank"
+        },
+        {
+          "id": "nm9850161",
+          "name": "Eun Hye Kim",
+          "description": "special thanks: The Class Hyosung (as Kim Eun Hye)"
+        },
+        {
+          "id": "nm5219574",
+          "name": "Hyun-chol Kim",
+          "description": "director & producer would like to thank (as Kim Hyun Chol)"
+        },
+        {
+          "id": "nm9638613",
+          "name": "Jihyun Kim",
+          "description": "special thanks (as Kim Ji Hyun)"
+        },
+        {
+          "id": "nm11192900",
+          "name": "Kang-hae Kim",
+          "description": "special thanks: JTBC (as Kim Kang Hae)"
+        },
+        {
+          "id": "nm11192924",
+          "name": "Myung-ja Kim",
+          "description": "special thanks: Wonkwang University Hospital (as Kim Myung Ja)"
+        },
+        {
+          "id": "nm11192921",
+          "name": "Seul Kyo Kim",
+          "description": "special thanks: Yonsei University, P.R. Department (as Kim Seul Kyo)"
+        },
+        {
+          "id": "nm7894859",
+          "name": "Tae Eun Kim",
+          "description": "special thanks: Hanyang Cyber University, Children Education (as Kim Tae Eun)"
+        },
+        {
+          "id": "nm11192759",
+          "name": "Woojae Kim",
+          "description": "director & producer would like to thank (as Kim Woo Jae)"
+        },
+        {
+          "id": "nm11192903",
+          "name": "Yeseulah Kim",
+          "description": "special thanks: JTBC (as Kim Yaseulah)"
+        },
+        {
+          "id": "nm11192817",
+          "name": "Yong Sub Kim",
+          "description": "special thanks: Goyang City Futuristic Strategy Bureau (as Kim Yong Sub)"
+        },
+        {
+          "id": "nm11192957",
+          "name": "Hye Kowon",
+          "description": "special thanks: Kowon (as Ko Won Hye)"
+        },
+        {
+          "id": "nm10287613",
+          "name": "Soojung Kwak",
+          "description": "director & producer would like to thank (as Kwak Soo Jung)"
+        },
+        {
+          "id": "nm10535518",
+          "name": "Park Kyung-Seo",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm11192960",
+          "name": "Bon Lee",
+          "description": "special thanks: minister (as Lee Bon)"
+        },
+        {
+          "id": "nm5065668",
+          "name": "Dae-hee Lee",
+          "description": "director & producer would like to thank (as Lee Dae Hee)"
+        },
+        {
+          "id": "nm11192916",
+          "name": "Eun Joon Lee",
+          "description": "special thanks: Seongbuk-dong (as Lee Eun Joon)"
+        },
+        {
+          "id": "nm11192830",
+          "name": "Ha Young Lee",
+          "description": "special thanks: Mercedes-Benz Korea (as Lee Ha Young)"
+        },
+        {
+          "id": "nm11192967",
+          "name": "Hae-eun Lee",
+          "description": "special thanks (as Lee Hae Eun)"
+        },
+        {
+          "id": "nm11192920",
+          "name": "Hee Tae Lee",
+          "description": "special thanks: Korea Bakery Master (as Lee Hee Tae)"
+        },
+        {
+          "id": "nm6389714",
+          "name": "Jae-pil Lee",
+          "description": "director & producer would like to thank (as Lee Jae Pil)"
+        },
+        {
+          "id": "nm11192901",
+          "name": "Joo Yeon Lee",
+          "description": "special thanks: JTBC (as Lee Joo Yeon)"
+        },
+        {
+          "id": "nm11192968",
+          "name": "Kyung-Taek Lee",
+          "description": "special thanks (as Lee Kyung Taek)"
+        },
+        {
+          "id": "nm11192833",
+          "name": "Sang Hoon Lee",
+          "description": "special thanks: Jongno Police Station, Traffic Safety Division (as Lee Sang Hoon)"
+        },
+        {
+          "id": "nm11192910",
+          "name": "Tae-in Lee",
+          "description": "special thanks: Konkuk University, Department of Physical Education (as Lee Tae In)"
+        },
+        {
+          "id": "nm11192899",
+          "name": "Won Hee Lee",
+          "description": "special thanks: JTBC (as Lee Won Hee)"
+        },
+        {
+          "id": "nm4729093",
+          "name": "Woo-jung Lee",
+          "description": "director & producer would like to thank (as Lee Woo Jung)"
+        },
+        {
+          "id": "nm4963366",
+          "name": "Yeonhwa Lee",
+          "description": "special thanks (as Lee Yeon Hwa)"
+        },
+        {
+          "id": "nm11192919",
+          "name": "Young Eun Lee",
+          "description": "special thanks: Bang & Olufsen (as Lee Young Eun)"
+        },
+        {
+          "id": "nm3692419",
+          "name": "Young-Ah Lee",
+          "description": "special thanks (as Lee Young Ah)"
+        },
+        {
+          "id": "nm11192837",
+          "name": "Ju Moon Chul",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm11192958",
+          "name": "Lee Moon Hee",
+          "description": "special thanks: voice acting"
+        },
+        {
+          "id": "nm11192973",
+          "name": "Moo-Kyung Moon",
+          "description": "special thanks (as Moon Moo Kyung)"
+        },
+        {
+          "id": "nm11192955",
+          "name": "Kang Na Roo",
+          "description": "special thanks: Korea National Sport University"
+        },
+        {
+          "id": "nm1049144",
+          "name": "Seung-Hyun Oh",
+          "description": "director & producer would like to thank (as Oh Seung Hyun)"
+        },
+        {
+          "id": "nm6255111",
+          "name": "Eun-Kyung Park",
+          "description": "director & producer would like to thank (as Park Eun Kyung)"
+        },
+        {
+          "id": "nm6389712",
+          "name": "Ji-sung Park",
+          "description": "director & producer would like to thank (as Park Ji Sung)"
+        },
+        {
+          "id": "nm11192897",
+          "name": "Jung Yeon Park",
+          "description": "special thanks: JTBC (as Park Jung Yeon)"
+        },
+        {
+          "id": "nm11192826",
+          "name": "Ki-hwa Park",
+          "description": "special thanks: The Class Hyosung (as Park Ki Hwa)"
+        },
+        {
+          "id": "nm6194393",
+          "name": "Mihyang Park",
+          "description": "special thanks (as Park Mi Hyang)"
+        },
+        {
+          "id": "nm11192828",
+          "name": "Se-Hoon Park",
+          "description": "special thanks: The Class Hyosung (as Park Se Hoon)"
+        },
+        {
+          "id": "nm11192972",
+          "name": "Yongsun Park",
+          "description": "special thanks (as Park Yong Sun)"
+        },
+        {
+          "id": "nm10694703",
+          "name": "Kim Sang-Woo",
+          "description": "special thanks: JTBC"
+        },
+        {
+          "id": "nm3718915",
+          "name": "Lee Sang-yoon",
+          "description": "director & producer would like to thank (as Lee Sang Yoon)"
+        },
+        {
+          "id": "nm11192905",
+          "name": "Hye-In Seo",
+          "description": "special thanks: JTBC (as Seo Hye In)"
+        },
+        {
+          "id": "nm11192898",
+          "name": "Kyuseung Seo",
+          "description": "special thanks: JTBC (as Seo Kyu Seung)"
+        },
+        {
+          "id": "nm11192821",
+          "name": "Lee Hyun Seok",
+          "description": "special thanks: Goyang Industry Promotion Agency, Contents Business Team"
+        },
+        {
+          "id": "nm11192829",
+          "name": "Hyun Taek Shin",
+          "description": "special thanks: The Class Hyosung (as Shin Hyun Taek)"
+        },
+        {
+          "id": "nm11192912",
+          "name": "Joonsik Shin",
+          "description": "special thanks: Jaseng Hospital of Korean Medicine (as Shin Joon Sik)"
+        },
+        {
+          "id": "nm0801127",
+          "name": "Mike Simpson",
+          "description": "director & producer would like to thank"
+        },
+        {
+          "id": "nm11192756",
+          "name": "Suk-hee Son",
+          "description": "director & producer would like to thank (as Son Suk Hee)"
+        },
+        {
+          "id": "nm11192819",
+          "name": "Kim Seong Su",
+          "description": "special thanks: Advanced Industry Division"
+        },
+        {
+          "id": "nm11192969",
+          "name": "Kim Sun-ki",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm8097355",
+          "name": "Kim Ki Tae",
+          "description": "special thanks: Advanced Industry Division"
+        },
+        {
+          "id": "nm11192902",
+          "name": "Sae-Byeol Um",
+          "description": "special thanks: JTBC (as Um Sae Byeol)"
+        },
+        {
+          "id": "nm11192918",
+          "name": "Sang-Mi Woo",
+          "description": "special thanks: Utopia Memorial (as Woo Sang Mi)"
+        },
+        {
+          "id": "nm11192963",
+          "name": "Bok-Ryol Yang",
+          "description": "special thanks (as Yang Bok Ryol)"
+        },
+        {
+          "id": "nm11192953",
+          "name": "Sung Won Yang",
+          "description": "special thanks: Kwangju High Court (as Yang Sung Won)"
+        },
+        {
+          "id": "nm11192758",
+          "name": "Yoon-lan Yang",
+          "description": "director & producer would like to thank: MindBig (as Yang Yoon Lan)"
+        },
+        {
+          "id": "nm11192956",
+          "name": "Park Ye Rin",
+          "description": "special thanks: Korea National Sport University"
+        },
+        {
+          "id": "nm11192952",
+          "name": "Soon Chan Yoon",
+          "description": "special thanks: Wonkwang University Hospital (as Yoon Soon Chan)"
+        },
+        {
+          "id": "nm5864374",
+          "name": "Tae-sun Yoon",
+          "description": "special thanks: Seoul Film Commission (as Yoon Tae Sun)"
+        },
+        {
+          "id": "nm11192966",
+          "name": "Seo Young Min",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm11192954",
+          "name": "Lee Young Sun",
+          "description": "special thanks: Korea National Sport University"
+        },
+        {
+          "id": "nm11192825",
+          "name": "Woo Sang Yung",
+          "description": "special thanks: The Class Hyosung"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,3381 @@
+{
+  "id": "tt0031679",
+  "title": "Mr. Smith Goes to Washington",
+  "originalTitle": "",
+  "fullTitle": "Mr. Smith Goes to Washington (1939)",
+  "type": "Movie",
+  "year": "1939",
+  "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+  "releaseDate": "1939-10-19",
+  "runtimeMins": "129",
+  "runtimeStr": "2h 9min",
+  "plot": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+  "plotLocal": "",
+  "plotLocalIsRtl": false,
+  "awards": "Top rated movie #198 | Won 1 Oscar, 6 wins & 16 nominations total",
+  "directors": "Frank Capra",
+  "directorList": [
+    {
+      "id": "nm0001008",
+      "name": "Frank Capra"
+    }
+  ],
+  "writers": "Sidney Buchman, Lewis R. Foster, Myles Connolly",
+  "writerList": [
+    {
+      "id": "nm0118227",
+      "name": "Sidney Buchman"
+    },
+    {
+      "id": "nm0287931",
+      "name": "Lewis R. Foster"
+    },
+    {
+      "id": "nm0175333",
+      "name": "Myles Connolly"
+    }
+  ],
+  "stars": "James Stewart, Jean Arthur, Claude Rains",
+  "starList": [
+    {
+      "id": "nm0000071",
+      "name": "James Stewart"
+    },
+    {
+      "id": "nm0000795",
+      "name": "Jean Arthur"
+    },
+    {
+      "id": "nm0001647",
+      "name": "Claude Rains"
+    }
+  ],
+  "actorList": [
+    {
+      "id": "nm0000795",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NDczNTA1N15BMl5BanBnXkFtZTYwNjk2MjI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jean Arthur",
+      "asCharacter": "Saunders"
+    },
+    {
+      "id": "nm0000071",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "James Stewart",
+      "asCharacter": "Jefferson Smith"
+    },
+    {
+      "id": "nm0001647",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Claude Rains",
+      "asCharacter": "Senator Joseph Paine"
+    },
+    {
+      "id": "nm0036427",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjY2NDQ5OV5BMl5BanBnXkFtZTcwNTQ4MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edward Arnold",
+      "asCharacter": "Jim Taylor"
+    },
+    {
+      "id": "nm0452128",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTZkNjAzZjItMzkyNC00NjFhLTlmNWItYmNhYTI4ODIyNDQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Guy Kibbee",
+      "asCharacter": "Governor Hopper"
+    },
+    {
+      "id": "nm0593775",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Thomas Mitchell",
+      "asCharacter": "Diz Moore"
+    },
+    {
+      "id": "nm0657874",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5Nzk5NzA2NF5BMl5BanBnXkFtZTcwNTI1MDQxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eugene Pallette",
+      "asCharacter": "Chick McGann"
+    },
+    {
+      "id": "nm0094135",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Beulah Bondi",
+      "asCharacter": "Ma Smith"
+    },
+    {
+      "id": "nm0912478",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mjc2NjgwMl5BMl5BanBnXkFtZTcwNTM4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "H.B. Warner",
+      "asCharacter": "Senate Majority Leader"
+    },
+    {
+      "id": "nm0002503",
+      "image": "https://m.media-amazon.com/images/M/MV5BODI2MDY3OTExNV5BMl5BanBnXkFtZTcwNjM2NDg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Carey",
+      "asCharacter": "President of the Senate"
+    },
+    {
+      "id": "nm0021667",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzcyZThmZDUtOTJhNS00MzUzLWI3YTAtNWI5NmQ1MjI4OGFjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Astrid Allwyn",
+      "asCharacter": "Susan Paine"
+    },
+    {
+      "id": "nm0232766",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzc3ZmE0YzAtNmQ1Yi00MTExLWFiNjEtZGY5NjkyNzZiYmU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ruth Donnelly",
+      "asCharacter": "Mrs. Hopper"
+    },
+    {
+      "id": "nm0593372",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4MjYzODAyOV5BMl5BanBnXkFtZTcwNDAxNDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Grant Mitchell",
+      "asCharacter": "Senator MacPherson"
+    },
+    {
+      "id": "nm0356004",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxOTQ4YTktN2YxNS00NjJmLWFlZWItOTBlMjEzZmM3MzdjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Porter Hall",
+      "asCharacter": "Senator Monroe"
+    },
+    {
+      "id": "nm0436225",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ1M2ExMzktNmU3NC00MjNhLTgxNDgtOGI5NjA0YjVjMzY2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "H.V. Kaltenborn",
+      "asCharacter": "H.V. Kaltenborn"
+    },
+    {
+      "id": "nm0485272",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTIxMzcyMV5BMl5BanBnXkFtZTcwMzE5ODcyMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Lane",
+      "asCharacter": "Nosey"
+    },
+    {
+      "id": "nm0914246",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWUzNTg4MjYtY2ZkMi00MGJiLWE1MmUtZjMzOWMyMzVlZTJhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Pierre Watkin",
+      "asCharacter": "Senate Minority Leader"
+    },
+    {
+      "id": "nm0254424",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5ZWQ3ZmUtNTQxZi00MmY3LWEyYTMtZGE5NWIxN2Y5YmFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Dick Elliott",
+      "asCharacter": "Carl Cook"
+    },
+    {
+      "id": "nm0218131",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA2MjY5NDAxOF5BMl5BanBnXkFtZTcwNjM2MjcwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "William Demarest",
+      "asCharacter": "Bill Griffith"
+    },
+    {
+      "id": "nm0914517",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billy Watson",
+      "asCharacter": "Hopper Boy"
+    },
+    {
+      "id": "nm0914584",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmFmOWRhZGMtMWM3NS00YzRkLWI2OWItM2RmYzU5ZDMwZjQyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Delmar Watson",
+      "asCharacter": "Hopper Boy"
+    },
+    {
+      "id": "nm0914648",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Watson",
+      "asCharacter": "Hopper Boy"
+    },
+    {
+      "id": "nm0799982",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGFlNTItOWZlNC00NWFjLTg1MzctZWM2ODJlNTk4MzE4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Larry Simms",
+      "asCharacter": "Hopper Boy (as Baby Dumpling)"
+    },
+    {
+      "id": "nm0914626",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Garry Watson",
+      "asCharacter": "Hopper Boy (as Gary Watson)"
+    },
+    {
+      "id": "nm0017578",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZDkzY2UtOWY2Yy00YmNiLTg5OWUtYmIyYmY2YTI1YTU3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Erville Alderson",
+      "asCharacter": "Handwriting Expert (uncredited)"
+    },
+    {
+      "id": "nm0026790",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Anderson",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm0003224",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWU1MDI4NjYtNGNkYy00ODgzLTgyOWQtZGIxMTVhNWMzNDM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Stanley Andrews",
+      "asCharacter": "Senator Hodges (uncredited)"
+    },
+    {
+      "id": "nm0036362",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Arnold",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0038663",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQxMWQ5MmItY2M5MC00ZjAxLThiOTMtOTc0Yjg5MDk1MDE4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Ash",
+      "asCharacter": "Senator Lancaster (uncredited)"
+    },
+    {
+      "id": "nm0041858",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzMzc2MDEtMDc0MC00YmQzLThlODAtZWIxOTNiOThiN2M2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Edwin August",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0042380",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM4ZjdmZmUtZTQ3Yy00ZTY0LWEyYWEtZGRkYThhZTA1MGNmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Frank Austin",
+      "asCharacter": "Inventor at Smith's Office Door (uncredited)"
+    },
+    {
+      "id": "nm0047282",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry A. Bailey",
+      "asCharacter": "Senator Hammett (uncredited)"
+    },
+    {
+      "id": "nm0048989",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tommy Baker",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0060958",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kathryn Bates",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0070757",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc4YzMyZjktNzYxMC00ZjkxLTkzZWQtMWYzNzU4MmNjN2RkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brooks Benedict",
+      "asCharacter": "Senate Clerk (uncredited)"
+    },
+    {
+      "id": "nm0071031",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTFiMTQ4YjMtMzI0Zi00NWFhLWFhNWQtOWIzNTY5MzFkODU4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Wilson Benge",
+      "asCharacter": "Hopper's Butler (uncredited)"
+    },
+    {
+      "id": "nm0080930",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzA0YjcxNTUtYjdjZC00MmNjLWI0MGMtZjE5Nzc1YjEyMDgzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edward Biby",
+      "asCharacter": "Foreign Diplomat (uncredited)"
+    },
+    {
+      "id": "nm0098424",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGIxOWI1ZTUtOGY5NC00ODA0LTkxYzQtYWE2MGMwNzg3ZjIwXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Wade Boteler",
+      "asCharacter": "Family Man (uncredited)"
+    },
+    {
+      "id": "nm0103249",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE4MjUzMmEtYTgwNi00ZGM2LWI2NWQtYjdkZThkMTVkNmQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harry C. Bradley",
+      "asCharacter": "Arthur Kim (uncredited)"
+    },
+    {
+      "id": "nm0107589",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmRkOWM1ODEtMDE1Mi00ZGM2LTk1YzAtNzJmMTA2MjA2Yzg5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lynton Brent",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0108145",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ed Brewer",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0108653",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI0OGUxMDctNmFmYy00NjU3LWJmNjYtNDkyYThmY2JhY2IwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Al Bridge",
+      "asCharacter": "Senator Dwight (uncredited)"
+    },
+    {
+      "id": "nm0109034",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTFkN2MzOGQtNjQ4Ni00NGNkLTk0MjYtYmQxNTA1NDBkOTY3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harlan Briggs",
+      "asCharacter": "Mr. Edwards - Howling Citizen (uncredited)"
+    },
+    {
+      "id": "nm0112395",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzExNGE4MTQtZDAzZi00YzM4LWE3ZDEtZTE0NTQzNzgzZGU1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edward Brophy",
+      "asCharacter": "Newspaper Employee (uncredited)"
+    },
+    {
+      "id": "nm0120675",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5NjYwOWUtMWNiZC00YjcwLTg4ZTAtZTQ4NjAxZDAzZTFlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Tommy Bupp",
+      "asCharacter": "Boy Cheering for Smith in Meeting (uncredited)"
+    },
+    {
+      "id": "nm0075396",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU4YmFkMTItZGJjNy00NTM4LWFkN2YtYWM2MzYwOTk1MzI3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Burkhardt",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0123579",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQwZTdhZTAtNjNmZC00ZGRiLWEyZTQtZTM1NjNhNTEzMzExXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frederick Burton",
+      "asCharacter": "Senator Dearhorn (uncredited)"
+    },
+    {
+      "id": "nm0128990",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmUyZjY5N2ItZjM2MS00NTQyLWE0ZWItMWFkNzViNGNiNWFlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Georgia Caine",
+      "asCharacter": "Third Radio Speaker (uncredited)"
+    },
+    {
+      "id": "nm0139392",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ken Carpenter",
+      "asCharacter": "Announcer (uncredited)"
+    },
+    {
+      "id": "nm0007217",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDgzMTcxOF5BMl5BanBnXkFtZTYwMDQxMTM2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Carson",
+      "asCharacter": "Sweeney Farrell - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0142358",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Burr Caruth",
+      "asCharacter": "Townsend (uncredited)"
+    },
+    {
+      "id": "nm0143912",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5NTgwYTktZTQzZC00ZTc1LWFkNTUtODQ2MTM5Y2E0Y2FkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Maurice Cass",
+      "asCharacter": "Handwriting Expert (uncredited)"
+    },
+    {
+      "id": "nm0146883",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGMwZTQ0MDAtY2U3Ny00ZmVkLWEyZjktODQ0MTZlMjEzY2JmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Allan Cavan",
+      "asCharacter": "Ragner - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0151356",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc3NWYtYmI5My00N2ZhLThkODktNTVmNmMzMzdlNDg4XkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Eddy Chandler",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0151370",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2E0N2Q0YWUtZjg5YS00MjY2LTg4ZGEtY2RmNDBhODVmYzZmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "George Chandler",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0163846",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Davison Clark",
+      "asCharacter": "Committeeman (uncredited)"
+    },
+    {
+      "id": "nm0166076",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGM2OGNmYmYtODFjYS00MzgxLWJhYmYtYWQyMmI3NjA3ZTk3XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Dora Clement",
+      "asCharacter": "Mrs. McGann (uncredited)"
+    },
+    {
+      "id": "nm1163884",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Clucas",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0167668",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shirley Coates",
+      "asCharacter": "Assistant Bartender (uncredited)"
+    },
+    {
+      "id": "nm0167760",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdmYzAyYjQtMGU3YS00MGY3LWI4Y2YtMWZhZTk0ZDhhYmZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Edmund Cobb",
+      "asCharacter": "Senator Gower (uncredited)"
+    },
+    {
+      "id": "nm0170061",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Coke",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0173827",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NjcwNTU5Ml5BMl5BanBnXkFtZTcwMDI5NDYwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dorothy Comingore",
+      "asCharacter": "Woman at Station (uncredited)"
+    },
+    {
+      "id": "nm0174682",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MjgzMzAyMV5BMl5BanBnXkFtZTgwODczNjMwNDE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Chester Conklin",
+      "asCharacter": "Man in Press Section of Senate Gallery (uncredited)"
+    },
+    {
+      "id": "nm0177428",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hal Cooke",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0178049",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y2NzNiZjgtNDI0MC00ZDYwLWIzOTAtODYyZDViMjg5MWJlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "George Cooper",
+      "asCharacter": "Waiter (uncredited)"
+    },
+    {
+      "id": "nm0178060",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Georgie Cooper",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0178108",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Cooper",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0178645",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nick Copeland",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0180465",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzgxNzI5N15BMl5BanBnXkFtZTgwNTcxODY3MTE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Anne Cornwall",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0180679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNzM2MzY0Ml5BMl5BanBnXkFtZTcwODUxNDYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gino Corrado",
+      "asCharacter": "Barber (uncredited)"
+    },
+    {
+      "id": "nm0007221",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM4NzU4MV5BMl5BanBnXkFtZTgwMTQ5NTM1MzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Maurice Costello",
+      "asCharacter": "Diggs - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0185769",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDkzOTM2NDUtZTk5Ni00ZjNkLTg5NTItNzhmN2FlZjQ5OGZmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Alec Craig",
+      "asCharacter": "Speaker (uncredited)"
+    },
+    {
+      "id": "nm0193254",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beatrice Curtis",
+      "asCharacter": "Paine's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0205033",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lew Davis",
+      "asCharacter": "Senate Clerk (uncredited)"
+    },
+    {
+      "id": "nm0206384",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dulce Day",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0212982",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wally Dean",
+      "asCharacter": "Paine's Friend (uncredited)"
+    },
+    {
+      "id": "nm0219783",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjBkMjdmMjMtNTNiYy00NmYwLTlhZTAtNGIxNjBmMmRiM2I4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Vernon Dent",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0220128",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Depp",
+      "asCharacter": "Hat Salesman / Secretary (uncredited)"
+    },
+    {
+      "id": "nm0222797",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwODMyNTE3OV5BMl5BanBnXkFtZTgwNzU0NTQ0MjE@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Joe Devlin",
+      "asCharacter": "Waiter (uncredited)"
+    },
+    {
+      "id": "nm0227116",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Clyde Dilson",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0227117",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODEyNDMyNl5BMl5BanBnXkFtZTgwNTAzNzY1MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "John Dilson",
+      "asCharacter": "Secretary (uncredited)"
+    },
+    {
+      "id": "nm0230104",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA5N2IyMzctZDJiMi00NjdiLTg4MGEtM2Q4MGM4YjA1YWU4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Neal Dodd",
+      "asCharacter": "Senate Chaplain (uncredited)"
+    },
+    {
+      "id": "nm0233352",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQwNTY1MTA3MV5BMl5BanBnXkFtZTcwMTA1MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ann Doran",
+      "asCharacter": "Paine's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0201728",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTJjM2MxZTktMzQ0Mi00ZTQ3LThjMTktNjJjNzlhYWM5YjUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Lester Dorr",
+      "asCharacter": "Taylor's Stooge (uncredited)"
+    },
+    {
+      "id": "nm0240159",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQzMDQxMTUtMzlmYi00YmQxLWE5NzItZGE2NDMzNDlkZmJlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Robert Dudley",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0247305",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM5ZTE4OWQtOWYyYS00MzcyLThhOWItMDg3ZTZkOTRjMmQ0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Edward Earle",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0248890",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDk3NjcyN15BMl5BanBnXkFtZTgwNTMyNjc3MTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Helen Jerome Eddy",
+      "asCharacter": "Paine's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0250679",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdjMDc4NzktYTNkOS00NDRhLWFjNTktODFlZWQ5MGIyM2NlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Egan",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0262720",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjY0NTgwOGMtYzk5YS00ZjhjLTg1YTAtMjg1NmZkNjljMWFjXkEyXkFqcGdeQXVyMjM2ODYwMQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Douglas Evans",
+      "asCharacter": "Francis Scott Key (uncredited)"
+    },
+    {
+      "id": "nm0275310",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Fetherston",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0286665",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThjYzU5MDMtYzE0NS00ODI3LWIxODgtMTFjOWQ1YWRkZjVkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mabel Forrest",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0288304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM1M2E0Y2ItOGU1NC00OWVkLTliMTUtNjhkOTdlZDYxMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Byron Foulger",
+      "asCharacter": "Hopper's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0301848",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gladys Gale",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0306957",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Gardner",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0317519",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzljZmMxMWUtYWIzYy00ZTZmLWIxYzYtODZkOWZmZTI5MmI2XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Frances Gifford",
+      "asCharacter": "Hopper Girl (uncredited)"
+    },
+    {
+      "id": "nm0321204",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWFjY2EyYTMtYmQyMS00YzQxLTk1MDQtZGUzODYzNWEzZTU4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+      "name": "June Gittelson",
+      "asCharacter": "Woman at Station (uncredited)"
+    },
+    {
+      "id": "nm0322105",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gus Glassmire",
+      "asCharacter": "Angry Committee Member (uncredited)"
+    },
+    {
+      "id": "nm0330435",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzkzZTdhMDktMTYyZi00MDAyLWFmYjEtOWQ1OWNhNmYyN2VjXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Mary Gordon",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0336298",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBkYzZhMzgtODA3Mi00NTAzLWFjYzktOTJiZDNiZTY5MDIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jesse Graves",
+      "asCharacter": "Black Committeeman (uncredited)"
+    },
+    {
+      "id": "nm0336790",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzg2OTEwMF5BMl5BanBnXkFtZTgwNjI1OTgwMzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lorna Gray",
+      "asCharacter": "Woman at Station (uncredited)"
+    },
+    {
+      "id": "nm0355187",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roger Haliday",
+      "asCharacter": "Senate Guard (uncredited)"
+    },
+    {
+      "id": "nm0355429",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cliff Hall",
+      "asCharacter": "Senator in Final Scene (uncredited)"
+    },
+    {
+      "id": "nm0363014",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wilfred Hari",
+      "asCharacter": "House Boy (uncredited)"
+    },
+    {
+      "id": "nm0370743",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Hayden",
+      "asCharacter": "First Radio Announcer (uncredited)"
+    },
+    {
+      "id": "nm0372872",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2QxMGZmYjAtMmMxYS00YjUyLWJkOTEtMWI5NGJhYzU2N2U0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Henry Hebert",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0382195",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWMzYWZmYTAtYmQwOS00YWY5LTkxNDYtMDE0ZWNkMzY4MmY2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Louis Jean Heydt",
+      "asCharacter": "Soapbox Speaker (uncredited)"
+    },
+    {
+      "id": "nm0393829",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcwMzlmMzctYTZmNS00YjgxLWI0N2EtOWQwMGEyODk4MDhjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Fred Hoose",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0403505",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWExZmIzODgtZTE0OS00OGQ1LWE1NzktYTdmZDIxMmU3N2NiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Philip Hurlic",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0405340",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM3YTc0ZGQtN2NiNS00ZWQ5LTk5YmYtZTI4YTkxOGNmYTRjXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Olaf Hytten",
+      "asCharacter": "Butler (uncredited)"
+    },
+    {
+      "id": "nm0408429",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU4MTk3ZGItNDQ2MC00Nzg4LThhNzUtNzA3ODgwNmYyOTMwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Ince",
+      "asCharacter": "Senator Fernwick (uncredited)"
+    },
+    {
+      "id": "nm0408937",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTMzNzc5NjktMTQ3Mi00YmRjLWEzN2YtMTIwYmI2N2U3MDY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lloyd Ingraham",
+      "asCharacter": "Committeeman (uncredited)"
+    },
+    {
+      "id": "nm0408939",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTJkNGI5OTYtZWM0YS00MmZhLWE4ZDgtNzlmNDQyOTdkM2MyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mitchell Ingraham",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0418490",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUwOWMzYzctNGFkNS00OTEzLTk0ODYtNDA0N2UxOGNkMDkxXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Jaquet",
+      "asCharacter": "Senator Byron (uncredited)"
+    },
+    {
+      "id": "nm2045567",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dick Jensen",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm0425427",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Lester Johnson",
+      "asCharacter": "Butler (uncredited)"
+    },
+    {
+      "id": "nm0427934",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNTEwMjc0OV5BMl5BanBnXkFtZTcwOTMyMTY5Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dickie Jones",
+      "asCharacter": "Pageboy Richard Jones (uncredited)"
+    },
+    {
+      "id": "nm0437304",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJmYzdlZDMtNzM1MS00MDExLWI5ZjktYTc3OGM3NjBhOWViXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Eddie Kane",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0443891",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQzODc5YWMtODgxOC00ZjI3LWExYzQtZmE2YzYyYWFjNjRlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Robert Emmett Keane",
+      "asCharacter": "Editor (uncredited)"
+    },
+    {
+      "id": "nm0449676",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Donald Kerr",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0452133",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkwNjg5ZWYtNDViYi00ODNiLTg2Y2UtZWZmOTk5YjhiMjJhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Milton Kibbee",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0454870",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdlY2U5MjktNGNmZi00YjM4LWJhMjMtNmE0ZTI0ODg0M2EzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Joe King",
+      "asCharacter": "Summers - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0456016",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Kipling",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0460477",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTYwNGYxMTctZDE5ZS00MjhlLWFiMzMtYTkwMjkzNTEyMzQwXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Evalyn Knapp",
+      "asCharacter": "Reporter Asking 'What Do You Think of the Girls in This Town?' (uncredited)"
+    },
+    {
+      "id": "nm0469695",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wright Kramer",
+      "asCharacter": "Senator Carlton (uncredited)"
+    },
+    {
+      "id": "nm0472604",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGYwZmJkNWEtNzM1OS00NDNhLWJmMjktZjg5NTAzMjFlYjY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Paul Kruger",
+      "asCharacter": "Bodyguard (uncredited)"
+    },
+    {
+      "id": "nm0488951",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI4OTM1ZmYtNzk5NS00YzAyLWEyZDktODNlOGYzOGNhYTZhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bobby Larson",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0496081",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billy Lechner",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm1077200",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "P.H. Levy",
+      "asCharacter": "Rabbi (uncredited)"
+    },
+    {
+      "id": "nm0507849",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDUzZTQzMGEtNDgwZS00MmI5LWIwNjAtMjRjZDI2OGZhNTBkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Vera Lewis",
+      "asCharacter": "Mrs. Edwards (uncredited)"
+    },
+    {
+      "id": "nm0512106",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Lindquist",
+      "asCharacter": "Chorus Member (uncredited)"
+    },
+    {
+      "id": "nm0515989",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFjMTNiZDEtZDdmMC00YzJiLWJjOGYtNzQ1MTM1YmExODJmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "George Lloyd",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm0517425",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTBmNWNjZGItNWQyMy00MzY1LWIyMTItNzMyZWNjMGRhYzgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Arthur Loft",
+      "asCharacter": "Chief Clerk (uncredited)"
+    },
+    {
+      "id": "nm0519631",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jane Loofbourrow",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0522816",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Low",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm1197353",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jackie Lowe",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0524181",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmie Lucas",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0524306",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDExNDUzMGYtZTc3YS00MzVlLTkwY2MtNDg1ZDQ4ZTQ2MTVkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wilfred Lucas",
+      "asCharacter": "Pompous Man (uncredited)"
+    },
+    {
+      "id": "nm0533080",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stanley Mack",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0533712",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzAxNDI4YTUtM2I0OS00MDhhLWE5NDItZGYwOGM4ZDg4NWQ5XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mary MacLaren",
+      "asCharacter": "Head Sister (uncredited)"
+    },
+    {
+      "id": "nm0003424",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkzMDQxNTktNDg3YS00MTQ4LWIzYWUtMTNhZmUyNzJhOTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Hank Mann",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0542870",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWI0MzU3OWMtZDdlOS00MDI4LWI3YjktMTFkNzcxNTc4MmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Margaret Mann",
+      "asCharacter": "Nun with Cheering Orphan Boys (uncredited)"
+    },
+    {
+      "id": "nm0553125",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Martin",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0562805",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2U3ZTU1NDEtNmY3Zi00ZGFjLTgzZGYtNWRmMjhhOTg0NjI0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Eric Mayne",
+      "asCharacter": "Man in Senate Building (uncredited)"
+    },
+    {
+      "id": "nm0567224",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjhlYjE4NjEtYjdjYi00YTk0LTlmMmQtMmMzZjM4NGE3NmYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Philo McCullough",
+      "asCharacter": "Senator Albert (uncredited)"
+    },
+    {
+      "id": "nm0567225",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ralph McCullough",
+      "asCharacter": "Assistant Bartender (uncredited)"
+    },
+    {
+      "id": "nm0570471",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2FlMzIxMzItMzNkMy00ZTc5LTg0ODQtMTNhNTUzMDZlNjYxXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Matt McHugh",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0570974",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George McKay",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0571186",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWNkNDgxZjEtNjUwMi00MGE5LWIyZmEtMDhkNjJlZWUyMjhlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lafe McKee",
+      "asCharacter": "Civil War Veteran at Lincoln Memorial (uncredited)"
+    },
+    {
+      "id": "nm0571754",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM2MjNiYjMtZWQ3My00MmU3LWI1OTAtZjZkMWIwOTQ2YmRjXkEyXkFqcGdeQXVyMDU0Mzg3Nw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Sammy McKim",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0565990",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQxMDk0Mzk4Ml5BMl5BanBnXkFtZTYwMTc0NDky._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank McLure",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0573690",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James McNamara",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0585461",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzRjMWQ5NzUtMjFlNS00YTcxLTg4NGUtZjI3NGVjYTE2YmZlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Robert Middlemass",
+      "asCharacter": "Second Radio Announcer (uncredited)"
+    },
+    {
+      "id": "nm0589641",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjA5NGI2NmEtNjVjYy00ODUyLTliNzQtZjAxMjY1OTJhYjA3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Millican",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0593392",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjNmNzI3NDctZmNkMS00NGU1LTg0OTctMjM5MjgxNTVkMTk0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Howard M. Mitchell",
+      "asCharacter": "Shoe Salesman (uncredited)"
+    },
+    {
+      "id": "nm0601023",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjlhNjBmMDItZWZlYi00ODJmLWE2ZTMtNTA2Nzg1MDNkNmQ3XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Charles R. Moore",
+      "asCharacter": "Porter (uncredited)"
+    },
+    {
+      "id": "nm0602100",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY0NWYxMTUtYzJkMi00MWNlLThhMGUtOWE0ZGQ3NDQzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Bert Moorhouse",
+      "asCharacter": "Man in Senate Building (uncredited)"
+    },
+    {
+      "id": "nm0604674",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWE0MWNmNjctYmE0Yi00YWZhLWFlY2EtODY2ZDg1ZjA0YWIyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Gene Morgan",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm3852670",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Morgan",
+      "asCharacter": "Senate Clerk (uncredited)"
+    },
+    {
+      "id": "nm0607864",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTIzM2EzNWMtNTMxMy00NGE5LWI2MzAtODAxN2ZiZmVmNWY2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Edmund Mortimer",
+      "asCharacter": "Senator Fuller (uncredited)"
+    },
+    {
+      "id": "nm0627840",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjY0MTA5OTktYzQxNS00Nzk5LWJhY2EtZTkwMTVkZWJiNjRmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "William Newell",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0629698",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ray Nichols",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0636208",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Field Norton",
+      "asCharacter": "Pompous Man (uncredited)"
+    },
+    {
+      "id": "nm0637159",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alex Novinsky",
+      "asCharacter": "Foreign Diplomat (uncredited)"
+    },
+    {
+      "id": "nm0175410",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M0ZjRlMzMtNDVjMy00YmJlLTljOTUtMzczZTM1ODYxNzdhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank O'Connor",
+      "asCharacter": "Senator Alfred (uncredited)"
+    },
+    {
+      "id": "nm0653239",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Otto",
+      "asCharacter": "Fisk (uncredited)"
+    },
+    {
+      "id": "nm0658012",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Palma",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm0668495",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjc5MjczOTk2M15BMl5BanBnXkFtZTgwODA2NDQ3MTE@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Blanche Payson",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0700084",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDI1Yzk2NzktOTkzZi00YmQzLWE4ZmUtZDRjOTkyMWQ1MTI5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Frank Puglia",
+      "asCharacter": "Handwriting Expert (uncredited)"
+    },
+    {
+      "id": "nm1124727",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Spencer Quinn",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0704014",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Quinn",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0709894",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ed Randolph",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0713968",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Regan",
+      "asCharacter": "Hoodlum (uncredited)"
+    },
+    {
+      "id": "nm0723445",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Rice",
+      "asCharacter": "Lang (uncredited)"
+    },
+    {
+      "id": "nm0724586",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmIzNDQ4OGUtZmY2Ny00N2I4LWFlOWEtNzYyMmE4YjUyMzYzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Richardson",
+      "asCharacter": "Senator Manchester (uncredited)"
+    },
+    {
+      "id": "nm0740674",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzljNjBlYzctMTU4ZS00ODU0LTg4MmItNzIwM2YxYjdjZjhlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Henry Roquemore",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0751255",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTg3NGZlZTEtOWM3NC00YTNmLWE2YWQtMzAzZGVjODljNDcwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Johnny Russell",
+      "asCharacter": "Otis Hopper (uncredited)"
+    },
+    {
+      "id": "nm0761340",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRlODgyYTEtMWEyMC00ZjY5LTllZGItZjlhZDkxYzE1ZjUyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Walter Sande",
+      "asCharacter": "Newspaperman with Pipe (uncredited)"
+    },
+    {
+      "id": "nm0801193",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzRiMTE2YTktNWMzOS00ZWYyLWFhMTUtOTc5OGMxNDExMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Russell Simpson",
+      "asCharacter": "Kenneth Allen (uncredited)"
+    },
+    {
+      "id": "nm0812040",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVhOWI0YzUtMGRlZC00OWRmLTg2MTMtZTM5Y2MwODFiMjQxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Walter Soderling",
+      "asCharacter": "Senator Pickett (uncredited)"
+    },
+    {
+      "id": "nm0821289",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Stafford",
+      "asCharacter": "Senator Atwater (uncredited)"
+    },
+    {
+      "id": "nm0822074",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGUzNGZhMTYtMzdiOC00M2M0LTk2ZWMtODdkZTg4MjU0OGQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Wyndham Standing",
+      "asCharacter": "Senator Ashman (uncredited)"
+    },
+    {
+      "id": "nm0822792",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2VjNjk0NDAtM2JhNi00Zjc0LWE0ZmItYjU1M2Y2M2QyMWIxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Paul Stanton",
+      "asCharacter": "Flood - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0824885",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDUzNjY2NjMtYmJjZC00NGYxLWEyMTItNGRjN2RjOTA3Zjc3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Larry Steers",
+      "asCharacter": "Committeeman (uncredited)"
+    },
+    {
+      "id": "nm0825088",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Count Stefenelli",
+      "asCharacter": "Foreign Diplomat (uncredited)"
+    },
+    {
+      "id": "nm0827577",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5Mjk4NzE4MF5BMl5BanBnXkFtZTcwNzk2MjIyOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Robert Sterling",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0301887",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjVkZmIyY2ItMDM2ZS00ZWNlLWI3NjctYTQ0MDE2MmU0OGUxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Craig Stevens",
+      "asCharacter": "Senate Reporter (uncredited)"
+    },
+    {
+      "id": "nm0828547",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY1MzE0MTgtZDkxMC00N2E1LTk3MzMtNTZhMmE4OGFmZWVlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Landers Stevens",
+      "asCharacter": "Committeeman (uncredited)"
+    },
+    {
+      "id": "nm0830769",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwY2Y5YjQtMWE1NS00ZjYyLTg0OGMtY2U3MTY5NTEyNWFkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Carl Stockdale",
+      "asCharacter": "Senator Burdette (uncredited)"
+    },
+    {
+      "id": "nm0833340",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjQ2MjdjNzItNTA0Yy00YjU3LThlMmUtODY3ZWRkY2I2NmQzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Strang",
+      "asCharacter": "Bodyguard (uncredited)"
+    },
+    {
+      "id": "nm0837998",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiNGYxZDktNGY5MS00YTBjLTgwNzctYzYxOWU2NmVhMDQyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Charles Sullivan",
+      "asCharacter": "Cab Driver (uncredited)"
+    },
+    {
+      "id": "nm0846498",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWFmNDZiYzAtNGM3MS00YzdlLWE0YWMtZGIwMDIxMzU1YzgwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Ben Taggart",
+      "asCharacter": "Pompous Man (uncredited)"
+    },
+    {
+      "id": "nm0849800",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emma Tansey",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0852305",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1OTgxMzA0OF5BMl5BanBnXkFtZTcwNDY4ODUwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Dub Taylor",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0852362",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWE2MmZlNWMtYWNhNS00ZTM2LWExZWItNjk2NGJmNTUyYWNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ferris Taylor",
+      "asCharacter": "Senator Carlisle (uncredited)"
+    },
+    {
+      "id": "nm0854888",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGNiNzc1ZTQtYmUyMC00ZWIyLWJhYTktZGRmM2Y0NGE5MDQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Tenbrook",
+      "asCharacter": "Bodyguard (uncredited)"
+    },
+    {
+      "id": "nm0856916",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arthur Thalasso",
+      "asCharacter": "Doorman (uncredited)"
+    },
+    {
+      "id": "nm0858778",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzFjZTYyNDEtZjQ2Yi00OGZiLWIxZGItM2JiMTRkMTZlYzQwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Edward Thomas",
+      "asCharacter": "Butler (uncredited)"
+    },
+    {
+      "id": "nm0858828",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzc1NTBmNzQtMzdmNC00MzE4LWJjMmUtYzcyYTcxN2U1ZWJiXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank M. Thomas",
+      "asCharacter": "Hendricks (uncredited)"
+    },
+    {
+      "id": "nm0866285",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI5MjU3YzYtOTY0NS00YTM0LThjZTAtN2FkMDNlMGJjNTQxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Layne Tom Jr.",
+      "asCharacter": "Boy Ranger (uncredited)"
+    },
+    {
+      "id": "nm0867560",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGViN2NmOGQtZWJlOS00Y2I3LThlNzQtYzdiMjBhZDhjZDY0XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fred 'Snowflake' Toones",
+      "asCharacter": "Porter (uncredited)"
+    },
+    {
+      "id": "nm0871324",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Travis",
+      "asCharacter": "Senator Grainger (uncredited)"
+    },
+    {
+      "id": "nm0871577",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Laura Treadwell",
+      "asCharacter": "Mrs. Taylor (uncredited)"
+    },
+    {
+      "id": "nm0879119",
+      "image": "https://m.media-amazon.com/images/M/MV5BMThhMmRmNmUtM2Q2Ni00MTk1LTg1NzktYWJkMWZlYTk0NWRmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Tyrrell",
+      "asCharacter": "Undetermined Role (uncredited)"
+    },
+    {
+      "id": "nm0089162",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frederick Vroom",
+      "asCharacter": "Paine's Friend (uncredited)"
+    },
+    {
+      "id": "nm0905389",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bess Wade",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0905410",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Wade",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0906664",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Max Waizmann",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0908154",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjRkZmUzM2MtNjAzZS00MmRjLTkyNGYtYzlkY2E5MzRmNDM0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Robert Walker",
+      "asCharacter": "Senator Holland (uncredited)"
+    },
+    {
+      "id": "nm0909794",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Myonne Walsh",
+      "asCharacter": "Jane Hopper (uncredited)"
+    },
+    {
+      "id": "nm0911626",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Ward",
+      "asCharacter": "Photographer (uncredited)"
+    },
+    {
+      "id": "nm0915519",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWUwYjhhZjQtOWYyOS00YzBlLThlZjQtZmQ5OWRkMjkzZWZjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Billy Wayne",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0926103",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdmMDQ5YjgtNmU1Zi00Yzg0LWEwMzQtN2E2YzBlN2I4ZmFiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lloyd Whitlock",
+      "asCharacter": "Schultz - Newsman (uncredited)"
+    },
+    {
+      "id": "nm0932565",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM0OTQ1OTYyNl5BMl5BanBnXkFtZTgwODE5OTU2MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Dave Willock",
+      "asCharacter": "Senate Guard (uncredited)"
+    },
+    {
+      "id": "nm0926985",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGFjMTFkZmUtNDFmYi00OWM4LTgwYTgtOWZhNmQ5NzMxYTRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Florence Wix",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0939679",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eleanor Wood",
+      "asCharacter": "Committeewoman (uncredited)"
+    },
+    {
+      "id": "nm0941782",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZhOWY4NWMtZWMzZi00ZjZkLWJiOWMtYmEyMjNlNzM4YzIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "William Worthington",
+      "asCharacter": "Committeeman (uncredited)"
+    }
+  ],
+  "fullCast": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "directors": {
+      "job": "Director",
+      "items": [
+        {
+          "id": "nm0001008",
+          "name": "Frank Capra",
+          "description": ""
+        }
+      ]
+    },
+    "writers": {
+      "job": "Writer",
+      "items": [
+        {
+          "id": "nm0118227",
+          "name": "Sidney Buchman",
+          "description": "(screen play)"
+        },
+        {
+          "id": "nm0287931",
+          "name": "Lewis R. Foster",
+          "description": "(story)"
+        },
+        {
+          "id": "nm0175333",
+          "name": "Myles Connolly",
+          "description": "(contributor to screenplay construction and dialogue) (uncredited)"
+        }
+      ]
+    },
+    "actors": [
+      {
+        "id": "nm0000795",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NDczNTA1N15BMl5BanBnXkFtZTYwNjk2MjI2._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jean Arthur",
+        "asCharacter": "Saunders"
+      },
+      {
+        "id": "nm0000071",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "James Stewart",
+        "asCharacter": "Jefferson Smith"
+      },
+      {
+        "id": "nm0001647",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Claude Rains",
+        "asCharacter": "Senator Joseph Paine"
+      },
+      {
+        "id": "nm0036427",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjY2NDQ5OV5BMl5BanBnXkFtZTcwNTQ4MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Edward Arnold",
+        "asCharacter": "Jim Taylor"
+      },
+      {
+        "id": "nm0452128",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTZkNjAzZjItMzkyNC00NjFhLTlmNWItYmNhYTI4ODIyNDQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Guy Kibbee",
+        "asCharacter": "Governor Hopper"
+      },
+      {
+        "id": "nm0593775",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Thomas Mitchell",
+        "asCharacter": "Diz Moore"
+      },
+      {
+        "id": "nm0657874",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM5Nzk5NzA2NF5BMl5BanBnXkFtZTcwNTI1MDQxOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Eugene Pallette",
+        "asCharacter": "Chick McGann"
+      },
+      {
+        "id": "nm0094135",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Beulah Bondi",
+        "asCharacter": "Ma Smith"
+      },
+      {
+        "id": "nm0912478",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mjc2NjgwMl5BMl5BanBnXkFtZTcwNTM4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "H.B. Warner",
+        "asCharacter": "Senate Majority Leader"
+      },
+      {
+        "id": "nm0002503",
+        "image": "https://m.media-amazon.com/images/M/MV5BODI2MDY3OTExNV5BMl5BanBnXkFtZTcwNjM2NDg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harry Carey",
+        "asCharacter": "President of the Senate"
+      },
+      {
+        "id": "nm0021667",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzcyZThmZDUtOTJhNS00MzUzLWI3YTAtNWI5NmQ1MjI4OGFjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Astrid Allwyn",
+        "asCharacter": "Susan Paine"
+      },
+      {
+        "id": "nm0232766",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzc3ZmE0YzAtNmQ1Yi00MTExLWFiNjEtZGY5NjkyNzZiYmU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Ruth Donnelly",
+        "asCharacter": "Mrs. Hopper"
+      },
+      {
+        "id": "nm0593372",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4MjYzODAyOV5BMl5BanBnXkFtZTcwNDAxNDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Grant Mitchell",
+        "asCharacter": "Senator MacPherson"
+      },
+      {
+        "id": "nm0356004",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxOTQ4YTktN2YxNS00NjJmLWFlZWItOTBlMjEzZmM3MzdjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Porter Hall",
+        "asCharacter": "Senator Monroe"
+      },
+      {
+        "id": "nm0436225",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQ1M2ExMzktNmU3NC00MjNhLTgxNDgtOGI5NjA0YjVjMzY2XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "H.V. Kaltenborn",
+        "asCharacter": "H.V. Kaltenborn"
+      },
+      {
+        "id": "nm0485272",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg5MTIxMzcyMV5BMl5BanBnXkFtZTcwMzE5ODcyMQ@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Charles Lane",
+        "asCharacter": "Nosey"
+      },
+      {
+        "id": "nm0914246",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWUzNTg4MjYtY2ZkMi00MGJiLWE1MmUtZjMzOWMyMzVlZTJhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Pierre Watkin",
+        "asCharacter": "Senate Minority Leader"
+      },
+      {
+        "id": "nm0254424",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc5ZWQ3ZmUtNTQxZi00MmY3LWEyYTMtZGE5NWIxN2Y5YmFiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Dick Elliott",
+        "asCharacter": "Carl Cook"
+      },
+      {
+        "id": "nm0218131",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjA2MjY5NDAxOF5BMl5BanBnXkFtZTcwNjM2MjcwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "William Demarest",
+        "asCharacter": "Bill Griffith"
+      },
+      {
+        "id": "nm0914517",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Billy Watson",
+        "asCharacter": "Hopper Boy"
+      },
+      {
+        "id": "nm0914584",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmFmOWRhZGMtMWM3NS00YzRkLWI2OWItM2RmYzU5ZDMwZjQyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Delmar Watson",
+        "asCharacter": "Hopper Boy"
+      },
+      {
+        "id": "nm0914648",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Watson",
+        "asCharacter": "Hopper Boy"
+      },
+      {
+        "id": "nm0799982",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzcwOGFlNTItOWZlNC00NWFjLTg1MzctZWM2ODJlNTk4MzE4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Larry Simms",
+        "asCharacter": "Hopper Boy (as Baby Dumpling)"
+      },
+      {
+        "id": "nm0914626",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Garry Watson",
+        "asCharacter": "Hopper Boy (as Gary Watson)"
+      },
+      {
+        "id": "nm0017578",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZDkzY2UtOWY2Yy00YmNiLTg5OWUtYmIyYmY2YTI1YTU3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Erville Alderson",
+        "asCharacter": "Handwriting Expert (uncredited)"
+      },
+      {
+        "id": "nm0026790",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Anderson",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm0003224",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWU1MDI4NjYtNGNkYy00ODgzLTgyOWQtZGIxMTVhNWMzNDM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Stanley Andrews",
+        "asCharacter": "Senator Hodges (uncredited)"
+      },
+      {
+        "id": "nm0036362",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "William Arnold",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0038663",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQxMWQ5MmItY2M5MC00ZjAxLThiOTMtOTc0Yjg5MDk1MDE4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Sam Ash",
+        "asCharacter": "Senator Lancaster (uncredited)"
+      },
+      {
+        "id": "nm0041858",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTIzMzc2MDEtMDc0MC00YmQzLThlODAtZWIxOTNiOThiN2M2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Edwin August",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0042380",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzM4ZjdmZmUtZTQ3Yy00ZTY0LWEyYWEtZGRkYThhZTA1MGNmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Frank Austin",
+        "asCharacter": "Inventor at Smith's Office Door (uncredited)"
+      },
+      {
+        "id": "nm0047282",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry A. Bailey",
+        "asCharacter": "Senator Hammett (uncredited)"
+      },
+      {
+        "id": "nm0048989",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Tommy Baker",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0060958",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Kathryn Bates",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0070757",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc4YzMyZjktNzYxMC00ZjkxLTkzZWQtMWYzNzU4MmNjN2RkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Brooks Benedict",
+        "asCharacter": "Senate Clerk (uncredited)"
+      },
+      {
+        "id": "nm0071031",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTFiMTQ4YjMtMzI0Zi00NWFhLWFhNWQtOWIzNTY5MzFkODU4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Wilson Benge",
+        "asCharacter": "Hopper's Butler (uncredited)"
+      },
+      {
+        "id": "nm0080930",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzA0YjcxNTUtYjdjZC00MmNjLWI0MGMtZjE5Nzc1YjEyMDgzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Edward Biby",
+        "asCharacter": "Foreign Diplomat (uncredited)"
+      },
+      {
+        "id": "nm0098424",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGIxOWI1ZTUtOGY5NC00ODA0LTkxYzQtYWE2MGMwNzg3ZjIwXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Wade Boteler",
+        "asCharacter": "Family Man (uncredited)"
+      },
+      {
+        "id": "nm0103249",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTE4MjUzMmEtYTgwNi00ZGM2LWI2NWQtYjdkZThkMTVkNmQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Harry C. Bradley",
+        "asCharacter": "Arthur Kim (uncredited)"
+      },
+      {
+        "id": "nm0107589",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmRkOWM1ODEtMDE1Mi00ZGM2LTk1YzAtNzJmMTA2MjA2Yzg5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Lynton Brent",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0108145",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ed Brewer",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0108653",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjI0OGUxMDctNmFmYy00NjU3LWJmNjYtNDkyYThmY2JhY2IwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9545_AL_.jpg",
+        "name": "Al Bridge",
+        "asCharacter": "Senator Dwight (uncredited)"
+      },
+      {
+        "id": "nm0109034",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTFkN2MzOGQtNjQ4Ni00NGNkLTk0MjYtYmQxNTA1NDBkOTY3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harlan Briggs",
+        "asCharacter": "Mr. Edwards - Howling Citizen (uncredited)"
+      },
+      {
+        "id": "nm0112395",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzExNGE4MTQtZDAzZi00YzM4LWE3ZDEtZTE0NTQzNzgzZGU1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Edward Brophy",
+        "asCharacter": "Newspaper Employee (uncredited)"
+      },
+      {
+        "id": "nm0120675",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5NjYwOWUtMWNiZC00YjcwLTg4ZTAtZTQ4NjAxZDAzZTFlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+        "name": "Tommy Bupp",
+        "asCharacter": "Boy Cheering for Smith in Meeting (uncredited)"
+      },
+      {
+        "id": "nm0075396",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzU4YmFkMTItZGJjNy00NTM4LWFkN2YtYWM2MzYwOTk1MzI3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harry Burkhardt",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0123579",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjQwZTdhZTAtNjNmZC00ZGRiLWEyZTQtZTM1NjNhNTEzMzExXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frederick Burton",
+        "asCharacter": "Senator Dearhorn (uncredited)"
+      },
+      {
+        "id": "nm0128990",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmUyZjY5N2ItZjM2MS00NTQyLWE0ZWItMWFkNzViNGNiNWFlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Georgia Caine",
+        "asCharacter": "Third Radio Speaker (uncredited)"
+      },
+      {
+        "id": "nm0139392",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ken Carpenter",
+        "asCharacter": "Announcer (uncredited)"
+      },
+      {
+        "id": "nm0007217",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDgzMTcxOF5BMl5BanBnXkFtZTYwMDQxMTM2._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jack Carson",
+        "asCharacter": "Sweeney Farrell - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0142358",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Burr Caruth",
+        "asCharacter": "Townsend (uncredited)"
+      },
+      {
+        "id": "nm0143912",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTM5NTgwYTktZTQzZC00ZTc1LWFkNTUtODQ2MTM5Y2E0Y2FkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Maurice Cass",
+        "asCharacter": "Handwriting Expert (uncredited)"
+      },
+      {
+        "id": "nm0146883",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGMwZTQ0MDAtY2U3Ny00ZmVkLWEyZjktODQ0MTZlMjEzY2JmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Allan Cavan",
+        "asCharacter": "Ragner - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0151356",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc3NWYtYmI5My00N2ZhLThkODktNTVmNmMzMzdlNDg4XkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Eddy Chandler",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0151370",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2E0N2Q0YWUtZjg5YS00MjY2LTg4ZGEtY2RmNDBhODVmYzZmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "George Chandler",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0163846",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Davison Clark",
+        "asCharacter": "Committeeman (uncredited)"
+      },
+      {
+        "id": "nm0166076",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGM2OGNmYmYtODFjYS00MzgxLWJhYmYtYWQyMmI3NjA3ZTk3XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Dora Clement",
+        "asCharacter": "Mrs. McGann (uncredited)"
+      },
+      {
+        "id": "nm1163884",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Richard Clucas",
+        "asCharacter": "Minor Role (uncredited)"
+      },
+      {
+        "id": "nm0167668",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Shirley Coates",
+        "asCharacter": "Assistant Bartender (uncredited)"
+      },
+      {
+        "id": "nm0167760",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDdmYzAyYjQtMGU3YS00MGY3LWI4Y2YtMWZhZTk0ZDhhYmZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Edmund Cobb",
+        "asCharacter": "Senator Gower (uncredited)"
+      },
+      {
+        "id": "nm0170061",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Eddie Coke",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0173827",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU4NjcwNTU5Ml5BMl5BanBnXkFtZTcwMDI5NDYwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Dorothy Comingore",
+        "asCharacter": "Woman at Station (uncredited)"
+      },
+      {
+        "id": "nm0174682",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MjgzMzAyMV5BMl5BanBnXkFtZTgwODczNjMwNDE@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Chester Conklin",
+        "asCharacter": "Man in Press Section of Senate Gallery (uncredited)"
+      },
+      {
+        "id": "nm0177428",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Hal Cooke",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0178049",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2Y2NzNiZjgtNDI0MC00ZDYwLWIzOTAtODYyZDViMjg5MWJlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "George Cooper",
+        "asCharacter": "Waiter (uncredited)"
+      },
+      {
+        "id": "nm0178060",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Georgie Cooper",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0178108",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Cooper",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0178645",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Nick Copeland",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0180465",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzgxNzI5N15BMl5BanBnXkFtZTgwNTcxODY3MTE@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Anne Cornwall",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0180679",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxNzM2MzY0Ml5BMl5BanBnXkFtZTcwODUxNDYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Gino Corrado",
+        "asCharacter": "Barber (uncredited)"
+      },
+      {
+        "id": "nm0007221",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM4NzU4MV5BMl5BanBnXkFtZTgwMTQ5NTM1MzE@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Maurice Costello",
+        "asCharacter": "Diggs - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0185769",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDkzOTM2NDUtZTk5Ni00ZjNkLTg5NTItNzhmN2FlZjQ5OGZmXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Alec Craig",
+        "asCharacter": "Speaker (uncredited)"
+      },
+      {
+        "id": "nm0193254",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Beatrice Curtis",
+        "asCharacter": "Paine's Secretary (uncredited)"
+      },
+      {
+        "id": "nm0205033",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Lew Davis",
+        "asCharacter": "Senate Clerk (uncredited)"
+      },
+      {
+        "id": "nm0206384",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Dulce Day",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0212982",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Wally Dean",
+        "asCharacter": "Paine's Friend (uncredited)"
+      },
+      {
+        "id": "nm0219783",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjBkMjdmMjMtNTNiYy00NmYwLTlhZTAtNGIxNjBmMmRiM2I4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.0455_AL_.jpg",
+        "name": "Vernon Dent",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0220128",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Depp",
+        "asCharacter": "Hat Salesman / Secretary (uncredited)"
+      },
+      {
+        "id": "nm0222797",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEwODMyNTE3OV5BMl5BanBnXkFtZTgwNzU0NTQ0MjE@._V1_Ratio1.2727_AL_.jpg",
+        "name": "Joe Devlin",
+        "asCharacter": "Waiter (uncredited)"
+      },
+      {
+        "id": "nm0227116",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Clyde Dilson",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0227117",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODEyNDMyNl5BMl5BanBnXkFtZTgwNTAzNzY1MjE@._V1_Ratio1.3182_AL_.jpg",
+        "name": "John Dilson",
+        "asCharacter": "Secretary (uncredited)"
+      },
+      {
+        "id": "nm0230104",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA5N2IyMzctZDJiMi00NjdiLTg4MGEtM2Q4MGM4YjA1YWU4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Neal Dodd",
+        "asCharacter": "Senate Chaplain (uncredited)"
+      },
+      {
+        "id": "nm0233352",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQwNTY1MTA3MV5BMl5BanBnXkFtZTcwMTA1MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Ann Doran",
+        "asCharacter": "Paine's Secretary (uncredited)"
+      },
+      {
+        "id": "nm0201728",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJjM2MxZTktMzQ0Mi00ZTQ3LThjMTktNjJjNzlhYWM5YjUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Lester Dorr",
+        "asCharacter": "Taylor's Stooge (uncredited)"
+      },
+      {
+        "id": "nm0240159",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQzMDQxMTUtMzlmYi00YmQxLWE5NzItZGE2NDMzNDlkZmJlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Robert Dudley",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0247305",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTM5ZTE4OWQtOWYyYS00MzcyLThhOWItMDg3ZTZkOTRjMmQ0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Edward Earle",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0248890",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDk3NjcyN15BMl5BanBnXkFtZTgwNTMyNjc3MTE@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Helen Jerome Eddy",
+        "asCharacter": "Paine's Secretary (uncredited)"
+      },
+      {
+        "id": "nm0250679",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjdjMDc4NzktYTNkOS00NDRhLWFjNTktODFlZWQ5MGIyM2NlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Jack Egan",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0262720",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjY0NTgwOGMtYzk5YS00ZjhjLTg1YTAtMjg1NmZkNjljMWFjXkEyXkFqcGdeQXVyMjM2ODYwMQ@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Douglas Evans",
+        "asCharacter": "Francis Scott Key (uncredited)"
+      },
+      {
+        "id": "nm0275310",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Eddie Fetherston",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0286665",
+        "image": "https://m.media-amazon.com/images/M/MV5BZThjYzU5MDMtYzE0NS00ODI3LWIxODgtMTFjOWQ1YWRkZjVkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Mabel Forrest",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0288304",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM1M2E0Y2ItOGU1NC00OWVkLTliMTUtNjhkOTdlZDYxMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Byron Foulger",
+        "asCharacter": "Hopper's Secretary (uncredited)"
+      },
+      {
+        "id": "nm0301848",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Gladys Gale",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0306957",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Gardner",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0317519",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzljZmMxMWUtYWIzYy00ZTZmLWIxYzYtODZkOWZmZTI5MmI2XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Frances Gifford",
+        "asCharacter": "Hopper Girl (uncredited)"
+      },
+      {
+        "id": "nm0321204",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWFjY2EyYTMtYmQyMS00YzQxLTk1MDQtZGUzODYzNWEzZTU4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+        "name": "June Gittelson",
+        "asCharacter": "Woman at Station (uncredited)"
+      },
+      {
+        "id": "nm0322105",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Gus Glassmire",
+        "asCharacter": "Angry Committee Member (uncredited)"
+      },
+      {
+        "id": "nm0330435",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzkzZTdhMDktMTYyZi00MDAyLWFmYjEtOWQ1OWNhNmYyN2VjXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Mary Gordon",
+        "asCharacter": "Woman (uncredited)"
+      },
+      {
+        "id": "nm0336298",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzBkYzZhMzgtODA3Mi00NTAzLWFjYzktOTJiZDNiZTY5MDIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Jesse Graves",
+        "asCharacter": "Black Committeeman (uncredited)"
+      },
+      {
+        "id": "nm0336790",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYyMzg2OTEwMF5BMl5BanBnXkFtZTgwNjI1OTgwMzE@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Lorna Gray",
+        "asCharacter": "Woman at Station (uncredited)"
+      },
+      {
+        "id": "nm0355187",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Roger Haliday",
+        "asCharacter": "Senate Guard (uncredited)"
+      },
+      {
+        "id": "nm0355429",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Cliff Hall",
+        "asCharacter": "Senator in Final Scene (uncredited)"
+      },
+      {
+        "id": "nm0363014",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Wilfred Hari",
+        "asCharacter": "House Boy (uncredited)"
+      },
+      {
+        "id": "nm0370743",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Hayden",
+        "asCharacter": "First Radio Announcer (uncredited)"
+      },
+      {
+        "id": "nm0372872",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2QxMGZmYjAtMmMxYS00YjUyLWJkOTEtMWI5NGJhYzU2N2U0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Henry Hebert",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0382195",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWMzYWZmYTAtYmQwOS00YWY5LTkxNDYtMDE0ZWNkMzY4MmY2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Louis Jean Heydt",
+        "asCharacter": "Soapbox Speaker (uncredited)"
+      },
+      {
+        "id": "nm0393829",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTcwMzlmMzctYTZmNS00YjgxLWI0N2EtOWQwMGEyODk4MDhjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Fred Hoose",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0403505",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWExZmIzODgtZTE0OS00OGQ1LWE1NzktYTdmZDIxMmU3N2NiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Philip Hurlic",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0405340",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTM3YTc0ZGQtN2NiNS00ZWQ5LTk5YmYtZTI4YTkxOGNmYTRjXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Olaf Hytten",
+        "asCharacter": "Butler (uncredited)"
+      },
+      {
+        "id": "nm0408429",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzU4MTk3ZGItNDQ2MC00Nzg4LThhNzUtNzA3ODgwNmYyOTMwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "John Ince",
+        "asCharacter": "Senator Fernwick (uncredited)"
+      },
+      {
+        "id": "nm0408937",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTMzNzc5NjktMTQ3Mi00YmRjLWEzN2YtMTIwYmI2N2U3MDY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Lloyd Ingraham",
+        "asCharacter": "Committeeman (uncredited)"
+      },
+      {
+        "id": "nm0408939",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTJkNGI5OTYtZWM0YS00MmZhLWE4ZDgtNzlmNDQyOTdkM2MyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Mitchell Ingraham",
+        "asCharacter": "Minor Role (uncredited)"
+      },
+      {
+        "id": "nm0418490",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWUwOWMzYzctNGFkNS00OTEzLTk0ODYtNDA0N2UxOGNkMDkxXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank Jaquet",
+        "asCharacter": "Senator Byron (uncredited)"
+      },
+      {
+        "id": "nm2045567",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Dick Jensen",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm0425427",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "John Lester Johnson",
+        "asCharacter": "Butler (uncredited)"
+      },
+      {
+        "id": "nm0427934",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUwNTEwMjc0OV5BMl5BanBnXkFtZTcwOTMyMTY5Mw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Dickie Jones",
+        "asCharacter": "Pageboy Richard Jones (uncredited)"
+      },
+      {
+        "id": "nm0437304",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmJmYzdlZDMtNzM1MS00MDExLWI5ZjktYTc3OGM3NjBhOWViXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Eddie Kane",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0443891",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjQzODc5YWMtODgxOC00ZjI3LWExYzQtZmE2YzYyYWFjNjRlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio1.0455_AL_.jpg",
+        "name": "Robert Emmett Keane",
+        "asCharacter": "Editor (uncredited)"
+      },
+      {
+        "id": "nm0449676",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Donald Kerr",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0452133",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkwNjg5ZWYtNDViYi00ODNiLTg2Y2UtZWZmOTk5YjhiMjJhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Milton Kibbee",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0454870",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjdlY2U5MjktNGNmZi00YjM4LWJhMjMtNmE0ZTI0ODg0M2EzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Joe King",
+        "asCharacter": "Summers - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0456016",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Richard Kipling",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0460477",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwNGYxMTctZDE5ZS00MjhlLWFiMzMtYTkwMjkzNTEyMzQwXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Evalyn Knapp",
+        "asCharacter": "Reporter Asking 'What Do You Think of the Girls in This Town?' (uncredited)"
+      },
+      {
+        "id": "nm0469695",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Wright Kramer",
+        "asCharacter": "Senator Carlton (uncredited)"
+      },
+      {
+        "id": "nm0472604",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGYwZmJkNWEtNzM1OS00NDNhLWJmMjktZjg5NTAzMjFlYjY1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Paul Kruger",
+        "asCharacter": "Bodyguard (uncredited)"
+      },
+      {
+        "id": "nm0488951",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzI4OTM1ZmYtNzk5NS00YzAyLWEyZDktODNlOGYzOGNhYTZhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Bobby Larson",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0496081",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Billy Lechner",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm1077200",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "P.H. Levy",
+        "asCharacter": "Rabbi (uncredited)"
+      },
+      {
+        "id": "nm0507849",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDUzZTQzMGEtNDgwZS00MmI5LWIwNjAtMjRjZDI2OGZhNTBkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Vera Lewis",
+        "asCharacter": "Mrs. Edwards (uncredited)"
+      },
+      {
+        "id": "nm0512106",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Lindquist",
+        "asCharacter": "Chorus Member (uncredited)"
+      },
+      {
+        "id": "nm0515989",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFjMTNiZDEtZDdmMC00YzJiLWJjOGYtNzQ1MTM1YmExODJmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "George Lloyd",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm0517425",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTBmNWNjZGItNWQyMy00MzY1LWIyMTItNzMyZWNjMGRhYzgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Arthur Loft",
+        "asCharacter": "Chief Clerk (uncredited)"
+      },
+      {
+        "id": "nm0519631",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jane Loofbourrow",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0522816",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Low",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm1197353",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jackie Lowe",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0524181",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jimmie Lucas",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0524306",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDExNDUzMGYtZTc3YS00MzVlLTkwY2MtNDg1ZDQ4ZTQ2MTVkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Wilfred Lucas",
+        "asCharacter": "Pompous Man (uncredited)"
+      },
+      {
+        "id": "nm0533080",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Stanley Mack",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0533712",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzAxNDI4YTUtM2I0OS00MDhhLWE5NDItZGYwOGM4ZDg4NWQ5XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Mary MacLaren",
+        "asCharacter": "Head Sister (uncredited)"
+      },
+      {
+        "id": "nm0003424",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkzMDQxNTktNDg3YS00MTQ4LWIzYWUtMTNhZmUyNzJhOTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Hank Mann",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0542870",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWI0MzU3OWMtZDdlOS00MDI4LWI3YjktMTFkNzcxNTc4MmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Margaret Mann",
+        "asCharacter": "Nun with Cheering Orphan Boys (uncredited)"
+      },
+      {
+        "id": "nm0553125",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Thomas Martin",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0562805",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2U3ZTU1NDEtNmY3Zi00ZGFjLTgzZGYtNWRmMjhhOTg0NjI0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Eric Mayne",
+        "asCharacter": "Man in Senate Building (uncredited)"
+      },
+      {
+        "id": "nm0567224",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjhlYjE4NjEtYjdjYi00YTk0LTlmMmQtMmMzZjM4NGE3NmYxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Philo McCullough",
+        "asCharacter": "Senator Albert (uncredited)"
+      },
+      {
+        "id": "nm0567225",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ralph McCullough",
+        "asCharacter": "Assistant Bartender (uncredited)"
+      },
+      {
+        "id": "nm0570471",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2FlMzIxMzItMzNkMy00ZTc5LTg0ODQtMTNhNTUzMDZlNjYxXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Matt McHugh",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0570974",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "George McKay",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0571186",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWNkNDgxZjEtNjUwMi00MGE5LWIyZmEtMDhkNjJlZWUyMjhlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Lafe McKee",
+        "asCharacter": "Civil War Veteran at Lincoln Memorial (uncredited)"
+      },
+      {
+        "id": "nm0571754",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDM2MjNiYjMtZWQ3My00MmU3LWI1OTAtZjZkMWIwOTQ2YmRjXkEyXkFqcGdeQXVyMDU0Mzg3Nw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Sammy McKim",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0565990",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQxMDk0Mzk4Ml5BMl5BanBnXkFtZTYwMTc0NDky._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank McLure",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0573690",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "James McNamara",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0585461",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzRjMWQ5NzUtMjFlNS00YTcxLTg4NGUtZjI3NGVjYTE2YmZlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.2727_AL_.jpg",
+        "name": "Robert Middlemass",
+        "asCharacter": "Second Radio Announcer (uncredited)"
+      },
+      {
+        "id": "nm0589641",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA5NGI2NmEtNjVjYy00ODUyLTliNzQtZjAxMjY1OTJhYjA3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "James Millican",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0593392",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjNmNzI3NDctZmNkMS00NGU1LTg0OTctMjM5MjgxNTVkMTk0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Howard M. Mitchell",
+        "asCharacter": "Shoe Salesman (uncredited)"
+      },
+      {
+        "id": "nm0601023",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjlhNjBmMDItZWZlYi00ODJmLWE2ZTMtNTA2Nzg1MDNkNmQ3XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Charles R. Moore",
+        "asCharacter": "Porter (uncredited)"
+      },
+      {
+        "id": "nm0602100",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmY0NWYxMTUtYzJkMi00MWNlLThhMGUtOWE0ZGQ3NDQzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+        "name": "Bert Moorhouse",
+        "asCharacter": "Man in Senate Building (uncredited)"
+      },
+      {
+        "id": "nm0604674",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWE0MWNmNjctYmE0Yi00YWZhLWFlY2EtODY2ZDg1ZjA0YWIyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Gene Morgan",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm3852670",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Robert Morgan",
+        "asCharacter": "Senate Clerk (uncredited)"
+      },
+      {
+        "id": "nm0607864",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTIzM2EzNWMtNTMxMy00NGE5LWI2MzAtODAxN2ZiZmVmNWY2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+        "name": "Edmund Mortimer",
+        "asCharacter": "Senator Fuller (uncredited)"
+      },
+      {
+        "id": "nm0627840",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjY0MTA5OTktYzQxNS00Nzk5LWJhY2EtZTkwMTVkZWJiNjRmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+        "name": "William Newell",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0629698",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ray Nichols",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0636208",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Field Norton",
+        "asCharacter": "Pompous Man (uncredited)"
+      },
+      {
+        "id": "nm0637159",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Alex Novinsky",
+        "asCharacter": "Foreign Diplomat (uncredited)"
+      },
+      {
+        "id": "nm0175410",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2M0ZjRlMzMtNDVjMy00YmJlLTljOTUtMzczZTM1ODYxNzdhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank O'Connor",
+        "asCharacter": "Senator Alfred (uncredited)"
+      },
+      {
+        "id": "nm0653239",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Frank Otto",
+        "asCharacter": "Fisk (uncredited)"
+      },
+      {
+        "id": "nm0658012",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Joe Palma",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm0668495",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjc5MjczOTk2M15BMl5BanBnXkFtZTgwODA2NDQ3MTE@._V1_Ratio1.2273_AL_.jpg",
+        "name": "Blanche Payson",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0700084",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDI1Yzk2NzktOTkzZi00YmQzLWE4ZmUtZDRjOTkyMWQ1MTI5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Frank Puglia",
+        "asCharacter": "Handwriting Expert (uncredited)"
+      },
+      {
+        "id": "nm1124727",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Spencer Quinn",
+        "asCharacter": "Minor Role (uncredited)"
+      },
+      {
+        "id": "nm0704014",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Tom Quinn",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0709894",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Ed Randolph",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0713968",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Charles Regan",
+        "asCharacter": "Hoodlum (uncredited)"
+      },
+      {
+        "id": "nm0723445",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Jack Rice",
+        "asCharacter": "Lang (uncredited)"
+      },
+      {
+        "id": "nm0724586",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmIzNDQ4OGUtZmY2Ny00N2I4LWFlOWEtNzYyMmE4YjUyMzYzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jack Richardson",
+        "asCharacter": "Senator Manchester (uncredited)"
+      },
+      {
+        "id": "nm0740674",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzljNjBlYzctMTU4ZS00ODU0LTg4MmItNzIwM2YxYjdjZjhlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Henry Roquemore",
+        "asCharacter": "Senator (uncredited)"
+      },
+      {
+        "id": "nm0751255",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTg3NGZlZTEtOWM3NC00YTNmLWE2YWQtMzAzZGVjODljNDcwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Johnny Russell",
+        "asCharacter": "Otis Hopper (uncredited)"
+      },
+      {
+        "id": "nm0761340",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWRlODgyYTEtMWEyMC00ZjY5LTllZGItZjlhZDkxYzE1ZjUyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Walter Sande",
+        "asCharacter": "Newspaperman with Pipe (uncredited)"
+      },
+      {
+        "id": "nm0801193",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzRiMTE2YTktNWMzOS00ZWYyLWFhMTUtOTc5OGMxNDExMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Russell Simpson",
+        "asCharacter": "Kenneth Allen (uncredited)"
+      },
+      {
+        "id": "nm0812040",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDVhOWI0YzUtMGRlZC00OWRmLTg2MTMtZTM5Y2MwODFiMjQxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3636_AL_.jpg",
+        "name": "Walter Soderling",
+        "asCharacter": "Senator Pickett (uncredited)"
+      },
+      {
+        "id": "nm0821289",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Harry Stafford",
+        "asCharacter": "Senator Atwater (uncredited)"
+      },
+      {
+        "id": "nm0822074",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGUzNGZhMTYtMzdiOC00M2M0LTk2ZWMtODdkZTg4MjU0OGQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Wyndham Standing",
+        "asCharacter": "Senator Ashman (uncredited)"
+      },
+      {
+        "id": "nm0822792",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2VjNjk0NDAtM2JhNi00Zjc0LWE0ZmItYjU1M2Y2M2QyMWIxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Paul Stanton",
+        "asCharacter": "Flood - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0824885",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDUzNjY2NjMtYmJjZC00NGYxLWEyMTItNGRjN2RjOTA3Zjc3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Larry Steers",
+        "asCharacter": "Committeeman (uncredited)"
+      },
+      {
+        "id": "nm0825088",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Count Stefenelli",
+        "asCharacter": "Foreign Diplomat (uncredited)"
+      },
+      {
+        "id": "nm0827577",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ5Mjk4NzE4MF5BMl5BanBnXkFtZTcwNzk2MjIyOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Robert Sterling",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0301887",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjVkZmIyY2ItMDM2ZS00ZWNlLWI3NjctYTQ0MDE2MmU0OGUxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Craig Stevens",
+        "asCharacter": "Senate Reporter (uncredited)"
+      },
+      {
+        "id": "nm0828547",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGY1MzE0MTgtZDkxMC00N2E1LTk3MzMtNTZhMmE4OGFmZWVlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Landers Stevens",
+        "asCharacter": "Committeeman (uncredited)"
+      },
+      {
+        "id": "nm0830769",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYwY2Y5YjQtMWE1NS00ZjYyLTg0OGMtY2U3MTY5NTEyNWFkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Carl Stockdale",
+        "asCharacter": "Senator Burdette (uncredited)"
+      },
+      {
+        "id": "nm0833340",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQ2MjdjNzItNTA0Yy00YjU3LThlMmUtODY3ZWRkY2I2NmQzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harry Strang",
+        "asCharacter": "Bodyguard (uncredited)"
+      },
+      {
+        "id": "nm0837998",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjRiNGYxZDktNGY5MS00YTBjLTgwNzctYzYxOWU2NmVhMDQyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+        "name": "Charles Sullivan",
+        "asCharacter": "Cab Driver (uncredited)"
+      },
+      {
+        "id": "nm0846498",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWFmNDZiYzAtNGM3MS00YzdlLWE0YWMtZGIwMDIxMzU1YzgwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+        "name": "Ben Taggart",
+        "asCharacter": "Pompous Man (uncredited)"
+      },
+      {
+        "id": "nm0849800",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Emma Tansey",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0852305",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE1OTgxMzA0OF5BMl5BanBnXkFtZTcwNDY4ODUwOA@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Dub Taylor",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0852362",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWE2MmZlNWMtYWNhNS00ZTM2LWExZWItNjk2NGJmNTUyYWNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Ferris Taylor",
+        "asCharacter": "Senator Carlisle (uncredited)"
+      },
+      {
+        "id": "nm0854888",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGNiNzc1ZTQtYmUyMC00ZWIyLWJhYTktZGRmM2Y0NGE5MDQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Harry Tenbrook",
+        "asCharacter": "Bodyguard (uncredited)"
+      },
+      {
+        "id": "nm0856916",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Arthur Thalasso",
+        "asCharacter": "Doorman (uncredited)"
+      },
+      {
+        "id": "nm0858778",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzFjZTYyNDEtZjQ2Yi00OGZiLWIxZGItM2JiMTRkMTZlYzQwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio1.2273_AL_.jpg",
+        "name": "Edward Thomas",
+        "asCharacter": "Butler (uncredited)"
+      },
+      {
+        "id": "nm0858828",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzc1NTBmNzQtMzdmNC00MzE4LWJjMmUtYzcyYTcxN2U1ZWJiXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Frank M. Thomas",
+        "asCharacter": "Hendricks (uncredited)"
+      },
+      {
+        "id": "nm0866285",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGI5MjU3YzYtOTY0NS00YTM0LThjZTAtN2FkMDNlMGJjNTQxXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Layne Tom Jr.",
+        "asCharacter": "Boy Ranger (uncredited)"
+      },
+      {
+        "id": "nm0867560",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGViN2NmOGQtZWJlOS00Y2I3LThlNzQtYzdiMjBhZDhjZDY0XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Fred 'Snowflake' Toones",
+        "asCharacter": "Porter (uncredited)"
+      },
+      {
+        "id": "nm0871324",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Victor Travis",
+        "asCharacter": "Senator Grainger (uncredited)"
+      },
+      {
+        "id": "nm0871577",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Laura Treadwell",
+        "asCharacter": "Mrs. Taylor (uncredited)"
+      },
+      {
+        "id": "nm0879119",
+        "image": "https://m.media-amazon.com/images/M/MV5BMThhMmRmNmUtM2Q2Ni00MTk1LTg1NzktYWJkMWZlYTk0NWRmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "John Tyrrell",
+        "asCharacter": "Undetermined Role (uncredited)"
+      },
+      {
+        "id": "nm0089162",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Frederick Vroom",
+        "asCharacter": "Paine's Friend (uncredited)"
+      },
+      {
+        "id": "nm0905389",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Bess Wade",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0905410",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "David Wade",
+        "asCharacter": "Minor Role (uncredited)"
+      },
+      {
+        "id": "nm0906664",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Max Waizmann",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0908154",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjRkZmUzM2MtNjAzZS00MmRjLTkyNGYtYzlkY2E5MzRmNDM0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+        "name": "Robert Walker",
+        "asCharacter": "Senator Holland (uncredited)"
+      },
+      {
+        "id": "nm0909794",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Myonne Walsh",
+        "asCharacter": "Jane Hopper (uncredited)"
+      },
+      {
+        "id": "nm0911626",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "John Ward",
+        "asCharacter": "Photographer (uncredited)"
+      },
+      {
+        "id": "nm0915519",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWUwYjhhZjQtOWYyOS00YzBlLThlZjQtZmQ5OWRkMjkzZWZjXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+        "name": "Billy Wayne",
+        "asCharacter": "Reporter (uncredited)"
+      },
+      {
+        "id": "nm0926103",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTdmMDQ5YjgtNmU1Zi00Yzg0LWEwMzQtN2E2YzBlN2I4ZmFiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Lloyd Whitlock",
+        "asCharacter": "Schultz - Newsman (uncredited)"
+      },
+      {
+        "id": "nm0932565",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM0OTQ1OTYyNl5BMl5BanBnXkFtZTgwODE5OTU2MjE@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Dave Willock",
+        "asCharacter": "Senate Guard (uncredited)"
+      },
+      {
+        "id": "nm0926985",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGFjMTFkZmUtNDFmYi00OWM4LTgwYTgtOWZhNmQ5NzMxYTRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Florence Wix",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0939679",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Eleanor Wood",
+        "asCharacter": "Committeewoman (uncredited)"
+      },
+      {
+        "id": "nm0941782",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmZhOWY4NWMtZWMzZi00ZjZkLWJiOWMtYmEyMjNlNzM4YzIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+        "name": "William Worthington",
+        "asCharacter": "Committeeman (uncredited)"
+      }
+    ],
+    "others": [
+      {
+        "job": "Produced by",
+        "items": [
+          {
+            "id": "nm0001008",
+            "name": "Frank Capra",
+            "description": "producer (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Music by",
+        "items": [
+          {
+            "id": "nm0006323",
+            "name": "Dimitri Tiomkin",
+            "description": "(musical score by)"
+          }
+        ]
+      },
+      {
+        "job": "Cinematography by",
+        "items": [
+          {
+            "id": "nm0907900",
+            "name": "Joseph Walker",
+            "description": "director of photography"
+          }
+        ]
+      },
+      {
+        "job": "Film Editing by",
+        "items": [
+          {
+            "id": "nm0163617",
+            "name": "Al Clark",
+            "description": ""
+          },
+          {
+            "id": "nm0369879",
+            "name": "Gene Havlick",
+            "description": "film editor"
+          }
+        ]
+      },
+      {
+        "job": "Art Direction by",
+        "items": [
+          {
+            "id": "nm0052206",
+            "name": "Lionel Banks",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Costume Design by",
+        "items": [
+          {
+            "id": "nm0436056",
+            "name": "Robert Kalloch",
+            "description": "(as Kalloch) (gowns)"
+          }
+        ]
+      },
+      {
+        "job": "Makeup Department",
+        "items": [
+          {
+            "id": "nm0360118",
+            "name": "Faye Hanlin",
+            "description": "hair (uncredited)"
+          },
+          {
+            "id": "nm0402468",
+            "name": "Helen Hunt",
+            "description": "hair (uncredited)"
+          },
+          {
+            "id": "nm0461123",
+            "name": "William Knight",
+            "description": "makeup artist (uncredited)"
+          },
+          {
+            "id": "nm0680403",
+            "name": "Fred B. Phillips",
+            "description": "makeup artist (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Second Unit Director or Assistant Director",
+        "items": [
+          {
+            "id": "nm0085142",
+            "name": "Arthur S. Black Jr.",
+            "description": "assistant director (as Arthur S. Black)"
+          },
+          {
+            "id": "nm0047452",
+            "name": "Rex Bailey",
+            "description": "second assistant director (uncredited)"
+          },
+          {
+            "id": "nm0574777",
+            "name": "Richard McWhorter",
+            "description": "second assistant director (uncredited)"
+          },
+          {
+            "id": "nm0896533",
+            "name": "Charles Vidor",
+            "description": "second unit director (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Art Department",
+        "items": [
+          {
+            "id": "nm0392269",
+            "name": "Walter Holscher",
+            "description": "set designer (uncredited)"
+          },
+          {
+            "id": "nm0599788",
+            "name": "George Montgomery",
+            "description": "set dresser (uncredited)"
+          },
+          {
+            "id": "nm0643970",
+            "name": "Cary Odell",
+            "description": "assistant art director (uncredited)"
+          },
+          {
+            "id": "nm2939241",
+            "name": "Jack Wrenn",
+            "description": "prop master (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Sound Department",
+        "items": [
+          {
+            "id": "nm0076618",
+            "name": "Edward Bernds",
+            "description": "sound engineer (uncredited)"
+          },
+          {
+            "id": "nm0515093",
+            "name": "John P. Livadary",
+            "description": "supervising sound editor (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Special Effects by",
+        "items": [
+          {
+            "id": "nm0005747",
+            "name": "Fred Jackman Jr.",
+            "description": "special effects (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Visual Effects by",
+        "items": [
+          {
+            "id": "nm0903465",
+            "name": "Slavko Vorkapich",
+            "description": "montage effects"
+          },
+          {
+            "id": "nm3366010",
+            "name": "John Hoffman",
+            "description": "montage effects (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Camera and Electrical Department",
+        "items": [
+          {
+            "id": "nm1079277",
+            "name": "George Hager",
+            "description": "head electrician (uncredited)"
+          },
+          {
+            "id": "nm2096089",
+            "name": "William Jolley",
+            "description": "assistant camera (uncredited)"
+          },
+          {
+            "id": "nm0445909",
+            "name": "George F. Kelley",
+            "description": "second operative camera (uncredited)"
+          },
+          {
+            "id": "nm0493597",
+            "name": "Al Layter",
+            "description": "assistant electrician (uncredited)"
+          },
+          {
+            "id": "nm0513662",
+            "name": "Irving Lippman",
+            "description": "photographer: production stills (uncredited) / still photographer (uncredited)"
+          },
+          {
+            "id": "nm2094746",
+            "name": "James Lloyd",
+            "description": "head grip (uncredited)"
+          },
+          {
+            "id": "nm0553350",
+            "name": "Enzo A. Martinelli",
+            "description": "second assistant camera (uncredited)"
+          },
+          {
+            "id": "nm0769766",
+            "name": "Adolph L. Schafer",
+            "description": "special portrait art (uncredited)"
+          },
+          {
+            "id": "nm0771224",
+            "name": "Victor Scheurich",
+            "description": "first operative camera (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Costume and Wardrobe Department",
+        "items": [
+          {
+            "id": "nm0124916",
+            "name": "Forrest T. Butler",
+            "description": "wardrobe: men (uncredited)"
+          },
+          {
+            "id": "nm0398038",
+            "name": "Ray Howell",
+            "description": "head of wardrobe (uncredited)"
+          },
+          {
+            "id": "nm1287577",
+            "name": "Eugene Joseff",
+            "description": "costume jeweller (uncredited)"
+          },
+          {
+            "id": "nm1090802",
+            "name": "Roselle Novello",
+            "description": "wardrobe: women (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Editorial Department",
+        "items": [
+          {
+            "id": "nm0252004",
+            "name": "Sheri Eisenberg",
+            "description": "theatrical & HDR mastering colorist"
+          }
+        ]
+      },
+      {
+        "job": "Music Department",
+        "items": [
+          {
+            "id": "nm0006304",
+            "name": "Morris Stoloff",
+            "description": "musical director (as M.W. Stoloff)"
+          },
+          {
+            "id": "nm0060232",
+            "name": "R.H. Bassett",
+            "description": "composer: stock music (uncredited)"
+          },
+          {
+            "id": "nm0642992",
+            "name": "Ben Oakland",
+            "description": "composer: stock music (uncredited)"
+          }
+        ]
+      },
+      {
+        "job": "Additional Crew",
+        "items": [
+          {
+            "id": "nm3365728",
+            "name": "James D. Preston",
+            "description": "technical advisor (uncredited)"
+          },
+          {
+            "id": "nm0803161",
+            "name": "Joseph Sistrom",
+            "description": "production assistant (uncredited)"
+          },
+          {
+            "id": "nm0935587",
+            "name": "Harold Winston",
+            "description": "dialogue director (uncredited)"
+          }
+        ]
+      }
+    ],
+    "errorMessage": ""
+  },
+  "genres": "Comedy, Drama",
+  "genreList": [
+    {
+      "key": "Comedy",
+      "value": "Comedy"
+    },
+    {
+      "key": "Drama",
+      "value": "Drama"
+    }
+  ],
+  "companies": "Columbia Pictures",
+  "companyList": [
+    {
+      "id": "co0050868",
+      "name": "Columbia Pictures"
+    }
+  ],
+  "countries": "USA",
+  "countryList": [
+    {
+      "key": "USA",
+      "value": "USA"
+    }
+  ],
+  "languages": "English",
+  "languageList": [
+    {
+      "key": "English",
+      "value": "English"
+    }
+  ],
+  "contentRating": "Passed",
+  "imDbRating": "8.1",
+  "imDbRatingVotes": "117613",
+  "metacriticRating": "73",
+  "ratings": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "imDb": "8.1",
+    "metacritic": "73",
+    "theMovieDb": "7.9",
+    "rottenTomatoes": "97",
+    "filmAffinity": "7.8",
+    "errorMessage": ""
+  },
+  "wikipedia": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "language": "en",
+    "titleInLanguage": "Mr. Smith Goes to Washington",
+    "url": "https://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington",
+    "plotShort": {
+      "plainText": "Mr. Smith Goes to Washington is a 1939 American political comedy-drama film directed by Frank Capra, starring Jean Arthur and James Stewart, and featuring Claude Rains and Edward Arnold. The film is about a newly appointed United States Senator who fights against a corrupt political system, and was written by Sidney Buchman, based on Lewis R. Foster's unpublished story \"The Gentleman from Montana\". The film was controversial when it was first released, but successful at the box office, and it made Stewart a major star. It was also loosely based on the life of Montana U.S. Senator Burton Wheeler, who underwent a similar experience when he was investigating the Warren Harding administration.\r\nMr. Smith Goes to Washington was nominated for eleven Academy Awards, including Best Picture, Best Director and Best Actor, winning Best Original Story. Considered to be one of the greatest films of all time, the film was selected by the Library of Congress as one of the first 25 films for preservation in the United States National Film Registry in 1989, for being \"culturally, historically, or aesthetically significant\".",
+      "html": "<p>Mr. Smith Goes to Washington is a 1939 American political comedy-drama film directed by Frank Capra, starring Jean Arthur and James Stewart, and featuring Claude Rains and Edward Arnold. The film is about a newly appointed United States Senator who fights against a corrupt political system, and was written by Sidney Buchman, based on Lewis R. Foster's unpublished story \"The Gentleman from Montana\". The film was controversial when it was first released, but successful at the box office, and it made Stewart a major star. It was also loosely based on the life of Montana U.S. Senator Burton Wheeler, who underwent a similar experience when he was investigating the Warren Harding administration.</p><p>Mr. Smith Goes to Washington was nominated for eleven Academy Awards, including Best Picture, Best Director and Best Actor, winning Best Original Story. Considered to be one of the greatest films of all time, the film was selected by the Library of Congress as one of the first 25 films for preservation in the United States National Film Registry in 1989, for being \"culturally, historically, or aesthetically significant\".</p>"
+    },
+    "plotFull": {
+      "plainText": "Mr. Smith Goes to Washington is a 1939 American political comedy-drama film directed by Frank Capra, starring Jean Arthur and James Stewart, and featuring Claude Rains and Edward Arnold. The film is about a newly appointed United States Senator who fights against a corrupt political system, and was written by Sidney Buchman, based on Lewis R. Foster's unpublished story \"The Gentleman from Montana\". The film was controversial when it was first released, but successful at the box office, and it made Stewart a major star. It was also loosely based on the life of Montana U.S. Senator Burton Wheeler, who underwent a similar experience when he was investigating the Warren Harding administration.\r\nMr. Smith Goes to Washington was nominated for eleven Academy Awards, including Best Picture, Best Director and Best Actor, winning Best Original Story. Considered to be one of the greatest films of all time, the film was selected by the Library of Congress as one of the first 25 films for preservation in the United States National Film Registry in 1989, for being \"culturally, historically, or aesthetically significant\".\r\nPlot\r\nThe governor of an unnamed western state, Hubert \"Happy\" Hopper, has to pick a replacement for the recently deceased U.S. Senator Sam Foley. His corrupt political boss, Jim Taylor, pressures Hopper to choose his handpicked stooge, Horace Miller, while popular committees want a reformer, Henry Hill. The governor's children want him to select Jefferson Smith, the head of the Boy Rangers. Unable to make up his mind between Taylor's stooge and the reformer, Hopper decides to flip a coin. When it lands on edge – and next to a newspaper story on one of Smith's accomplishments – he chooses Smith, calculating that his wholesome image will please the people. At the same time, his naivety will make him easy to manipulate.\r\nJunior Senator Smith is taken under the wing of the publicly esteemed, but secretly crooked, Senator Joseph Paine, who was Smith's late father's friend. Smith develops an immediate attraction to the senator's daughter, Susan. At Senator Paine's home, Smith has a conversation with Susan, fidgeting and bumbling, entranced by the young socialite. Smith's naïve and honest nature allows the unforgiving Washington press to take advantage of him, quickly tarnishing Smith's reputation with ridiculous front-page pictures and headlines branding him a bumpkin.\r\nTo keep Smith busy, Paine suggests he propose a bill. With the help of his secretary, Clarissa Saunders, who was the aide to Smith's predecessor and had been around Washington and politics for years, Smith comes up with a bill to authorize a federal government loan to buy some land in his home state for a national boys' camp, to be paid back by youngsters across America. Donations pour in immediately. However, the proposed campsite is already part of a dam-building graft scheme included in an appropriations bill framed by the Taylor political machine and supported by Senator Paine.\r\nUnwilling to crucify the worshipful Smith so that their graft plan will go through, Paine tells Taylor he wants out, but Taylor reminds him that Paine is in power primarily through Taylor's influence. Paine then advises Smith to keep silent about the matter. The following day, when Smith speaks out about the bill at Senate, the machine in his state—through Paine—accuses Smith of trying to profit from his bill by producing fraudulent evidence that Smith already owns the land in question. Smith is too shocked and angry by Paine's betrayal to defend himself and runs away.\r\nSaunders, who looked down on Smith at first, but has come to believe in him, talks him into launching a filibuster to postpone the appropriations bill and prove his innocence on the Senate floor just before the vote to expel him. In his last chance to prove his innocence, he talks non-stop for about 25 hours, reaffirming the American ideals of freedom and disclosing the dam scheme's true motives. Yet none of the senators are convinced.\r\nThe constituents try to rally around him, but the entrenched opposition is too powerful, and all attempts are crushed. Owing to the influence of Taylor's machine, newspapers and radio stations in Smith's home state, on Taylor's orders, refuse to report what Smith has to say and even distort the facts against the senator. The Boy Rangers' effort to spread the news in support of Smith results in vicious attacks on the children by Taylor's minions.\r\nAlthough all hope seems lost, the senators begin to pay attention as Smith approaches utter exhaustion. Paine has one last card up his sleeve: he brings in bins of letters and telegrams from Smith's home state, purportedly from average people demanding his expulsion. Nearly broken by the news, Smith finds a small ray of hope in a friendly smile from the President of the Senate. Smith vows to press on until people believe him but immediately collapses in a faint. Overcome with the pangs of remorse, Paine leaves the Senate chamber and attempts to commit suicide by gunshot but is stopped by onlooking senators. He then bursts back into the Senate chamber, shouting a confession to the whole scheme; the reformed Paine further insists that he must be expelled from the Senate and affirms Smith's innocence to Clarissa's delight. The President of the Senate observes the ensuing chaos with amusement.\r\nCast\r\nCast notes:\r\nAmong the unbilled veteran character actors seen in the film are Guy Kibbee's brother, Milton Kibbee, who has a bit as a reporter; Lafe McKee; and Matt McHugh of the McHugh acting family. Also in the film in minor roles are Dub Taylor and Jack Carson, later well-known actors. Silent film star Hank Mann played a photographer.\r\nProduction\r\nColumbia Pictures originally purchased Lewis R. Foster's unpublished story, variously called \"The Gentleman from Montana\" and \"The Gentleman from Wyoming\", as a vehicle for Ralph Bellamy, but once Frank Capra came on board as director – after Rouben Mamoulian had expressed interest – the film was to be a sequel to his Mr. Deeds Goes to Town, called Mr. Deeds Goes to Washington, with Gary Cooper reprising his role as Longfellow Deeds. Because Cooper was unavailable, Capra then \"saw it immediately as a vehicle for Jimmy Stewart and Jean Arthur\", and Stewart was borrowed from MGM. Capra said of Stewart: \"I knew he would make a hell of a Mr. Smith ... He looked like the country kid, the idealist. It was very close to him.\"\r\nAlthough a youth group is featured in the story, the Boy Scouts of America refused to allow their name to be used in the film and instead the fanciful \"Boy Rangers\" was used.\r\nIn January 1938, both Metro-Goldwyn-Mayer and Paramount Pictures submitted Foster's story to the censors at the Hays Office, likely indicating that both studios had an interest in the project before Columbia purchased it. Joseph Breen, the head of that office, warned the studios: \"e would urge most earnestly that you take serious counsel before embarking on the production of any motion picture based on this story. It looks to us like one that might well be loaded with dynamite, both for the motion picture industry, and for the country at large.\" Breen specifically objected to \"the generally unflattering portrayal of our system of Government, which might well lead to such a picture being considered, both here, and more particularly abroad, as a covert attack on the Democratic form of government\", and warned that the film should make clear that \"the Senate is made up of a group of fine, upstanding citizens, who labor long and tirelessly for the best interests of the nation\".\r\nLater, after the screenplay had been written and submitted, Breen reversed course, saying of the film, \"It is a grand yarn that will do a great deal of good for all those who see it and, in my judgment, it is particularly fortunate that this kind of story is to be made at this time. Out of all Senator Jeff's difficulties there has been evolved the importance of a democracy and there is splendidly emphasized the rich and glorious heritage which is ours and which comes when you have a government 'of the people, by the people, and for the people'\".\r\nThe film was in production from April 3, 1939, to July 7 of that year. Some location shooting took place in Washington, D.C., at Union Station and at the United States Capitol, as well as other locations for background use.\r\nIn the studio, to ensure authenticity, an elaborate set was created, consisting of Senate committee rooms, cloak rooms, and hotel suites, as well as specific Washington, D.C., monuments, all based on a trip Capra and his crew made to the capital. Even the Press Club of Washington was reproduced in minute detail, but the major effort went into a faithful reproduction of the Senate Chamber on the Columbia lot. James D. Preston, a former superintendent of the Senate gallery, acted as technical director for the Senate set, as well as advising on political protocol. The production also utilized the \"New York street set\" on the Warner Bros. lot, using 1,000 extras when that scene was shot.\r\nThe ending of the film was apparently changed at some point, as the original program describes Stewart and Arthur returning to Smith's hometown, where they are met by a big parade, with the implication that they are married and starting a family. In addition, the Taylor political machine is shown being crushed; Smith, riding a motorcycle, visits Senator Paine and forgives him; and a visit to Smith's mother is included. Some of this footage can be seen in the film's trailer.\r\nImpact\r\nThe film premiered in Constitution Hall in Washington, D.C., on October 17, 1939, sponsored by the National Press Club, an event to which 4,000 guests were invited, including 45 senators. Mr. Smith Goes to Washington was attacked by the Washington press, and politicians in the U.S. Congress, as anti-American and pro-Communist for its portrayal of corruption in the American government. While Capra claims in his autobiography that some senators walked out of the premiere, contemporary press accounts are unclear about whether this occurred or not, or whether senators yelled back at the screen during the film.\r\nIt is known that Alben W. Barkley, a Democrat and the Senate Majority Leader, called the film \"silly and stupid\", and said it \"makes the Senate look like a bunch of crooks\". He also remarked that the film was \"a grotesque distortion\" of the Senate, \"as grotesque as anything ever seen! Imagine the Vice President of the United States winking at a pretty girl in the gallery in order to encourage a filibuster!\" Barkley thought the film \"showed the Senate as the biggest aggregation of nincompoops on record!\"\r\nPete Harrison, a respected journalist and publisher of the motion picture trade journal Harrison's Reports, suggested that the Senate pass a bill allowing theater owners to refuse to show films that \"were not in the best interest of our country\". That did not happen, but one of the ways that some senators attempted to retaliate for the damage they felt the film had done to the reputation of their institution was by pushing the passage of the Neely Anti-Block Booking Bill, which eventually led to the breakup of the studio-owned theater chains in the late 1940s. Columbia responded by distributing a program which put forward the film's patriotism and support of democracy and publicized the film's many positive reviews.\r\nOther objections were voiced as well. Joseph P. Kennedy, the American Ambassador to Great Britain, wrote to Capra and Columbia head Harry Cohn to say that he feared the film would damage \"America’s prestige in Europe\", and because of this urged that it be withdrawn from European release. Capra and Cohn responded, citing the film's review, which mollified Kennedy to the extent that he never followed up, although he privately still had doubts about the film.\r\nThe film was banned in Hitler's Germany, Mussolini's Italy, and in Franco's Spain. In the Soviet Union, the film was released to cinemas in December of 1950 as The Senator. According to Capra, the film was also dubbed in certain European countries to alter the message of the film so it conformed with official ideology.\r\nWhen a ban on American films was imposed in German occupied France in 1942, some theaters chose to show Mr. Smith Goes to Washington as the last movie before the ban went into effect. One theater owner in Paris reportedly screened the film nonstop for 30 days after the ban was announced.\r\nThe critical response to the film was more measured than the reaction by politicians, domestic and foreign. The critic for The New York Times, for instance, Frank S. Nugent, wrote that \" is operating, of course, under the protection of that unwritten clause in the Bill of Rights entitling every voting citizen to at least one free swing at the Senate. Mr. Capra's swing is from the floor and in the best of humor; if it fails to rock the august body to its heels – from laughter as much as from injured dignity – it won't be his fault but the Senate's, and we should really begin to worry about the upper house.\"\r\nMr. Smith Goes to Washington has been called one of the quintessential whistleblower films in American history. Dr. James Murtagh and Dr. Jeffrey Wigand cited this film as a seminal event in U.S. history at the first \"Whistleblower Week in Washington\" (May 13–19, 2007).\r\nMr. Smith Goes to Washington has often been listed as among Capra's best, but it has been noted that it \"marked a turning point in Capra's vision of the world, from nervous optimism to a darker, more pessimistic tone. Beginning with American Madness (1932), such Capra films as Lady for a Day (1933), It Happened One Night (1934), Mr. Deeds Goes to Town (1936), and You Can’t Take It With You (1938) had trumpeted their belief in the decency of the common man. In Mr. Smith Goes to Washington, however, the decent common man is surrounded by a venal, petty and thuggish group of crooks. Everyone in the film – except for Jefferson Smith and his tiny cadre of believers – is either in the pay of the political machine run by Edward Arnold's James Taylor or complicit in Taylor's corruption through their silence, and they all sit by as innocent people, including children, are brutalized and intimidated, rights are violated, and the government is brought to a halt\".\r\nNevertheless, Smith's filibuster and the tacit encouragement of the Senate President are both emblematic of the director's belief in the difference that one individual can make. This theme would be expanded further in Capra's It's a Wonderful Life (1946) and other films.\r\nBox office\r\nMr. Smith Goes to Washington was a box office success upon its release, earning theatrical rentals of $3.5 million in the United States alone. It became the second-highest-grossing film of 1939 and was also the third highest-grossing film of the 1930s decade, only behind Gone with the Wind and Snow White and the Seven Dwarfs.\r\nAwards and honors\r\nAcademy Awards\r\nMr. Smith Goes to Washington was nominated for 11 Academy Awards, but won only one.\r\nOther honors\r\nMr. Smith Goes to Washington was named as one of the best films of 1939 by The New York Times and Film Daily, and was nominated for Best Film by the National Board of Review.\r\nJames Stewart won the 1939 New York Film Critics Circle Award for Best Actor.\r\nIn 1989, Mr. Smith Goes to Washington was added to the United States National Film Registry as being deemed \"culturally, historically, or aesthetically significant\".\r\nAmerican Film Institute recognition\r\n1998 AFI's 100 Years...100 Movies #29\r\n2003 AFI's 100 Years...100 Heroes & Villains: Jefferson Smith, Hero #11 Senator Joseph Paine, Villain – Nominated\r\nJefferson Smith, Hero #11\r\nSenator Joseph Paine, Villain – Nominated\r\n2006 AFI's 100 Years...100 Cheers #5\r\n2007 AFI's 100 Years...100 Movies (10th Anniversary Edition) #26\r\nRemakes\r\nIn 1949, Columbia planned, but never actually produced, a sequel to Mr. Smith Goes to Washington, called Mr. Smith Starts a Riot. They also considered doing a gender-reversed remake in 1952, with Jane Wyman playing the lead role.\r\nA television series of the same name, Mr. Smith Goes to Washington, ran on ABC during the 1962–1963 season, starring Fess Parker, Sandra Warner and Red Foley.\r\nProducer Frank Capra Jr. remade the film as part of Tom Laughlin's Billy Jack series, Billy Jack Goes to Washington (1977).\r\nThe film was also loosely remade as The Distinguished Gentleman (1992), starring Eddie Murphy.\r\nThe 2019 Australian political drama television series Total Control features a remarkably similar plot, this time with the new Senator being an Indigenous Australian woman played by Deborah Mailman recruited to the Australian Senate.\r\nIn popular culture\r\nThe March 10, 1940 broadcast of Jack Benny's NBC radio show featured a parody entitled \"Mr. Benny Goes to Washington\".\r\nThe VHS release of Ernest Rides Again featured the opening Saturday Night Live-based short \"Mr. Bill Goes to Washington\".\r\nThe Simpsons has parodied it several times, including the third season episode \"Mr. Lisa Goes to Washington\", which deals with Lisa Simpson's disillusionment with Washington government, following her winning a trip to Washington as a prize in an essay contest; the eleventh season premiere \"Beyond Blunderdome\" which includes a remake of Mr. Smith Goes to Washington, starring Mel Gibson (voiced by himself) as Jefferson Smith; and the fourteenth season episode \"Mr. Spritz Goes to Washington\" .\r\nFor their 2002 season, the San Francisco Mime Troupe presented a musical, Mr. Smith Goes to Obscuristan, which tells the story of \"an idealistic innocent who learns firsthand what Presidency of George W. Bush means when it claims to support democratic principles at home and abroad\" in a post-9/11 setting.\r\nThe short-lived NBC political drama Mister Sterling (2003) was described as \"a Mr. Smith Goes to Washington for the 21st century\", with the show centering on an idealistic young senator from California, coming to grips with Washington and appointed by a scheming, underhanded governor.\r\nIn the TV series Highway to Heaven, the eleventh episode of season three is entitled, \"Jonathan Smith Goes to Washington\" (1986). The appeal made in that episode was regarding healthcare, and a filibuster was employed.\r\nIn the TV series Scandal, the third episode of season three is entitled, \"Mrs. Smith Goes to Washington\" (2013).",
+      "html": "<p>Mr. Smith Goes to Washington is a 1939 American political comedy-drama film directed by Frank Capra, starring Jean Arthur and James Stewart, and featuring Claude Rains and Edward Arnold. The film is about a newly appointed United States Senator who fights against a corrupt political system, and was written by Sidney Buchman, based on Lewis R. Foster's unpublished story \"The Gentleman from Montana\". The film was controversial when it was first released, but successful at the box office, and it made Stewart a major star. It was also loosely based on the life of Montana U.S. Senator Burton Wheeler, who underwent a similar experience when he was investigating the Warren Harding administration.</p><p>Mr. Smith Goes to Washington was nominated for eleven Academy Awards, including Best Picture, Best Director and Best Actor, winning Best Original Story. Considered to be one of the greatest films of all time, the film was selected by the Library of Congress as one of the first 25 films for preservation in the United States National Film Registry in 1989, for being \"culturally, historically, or aesthetically significant\".</p><br/><h3>Plot</h3><p>The governor of an unnamed western state, Hubert \"Happy\" Hopper, has to pick a replacement for the recently deceased U.S. Senator Sam Foley. His corrupt political boss, Jim Taylor, pressures Hopper to choose his handpicked stooge, Horace Miller, while popular committees want a reformer, Henry Hill. The governor's children want him to select Jefferson Smith, the head of the Boy Rangers. Unable to make up his mind between Taylor's stooge and the reformer, Hopper decides to flip a coin. When it lands on edge – and next to a newspaper story on one of Smith's accomplishments – he chooses Smith, calculating that his wholesome image will please the people. At the same time, his naivety will make him easy to manipulate.</p><p>Junior Senator Smith is taken under the wing of the publicly esteemed, but secretly crooked, Senator Joseph Paine, who was Smith's late father's friend. Smith develops an immediate attraction to the senator's daughter, Susan. At Senator Paine's home, Smith has a conversation with Susan, fidgeting and bumbling, entranced by the young socialite. Smith's naïve and honest nature allows the unforgiving Washington press to take advantage of him, quickly tarnishing Smith's reputation with ridiculous front-page pictures and headlines branding him a bumpkin.</p><p>To keep Smith busy, Paine suggests he propose a bill. With the help of his secretary, Clarissa Saunders, who was the aide to Smith's predecessor and had been around Washington and politics for years, Smith comes up with a bill to authorize a federal government loan to buy some land in his home state for a national boys' camp, to be paid back by youngsters across America. Donations pour in immediately. However, the proposed campsite is already part of a dam-building graft scheme included in an appropriations bill framed by the Taylor political machine and supported by Senator Paine.</p><p>Unwilling to crucify the worshipful Smith so that their graft plan will go through, Paine tells Taylor he wants out, but Taylor reminds him that Paine is in power primarily through Taylor's influence. Paine then advises Smith to keep silent about the matter. The following day, when Smith speaks out about the bill at Senate, the machine in his state—through Paine—accuses Smith of trying to profit from his bill by producing fraudulent evidence that Smith already owns the land in question. Smith is too shocked and angry by Paine's betrayal to defend himself and runs away.</p><p>Saunders, who looked down on Smith at first, but has come to believe in him, talks him into launching a filibuster to postpone the appropriations bill and prove his innocence on the Senate floor just before the vote to expel him. In his last chance to prove his innocence, he talks non-stop for about 25 hours, reaffirming the American ideals of freedom and disclosing the dam scheme's true motives. Yet none of the senators are convinced.</p><p>The constituents try to rally around him, but the entrenched opposition is too powerful, and all attempts are crushed. Owing to the influence of Taylor's machine, newspapers and radio stations in Smith's home state, on Taylor's orders, refuse to report what Smith has to say and even distort the facts against the senator. The Boy Rangers' effort to spread the news in support of Smith results in vicious attacks on the children by Taylor's minions.</p><p>Although all hope seems lost, the senators begin to pay attention as Smith approaches utter exhaustion. Paine has one last card up his sleeve: he brings in bins of letters and telegrams from Smith's home state, purportedly from average people demanding his expulsion. Nearly broken by the news, Smith finds a small ray of hope in a friendly smile from the President of the Senate. Smith vows to press on until people believe him but immediately collapses in a faint. Overcome with the pangs of remorse, Paine leaves the Senate chamber and attempts to commit suicide by gunshot but is stopped by onlooking senators. He then bursts back into the Senate chamber, shouting a confession to the whole scheme; the reformed Paine further insists that he must be expelled from the Senate and affirms Smith's innocence to Clarissa's delight. The President of the Senate observes the ensuing chaos with amusement.</p><br/><h3>Cast</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><td style=\"text-align: left; vertical-align: top;\"><ul><li><span>Jean Arthur</span> as Clarissa Saunders</li><li><span>James Stewart</span> as Jefferson \"Jeff\" Smith</li><li><span>Claude Rains</span> as Senator Joseph Harrison \"Joe\" Paine</li><li><span>Edward Arnold</span> as Jim Taylor</li><li><span>Guy Kibbee</span> as Governor Hubert \"Happy\" Hopper</li><li><span>Thomas Mitchell</span> as \"Diz\" Moore</li><li><span>Eugene Pallette</span> as Chick McGann</li><li><span>Beulah Bondi</span> as Ma Smith</li><li><span>H. B. Warner</span> as <span class=\"mw-redirect\">Senate Majority Leader</span></li><li><span>Harry Carey</span> as <span>President of the Senate</span></li><li><span>Astrid Allwyn</span> as Susan Paine</li><li><span>Ruth Donnelly</span> as Mrs. Hopper</li><li><span>Grant Mitchell</span> as Senator MacPherson</li><li><span>Porter Hall</span> as Senator Monroe</li><li><span>Pierre Watkin</span> as <span class=\"mw-redirect\">Senate Minority Leader</span></li><li><span class=\"mw-redirect\">Charles Lane</span> as \"Nosey\", reporter</li><li><span>William Demarest</span> as Bill Griffith</li><li><span>Dick Elliott</span> as Carl Cook</li><li>The Hopper Boys:<ul><li><span class=\"mw-redirect\">Billy Watson</span></li><li><span>Delmar Watson</span></li><li>John Russell</li><li><span class=\"mw-redirect\">Harry Watson</span></li><li>Gary Watson</li><li>Baby Dumpling (<span>Larry Simms</span>)</li></ul></li><li><span>H. V. Kaltenborn</span> as himself</li></ul></td><td style=\"text-align: left; vertical-align: top; padding-left: 4em;\"><p><b>Uncredited</b></p><ul><li><span>Russell Simpson</span> as Kenneth Allen</li><li><span>Dick Jones</span> as Richard \"Dickie\" Jones, Senate Page Boy</li><li>Nick Copeland as Senate Reporter</li><li><span>Anne Cornwall</span> as Senate Reporter</li><li><span>Gino Corrado</span> as Barber</li><li><span>Maurice Costello</span> as Diggs – Newsman</li><li><span>Alec Craig</span> as Speaker</li><li>Beatrice Curtis as Paine's Secretary</li><li><span>Lew Davis</span> as Senate Clerk</li><li>Dulcie Day as Senate Reporter</li><li>Wally Dean as Paine's Friend</li><li><span>Vernon Dent</span> as Senate Reporter</li><li><span>Harry Depp</span> as Hat Salesman / Secretary</li><li><span>Robert Middlemass</span> as 2nd Radio Announcer</li><li><span>Gladys Gale</span> as Committee Woman</li><li><span>Stanley Andrews</span> as Senator Hodges</li><li><span>Harlan Briggs</span> as Mr. Edwards, howling citizen</li></ul><p> </p></td></tr></tbody></table><p>Cast notes:</p><ul><li>Among the unbilled veteran character actors seen in the film are Guy Kibbee's brother, Milton Kibbee, who has a bit as a reporter; Lafe McKee; and Matt McHugh of the McHugh acting family. Also in the film in minor roles are Dub Taylor and Jack Carson, later well-known actors. Silent film star Hank Mann played a photographer.</li></ul><br/><h3>Production</h3><p>Columbia Pictures originally purchased Lewis R. Foster's unpublished story, variously called \"The Gentleman from Montana\" and \"The Gentleman from Wyoming\", as a vehicle for Ralph Bellamy, but once Frank Capra came on board as director – after Rouben Mamoulian had expressed interest – the film was to be a sequel to his Mr. Deeds Goes to Town, called Mr. Deeds Goes to Washington, with Gary Cooper reprising his role as Longfellow Deeds. Because Cooper was unavailable, Capra then \"saw it immediately as a vehicle for Jimmy Stewart and Jean Arthur\", and Stewart was borrowed from MGM. Capra said of Stewart: \"I knew he would make a hell of a Mr. Smith ... He looked like the country kid, the idealist. It was very close to him.\"</p><p>Although a youth group is featured in the story, the Boy Scouts of America refused to allow their name to be used in the film and instead the fanciful \"Boy Rangers\" was used.</p><p>In January 1938, both Metro-Goldwyn-Mayer and Paramount Pictures submitted Foster's story to the censors at the Hays Office, likely indicating that both studios had an interest in the project before Columbia purchased it. Joseph Breen, the head of that office, warned the studios: \"e would urge most earnestly that you take serious counsel before embarking on the production of any motion picture based on this story. It looks to us like one that might well be loaded with dynamite, both for the motion picture industry, and for the country at large.\" Breen specifically objected to \"the generally unflattering portrayal of our system of Government, which might well lead to such a picture being considered, both here, and more particularly abroad, as a covert attack on the Democratic form of government\", and warned that the film should make clear that \"the Senate is made up of a group of fine, upstanding citizens, who labor long and tirelessly for the best interests of the nation\".</p><p>Later, after the screenplay had been written and submitted, Breen reversed course, saying of the film, \"It is a grand yarn that will do a great deal of good for all those who see it and, in my judgment, it is particularly fortunate that this kind of story is to be made at this time. Out of all Senator Jeff's difficulties there has been evolved the importance of a democracy and there is splendidly emphasized the rich and glorious heritage which is ours and which comes when you have a government 'of the people, by the people, and for the people'\".</p><p>The film was in production from April 3, 1939, to July 7 of that year. Some location shooting took place in Washington, D.C., at Union Station and at the United States Capitol, as well as other locations for background use.</p><p>In the studio, to ensure authenticity, an elaborate set was created, consisting of Senate committee rooms, cloak rooms, and hotel suites, as well as specific Washington, D.C., monuments, all based on a trip Capra and his crew made to the capital. Even the Press Club of Washington was reproduced in minute detail, but the major effort went into a faithful reproduction of the Senate Chamber on the Columbia lot. James D. Preston, a former superintendent of the Senate gallery, acted as technical director for the Senate set, as well as advising on political protocol. The production also utilized the \"New York street set\" on the Warner Bros. lot, using 1,000 extras when that scene was shot.</p><p>The ending of the film was apparently changed at some point, as the original program describes Stewart and Arthur returning to Smith's hometown, where they are met by a big parade, with the implication that they are married and starting a family. In addition, the Taylor political machine is shown being crushed; Smith, riding a motorcycle, visits Senator Paine and forgives him; and a visit to Smith's mother is included. Some of this footage can be seen in the film's trailer.</p><br/><h3>Impact</h3><p>The film premiered in Constitution Hall in Washington, D.C., on October 17, 1939, sponsored by the National Press Club, an event to which 4,000 guests were invited, including 45 senators. Mr. Smith Goes to Washington was attacked by the Washington press, and politicians in the U.S. Congress, as anti-American and pro-Communist for its portrayal of corruption in the American government. While Capra claims in his autobiography that some senators walked out of the premiere, contemporary press accounts are unclear about whether this occurred or not, or whether senators yelled back at the screen during the film.</p><p>It is known that Alben W. Barkley, a Democrat and the Senate Majority Leader, called the film \"silly and stupid\", and said it \"makes the Senate look like a bunch of crooks\". He also remarked that the film was \"a grotesque distortion\" of the Senate, \"as grotesque as anything ever seen! Imagine the Vice President of the United States winking at a pretty girl in the gallery in order to encourage a filibuster!\" Barkley thought the film \"showed the Senate as the biggest aggregation of nincompoops on record!\"</p><p>Pete Harrison, a respected journalist and publisher of the motion picture trade journal Harrison's Reports, suggested that the Senate pass a bill allowing theater owners to refuse to show films that \"were not in the best interest of our country\". That did not happen, but one of the ways that some senators attempted to retaliate for the damage they felt the film had done to the reputation of their institution was by pushing the passage of the Neely Anti-Block Booking Bill, which eventually led to the breakup of the studio-owned theater chains in the late 1940s. Columbia responded by distributing a program which put forward the film's patriotism and support of democracy and publicized the film's many positive reviews.</p><p>Other objections were voiced as well. Joseph P. Kennedy, the American Ambassador to Great Britain, wrote to Capra and Columbia head Harry Cohn to say that he feared the film would damage \"America’s prestige in Europe\", and because of this urged that it be withdrawn from European release. Capra and Cohn responded, citing the film's review, which mollified Kennedy to the extent that he never followed up, although he privately still had doubts about the film.</p><p>The film was banned in Hitler's Germany, Mussolini's Italy, and in Franco's Spain. In the Soviet Union, the film was released to cinemas in December of 1950 as The Senator. According to Capra, the film was also dubbed in certain European countries to alter the message of the film so it conformed with official ideology.</p><p>When a ban on American films was imposed in German occupied France in 1942, some theaters chose to show Mr. Smith Goes to Washington as the last movie before the ban went into effect. One theater owner in Paris reportedly screened the film nonstop for 30 days after the ban was announced.</p><p>The critical response to the film was more measured than the reaction by politicians, domestic and foreign. The critic for The New York Times, for instance, Frank S. Nugent, wrote that \" is operating, of course, under the protection of that unwritten clause in the Bill of Rights entitling every voting citizen to at least one free swing at the Senate. Mr. Capra's swing is from the floor and in the best of humor; if it fails to rock the august body to its heels – from laughter as much as from injured dignity – it won't be his fault but the Senate's, and we should really begin to worry about the upper house.\"</p><p>Mr. Smith Goes to Washington has been called one of the quintessential whistleblower films in American history. Dr. James Murtagh and Dr. Jeffrey Wigand cited this film as a seminal event in U.S. history at the first \"Whistleblower Week in Washington\" (May 13–19, 2007).</p><p>Mr. Smith Goes to Washington has often been listed as among Capra's best, but it has been noted that it \"marked a turning point in Capra's vision of the world, from nervous optimism to a darker, more pessimistic tone. Beginning with American Madness (1932), such Capra films as Lady for a Day (1933), It Happened One Night (1934), Mr. Deeds Goes to Town (1936), and You Can’t Take It With You (1938) had trumpeted their belief in the decency of the common man. In Mr. Smith Goes to Washington, however, the decent common man is surrounded by a venal, petty and thuggish group of crooks. Everyone in the film – except for Jefferson Smith and his tiny cadre of believers – is either in the pay of the political machine run by Edward Arnold's James Taylor or complicit in Taylor's corruption through their silence, and they all sit by as innocent people, including children, are brutalized and intimidated, rights are violated, and the government is brought to a halt\".</p><p>Nevertheless, Smith's filibuster and the tacit encouragement of the Senate President are both emblematic of the director's belief in the difference that one individual can make. This theme would be expanded further in Capra's It's a Wonderful Life (1946) and other films.</p><br/><h3>Box office</h3><p>Mr. Smith Goes to Washington was a box office success upon its release, earning theatrical rentals of $3.5 million in the United States alone. It became the second-highest-grossing film of 1939 and was also the third highest-grossing film of the 1930s decade, only behind Gone with the Wind and Snow White and the Seven Dwarfs.</p><br/><h3>Awards and honors</h3><h4>Academy Awards</h4><p>Mr. Smith Goes to Washington was nominated for 11 Academy Awards, but won only one.</p><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Award</th><th>Result</th><th>Winner</th></tr><tr><td><small><span>Outstanding Production</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Columbia Pictures</span> (<span>Frank Capra</span>)<br> <small>Winner was <span>David O. Selznick</span> – <i><span>Gone with the Wind</span></i></small></td></tr><tr><td><small><span>Best Director</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Frank Capra</span><br> <small>Winner was <span>Victor Fleming</span> – <i><span>Gone with the Wind</span></i></small></td></tr><tr><td><small><span>Best Actor</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>James Stewart</span><br> <small>Winner was <span>Robert Donat</span> – <i><span>Goodbye, Mr. Chips</span></i></small></td></tr><tr><td><small><span>Best Writing, Screenplay</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Sidney Buchman</span><br> <small>Winner was <span>Sidney Howard</span> – <i><span>Gone with the Wind</span></i></small></td></tr><tr><td><small><span>Best Writing, Original Story</span></small></td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><span>Lewis R. Foster</span></td></tr><tr><td rowspan=\"2\"><small><span>Best Supporting Actor</span></small></td><td rowspan=\"2\" style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Claude Rains</span></td></tr><tr><td><span>Harry Carey</span><br> <small>Winner was <span>Thomas Mitchell</span> – <i><span>Stagecoach</span></i></small></td></tr><tr><td><small><span>Best Art Direction</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Lionel Banks</span><br> <small>Winner was <span>Lyle R. Wheeler</span> – <i><span>Gone with the Wind</span></i></small></td></tr><tr><td><small><span>Best Film Editing</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Gene Havlick</span>, <span>Al Clark</span><br> <small>Winner was <span>Hal C. Kern</span>, <span>James E. Newcom</span> – <i><span>Gone with the Wind</span></i></small></td></tr><tr><td><small><span>Best Music, Scoring</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>Dimitri Tiomkin</span><br> <small>Winner was <span>Herbert Stothart</span> – <i><span>The Wizard of Oz</span></i></small></td></tr><tr><td><small><span>Best Sound Recording</span></small></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><span>John P. Livadary</span><br> <small>Winner was <span>Bernard B. Brown</span> – <i><span>When Tomorrow Comes</span></i></small></td></tr></tbody></table><h4>Other honors</h4><ul><li>Mr. Smith Goes to Washington was named as one of the best films of 1939 by The New York Times and Film Daily, and was nominated for Best Film by the National Board of Review.</li><li>James Stewart won the 1939 New York Film Critics Circle Award for Best Actor.</li><li>In 1989, Mr. Smith Goes to Washington was added to the United States National Film Registry as being deemed \"culturally, historically, or aesthetically significant\".</li></ul><h4>American Film Institute recognition</h4><ul><li>1998 AFI's 100 Years...100 Movies #29</li><li>2003 AFI's 100 Years...100 Heroes & Villains: Jefferson Smith, Hero #11 Senator Joseph Paine, Villain – Nominated</li><li>Jefferson Smith, Hero #11</li><li>Senator Joseph Paine, Villain – Nominated</li><li>2006 AFI's 100 Years...100 Cheers #5</li><li>2007 AFI's 100 Years...100 Movies (10th Anniversary Edition) #26</li></ul><br/><h3>Remakes</h3><ul><li>In 1949, Columbia planned, but never actually produced, a sequel to Mr. Smith Goes to Washington, called Mr. Smith Starts a Riot. They also considered doing a gender-reversed remake in 1952, with Jane Wyman playing the lead role.</li><li>A television series of the same name, Mr. Smith Goes to Washington, ran on ABC during the 1962–1963 season, starring Fess Parker, Sandra Warner and Red Foley.</li><li>Producer Frank Capra Jr. remade the film as part of Tom Laughlin's Billy Jack series, Billy Jack Goes to Washington (1977).</li><li>The film was also loosely remade as The Distinguished Gentleman (1992), starring Eddie Murphy.</li><li>The 2019 Australian political drama television series Total Control features a remarkably similar plot, this time with the new Senator being an Indigenous Australian woman played by Deborah Mailman recruited to the Australian Senate.</li></ul><br/><h3>In popular culture</h3><ul><li>The March 10, 1940 broadcast of Jack Benny's NBC radio show featured a parody entitled \"Mr. Benny Goes to Washington\".</li><li>The VHS release of Ernest Rides Again featured the opening Saturday Night Live-based short \"Mr. Bill Goes to Washington\".</li><li>The Simpsons has parodied it several times, including the third season episode \"Mr. Lisa Goes to Washington\", which deals with Lisa Simpson's disillusionment with Washington government, following her winning a trip to Washington as a prize in an essay contest; the eleventh season premiere \"Beyond Blunderdome\" which includes a remake of Mr. Smith Goes to Washington, starring Mel Gibson (voiced by himself) as Jefferson Smith; and the fourteenth season episode \"Mr. Spritz Goes to Washington\" .</li><li>For their 2002 season, the San Francisco Mime Troupe presented a musical, Mr. Smith Goes to Obscuristan, which tells the story of \"an idealistic innocent who learns firsthand what Presidency of George W. Bush means when it claims to support democratic principles at home and abroad\" in a post-9/11 setting.</li><li>The short-lived NBC political drama Mister Sterling (2003) was described as \"a Mr. Smith Goes to Washington for the 21st century\", with the show centering on an idealistic young senator from California, coming to grips with Washington and appointed by a scheming, underhanded governor.</li><li>In the TV series Highway to Heaven, the eleventh episode of season three is entitled, \"Jonathan Smith Goes to Washington\" (1986). The appeal made in that episode was regarding healthcare, and a filibuster was employed.</li><li>In the TV series Scandal, the third episode of season three is entitled, \"Mrs. Smith Goes to Washington\" (2013).</li></ul><br/>"
+    },
+    "errorMessage": ""
+  },
+  "posters": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "posters": [],
+    "backdrops": [],
+    "errorMessage": ""
+  },
+  "images": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "items": [
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzU4ZTY4N2ItZDM3MS00YTc0LWJhNmItYzEzZmEyNjk4ZDFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.2400_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQwMTU5NzA5Ml5BMl5BanBnXkFtZTgwNjk4Nzc5MTE@._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BODEyMDE5MzQ4OV5BMl5BanBnXkFtZTgwNTk4Nzc5MTE@._V1_Ratio1.1800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Beulah Bondi, Ruth Donnelly, and Guy Kibbee in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzMxNzY1MV5BMl5BanBnXkFtZTcwMjEwNjk5Nw@@._V1_Ratio1.2400_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" Frank Capra, James Stewart 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTU5ODEwODY1NV5BMl5BanBnXkFtZTcwNDgzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" Beulah Bondi, Guy Kibbee, James Stewart 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxMTI5MTUyOV5BMl5BanBnXkFtZTcwNTgzNDU3NQ@@._V1_Ratio1.3000_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" James Stewart, Jean Arthur 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDMzMTc5NTNeQTJeQWpwZ15BbWU3MDc4MzQ1NzU@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" Jean Arthur, James Stewart, Thomas Mitchell 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MDA4MzY0OF5BMl5BanBnXkFtZTcwODgzNDU3NQ@@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" James Stewart 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0MTAwMDU0OV5BMl5BanBnXkFtZTcwOTgzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" Claude Rains, James Stewart, 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMyNDExNTU1NF5BMl5BanBnXkFtZTcwMTkzNDU3NQ@@._V1_Ratio1.2800_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" James Stewart, Claude Rains and Cast 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk5ODU0ODQ4MF5BMl5BanBnXkFtZTcwNDkzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" James Stewart, Jean Arthur, Frank Capra 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxNDk5MzI1OF5BMl5BanBnXkFtZTcwNTkzNDU3NQ@@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" Claude Rains, James Stewart 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjc3MzQ1NF5BMl5BanBnXkFtZTcwNjkzNDU3NQ@@._V1_Ratio1.3000_AL_.jpg"
+      },
+      {
+        "title": "\"Mr. Smith Goes to Washington\" James Stewart 1939 Columbia",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMwOTcwNTgxOV5BMl5BanBnXkFtZTcwNzkzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "Jean Arthur, Jack Carson, and Thomas Mitchell in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU3NDAxODY3N15BMl5BanBnXkFtZTcwMzIyNTUwOA@@._V1_Ratio1.3400_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWE1MGM3NTMtZmRmZi00NjY3LWFkNjktYWRkM2EwZTkxZDRiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM0MDQ5NjM2MF5BMl5BanBnXkFtZTcwMDY0MzQ2Mw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Claude Rains in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkyNjM2NTkxMF5BMl5BanBnXkFtZTYwOTU3MjI5._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Claude Rains in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjMwOTg0OV5BMl5BanBnXkFtZTYwMjQ1MjY5._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTQzMjQxN15BMl5BanBnXkFtZTYwMjg1MDc5._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTIzNzA3MTcwNl5BMl5BanBnXkFtZTYwNTY1Mzc5._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU2NjQzNTM4N15BMl5BanBnXkFtZTYwOTAzNDc5._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Claude Rains in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTIxOTc3OTQ2Ml5BMl5BanBnXkFtZTcwNTIwNjUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTE4YWFkOGQtMjliYy00N2U3LWI0OTQtMWRkZTE3M2Y2OTc3XkEyXkFqcGdeQXVyMTI1MDY3NjYw._V1_Ratio1.3200_AL_.jpg"
+      },
+      {
+        "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNmMzQ2M2EtMmZiNy00ZWE3LWIxODUtN2UzODA0NmJkY2E1XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "Claude Rains in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWRlNmQwOTctOTIwOS00ODJiLWFiNTItY2E3NDYyM2YzYzU4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI0ZTA1ODItODliNy00NDEzLWExZmUtYmRjOWQzYTVlZTBhXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjI5Njc5NGEtODY4NC00MjZjLWI5ZGEtNDVhMTg1YTJkYmE3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "Georgia Caine in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTlkYzVhZTItNmU2MS00N2Q1LTlhODktZTU4ZDRiYmQ1YzgyXkEyXkFqcGdeQXVyMTAwNTQ4ODU3._V1_Ratio1.3600_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Beulah Bondi, and Guy Kibbee in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTAwNGNkMGMtYzY1Mi00NTI2LTgxMjMtZDA0MjI4Yzg5OGZmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart, Claude Rains, Astrid Allwyn, Kathryn Bates, Dorothy Comingore, and Georgie Cooper in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDVjMzdmYzktMWMwNC00YmJiLTk2MTYtYzU1ZGFmNjdlMzcxXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDI3NzMwZDQtNDVkNC00ZTk1LWEzZDQtNzk4NWU1ZTYxNzhlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Delmar Watson in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjA1YWZmNjEtOTYxMC00ZTFkLWE3MTAtNGQ3ODJhODZjNmMzXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3OGU4YzktOThmZS00ZDA5LTg3ZmItZDMwNTA4OTU1Y2MzXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjZiNjAzOTYtMjk2Yy00ODE3LWE0MWMtZDMzZjJiMDVkYzA1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWJkNjg2YWQtMWRjZi00OWRiLThkMWItOGIwNjRkNjJkZGJhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDkxNjU0NDYtMTExYS00ODRlLWI1MTQtYWM2NjY0Y2UwMDBhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTlmNThiMjUtNmQ3NS00OWNkLWFjYTYtNzUzNTUyZTJiNGRlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJiODI2MDQtZjFjOS00ZjRhLTgyYzQtMWNkNWQ5ZWQ3ZjRmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "Astrid Allwyn in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTQ1MWJiMzAtNWE4ZS00MWRkLWJlZjctNjJkYzNjYWU1ZWVmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTliMmY4MDQtMWVkZS00ODFkLTliZGItNGI5MmFjMGQ3ZTZkXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Astrid Allwyn in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGZlMWNlNGYtN2FjMS00OTdlLTlmNjUtZWVlODRkMmJkZjE2XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGMzZGVhNjktZjllOS00YWM5LTlkZWUtNGY0OTIwYmExYzFkXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart and Claude Rains in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWY1YTIzM2ItMTcwOC00MDdlLTg3M2MtYTYyZTdmMjk5NWQ1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "Jean Arthur, Jack Carson, and Thomas Mitchell in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDI3NDljMDAtYWIzZi00YjFkLWJlMGUtZGIwOThlNGRhYjJjXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2FiMTA1MmItNzQ3Yy00MzllLTlhMzYtYWMwZWQ2YjZiNjc3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJjNmQyZGQtODZiNi00YjIzLTg1NjItMzcwOTIyZDRkMzllXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      },
+      {
+        "title": "Harry Carey in Mr. Smith Goes to Washington (1939)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTE0NGY4MzctYTA4OC00ZTMxLTk5YmMtMDZkNzVjMmM2NWJlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+      }
+    ],
+    "errorMessage": ""
+  },
+  "trailer": {
+    "imDbId": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "videoId": "vi1789722905",
+    "videoTitle": "Mr. Smith Goes To Washington",
+    "videoDescription": "Home Video Trailer from Columbia Tristar",
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODk2OWM4YmQtNmU1Ny00N2ZkLThjMzctYTI0Mzc1M2UyYTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "uploadDate": "04/11/2008 14:26:47",
+    "link": "https://www.imdb.com/video/vi1789722905",
+    "linkEmbed": "https://www.imdb.com/video/imdb/vi1789722905/imdb/embed",
+    "errorMessage": ""
+  },
+  "boxOffice": {
+    "budget": "$1,900,000 (estimated)",
+    "openingWeekendUSA": "$83,205",
+    "grossUSA": "$144,738",
+    "cumulativeWorldwideGross": "$144,738"
+  },
+  "tagline": null,
+  "keywords": "place name in title,washington d.c.,filibuster,national film registry,afi",
+  "keywordList": [
+    "place name in title",
+    "washington d.c.",
+    "filibuster",
+    "national film registry",
+    "afi"
+  ],
+  "similars": [
+    {
+      "id": "tt0025316",
+      "title": "It Happened One Night",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0032551",
+      "title": "The Grapes of Wrath",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0035446",
+      "title": "To Be or Not to Be",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6957_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0036868",
+      "title": "The Best Years of Our Lives",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0040897",
+      "title": "The Treasure of the Sierra Madre",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0032976",
+      "title": "Rebecca",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6957_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0047296",
+      "title": "On the Waterfront",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0046268",
+      "title": "The Wages of Fear",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6860_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0042192",
+      "title": "All About Eve",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.2"
+    },
+    {
+      "id": "tt0030993",
+      "title": "You Can't Take It with You",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGMxZTMwNmQtOWIwMC00ZjFlLTllNGQtYTlkZWU5OGMyMzkxXkEyXkFqcGdeQXVyNzQzNDEyOQ@@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "7.8"
+    },
+    {
+      "id": "tt0041959",
+      "title": "The Third Man",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0032904",
+      "title": "The Philadelphia Story",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ4ZDA4NGMtMTkwYi00NThiLThhZDUtZTEzNTAxOWYyY2E4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.6860_AL_.jpg",
+      "imDbRating": "7.9"
+    }
+  ],
+  "tvSeriesInfo": null,
+  "tvEpisodeInfo": null,
+  "errorMessage": ""
+}

@@ -1,0 +1,904 @@
+{
+  "imDbId": "tt0064116",
+  "title": "Once Upon a Time in the West",
+  "fullTitle": "Once Upon a Time in the West (1968)",
+  "type": "Movie",
+  "year": "1968",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0006872",
+        "name": "Sergio Donati",
+        "description": "(screenplay by) &"
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": "(screenplay by)"
+      },
+      {
+        "id": "nm0000783",
+        "name": "Dario Argento",
+        "description": "(from a story by) &"
+      },
+      {
+        "id": "nm0000934",
+        "name": "Bernardo Bertolucci",
+        "description": "(from a story by) &"
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": "(from a story by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0001012",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWRkZmZkYmMtZjQ1Ni00MGQwLTkxZjUtOWU3ODlkZDRmY2FjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Claudia Cardinale",
+      "asCharacter": "Jill McBain"
+    },
+    {
+      "id": "nm0000020",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTEwNjQ2ODQ4Nl5BMl5BanBnXkFtZTYwMzEwMTM2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Henry Fonda",
+      "asCharacter": "Frank"
+    },
+    {
+      "id": "nm0001673",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5NDI3NDM4Nl5BMl5BanBnXkFtZTYwMjEwNjM2._V1_Ratio0.8182_AL_.jpg",
+      "name": "Jason Robards",
+      "asCharacter": "Manuel 'Cheyenne' Gutiérrez"
+    },
+    {
+      "id": "nm0000314",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNlYzczNjItMjRlZi00MjE3LWJlYzctYzcyYTlkM2U5YzMzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Bronson",
+      "asCharacter": "Harmonica"
+    },
+    {
+      "id": "nm0275213",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTAxODYzMV5BMl5BanBnXkFtZTcwODgyMzY0NA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gabriele Ferzetti",
+      "asCharacter": "Morton - Railroad Baron"
+    },
+    {
+      "id": "nm0832375",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZkMmZkN2EtMTQ0ZC00YWU1LWFjYzUtNDExMjQ5NDAzNWNiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paolo Stoppa",
+      "asCharacter": "Sam"
+    },
+    {
+      "id": "nm0834754",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MzY1NzY1MV5BMl5BanBnXkFtZTcwMDY3MTMxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Woody Strode",
+      "asCharacter": "Stony - Member of Frank's Gang"
+    },
+    {
+      "id": "nm0001181",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA4NjE0NTIzMDBeQTJeQWpwZ15BbWU2MDYzNzczNg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Elam",
+      "asCharacter": "Snaky - Member of Frank's Gang"
+    },
+    {
+      "id": "nm0943978",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3NjM3MTM3OV5BMl5BanBnXkFtZTYwODM2MjI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Keenan Wynn",
+      "asCharacter": "Sheriff - Auctioneer"
+    },
+    {
+      "id": "nm0938231",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI0ODU1ZGUtYzhhNC00MGM4LTk1YzYtYzAxZDZkMDc4NjAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Frank Wolff",
+      "asCharacter": "Brett McBain"
+    },
+    {
+      "id": "nm0822034",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NDQ3NDA4OV5BMl5BanBnXkFtZTcwMjQ2NzkxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lionel Stander",
+      "asCharacter": "Barman"
+    },
+    {
+      "id": "nm0029074",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Livio Andronico",
+      "asCharacter": "Bit part (uncredited)"
+    },
+    {
+      "id": "nm0059879",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQyY2E3ODQtNTE1Mi00NjMyLWFmMWItMDU4ODgwZDA3NjRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Salvatore Basile",
+      "asCharacter": "Member of Cheyenne's Gang (uncredited)"
+    },
+    {
+      "id": "nm0078044",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTc0N2JlNDgtY2QyMi00MTNmLWE2N2QtYTUwNzdjYzEwNDlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Aldo Berti",
+      "asCharacter": "Member of Frank's Gang Playing Poker (uncredited)"
+    },
+    {
+      "id": "nm7994173",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Bradley",
+      "asCharacter": "Train Station Master (uncredited)"
+    },
+    {
+      "id": "nm0106394",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjkxMTMzMGYtOGJhOS00MmQ4LTk0YzItZWQ1NTMwZTRjMTNlXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Frank Braña",
+      "asCharacter": "Member of Frank's Gang Smoking Pipe at Auction (uncredited)"
+    },
+    {
+      "id": "nm0141434",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marilù Carteny",
+      "asCharacter": "Mourner at Brett McBain's Funeral (uncredited)"
+    },
+    {
+      "id": "nm0148755",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NiYjY2MjQtOWRmYS00N2EyLTliZDctZDE0YTliNjc0MzM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Saturno Cerra",
+      "asCharacter": "Member of Frank's Gang on Train (uncredited)"
+    },
+    {
+      "id": "nm0161918",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luigi Ciavarro",
+      "asCharacter": "Older Sheriff's Deputy (uncredited)"
+    },
+    {
+      "id": "nm0176610",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Spartaco Conversi",
+      "asCharacter": "Member of Frank's Gang Shot Through Boot (uncredited)"
+    },
+    {
+      "id": "nm0179059",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjZkYzJiZDctZWI1YS00YjRkLWEwZjYtNmQ1OGVjZmFkNTgzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Bruno Corazzari",
+      "asCharacter": "3rd Member of Cheyenne's Gang (uncredited)"
+    },
+    {
+      "id": "nm7299812",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Crawley",
+      "asCharacter": "Railway Worker (uncredited)"
+    },
+    {
+      "id": "nm0276570",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paolo Figlia",
+      "asCharacter": "Member of Frank's Gang (uncredited)"
+    },
+    {
+      "id": "nm0292796",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFlMGY5OTEtMzBhNy00OWNkLWIzZWYtYzZmMjcxZDA2NDM0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Frederick",
+      "asCharacter": "Jim - Member of Frank's Gang (uncredited)"
+    },
+    {
+      "id": "nm0303168",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2U0NTE0MDgtOTYzMy00MWI4LWI5MjMtODRmNTRjNWJmMWRhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Don Galloway",
+      "asCharacter": "Member of Frank's Gang in Flashback (uncredited)"
+    },
+    {
+      "id": "nm0367637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzAyMjkwYzMtOGM1Yi00OTkxLThmODAtMDdkNjcwZmY5NzlmXkEyXkFqcGdeQXVyMTEzNzczMA@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Michael Harvey",
+      "asCharacter": "Frank's Lieutenant (uncredited)"
+    },
+    {
+      "id": "nm0396136",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNkN2M2NjEtM2Q0MS00NmE3LWIxMDEtNDEzYWRjZWU3MWIyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Hossein",
+      "asCharacter": "Member of Frank's Gang in Flashback (uncredited)"
+    },
+    {
+      "id": "nm0408245",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stefano Imparato",
+      "asCharacter": "Patrick McBain (uncredited)"
+    },
+    {
+      "id": "nm1269187",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Francesca Leone",
+      "asCharacter": "Girl at Flagstone Station (uncredited)"
+    },
+    {
+      "id": "nm0502918",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGYwZTBmM2UtMWVmNi00YWE4LTk3ZWQtOWVjMGY2ZmFhMzUyXkEyXkFqcGdeQXVyNTIyODU5MTA@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Raffaella Leone",
+      "asCharacter": "Girl at Flagstone Station (uncredited)"
+    },
+    {
+      "id": "nm0504103",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Leslie",
+      "asCharacter": "Member of Frank's Gang in Flashback (uncredited)"
+    },
+    {
+      "id": "nm0536176",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luigi Magnani",
+      "asCharacter": "Unconfirmed Role (uncredited)"
+    },
+    {
+      "id": "nm0541451",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claudio Mancini",
+      "asCharacter": "Harmonica's Brother (uncredited)"
+    },
+    {
+      "id": "nm0577527",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ5N2I0NTktNWZjOC00YjE1LThjOTItOTdmYTkzMjFlNjZiXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Dino Mele",
+      "asCharacter": "Harmonica as a Boy (uncredited)"
+    },
+    {
+      "id": "nm0590158",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2JjZGU3YTEtM2I4NS00ZGQyLWE1OGYtODU2MzU5ZWJiY2Q2XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Antonio Molino Rojo",
+      "asCharacter": "Member of Frank's Gang at Auction (uncredited)"
+    },
+    {
+      "id": "nm0607693",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Enrico Morsella",
+      "asCharacter": "Member of Frank's Gang in Flashback (uncredited)"
+    },
+    {
+      "id": "nm0607696",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Umberto Morsella",
+      "asCharacter": "Member of Frank's Gang in Flashback (uncredited)"
+    },
+    {
+      "id": "nm0612468",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Al Mulock",
+      "asCharacter": "Knuckles - Member of Frank's Gang (uncredited)"
+    },
+    {
+      "id": "nm0529890",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Q3OTQ1ZWYtYmJkMi00NTU0LTk1ZGYtNzRhZDIxYjdkZmQyXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Ricardo Palacios",
+      "asCharacter": "Morton's Train Conductor (uncredited)"
+    },
+    {
+      "id": "nm0658598",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tullio Palmieri",
+      "asCharacter": "Flagstone Carpenter (uncredited)"
+    },
+    {
+      "id": "nm0658705",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Antonio Palombi",
+      "asCharacter": "Cattle Corner Station Agent (uncredited)"
+    },
+    {
+      "id": "nm0683888",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Renato Pinciroli",
+      "asCharacter": "First Bidder at Auction (uncredited)"
+    },
+    {
+      "id": "nm0696468",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lorenzo Robledo",
+      "asCharacter": "2nd Member of Cheyenne's Gang (uncredited)"
+    },
+    {
+      "id": "nm0759399",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sandra Salvatori",
+      "asCharacter": "Mourner at Brett McBain's Funeral (uncredited)"
+    },
+    {
+      "id": "nm0759757",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxNjY0NTQzMV5BMl5BanBnXkFtZTYwODEwMjI0._V1_Ratio0.8182_AL_.jpg",
+      "name": "Aldo Sambrell",
+      "asCharacter": "Cheyenne's Lieutenant (uncredited)"
+    },
+    {
+      "id": "nm0760701",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM0NzNlM2MtYWQ3ZC00Y2VhLWE0YTEtMGVjMWM5MDNhMTA3L2ltYWdlXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Conrado San Martín",
+      "asCharacter": "Vecino (uncredited)"
+    },
+    {
+      "id": "nm0763383",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Enzo Santaniello",
+      "asCharacter": "Timmy McBain (uncredited)"
+    },
+    {
+      "id": "nm1306436",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Simonetta Santaniello",
+      "asCharacter": "Maureen McBain (uncredited)"
+    },
+    {
+      "id": "nm0769116",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claudio Scarchilli",
+      "asCharacter": "Member of Frank's Gang (uncredited)"
+    },
+    {
+      "id": "nm0780091",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Giovanni Ivan Scratuglia",
+      "asCharacter": "Sheriff's Deputy (uncredited)"
+    },
+    {
+      "id": "nm0816593",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Spafford",
+      "asCharacter": "Construction Yard Owner (uncredited)"
+    },
+    {
+      "id": "nm0824934",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTIzNjY5MWUtOTJlMC00MTA0LTkyOGYtNTIwMTcwMWI3YTU4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Benito Stefanelli",
+      "asCharacter": "Frank's Lieutenant (uncredited)"
+    },
+    {
+      "id": "nm0824940",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjYxNzYxMl5BMl5BanBnXkFtZTcwMDA4NzkxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Simonetta Stefanelli",
+      "asCharacter": "Maureen McBain (uncredited)"
+    },
+    {
+      "id": "nm1119767",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luana Strode",
+      "asCharacter": "Indian Woman at Cattle Corner Station (uncredited)"
+    },
+    {
+      "id": "nm0601377",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3NjgwMjc5Ml5BMl5BanBnXkFtZTcwMzc0NDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fabio Testi",
+      "asCharacter": "Member of Frank's Gang with Black Hat at Auction (uncredited)"
+    },
+    {
+      "id": "nm1261862",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dino Zamboni",
+      "asCharacter": "Man in the Bar (uncredited)"
+    },
+    {
+      "id": "nm0958208",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWE4MjRlZmQtZmVkNS00Mzg1LWJlNWQtZjA4MmQzMTczZTE5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Marco Zuanelli",
+      "asCharacter": "Wobbles (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0162071",
+          "name": "Bino Cicogna",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0607694",
+          "name": "Fulvio Morsella",
+          "description": "producer (produced by)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0001553",
+          "name": "Ennio Morricone",
+          "description": "(music composed by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005686",
+          "name": "Tonino Delli Colli",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0052849",
+          "name": "Nino Baragli",
+          "description": "(edited by)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0799495",
+          "name": "Carlo Simi",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0799495",
+          "name": "Carlo Simi",
+          "description": "(sets by)"
+        },
+        {
+          "id": "nm0274782",
+          "name": "Rafael Ferri",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0505115",
+          "name": "Carlo Leva",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0799495",
+          "name": "Carlo Simi",
+          "description": "(costumes by)"
+        },
+        {
+          "id": "nm1376155",
+          "name": "Antonella Pompei",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0211275",
+          "name": "Alberto De Rossi",
+          "description": "makeup supervision"
+        },
+        {
+          "id": "nm0211288",
+          "name": "Giannetto De Rossi",
+          "description": "makeup"
+        },
+        {
+          "id": "nm0211291",
+          "name": "Grazia De Rossi",
+          "description": "hairdresser"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0541451",
+          "name": "Claudio Mancini",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0875705",
+          "name": "Ugo Tucci",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm0856524",
+          "name": "Camillo Teti",
+          "description": "assistant production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0763513",
+          "name": "Giancarlo Santi",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0034899",
+          "name": "Adolfo Aristarain",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm0059879",
+          "name": "Salvatore Basile",
+          "description": "assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0658705",
+          "name": "Antonio Palombi",
+          "description": "assistant production designer (uncredited)"
+        },
+        {
+          "id": "nm0799496",
+          "name": "Enrico Simi",
+          "description": "assistant set decorator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0025831",
+          "name": "Fausto Ancillai",
+          "description": "sound engineer"
+        },
+        {
+          "id": "nm0031746",
+          "name": "Luciano Anzellotti",
+          "description": "sound effects (as Luciano Anzilotti)"
+        },
+        {
+          "id": "nm0033513",
+          "name": "Roberto Arcangeli",
+          "description": "sound effects"
+        },
+        {
+          "id": "nm3136865",
+          "name": "Gilles Barberis",
+          "description": "audio restorer"
+        },
+        {
+          "id": "nm10201110",
+          "name": "Alessandro Biancani",
+          "description": "audio restorer"
+        },
+        {
+          "id": "nm0131448",
+          "name": "Italo Cameracanna",
+          "description": "sound effects"
+        },
+        {
+          "id": "nm0537411",
+          "name": "Claudio Maielli",
+          "description": "sound engineer"
+        },
+        {
+          "id": "nm0655193",
+          "name": "Elio Pacella",
+          "description": "sound engineer"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0045271",
+          "name": "Eros Bacciucchi",
+          "description": "special effects (as Bacciucchi)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0210061",
+          "name": "Carlo De Marchis",
+          "description": "miniature maker (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0824934",
+          "name": "Benito Stefanelli",
+          "description": "master of arms"
+        },
+        {
+          "id": "nm0276570",
+          "name": "Paolo Figlia",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0000484",
+          "name": "John Landis",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0824934",
+          "name": "Benito Stefanelli",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0223862",
+          "name": "Franco Di Giacomo",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0202509",
+          "name": "Roberto Forges Davanzati",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0484272",
+          "name": "Giuseppe Lanci",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0637064",
+          "name": "Angelo Novi",
+          "description": "still photographer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0141434",
+          "name": "Marilù Carteny",
+          "description": "assistant costume designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0143736",
+          "name": "Andreina Casini",
+          "description": "assistant editor (uncredited)"
+        },
+        {
+          "id": "nm0714052",
+          "name": "Carlo Reali",
+          "description": "assistant editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0001553",
+          "name": "Ennio Morricone",
+          "description": "music conducted by"
+        },
+        {
+          "id": "nm0018145",
+          "name": "Alessandro Alessandroni",
+          "description": "musician: whistle (uncredited)"
+        },
+        {
+          "id": "nm1370302",
+          "name": "Cantori Moderni Di Alessandroni",
+          "description": "music performers (uncredited)"
+        },
+        {
+          "id": "nm0148232",
+          "name": "Guido Cenciarelli",
+          "description": "musical assistant (uncredited)"
+        },
+        {
+          "id": "nm0208551",
+          "name": "Franco De Gemini",
+          "description": "musician: harmonica solo (uncredited)"
+        },
+        {
+          "id": "nm1397767",
+          "name": "Edda Dell'Orso",
+          "description": "soloist (uncredited)"
+        },
+        {
+          "id": "nm0545972",
+          "name": "Sergio Marcotulli",
+          "description": "music engineer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0133916",
+          "name": "Serena Canevari",
+          "description": "script supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0024582",
+          "name": "Ferruccio Amendola",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0024879",
+          "name": "Manuel Amigo",
+          "description": "second production supervisor (uncredited)"
+        },
+        {
+          "id": "nm0156671",
+          "name": "Roberto Chevalier",
+          "description": "voice dubbing: Stefano Imparato (uncredited)"
+        },
+        {
+          "id": "nm0195258",
+          "name": "Carlo D'Angelo",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0206993",
+          "name": "Luciano De Ambrosis",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm1248031",
+          "name": "Manlio De Angelis",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0231572",
+          "name": "Arturo Dominici",
+          "description": "voice dubbing: Michael Harvey (uncredited)"
+        },
+        {
+          "id": "nm0301403",
+          "name": "Corrado Gaipa",
+          "description": "voice dubbing: Frank Wolff (uncredited)"
+        },
+        {
+          "id": "nm0311165",
+          "name": "Lauro Gazzolo",
+          "description": "voice dubbing: Joseph Bradley (uncredited)"
+        },
+        {
+          "id": "nm0311168",
+          "name": "Nando Gazzolo",
+          "description": "voice dubbing: Henry Fonda (uncredited)"
+        },
+        {
+          "id": "nm6561258",
+          "name": "Joyce Gordon",
+          "description": "voice dubbing: Claudia Cardinale (English version) (uncredited)"
+        },
+        {
+          "id": "nm0335274",
+          "name": "Bernie Grant",
+          "description": "voice dubbing: Gabriele Ferzetti (english version) (uncredited)"
+        },
+        {
+          "id": "nm0337178",
+          "name": "Sergio Graziani",
+          "description": "voice dubbing: Aldo Sambrell (uncredited)"
+        },
+        {
+          "id": "nm0488044",
+          "name": "Igino Lardani",
+          "description": "titles (uncredited)"
+        },
+        {
+          "id": "nm0513353",
+          "name": "Oreste Lionello",
+          "description": "voice dubbing: Marco Zuanelli (uncredited)"
+        },
+        {
+          "id": "nm0516619",
+          "name": "Pino Locchi",
+          "description": "voice dubbing: Benito Stefanelli (uncredited)"
+        },
+        {
+          "id": "nm1285984",
+          "name": "Anna Rita Pasanisi",
+          "description": "voice dubbing: Simonetta Santaniello (uncredited)"
+        },
+        {
+          "id": "nm1403175",
+          "name": "Bruno Persa",
+          "description": "voice dubbing: Jack Elam (uncredited)"
+        },
+        {
+          "id": "nm0685609",
+          "name": "Mario Pisu",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0688770",
+          "name": "Cesare Polacco",
+          "description": "voice dubbing: Lionel Stander (uncredited)"
+        },
+        {
+          "id": "nm0727367",
+          "name": "Giuseppe Rinaldi",
+          "description": "voice dubbing: Charles Bronson (uncredited)"
+        },
+        {
+          "id": "nm0738856",
+          "name": "Carlo Romano",
+          "description": "voice dubbing: Jason Robards (uncredited)"
+        },
+        {
+          "id": "nm6104351",
+          "name": "Giovanni Saccenti",
+          "description": "voice dubbing: Renato Pinciroli (uncredited)"
+        },
+        {
+          "id": "nm0767411",
+          "name": "Rita Savagnone",
+          "description": "voice dubbing: Claudia Cardinale (uncredited)"
+        },
+        {
+          "id": "nm0796222",
+          "name": "Stefano Sibaldi",
+          "description": "voice dubbing: Keenan Wynn (uncredited)"
+        },
+        {
+          "id": "nm0824934",
+          "name": "Benito Stefanelli",
+          "description": "master of arms (uncredited)"
+        },
+        {
+          "id": "nm1225093",
+          "name": "Sergio Tedesco",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm1377965",
+          "name": "Glauco Teti",
+          "description": "production secretary (uncredited)"
+        },
+        {
+          "id": "nm0856580",
+          "name": "Wanda Tettoni",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0877093",
+          "name": "Renato Turi",
+          "description": "voice dubbing: Tullio Palmieri (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

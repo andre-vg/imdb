@@ -1,0 +1,46 @@
+{
+  "id": "nm0730420",
+  "name": "Mary Robbins",
+  "role": "Actress",
+  "image": "https://imdb-api.com/images/original/nopicture.jpg",
+  "summary": "Mary Robbins. Actress: Dead Man Walking. Mary Robbins was born on 11 December 1932 in St. Louis, Missouri, USA. She was an actress, known for Dead Man Walking (1995) and Cradle Will Rock (1999). She was previously married to Gil Robbins. She died on 17 April 2011 in Esteban Cantú, Tecate, Baja California, Mexico.",
+  "birthDate": "1932-12-11",
+  "deathDate": "2011-04-17",
+  "awards": "",
+  "height": "",
+  "knownFor": [
+    {
+      "id": "tt0112818",
+      "title": "Dead Man Walking",
+      "fullTitle": "Dead Man Walking (1995)",
+      "year": "1995",
+      "role": "Aide to Governor Benedict",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_Ratio0.6767_AL_.jpg"
+    },
+    {
+      "id": "tt0150216",
+      "title": "Cradle Will Rock",
+      "fullTitle": "Cradle Will Rock (1999)",
+      "year": "1999",
+      "role": "VTA - Disgruntled Worker #1",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmJiYmE2ZDctNDQyNS00MjUzLWFmNmUtMWM3OWMxZDJjYWQwXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_Ratio0.6767_AL_.jpg"
+    }
+  ],
+  "castMovies": [
+    {
+      "id": "tt0150216",
+      "role": "Actress",
+      "title": "Cradle Will Rock",
+      "year": "1999",
+      "description": "VTA - Disgruntled Worker #1"
+    },
+    {
+      "id": "tt0112818",
+      "role": "Actress",
+      "title": "Dead Man Walking",
+      "year": "1995",
+      "description": "Aide to Governor Benedict"
+    }
+  ],
+  "errorMessage": ""
+}

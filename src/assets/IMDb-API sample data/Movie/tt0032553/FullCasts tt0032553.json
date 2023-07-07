@@ -1,0 +1,819 @@
+{
+  "imDbId": "tt0032553",
+  "title": "The Great Dictator",
+  "fullTitle": "The Great Dictator (1940)",
+  "type": "Movie",
+  "year": "1940",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin",
+        "description": "(written by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000122",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDcwMDc0ODAzOF5BMl5BanBnXkFtZTgwNTY2OTI1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Chaplin",
+      "asCharacter": "Hynkel - Dictator of Tomania / A Jewish Barber"
+    },
+    {
+      "id": "nm0642988",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMyMThjZGItYmYwZC00YTkxLWI1MGMtMDExZDdkYjFjZTRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Oakie",
+      "asCharacter": "Napaloni - Dictator of Bacteria"
+    },
+    {
+      "id": "nm0306786",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JkY2RhMTktNzI2Ny00NTBlLWJkMDctNjk4MzhhOTE5MWIzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Reginald Gardiner",
+      "asCharacter": "Schultz"
+    },
+    {
+      "id": "nm0199787",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDk5NzQ1OF5BMl5BanBnXkFtZTcwNTg5MjgwOA@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Henry Daniell",
+      "asCharacter": "Garbitsch"
+    },
+    {
+      "id": "nm0317970",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTAxODg1MF5BMl5BanBnXkFtZTcwNzA2OTkwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Billy Gilbert",
+      "asCharacter": "Herring"
+    },
+    {
+      "id": "nm0354916",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTYxZDQwOWYtYTA0NC00ZDE3LWFhM2QtMDQ0MTIwOTFmMmU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Grace Hayle",
+      "asCharacter": "Madame Napaloni"
+    },
+    {
+      "id": "nm0214924",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0MjllZjEtZTliZi00OGJhLThhMjgtNDQ0NDIxOGVlOWE3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Carter DeHaven",
+      "asCharacter": "Bacterian Ambassador (as Carter De Haven)"
+    },
+    {
+      "id": "nm0002104",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1NTk1Mjg4MF5BMl5BanBnXkFtZTcwMjAxMDIzNw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Paulette Goddard",
+      "asCharacter": "Hannah"
+    },
+    {
+      "id": "nm0608373",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI3MWUwZDAtMTFlOS00OGEyLWE4YzctMmZiYWQ1ZTlmNzc1XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Maurice Moscovitch",
+      "asCharacter": "Mr. Jaeckel (as Maurice Moscovich)"
+    },
+    {
+      "id": "nm0242562",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZjZWU2NmEtYWIzOS00YjBkLTg3NmUtNWE1MzdmZTY3YzQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Emma Dunn",
+      "asCharacter": "Mrs. Jaeckel"
+    },
+    {
+      "id": "nm0329827",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIwZDlkYTAtNWU0MS00MmQ5LWExODEtMTM4OTAyNTFmZDc0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bernard Gorcey",
+      "asCharacter": "Mr. Mann"
+    },
+    {
+      "id": "nm0917837",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Weigel",
+      "asCharacter": "Mr. Agar"
+    },
+    {
+      "id": "nm0174682",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MjgzMzAyMV5BMl5BanBnXkFtZTgwODczNjMwNDE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Chester Conklin",
+      "asCharacter": "Barber's Customer"
+    },
+    {
+      "id": "nm0585116",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Esther Michelson",
+      "asCharacter": "Jewish Woman"
+    },
+    {
+      "id": "nm0003424",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkzMDQxNTktNDg3YS00MTQ4LWIzYWUtMTNhZmUyNzJhOTYxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Hank Mann",
+      "asCharacter": "Storm Trooper Stealing Fruit"
+    },
+    {
+      "id": "nm0942390",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Florence Wright",
+      "asCharacter": "Blonde Secretary"
+    },
+    {
+      "id": "nm0340806",
+      "image": "https://m.media-amazon.com/images/M/MV5BODNiZWQ5YjEtZjg1My00MWZmLTk2YmEtOTVlZWU3MWE3OWUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eddie Gribbon",
+      "asCharacter": "Tomanian Storm Trooper"
+    },
+    {
+      "id": "nm0026049",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVmOTc4MjktYTliOS00ZDUyLWI3Y2EtZjE0ZTQwYTlmM2E3XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Rudolph Anders",
+      "asCharacter": "Tomanian Commandant at Osterlich (as Robert O. Davis)"
+    },
+    {
+      "id": "nm0242554",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTlhZWUyYTYtOTk5Yi00NzliLWEwODgtN2I2OTQ5NjVhN2UxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Eddie Dunn",
+      "asCharacter": "Whitewashed Storm Trooper"
+    },
+    {
+      "id": "nm0683244",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTEyNDZkYWUtZGVhYy00ZmYwLTlhZTEtNTFkMWU1ZGZkYzk2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Nita Pike",
+      "asCharacter": "Secretary"
+    },
+    {
+      "id": "nm0528685",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZkMmJmYjQtZmU4Yy00ZDhmLWE4MzQtMmQxZmQyZmY4ODhhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "George Lynn",
+      "asCharacter": "Commander of Storm Troopers (as Peter Lynn)"
+    },
+    {
+      "id": "nm0238725",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGFlODA2NTMtZTI4Ny00NTFiLTk3OTAtMTQ4MGUxMjgyNjRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Wheeler Dryden",
+      "asCharacter": "Heinrich Schtick - Translator (voice)"
+    },
+    {
+      "id": "nm0016251",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Alban",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0017674",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWEzZDcxMzMtM2UzZC00OTFhLTlmNmUtZGVhZjYwYWUxMGU1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Fred Aldrich",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0018685",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyZjE1NTUtYTk2Yy00NDg3LTljNWYtYWRjMTJmMzU3ZWY0XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Richard Alexander",
+      "asCharacter": "Tomainian Prison Guard in 1918 (uncredited)"
+    },
+    {
+      "id": "nm0036324",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQ5MTEyNTgtZmZjYi00OTA3LWIyZWQtMDg2NDNhODZkZmRiXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Sig Arno",
+      "asCharacter": "Compact Parachute Inventor (uncredited)"
+    },
+    {
+      "id": "nm0036362",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Arnold",
+      "asCharacter": "Tomanian Officer (uncredited)"
+    },
+    {
+      "id": "nm0045839",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Walter Bacon",
+      "asCharacter": "Storm Trooper (uncredited)"
+    },
+    {
+      "id": "nm0063446",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brandon Beach",
+      "asCharacter": "Doctor (uncredited)"
+    },
+    {
+      "id": "nm0096094",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Bordeaux",
+      "asCharacter": "Ghetto Extra (uncredited)"
+    },
+    {
+      "id": "nm0104585",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTM2MGRhNmUtNjAxMC00MTQ4LWIxODAtYWYzNGVhNTJkMzRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Chet Brandenburg",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0110893",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWMzZWU1ODEtNjE3Yy00ZWRlLTllZmEtYmVhNmUxZGUzZTY1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Don Brodie",
+      "asCharacter": "Reporter from International Press (uncredited)"
+    },
+    {
+      "id": "nm0137625",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Carlisle",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0171236",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Coleman",
+      "asCharacter": "Guard (uncredited)"
+    },
+    {
+      "id": "nm0175788",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyODMwOTkzNV5BMl5BanBnXkFtZTcwMzY1MDgwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Hans Conried",
+      "asCharacter": "Undetermined Role (uncredited)"
+    },
+    {
+      "id": "nm0180679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNzM2MzY0Ml5BMl5BanBnXkFtZTcwODUxNDYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gino Corrado",
+      "asCharacter": "Sculptor (uncredited)"
+    },
+    {
+      "id": "nm0189234",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oliver Cross",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0203383",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA2ZjlkZmEtMWM4OS00NjhhLTk4YTItZDcxODkwZDYwMmM2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "John Davidson",
+      "asCharacter": "Hospital Superintendent (uncredited)"
+    },
+    {
+      "id": "nm0203439",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNiM2Y4NjgtZDIxMC00Yzk1LTljN2MtNWJhNjRkODUxYjkzXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Max Davidson",
+      "asCharacter": "Jewish Man (uncredited)"
+    },
+    {
+      "id": "nm0205033",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lew Davis",
+      "asCharacter": "Hospital Orderly (uncredited)"
+    },
+    {
+      "id": "nm1669942",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Francis Ernest Drake",
+      "asCharacter": "Storm Trooper (uncredited)"
+    },
+    {
+      "id": "nm0280900",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwMjY2NjY0NV5BMl5BanBnXkFtZTYwODQzMzky._V1_Ratio0.8182_AL_.jpg",
+      "name": "Pat Flaherty",
+      "asCharacter": "Friendly Storm Trooper (uncredited)"
+    },
+    {
+      "id": "nm0311274",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRjODA2NjUtODJjNy00MzFhLTk0Y2QtZTAxNWEwYjE3ZTAyXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Bud Geary",
+      "asCharacter": "Storm Trooper (uncredited)"
+    },
+    {
+      "id": "nm0330271",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Gordon",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0334076",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2YzRkYWQtZDE2ZC00Y2Y1LTk4MTAtY2QyNTk1YzVkMjFjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Herschel Graham",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0365039",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM4OTUyMTgtMmNlNS00ZDk5LWI2YWMtNTg2YTI0ODRjYTZiXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Sam Harris",
+      "asCharacter": "Officer (uncredited)"
+    },
+    {
+      "id": "nm0366260",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFhMDQxZDQtMzk1ZS00YjFkLWE2YTctZmMwYWNkYmM1YTJjXkEyXkFqcGdeQXVyNzM0MjQ4Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Eddie Hart",
+      "asCharacter": "Policeman (uncredited)"
+    },
+    {
+      "id": "nm0388280",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRmOWM3NDItMzk0Yi00MzZmLWE0MmItN2VhZDI0NzUzODE1XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Leyland Hodgson",
+      "asCharacter": "Big Bertha Gunnery Officer (uncredited)"
+    },
+    {
+      "id": "nm0410332",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmY0YWFiYTAtNTllNy00NDQ1LTg1ZDEtMjE0Y2NkODAzYjZlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "William Irving",
+      "asCharacter": "Man Seated on Bed (uncredited)"
+    },
+    {
+      "id": "nm0410361",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM0MTNiYWUtYzM5OC00YmRhLWJhYzQtZmQ5NzU2ZWJjNTMyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Irwin",
+      "asCharacter": "Banquet Butler (uncredited)"
+    },
+    {
+      "id": "nm0503154",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhlYzhlMDMtYmU3Yi00MWI1LWExYTgtNDgwNjFlYWMxMmRmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ethelreda Leopold",
+      "asCharacter": "Blonde Secretary (uncredited)"
+    },
+    {
+      "id": "nm0572786",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Clyde McLeod",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0576128",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Russell Meeker",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0583395",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE2OGEyNzktZTVjZS00NGEwLTk2NWQtNWU0NDE3NmZhMDljL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Torben Meyer",
+      "asCharacter": "Bald Barbershop Customer (uncredited)"
+    },
+    {
+      "id": "nm0585121",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jules Michelson",
+      "asCharacter": "Man in Ghetto (uncredited)"
+    },
+    {
+      "id": "nm0602100",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmY0NWYxMTUtYzJkMi00MWNlLThhMGUtOWE0ZGQ3NDQzNWQyL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Bert Moorhouse",
+      "asCharacter": "Hynkel's Staff Officer (uncredited)"
+    },
+    {
+      "id": "nm0621306",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Nardelli",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0629674",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzdhYzljZDgtZDI5NS00NzJlLTlhNTgtMTRkMjY5NWM3ZGIyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Nellie V. Nichols",
+      "asCharacter": "Jewish Woman (uncredited)"
+    },
+    {
+      "id": "nm0664197",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY1MDEyMzQtYjY3Yy00OWMwLTkxN2QtMDYxMDBiYTVlOWVmXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Manuel París",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0674741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMwZjkzNTgtODA3ZC00YzZmLWIyYTctNmM0MWI2OWNjNGE2XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Perrin",
+      "asCharacter": "Jewish Man (uncredited)"
+    },
+    {
+      "id": "nm0689447",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmM1N2U1MjYtYTEwYy00NDRiLTgxYzAtNzM0M2QyMjI1ZjYzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Alexander Pollard",
+      "asCharacter": "Servant (uncredited)"
+    },
+    {
+      "id": "nm0698139",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjI1ZTI1NjAtYjMxNy00MzY1LTgyNTItZjYxYzk4NGY4ODA4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lucien Prival",
+      "asCharacter": "Storm Trooper Officer (uncredited)"
+    },
+    {
+      "id": "nm0723465",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Rice",
+      "asCharacter": "Storm Trooper (uncredited)"
+    },
+    {
+      "id": "nm0727529",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQzMmZhZWUtMjM5OC00NTdlLWFiMzMtZjQyZTExMjE4MzA3XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Cyril Ring",
+      "asCharacter": "Officer Extra (uncredited)"
+    },
+    {
+      "id": "nm10437441",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wyn Ritchie Evans",
+      "asCharacter": "Woman in Crowd (uncredited)"
+    },
+    {
+      "id": "nm0740674",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzljNjBlYzctMTU4ZS00ODU0LTg4MmItNzIwM2YxYjdjZjhlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Henry Roquemore",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0761866",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTc2ZWRlZWUtMDg3Yy00OGRmLTlhNzItNTQ1ZGY3OWRhYTk3XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Tiny Sandford",
+      "asCharacter": "Soldier in 1918 Tomainia (uncredited)"
+    },
+    {
+      "id": "nm0763903",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Francesca Santoro",
+      "asCharacter": "Aggie (uncredited)"
+    },
+    {
+      "id": "nm0776746",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0ZTdjMGUtM2JhYy00NTRlLTg1NDgtNTJmNWIzYmQwNmViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Hans Schumm",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0783763",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Semels",
+      "asCharacter": "Jewish Fruit Stand Proprietor (uncredited)"
+    },
+    {
+      "id": "nm0825088",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Count Stefenelli",
+      "asCharacter": "Ball Guest (uncredited)"
+    },
+    {
+      "id": "nm0828260",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmE1NzMyZjgtMTA2OC00MTc3LWIwZjktNGRlMjBhYjQzYzRhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Bert Stevens",
+      "asCharacter": "Guard (uncredited)"
+    },
+    {
+      "id": "nm0837998",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiNGYxZDktNGY5MS00YTBjLTgwNzctYzYxOWU2NmVhMDQyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Charles Sullivan",
+      "asCharacter": "Prison Guard (uncredited)"
+    },
+    {
+      "id": "nm0903694",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carl Voss",
+      "asCharacter": "Officer (uncredited)"
+    },
+    {
+      "id": "nm0907969",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leonard Walker",
+      "asCharacter": "Conductor (uncredited)"
+    },
+    {
+      "id": "nm0925118",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg3NWZkMWQtMjNjOS00YjUzLTgyYTctNWViNTA4ODI5NGVhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Leo White",
+      "asCharacter": "Hynkel's Barber (uncredited)"
+    },
+    {
+      "id": "nm0933489",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY4NjA4MGYtZGY5Yi00YzIzLWJkMTEtNGNlMWJlOWIwNjU0XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Wilson",
+      "asCharacter": "Soldier in Field (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000122",
+          "name": "Charles Chaplin",
+          "description": "producer (uncredited)"
+        },
+        {
+          "id": "nm0214924",
+          "name": "Carter DeHaven",
+          "description": "associate producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0000122",
+          "name": "Charles Chaplin",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0932745",
+          "name": "Meredith Willson",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0835365",
+          "name": "Karl Struss",
+          "description": "director of photography"
+        },
+        {
+          "id": "nm0005906",
+          "name": "Roland Totheroh",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0630119",
+          "name": "Willard Nico",
+          "description": "film editor"
+        },
+        {
+          "id": "nm2635155",
+          "name": "Harold Rice",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0817968",
+          "name": "J. Russell Spencer",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0102231",
+          "name": "Edward G. Boyle",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm1070570",
+          "name": "Ed Voight",
+          "description": "makeup artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0716146",
+          "name": "Alfred Reeves",
+          "description": "production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0238725",
+          "name": "Wheeler Dryden",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0416391",
+          "name": "Dan James",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0578423",
+          "name": "Robert Meltzer",
+          "description": "assistant director (as Bob Meltzer)"
+        },
+        {
+          "id": "nm5299653",
+          "name": "Alex Finlayson",
+          "description": "assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0091690",
+          "name": "William Bogdanoff",
+          "description": "construction foreman (uncredited)"
+        },
+        {
+          "id": "nm2353398",
+          "name": "Dick Fritsch",
+          "description": "assistant art director (uncredited)"
+        },
+        {
+          "id": "nm3271782",
+          "name": "Frank Veseley",
+          "description": "painter (uncredited)"
+        },
+        {
+          "id": "nm0927180",
+          "name": "Clem Widrig",
+          "description": "props (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0739655",
+          "name": "Glenn Rominger",
+          "description": "sound"
+        },
+        {
+          "id": "nm0870174",
+          "name": "Percy Townsend",
+          "description": "sound"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0358518",
+          "name": "Ralph Hammeras",
+          "description": "special effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0181832",
+          "name": "Jack Cosgrove",
+          "description": "special photographic effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0928777",
+          "name": "Buster Wiles",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1682137",
+          "name": "Frank Testera",
+          "description": "chief electrician (uncredited)"
+        },
+        {
+          "id": "nm1678337",
+          "name": "William Wallace",
+          "description": "still photographer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm1287577",
+          "name": "Eugene Joseff",
+          "description": "costume jeweller (uncredited)"
+        },
+        {
+          "id": "nm2005122",
+          "name": "Winifred Ritchie",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm0856558",
+          "name": "Ted Tetrick",
+          "description": "costume supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0932745",
+          "name": "Meredith Willson",
+          "description": "musical director"
+        },
+        {
+          "id": "nm0236740",
+          "name": "Carmen Dragon",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0442209",
+          "name": "Louis Kaufman",
+          "description": "musician: violin (uncredited)"
+        },
+        {
+          "id": "nm1684098",
+          "name": "Al Kaye",
+          "description": "music librarian (uncredited)"
+        },
+        {
+          "id": "nm0855720",
+          "name": "Max Terr",
+          "description": "assistant musical director (uncredited) / orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0932745",
+          "name": "Meredith Willson",
+          "description": "conductor (uncredited) / music arranger (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0247312",
+          "name": "Evelyn Earle",
+          "description": "script clerk (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0074788",
+          "name": "Henry Bergman",
+          "description": "general assistant (uncredited)"
+        },
+        {
+          "id": "nm2204076",
+          "name": "Rollin Brown",
+          "description": "laboratory contact (uncredited)"
+        },
+        {
+          "id": "nm0166101",
+          "name": "Kay Clement",
+          "description": "secretary (uncredited)"
+        },
+        {
+          "id": "nm1850079",
+          "name": "Monroe Greenthal",
+          "description": "press representative (uncredited)"
+        },
+        {
+          "id": "nm2123959",
+          "name": "Moody",
+          "description": "dailies projectionist (uncredited)"
+        },
+        {
+          "id": "nm2107929",
+          "name": "Kathleen Pryor",
+          "description": "secretary (uncredited)"
+        },
+        {
+          "id": "nm6552461",
+          "name": "Eugene Testera",
+          "description": "filing clerk (uncredited)"
+        },
+        {
+          "id": "nm0903694",
+          "name": "Carl Voss",
+          "description": "military advisor (uncredited)"
+        },
+        {
+          "id": "nm2204358",
+          "name": "Oscar Wright",
+          "description": "purchasing (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

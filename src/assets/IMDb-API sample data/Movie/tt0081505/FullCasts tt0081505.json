@@ -1,0 +1,1003 @@
+{
+  "imDbId": "tt0081505",
+  "title": "The Shining",
+  "fullTitle": "The Shining (1980)",
+  "type": "Movie",
+  "year": "1980",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000175",
+        "name": "Stephen King",
+        "description": "(based upon the novel by)"
+      },
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": "(screenplay by) &"
+      },
+      {
+        "id": "nm0424956",
+        "name": "Diane Johnson",
+        "description": "(screenplay by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000197",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Nicholson",
+      "asCharacter": "Jack Torrance"
+    },
+    {
+      "id": "nm0001167",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE4MTY1Mzk0N15BMl5BanBnXkFtZTgwOTQzNDE2MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Shelley Duvall",
+      "asCharacter": "Wendy Torrance"
+    },
+    {
+      "id": "nm0515950",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDBkN2I0YTktY2I4Ni00MTQ1LWIwY2YtZDUzMzAwZDRmZDQ0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Danny Lloyd",
+      "asCharacter": "Danny Torrance"
+    },
+    {
+      "id": "nm0001079",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Scatman Crothers",
+      "asCharacter": "Dick Hallorann"
+    },
+    {
+      "id": "nm0625167",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2NjU1NzM2NV5BMl5BanBnXkFtZTcwMjM3NTMxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Barry Nelson",
+      "asCharacter": "Stuart Ullman"
+    },
+    {
+      "id": "nm0832104",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNlNTFiMDAtOWI5OC00YmVjLTlkMjgtZTg3NzM1MGUyM2E0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Philip Stone",
+      "asCharacter": "Charles Grady"
+    },
+    {
+      "id": "nm0877185",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0Njk5MTk4Ml5BMl5BanBnXkFtZTcwODk4NDIwNA@@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Joe Turkel",
+      "asCharacter": "Lloyd"
+    },
+    {
+      "id": "nm0413271",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0Njg5MTEzOV5BMl5BanBnXkFtZTcwNDQ5NDE5Mw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Anne Jackson",
+      "asCharacter": "Doctor"
+    },
+    {
+      "id": "nm0123748",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEwMDY1NTEzNjJeQTJeQWpwZ15BbWU3MDY0MTA0MDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tony Burton",
+      "asCharacter": "Durkin"
+    },
+    {
+      "id": "nm0067672",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWMxMmE3NDgtMjM0ZS00NDJkLWE5NTUtNmQ2ZWVhN2U0MmQ2XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lia Beldam",
+      "asCharacter": "Young Woman in Bath"
+    },
+    {
+      "id": "nm0316862",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billie Gibson",
+      "asCharacter": "Old Woman in Bath"
+    },
+    {
+      "id": "nm0219336",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM5NDgyNTcyN15BMl5BanBnXkFtZTcwODU4MzgwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Barry Dennen",
+      "asCharacter": "Watson"
+    },
+    {
+      "id": "nm0062657",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTcwNWFlZWYtMDM0My00NjcwLWEzOTUtZDg5ZGUzYWU1OGY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "David Baxt",
+      "asCharacter": "Forest Ranger 1"
+    },
+    {
+      "id": "nm0715197",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFiMzFlMmUtNDIwMi00ZDExLWEwYTQtOWI3NTE2MzU0ZjkyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Manning Redwood",
+      "asCharacter": "Forest Ranger 2"
+    },
+    {
+      "id": "nm0122767",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lisa Burns",
+      "asCharacter": "Grady Daughter"
+    },
+    {
+      "id": "nm0122769",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Louise Burns",
+      "asCharacter": "Grady Daughter"
+    },
+    {
+      "id": "nm0660623",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robin Pappas",
+      "asCharacter": "Nurse"
+    },
+    {
+      "id": "nm0171277",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alison Coleridge",
+      "asCharacter": "Secretary"
+    },
+    {
+      "id": "nm0875813",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY5ZGI1ODMtZjA5MC00NjNmLTg3OTUtNTAwNTQyMjI2ZWYwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Burnell Tucker",
+      "asCharacter": "Policeman"
+    },
+    {
+      "id": "nm0791030",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jana Shelden",
+      "asCharacter": "Stewardess"
+    },
+    {
+      "id": "nm0679811",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kate Phelps",
+      "asCharacter": "Receptionist"
+    },
+    {
+      "id": "nm2727804",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNiZGU5ZWEtMTNkZi00ZWFlLTllNTMtYmY0OTA3MWZiODlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Norman Gay",
+      "asCharacter": "Injured Guest"
+    },
+    {
+      "id": "nm2108929",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTEwNjU2NTktZTUwZS00NWJjLTg1NDktN2NiMzkyMmZiZWExXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Pauline Chamberlain",
+      "asCharacter": "Woman in Black Gown in Ballroom (Walking Behind Jack Torrance) (uncredited)"
+    },
+    {
+      "id": "nm0163258",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ina Clare",
+      "asCharacter": "Ballroom Dancer (uncredited)"
+    },
+    {
+      "id": "nm2382053",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg1OGVmMzUtZjJmZS00MTJkLThjMDktMDUzNGRhMWNhOGU2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Maxwell Craig",
+      "asCharacter": "Ballroom Dancer (uncredited)"
+    },
+    {
+      "id": "nm0220738",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Desbois",
+      "asCharacter": "Hotel Porter (uncredited)"
+    },
+    {
+      "id": "nm9974313",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lynda Fisher",
+      "asCharacter": "Ballroom Lady (uncredited)"
+    },
+    {
+      "id": "nm2090382",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charlie Gray",
+      "asCharacter": "Ballroom Guest (uncredited)"
+    },
+    {
+      "id": "nm1348696",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aidan Harrington",
+      "asCharacter": "Man Sitting in Hotel Lobby (uncredited)"
+    },
+    {
+      "id": "nm0364402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMWM5ODQtYTZhYi00N2RhLTkxYjUtZjlkMTA3ODdhMTU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alan Harris",
+      "asCharacter": "Ballroom Dancer (uncredited)"
+    },
+    {
+      "id": "nm8949643",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Holdcroft",
+      "asCharacter": "Ballroom Dancer (uncredited)"
+    },
+    {
+      "id": "nm1275975",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barrie Holland",
+      "asCharacter": "Man in Hotel Lobby (uncredited)"
+    },
+    {
+      "id": "nm0473588",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vivian Kubrick",
+      "asCharacter": "Smoking Guest on Ballroom Couch (uncredited)"
+    },
+    {
+      "id": "nm0972507",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aileen Lewis",
+      "asCharacter": "Woman in Hotel Lobby (uncredited)"
+    },
+    {
+      "id": "nm0528618",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bertha Lynn",
+      "asCharacter": "TV Newscaster (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm1750488",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzMTYxMjA1N15BMl5BanBnXkFtZTcwMTk4OTgyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Derek Lyons",
+      "asCharacter": "Hotel Bellhop (uncredited)"
+    },
+    {
+      "id": "nm0534063",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter McNamara",
+      "asCharacter": "Dinner Guest (uncredited)"
+    },
+    {
+      "id": "nm1071399",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cathy Munroe",
+      "asCharacter": "Hotel Worker (uncredited)"
+    },
+    {
+      "id": "nm0640616",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie O'Dea",
+      "asCharacter": "Roger - Man in Bear Suit (uncredited)"
+    },
+    {
+      "id": "nm0642198",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmIxMjA5NTgtYWNmZS00YzkyLTljODgtNDA5ZDBmZDVhNjFiXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jennifer O'Neill",
+      "asCharacter": "Dorothy (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm0663793",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjE4OGFkMGYtNzIwOC00NDI5LWI2MjItNjQ5NWRiNWY0OTg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Chris Parsons",
+      "asCharacter": "Dinner Guest (uncredited)"
+    },
+    {
+      "id": "nm2907396",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmVkZTM2ZTQtYjUzYi00M2U5LTg2NjMtMjUzY2IwY2JlMGNiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Glenn Rinker",
+      "asCharacter": "TV Anchorman Glenn Rinker (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm7942120",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bunny Seaman",
+      "asCharacter": "Old Woman in Ballroom (Walking Behind Jack Torrance) (uncredited)"
+    },
+    {
+      "id": "nm0822042",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzODc1NWEtMDhhNC00NTFiLWE4ZDctYTZjNTg4ZjAxZTg3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Guy Standeven",
+      "asCharacter": "Ballroom Guest (uncredited)"
+    },
+    {
+      "id": "nm0859725",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUwYWJkNmQtOTllMy00MDYxLTk0YjgtNGY2YTNhYjY1OGY1XkEyXkFqcGdeQXVyNjg5MjUzNDE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Reg Thomason",
+      "asCharacter": "Ballroom Guest (uncredited)"
+    },
+    {
+      "id": "nm14238641",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brian V. Towns",
+      "asCharacter": "Horace (Harry) Derwent - Roger's Lover (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0296917",
+          "name": "Robert Fryer",
+          "description": "associate producer: The Producer Circle Organization"
+        },
+        {
+          "id": "nm0363214",
+          "name": "Jan Harlan",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm1248435",
+          "name": "Mary Lea Johnson",
+          "description": "associate producer: The Producer Circle Organization"
+        },
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0724237",
+          "name": "Martin Richards",
+          "description": "associate producer: The Producer Circle Organization"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0137793",
+          "name": "Wendy Carlos",
+          "description": ""
+        },
+        {
+          "id": "nm0253844",
+          "name": "Rachel Elkind",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005633",
+          "name": "John Alcott",
+          "description": "(photographed by)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0522487",
+          "name": "Ray Lovejoy",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0509896",
+          "name": "James Liggat",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0908178",
+          "name": "Roy Walker",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0866777",
+          "name": "Leslie Tomkins",
+          "description": "(as Les Tomkins)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0134382",
+          "name": "Milena Canonero",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0198412",
+          "name": "Barbara Daly",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0502552",
+          "name": "Leonard",
+          "description": "hair stylist"
+        },
+        {
+          "id": "nm0810182",
+          "name": "Tom Smith",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0539438",
+          "name": "Nick Maley",
+          "description": "special makeup effects artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0878563",
+          "name": "Douglas Twiddy",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0386878",
+          "name": "Paul Hitchcock",
+          "description": "executive in charge of production (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0176929",
+          "name": "Brian W. Cook",
+          "description": "assistant director (as Brian Cook)"
+        },
+        {
+          "id": "nm0624117",
+          "name": "Terry Needham",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0829005",
+          "name": "Michael Stevenson",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0036357",
+          "name": "Barry Arnold",
+          "description": "property man"
+        },
+        {
+          "id": "nm0095520",
+          "name": "Michael Boone",
+          "description": "draughtsman"
+        },
+        {
+          "id": "nm0111772",
+          "name": "Karen Brookes",
+          "description": "property buyer"
+        },
+        {
+          "id": "nm0170403",
+          "name": "Dave Coldham",
+          "description": "plaster gang boss"
+        },
+        {
+          "id": "nm0203995",
+          "name": "Tessa Davies",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm0271941",
+          "name": "John Fenner",
+          "description": "draughtsman"
+        },
+        {
+          "id": "nm0298861",
+          "name": "Len Furey",
+          "description": "construction manager (as Len Fury)"
+        },
+        {
+          "id": "nm0348305",
+          "name": "Fred Gunning",
+          "description": "head carpenter"
+        },
+        {
+          "id": "nm0359414",
+          "name": "Peter Hancock",
+          "description": "property master"
+        },
+        {
+          "id": "nm1059971",
+          "name": "Laurie Kerr",
+          "description": "standby carpenter"
+        },
+        {
+          "id": "nm0483675",
+          "name": "Michael Lamont",
+          "description": "draughtsman"
+        },
+        {
+          "id": "nm0567949",
+          "name": "Philip McDonald",
+          "description": "property man"
+        },
+        {
+          "id": "nm0735000",
+          "name": "Edward Rodrigo",
+          "description": "property buyer"
+        },
+        {
+          "id": "nm0807928",
+          "name": "Del Smith",
+          "description": "head painter"
+        },
+        {
+          "id": "nm0818066",
+          "name": "Peter Spencer",
+          "description": "property man"
+        },
+        {
+          "id": "nm0850687",
+          "name": "Thomas Tarry",
+          "description": "master plasterer (as Tom Tarry)"
+        },
+        {
+          "id": "nm0907566",
+          "name": "Bob Walker",
+          "description": "decor artist (as Robert Walker)"
+        },
+        {
+          "id": "nm0933036",
+          "name": "Barry Wilson",
+          "description": "drapes"
+        },
+        {
+          "id": "nm0000866",
+          "name": "Saul Bass",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm0233795",
+          "name": "Norman Dorme",
+          "description": "additional art director (uncredited)"
+        },
+        {
+          "id": "nm0473588",
+          "name": "Vivian Kubrick",
+          "description": "art department (uncredited)"
+        },
+        {
+          "id": "nm0835064",
+          "name": "Tony Strong",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm0844517",
+          "name": "Miguel Sá Fernandes",
+          "description": "set dresser (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm1250247",
+          "name": "Michael Charman",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0199716",
+          "name": "Richard Daniel",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0223696",
+          "name": "Dino Di Campo",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0460938",
+          "name": "Jack T. Knight",
+          "description": "sound editor (as Jack Knight)"
+        },
+        {
+          "id": "nm0581370",
+          "name": "Ray Merrin",
+          "description": "dubbing mixer"
+        },
+        {
+          "id": "nm0746477",
+          "name": "Bill Rowe",
+          "description": "dubbing mixer"
+        },
+        {
+          "id": "nm0753160",
+          "name": "Winston Ryder",
+          "description": "sound editor (as Wyn Ryder)"
+        },
+        {
+          "id": "nm0789331",
+          "name": "Ivan Sharrock",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0922984",
+          "name": "Ken Weston",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0004398",
+          "name": "Rodney Glenn",
+          "description": "assistant sound editor (uncredited)"
+        },
+        {
+          "id": "nm0336219",
+          "name": "Robert Gravenor",
+          "description": "adr mixer (uncredited)"
+        },
+        {
+          "id": "nm0835381",
+          "name": "Lionel Strutt",
+          "description": "foley mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0120486",
+          "name": "Jon Bunker",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0385067",
+          "name": "Les Hillman",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm7921574",
+          "name": "Malcolm Mott",
+          "description": "special effects assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0178109",
+          "name": "Jack Cooper",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0036560",
+          "name": "Maurice Arnold",
+          "description": "focus puller"
+        },
+        {
+          "id": "nm0091927",
+          "name": "Lou Bogue",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0113593",
+          "name": "Garrett Brown",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm0222695",
+          "name": "James Devis",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0342308",
+          "name": "Dan Grimmel",
+          "description": "video operator"
+        },
+        {
+          "id": "nm0446487",
+          "name": "Jim Kelly",
+          "description": "head rigger"
+        },
+        {
+          "id": "nm0449027",
+          "name": "Martin Kenzie",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0507110",
+          "name": "Dennis Lewis",
+          "description": "grip"
+        },
+        {
+          "id": "nm0005801",
+          "name": "Douglas Milsome",
+          "description": "focus puller / photographer: second unit"
+        },
+        {
+          "id": "nm0683233",
+          "name": "Kelvin Pike",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0732794",
+          "name": "Kate Robinson",
+          "description": "assistant camera (as Peter Robinson)"
+        },
+        {
+          "id": "nm0791275",
+          "name": "Danny Shelmerdine",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0809040",
+          "name": "Larry Smith",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0028531",
+          "name": "Ray Andrew",
+          "description": "steadicam operator (uncredited)"
+        },
+        {
+          "id": "nm0161474",
+          "name": "Ted Churchill",
+          "description": "steadicam operator (uncredited)"
+        },
+        {
+          "id": "nm0271940",
+          "name": "John Fenner",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0448941",
+          "name": "Paul Kenward",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0529301",
+          "name": "Russell j Lyster",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0532263",
+          "name": "Greg MacGillivray",
+          "description": "helicopter photographer (uncredited)"
+        },
+        {
+          "id": "nm0540082",
+          "name": "Billy Malone",
+          "description": "second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm6196696",
+          "name": "Bob Tanswell",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0941505",
+          "name": "Jimmy Worley",
+          "description": "electrician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0065268",
+          "name": "Ron Beck",
+          "description": "wardrobe supervisor"
+        },
+        {
+          "id": "nm0493376",
+          "name": "Ken Lawton",
+          "description": "wardrobe supervisor"
+        },
+        {
+          "id": "nm0382691",
+          "name": "Ian Hickinbotham",
+          "description": "wardrobe assistant (uncredited)"
+        },
+        {
+          "id": "nm1015254",
+          "name": "Veronica McAuliffe",
+          "description": "wardrobe assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm1247506",
+          "name": "Eddie Gordon",
+          "description": "color grader"
+        },
+        {
+          "id": "nm0681761",
+          "name": "Steve Pickard",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm0808326",
+          "name": "Gill Smith",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0821586",
+          "name": "Gordon Stainforth",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm1221997",
+          "name": "Adam Unger",
+          "description": "second assistant editor"
+        },
+        {
+          "id": "nm3407307",
+          "name": "Janet Wilson",
+          "description": "colorist: digital color correction"
+        },
+        {
+          "id": "nm0015205",
+          "name": "George Akers",
+          "description": "assistant editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0167098",
+          "name": "Murray Close",
+          "description": "location researcher"
+        },
+        {
+          "id": "nm0473585",
+          "name": "Katharina Kubrick",
+          "description": "location researcher"
+        },
+        {
+          "id": "nm0772468",
+          "name": "Jan Schlubach",
+          "description": "location researcher"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm1249022",
+          "name": "Brian Rust",
+          "description": "music advisor: 20's music"
+        },
+        {
+          "id": "nm1250186",
+          "name": "John Wadley",
+          "description": "music advisor: 20's music"
+        },
+        {
+          "id": "nm0129326",
+          "name": "Jorge Calandrelli",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0006163",
+          "name": "William Lava",
+          "description": "composer: stock music (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0709625",
+          "name": "June Randall",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0011176",
+          "name": "Margaret Adams",
+          "description": "secretary to producer"
+        },
+        {
+          "id": "nm0124795",
+          "name": "Marlene Butland",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0194964",
+          "name": "Emilio D'Alessandro",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0258265",
+          "name": "Andros Epaminondas",
+          "description": "assistant to producer"
+        },
+        {
+          "id": "nm0339846",
+          "name": "Jo Gregory",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm1248727",
+          "name": "Tad Michel",
+          "description": "hotel consultant"
+        },
+        {
+          "id": "nm0672066",
+          "name": "Pat Pennelegion",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0899920",
+          "name": "Leon Vitali",
+          "description": "personal assistant to director"
+        },
+        {
+          "id": "nm9016340",
+          "name": "John William Ault",
+          "description": "film extra (uncredited)"
+        },
+        {
+          "id": "nm0128240",
+          "name": "Paul Cadiou",
+          "description": "assistant production accountant (uncredited)"
+        },
+        {
+          "id": "nm1101562",
+          "name": "Simon Cowell",
+          "description": "runner (uncredited)"
+        },
+        {
+          "id": "nm0294522",
+          "name": "Anthony Frewin",
+          "description": "assistant: Stanley Kubrick (uncredited)"
+        },
+        {
+          "id": "nm1030853",
+          "name": "Davide Lepore",
+          "description": "Italian dubbing: Danny Torrance (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

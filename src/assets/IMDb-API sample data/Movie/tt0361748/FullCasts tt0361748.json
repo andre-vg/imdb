@@ -1,0 +1,3343 @@
+{
+  "imDbId": "tt0361748",
+  "title": "Inglourious Basterds",
+  "fullTitle": "Inglourious Basterds (2009)",
+  "type": "Movie",
+  "year": "2009",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000233",
+        "name": "Quentin Tarantino",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000233",
+        "name": "Quentin Tarantino",
+        "description": "(written by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000093",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brad Pitt",
+      "asCharacter": "Lt. Aldo Raine"
+    },
+    {
+      "id": "nm0491259",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NzQzNDc5M15BMl5BanBnXkFtZTcwNzMyOTYzNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mélanie Laurent",
+      "asCharacter": "Shosanna"
+    },
+    {
+      "id": "nm0910607",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christoph Waltz",
+      "asCharacter": "Col. Hans Landa"
+    },
+    {
+      "id": "nm0744834",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMjU0NDk2OF5BMl5BanBnXkFtZTgwMDY4MDE4NTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eli Roth",
+      "asCharacter": "Sgt. Donny Donowitz"
+    },
+    {
+      "id": "nm1055413",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0NjM2MTE5M15BMl5BanBnXkFtZTcwODIxMzcyNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Fassbender",
+      "asCharacter": "Lt. Archie Hicox"
+    },
+    {
+      "id": "nm1208167",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3MzY0Nzk2Ml5BMl5BanBnXkFtZTcwODQ0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Diane Kruger",
+      "asCharacter": "Bridget von Hammersmark"
+    },
+    {
+      "id": "nm0117709",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzliYzY1NWQtNTFhYy00NjVhLTlkOGItY2RhNDgwOTg5ZDhiXkEyXkFqcGdeQXVyNTkzODg0ODk@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Daniel Brühl",
+      "asCharacter": "Fredrick Zoller"
+    },
+    {
+      "id": "nm0001709",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NzA4ODQ3NF5BMl5BanBnXkFtZTcwNjY0MDM4OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Til Schweiger",
+      "asCharacter": "Sgt. Hugo Stiglitz"
+    },
+    {
+      "id": "nm0121972",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NTgzOTYwOV5BMl5BanBnXkFtZTcwMDkzOTY3Mg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Gedeon Burkhard",
+      "asCharacter": "Cpl. Wilhelm Wicki"
+    },
+    {
+      "id": "nm1784515",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVmZDE0ZTAtMDE4YS00N2U1LWE3ZmYtNWFkZmQ5NjdmMjYzXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Jacky Ido",
+      "asCharacter": "Marcel"
+    },
+    {
+      "id": "nm1145983",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0MTg4MzEyMl5BMl5BanBnXkFtZTcwMzUxMzAyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "B.J. Novak",
+      "asCharacter": "Pfc. Smithson Utivich"
+    },
+    {
+      "id": "nm2374829",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE0NjQ2YWQtOGVmZi00MmMyLWFiNmEtODRiYmZmOWI2NjZiXkEyXkFqcGdeQXVyMzgyODA2MTU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Omar Doom",
+      "asCharacter": "Pfc. Omar Ulmer"
+    },
+    {
+      "id": "nm0225944",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwMTY1MTMyN15BMl5BanBnXkFtZTYwMDM3NTEz._V1_Ratio0.7273_AL_.jpg",
+      "name": "August Diehl",
+      "asCharacter": "Major Hellstrom"
+    },
+    {
+      "id": "nm1616970",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmE4MjFkNTItYWUxOC00MGMwLTk4NmItYWRjMWEyNThkNDVlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Denis Ménochet",
+      "asCharacter": "Perrier LaPadite"
+    },
+    {
+      "id": "nm0343857",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTgzMGU4YzItNGVjNi00ODY5LWIyY2EtZDIxMDM5NGYzZDk5XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sylvester Groth",
+      "asCharacter": "Joseph Goebbels"
+    },
+    {
+      "id": "nm0943487",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxMjBhNzEtODRjMi00NzYwLTgzNTItMDEyZDk1NzMzZWM4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Martin Wuttke",
+      "asCharacter": "Hitler"
+    },
+    {
+      "id": "nm0000196",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0MTM1MTM5Nl5BMl5BanBnXkFtZTcwNzA1OTM3MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mike Myers",
+      "asCharacter": "General Ed Fenech"
+    },
+    {
+      "id": "nm0237838",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0ODg5MTUwMF5BMl5BanBnXkFtZTYwOTc5MDU1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Julie Dreyfus",
+      "asCharacter": "Francesca Mondino"
+    },
+    {
+      "id": "nm0759898",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTdkMzk2OTMtMTkxZC00MjYxLThmNmMtNWExZGJiMWMyYzgzXkEyXkFqcGdeQXVyMjUzODg4NjU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Richard Sammel",
+      "asCharacter": "Sgt. Rachtman"
+    },
+    {
+      "id": "nm2356421",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTg0MDhjNDEtODJiZC00NzI1LTg1ZjItZDY0MTNhZjAxY2FjXkEyXkFqcGdeQXVyMTUyNzE2MjE3._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alexander Fehling",
+      "asCharacter": "Master Sgt. Wilhelm / Pola Negri"
+    },
+    {
+      "id": "nm0001792",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyMTY0MTExNl5BMl5BanBnXkFtZTgwNTUxNjU5MzE@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Rod Taylor",
+      "asCharacter": "Winston Churchill"
+    },
+    {
+      "id": "nm1504980",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmI2ZjUyMDctODFhZi00MTBmLThiZDctMTk0ZDg1Yjk0Yzg4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sönke Möhring",
+      "asCharacter": "Pvt. Butz / Walter Frazer"
+    },
+    {
+      "id": "nm0505949",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc0YzZiYmUtODEyMC00MzYzLTliNmYtYzIzYmU1ZmM3Y2JlL2ltYWdlXkEyXkFqcGdeQXVyMDMwMTExMA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Samm Levine",
+      "asCharacter": "Pfc. Hirschberg"
+    },
+    {
+      "id": "nm1770256",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTA2NzIyMDYxMF5BMl5BanBnXkFtZTcwODUwMTc3Mg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Paul Rust",
+      "asCharacter": "Pfc. Andy Kagan"
+    },
+    {
+      "id": "nm0045209",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2ODg5OTE4MF5BMl5BanBnXkFtZTcwMTM0Mjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Bacall",
+      "asCharacter": "Pfc. Michael Zimmerman"
+    },
+    {
+      "id": "nm0777912",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MTQ3NV5BMl5BanBnXkFtZTcwNDA0OTY3Mg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Arndt Schwering-Sohnrey",
+      "asCharacter": "German Soldier / Winnetou"
+    },
+    {
+      "id": "nm0367265",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Petra Hartung",
+      "asCharacter": "German Female Soldier / Beethoven"
+    },
+    {
+      "id": "nm1796924",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MjIxODc4NF5BMl5BanBnXkFtZTcwNTA0OTY3Mg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Volker Michalowski",
+      "asCharacter": "German Soldier / Edgar Wallace (as Zack Volker Michalowski)"
+    },
+    {
+      "id": "nm0241222",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY5YzZlYjEtYTUxNy00Yjc3LWJiZTYtMzJiZjA2NGE4ODVhXkEyXkFqcGdeQXVyMzIyNzMzMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ken Duken",
+      "asCharacter": "German Soldier / Mata Hari"
+    },
+    {
+      "id": "nm0075321",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MDIzOTcwMV5BMl5BanBnXkFtZTcwNzkwNzAyMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christian Berkel",
+      "asCharacter": "Proprietor Eric"
+    },
+    {
+      "id": "nm1663883",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWFlODlhN2ItZTE4My00NWUwLTgxMDYtZjNhOTYxOGVmZmFiXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anne-Sophie Franck",
+      "asCharacter": "Mathilda"
+    },
+    {
+      "id": "nm2244205",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM3MTczNzY1MF5BMl5BanBnXkFtZTgwNjgwODgzNDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Léa Seydoux",
+      "asCharacter": "Charlotte LaPadite"
+    },
+    {
+      "id": "nm0735270",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tina Rodriguez",
+      "asCharacter": "Julie LaPadite"
+    },
+    {
+      "id": "nm3409165",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lena Friedrich",
+      "asCharacter": "Suzanne LaPadite"
+    },
+    {
+      "id": "nm0685598",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU5YmRhNjYtMzIxNi00MThjLWEyMmYtOWRmNTc2MmJlN2Y3XkEyXkFqcGdeQXVyMTUxNTc0NDU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ludger Pistor",
+      "asCharacter": "Cpt. Wolfgang"
+    },
+    {
+      "id": "nm0657822",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM0ZmY5YzktNzVlZi00YzRlLWEyODYtYzQ5YmRlYmY5YTFmXkEyXkFqcGdeQXVyMTY5MzE4Njc@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Jana Pallaske",
+      "asCharacter": "Babette"
+    },
+    {
+      "id": "nm0512050",
+      "image": "https://m.media-amazon.com/images/M/MV5BODUyOTU1ZjMtYWJhYi00ZDJlLWE1ZTYtNWM4ZTgwZDQ1ZDAzXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wolfgang Lindner",
+      "asCharacter": "Herrman #1"
+    },
+    {
+      "id": "nm2947895",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc3NjljMTctMDc5Zi00NDM4LTk1YWYtMTVkYzQ5NThmM2QxXkEyXkFqcGdeQXVyODQ3NjI2Njk@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Kranz",
+      "asCharacter": "Herrman #3"
+    },
+    {
+      "id": "nm0090674",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ1M2Y2NjgtZDRmNy00NDM5LTk2NzctN2MwYjRiNWI1ZmM4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Rainer Bock",
+      "asCharacter": "General Schonherr"
+    },
+    {
+      "id": "nm0672422",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "André Penvern",
+      "asCharacter": "Old French Veterinarian"
+    },
+    {
+      "id": "nm1389891",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzQ4NmZlM2EtYWU3Ny00NWRmLTg0NDgtNjEyZmMzYjNlNjQ3XkEyXkFqcGdeQXVyMzMxNDY5NDc@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Sebastian Hülk",
+      "asCharacter": "Hellstrom's Driver / Nazi Usher #1"
+    },
+    {
+      "id": "nm0366179",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ3YzUwZGUtNzI2YS00ODIyLWJhY2ItMTFlYzVjMGE2MTBlXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Buddy Joe Hooker",
+      "asCharacter": "Gaspar"
+    },
+    {
+      "id": "nm0275738",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carlos Fidel",
+      "asCharacter": "Pfc. Simon Sakowitz"
+    },
+    {
+      "id": "nm0117673",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christian Brückner",
+      "asCharacter": "Kliest Voice (voice)"
+    },
+    {
+      "id": "nm0251462",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZiNTRhNTMtZTM5NS00YTRmLThiMGYtNmEyNDg5ZmQ4NGNlXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Hilmar Eichhorn",
+      "asCharacter": "Emil Jannings"
+    },
+    {
+      "id": "nm0253509",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Patrick Elias",
+      "asCharacter": "Jakob Dreyfus"
+    },
+    {
+      "id": "nm1031014",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5MTMyNTA5OV5BMl5BanBnXkFtZTYwOTAzODEz._V1_Ratio0.8636_AL_.jpg",
+      "name": "Eva Löbau",
+      "asCharacter": "Miriam Dreyfus"
+    },
+    {
+      "id": "nm3467308",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Salvadore Brandt",
+      "asCharacter": "Bob Dreyfus"
+    },
+    {
+      "id": "nm3558935",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jasper Linnewedel",
+      "asCharacter": "Amos Dreyfus"
+    },
+    {
+      "id": "nm0387826",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzNzUxNDYxOV5BMl5BanBnXkFtZTYwNTY0Mjky._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wilfried Hochholdinger",
+      "asCharacter": "German Company Sgt."
+    },
+    {
+      "id": "nm3466426",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Olivier Girard",
+      "asCharacter": "Maxim's Waiter"
+    },
+    {
+      "id": "nm0770429",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Scheel",
+      "asCharacter": "General Frank"
+    },
+    {
+      "id": "nm0686563",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leo Plank",
+      "asCharacter": "Motorcycle Rider #1"
+    },
+    {
+      "id": "nm2079653",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andreas Tietz",
+      "asCharacter": "Motorcycle Rider #2"
+    },
+    {
+      "id": "nm0004149",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU4MGQ2NjMtMGYwZC00NDkzLTlkNDUtOWQ0ZWI1YWFmNWY5XkEyXkFqcGdeQXVyMDcwMDc2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bo Svenson",
+      "asCharacter": "American Colonel"
+    },
+    {
+      "id": "nm0144758",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MzkwOTYwOV5BMl5BanBnXkFtZTcwNTMyMTQwOA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Enzo G. Castellari",
+      "asCharacter": "Enzo G. Castellari"
+    },
+    {
+      "id": "nm3230097",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael August",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm0271578",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bela B.",
+      "asCharacter": "Usher #2 (uncredited)"
+    },
+    {
+      "id": "nm3072577",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM3YmFiOTAtZjc2Mi00ZTUzLThkNmItODU1YmQ2OTRlOTA2XkEyXkFqcGdeQXVyMjIxMzg4NDM@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Noémi Besedes",
+      "asCharacter": "German Movie Star (uncredited)"
+    },
+    {
+      "id": "nm5588727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ4NjBmOTEtZTc0ZC00ZjQ1LWE3NTktZTE2ZmQ2N2ZiNDU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fred Aaron Blake",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm1048635",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alex Boden",
+      "asCharacter": "Military Attaché (uncredited)"
+    },
+    {
+      "id": "nm0118653",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lisa Buckley",
+      "asCharacter": "Nazi Theatre Attendee (uncredited)"
+    },
+    {
+      "id": "nm7572327",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luke Burnyeat",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm0136563",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGYxMjVhYTQtYWQzZS00Y2RmLWIwMTctMmZiMTgzNWY4YzRhXkEyXkFqcGdeQXVyMjMwMzQ0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Hélène Cardona",
+      "asCharacter": "German Official (voice) (uncredited)"
+    },
+    {
+      "id": "nm5416712",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMwZThmNGYtZmIyZi00OTllLWEzZDYtN2ZmYTc3NmI5NDk1XkEyXkFqcGdeQXVyMTk1OTQ1MTA@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Franz Josef Danner",
+      "asCharacter": "Soldat (uncredited)"
+    },
+    {
+      "id": "nm9231584",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ryan Falcon",
+      "asCharacter": "Jewish Soldier (uncredited)"
+    },
+    {
+      "id": "nm0299706",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRhNGZiYWMtNzM4NC00MDAxLTk2YTItMTRkYjQ1YTE1M2Y1XkEyXkFqcGdeQXVyNzM0MDYyOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Guido Föhrweißer",
+      "asCharacter": "SS Major (uncredited)"
+    },
+    {
+      "id": "nm0304948",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTcxZTY0YWQtMDBhYy00ZjEyLTk0Y2QtZmQ5NmVjYmZjNmE0XkEyXkFqcGdeQXVyMzExMDExMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jake Garber",
+      "asCharacter": "German Soldier (uncredited)"
+    },
+    {
+      "id": "nm4922547",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQyMWE5OTUtZjU2OS00ZTBiLTg4ZGItMzk1MjliNDFmZDhjXkEyXkFqcGdeQXVyMjc3MTYyOTc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Claudina Hoff ter Heide",
+      "asCharacter": "German Filmstar (uncredited)"
+    },
+    {
+      "id": "nm0000168",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Samuel L. Jackson",
+      "asCharacter": "Narrator (voice) (uncredited)"
+    },
+    {
+      "id": "nm4798882",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M2ZWRlOGUtOTUwNS00MjY1LTlkYmEtYmQ3OTczMmZmNzA3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Brad Jacobowitz",
+      "asCharacter": "Pedestrian (uncredited)"
+    },
+    {
+      "id": "nm0000172",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDcxMjgxOV5BMl5BanBnXkFtZTcwODc2NTk2MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harvey Keitel",
+      "asCharacter": "OSS Commander Who Agrees to Deal (voice) (uncredited)"
+    },
+    {
+      "id": "nm10083350",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frederik Klaus",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm7419291",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arnold Montey",
+      "asCharacter": "SS Major (uncredited)"
+    },
+    {
+      "id": "nm3598310",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjBlMGQ2ZDgtMDZmNi00MjNkLThhYzUtZTJhYjY4NjJiYzcwXkEyXkFqcGdeQXVyMTQyNzUzNDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Andrew Napier",
+      "asCharacter": "Nazi Theatre Attendee (uncredited)"
+    },
+    {
+      "id": "nm0630524",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODc5MzEwOF5BMl5BanBnXkFtZTYwNTkwNjYz._V1_Ratio0.8182_AL_.jpg",
+      "name": "Greg Nicotero",
+      "asCharacter": "Gestapo Major (uncredited)"
+    },
+    {
+      "id": "nm2872394",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzAyOTkyOF5BMl5BanBnXkFtZTcwNjM3Mjk0Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Niko Novick",
+      "asCharacter": "Nazi Soldier (uncredited)"
+    },
+    {
+      "id": "nm1319840",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aleksandrs Petukhovs",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm2599174",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brendan Potter",
+      "asCharacter": "Jimi Dean (uncredited)"
+    },
+    {
+      "id": "nm1518788",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nikki Rapp",
+      "asCharacter": "German Female Soldier (uncredited)"
+    },
+    {
+      "id": "nm0711890",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sabrina Rattey",
+      "asCharacter": "German Civilian (uncredited)"
+    },
+    {
+      "id": "nm4088278",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bea-Marie Rück",
+      "asCharacter": "German Female Soldier (uncredited)"
+    },
+    {
+      "id": "nm5446636",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daniela Schwerdt",
+      "asCharacter": "Cinema Guest (uncredited)"
+    },
+    {
+      "id": "nm2972316",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Julia Smola",
+      "asCharacter": "German Civilian Woman (uncredited)"
+    },
+    {
+      "id": "nm0000233",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Quentin Tarantino",
+      "asCharacter": "First Scalped Nazi / American Soldier in 'Pride of Nation' (uncredited)"
+    },
+    {
+      "id": "nm1101058",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vitus Wieser",
+      "asCharacter": "French Waiter (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0004744",
+          "name": "Lawrence Bender",
+          "description": "producer"
+        },
+        {
+          "id": "nm0164613",
+          "name": "William Paul Clark",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm2862529",
+          "name": "Christoph Fisser",
+          "description": "co-producer (as Cristoph Fisser)"
+        },
+        {
+          "id": "nm0596572",
+          "name": "Henning Molfenter",
+          "description": "co-producer"
+        },
+        {
+          "id": "nm0605337",
+          "name": "Bruce Moriarty",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0680595",
+          "name": "Lloyd Phillips",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0767894",
+          "name": "Pilar Savone",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm1460251",
+          "name": "Erica Steinberg",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0918424",
+          "name": "Bob Weinstein",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0005544",
+          "name": "Harvey Weinstein",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm1803681",
+          "name": "Charlie Woebcken",
+          "description": "co-producer (as Carl L. Woebcken)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0724744",
+          "name": "Robert Richardson",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0579673",
+          "name": "Sally Menke",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0913300",
+          "name": "David Wasco",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm1410029",
+          "name": "Marco Bittner Rosser",
+          "description": ""
+        },
+        {
+          "id": "nm1145353",
+          "name": "Stephan O. Gessler",
+          "description": "(as Stephan Gessler)"
+        },
+        {
+          "id": "nm1004557",
+          "name": "Sebastian T. Krawinkel",
+          "description": "supervising art director (as Sebastian Krawinkel)"
+        },
+        {
+          "id": "nm2030911",
+          "name": "David Scheunemann",
+          "description": ""
+        },
+        {
+          "id": "nm1411223",
+          "name": "Francis Guibet",
+          "description": "(direction artistique: :) (uncredited)"
+        },
+        {
+          "id": "nm1426148",
+          "name": "Steve Summersgill",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0722012",
+          "name": "Sandy Reynolds-Wasco",
+          "description": "(as Sandy Reynolds Wasco)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0081318",
+          "name": "Anna B. Sheppard",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0074205",
+          "name": "Howard Berger",
+          "description": "special makeup effects"
+        },
+        {
+          "id": "nm0085328",
+          "name": "Jean Ann Black",
+          "description": "makeup artist: Mr. Pitt (as Jean Black)"
+        },
+        {
+          "id": "nm0248011",
+          "name": "Dörte Eben",
+          "description": "hair stylist"
+        },
+        {
+          "id": "nm2824493",
+          "name": "Karine Foret",
+          "description": "hair stylist"
+        },
+        {
+          "id": "nm0304948",
+          "name": "Jake Garber",
+          "description": "key special makeup effects"
+        },
+        {
+          "id": "nm0344447",
+          "name": "Pamela Grujic",
+          "description": "key hair stylist / key makeup artist"
+        },
+        {
+          "id": "nm0587666",
+          "name": "Emanuel Millar",
+          "description": "hair department head"
+        },
+        {
+          "id": "nm0630524",
+          "name": "Greg Nicotero",
+          "description": "special makeup effects supervisor (as Gregory Nicotero)"
+        },
+        {
+          "id": "nm0774756",
+          "name": "Andy Schoneberg",
+          "description": "special makeup effects"
+        },
+        {
+          "id": "nm0861253",
+          "name": "Heba Thorisdottir",
+          "description": "makeup department head"
+        },
+        {
+          "id": "nm1744050",
+          "name": "Tamar Aviv",
+          "description": "special makeup effects assistant: KNB EFX Group (uncredited)"
+        },
+        {
+          "id": "nm0130787",
+          "name": "Camille Calvet",
+          "description": "special makeup effects artist: Mike Myers (uncredited)"
+        },
+        {
+          "id": "nm0390307",
+          "name": "Grady Holder",
+          "description": "special makeup effects artist: KNB EFX Group (uncredited)"
+        },
+        {
+          "id": "nm0440740",
+          "name": "Susanne Kasper",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0668065",
+          "name": "Gary Pawlowski",
+          "description": "moldmaker: KNB EFX Group (uncredited)"
+        },
+        {
+          "id": "nm1351553",
+          "name": "Fulvio Pozzobon",
+          "description": "key hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0772016",
+          "name": "Valeska Schitthelm",
+          "description": "additional hair stylist (uncredited) / additional makeup artist (uncredited)"
+        },
+        {
+          "id": "nm1770917",
+          "name": "Katrin Schneider",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm1720604",
+          "name": "Jörn Seifert",
+          "description": "special makeup effects assistant: KNB EFX Group (uncredited)"
+        },
+        {
+          "id": "nm1168117",
+          "name": "Estelle Tolstoukine",
+          "description": "hair stylist (uncredited)"
+        },
+        {
+          "id": "nm2719582",
+          "name": "Khanh Trance",
+          "description": "hair special effects: KNB EFX Group (uncredited)"
+        },
+        {
+          "id": "nm0913615",
+          "name": "Kevin Wasner",
+          "description": "makeup designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0027516",
+          "name": "Tina Anderson",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm1765233",
+          "name": "Christopher Berg",
+          "description": "post-production supervisor: Germany"
+        },
+        {
+          "id": "nm1385793",
+          "name": "Philipp Klausing",
+          "description": "unit manager"
+        },
+        {
+          "id": "nm0570690",
+          "name": "Shannon McIntosh",
+          "description": "executive in charge of post-production: The Weinstein Company / executive in charge of production: The Weinstein Company"
+        },
+        {
+          "id": "nm1226128",
+          "name": "Miguel Ángel Poveda",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm0770429",
+          "name": "Michael Scheel",
+          "description": "unit production manager: Germany"
+        },
+        {
+          "id": "nm0933470",
+          "name": "Gregor Wilson",
+          "description": "unit production manager"
+        },
+        {
+          "id": "nm0144904",
+          "name": "Gilles Castera",
+          "description": "production manager: France (uncredited)"
+        },
+        {
+          "id": "nm0626778",
+          "name": "Arno Neubauer",
+          "description": "production manager: splinter unit (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm2284651",
+          "name": "David Boitard",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0246303",
+          "name": "Tanja Däberitz",
+          "description": "second second assistant director"
+        },
+        {
+          "id": "nm0275738",
+          "name": "Carlos Fidel",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm2812188",
+          "name": "Mara Fiedler",
+          "description": "2nd unit / first team pa / second unit"
+        },
+        {
+          "id": "nm3621748",
+          "name": "Noura Leder",
+          "description": "crowd assistant director"
+        },
+        {
+          "id": "nm3381785",
+          "name": "Jill Moriarty",
+          "description": "second second assistant director"
+        },
+        {
+          "id": "nm2680916",
+          "name": "Miguel Angelo Pate",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm2983924",
+          "name": "Loredana Rehekampff",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm2610491",
+          "name": "Oneil Sharma",
+          "description": "third assistant director (as O'Neil Sharma)"
+        },
+        {
+          "id": "nm1383920",
+          "name": "Tobias Asam",
+          "description": "second assistant director: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm1882385",
+          "name": "Delphine Bertrand",
+          "description": "assistant director: France (uncredited)"
+        },
+        {
+          "id": "nm0002410",
+          "name": "Jerome Borenstein",
+          "description": "first assistant director: France (uncredited)"
+        },
+        {
+          "id": "nm0456222",
+          "name": "Scott Kirby",
+          "description": "first assistant director: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm1805324",
+          "name": "Ariane Lacan",
+          "description": "second assistant director: France (uncredited)"
+        },
+        {
+          "id": "nm2281275",
+          "name": "Guilhem Malgoire",
+          "description": "third assistant director (uncredited)"
+        },
+        {
+          "id": "nm3106028",
+          "name": "Louis-Julien Petit",
+          "description": "assistant director: France (uncredited)"
+        },
+        {
+          "id": "nm1187651",
+          "name": "Gabriel Roth",
+          "description": "additional director (segment \"Nation's Pride\") (uncredited)"
+        },
+        {
+          "id": "nm3332970",
+          "name": "Mathieu Turi",
+          "description": "additional assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm1247753",
+          "name": "Friederike Beckert",
+          "description": "store person"
+        },
+        {
+          "id": "nm0087723",
+          "name": "Robert Blasi",
+          "description": "art department coordinator"
+        },
+        {
+          "id": "nm1135417",
+          "name": "Simon-Julien Boucherie",
+          "description": "property master (as Simon Boucherie)"
+        },
+        {
+          "id": "nm2694996",
+          "name": "Michael Düwel",
+          "description": "head of art department: Studio Babelsberg"
+        },
+        {
+          "id": "nm1538983",
+          "name": "Sabine Engelberg",
+          "description": "set designer"
+        },
+        {
+          "id": "nm1723457",
+          "name": "Enzo Enzel",
+          "description": "standby painter"
+        },
+        {
+          "id": "nm1659692",
+          "name": "David R. Evans",
+          "description": "poster artist (as David Evans)"
+        },
+        {
+          "id": "nm2454235",
+          "name": "Marc Fielk",
+          "description": "assistant prop master"
+        },
+        {
+          "id": "nm1062248",
+          "name": "Michael Fissneider",
+          "description": "set designer"
+        },
+        {
+          "id": "nm1232406",
+          "name": "Alex Friedrich",
+          "description": "prop maker"
+        },
+        {
+          "id": "nm3496436",
+          "name": "Hélène Gourdin Doherty",
+          "description": "set decoration assistant"
+        },
+        {
+          "id": "nm1571423",
+          "name": "Dierk Grahlow",
+          "description": "construction manager"
+        },
+        {
+          "id": "nm3047240",
+          "name": "Sebastian Hanusch",
+          "description": "stand-by props assistant"
+        },
+        {
+          "id": "nm3733690",
+          "name": "Markus Hasler",
+          "description": "foreman (as Markus 'Hasi' Hasler)"
+        },
+        {
+          "id": "nm1178593",
+          "name": "Ingeborg Heinemann",
+          "description": "assistant set decorator"
+        },
+        {
+          "id": "nm3764587",
+          "name": "Emmanuelle Hoessly",
+          "description": "set designer"
+        },
+        {
+          "id": "nm3009372",
+          "name": "Jan Hülpüsch",
+          "description": "graphic designer"
+        },
+        {
+          "id": "nm0450553",
+          "name": "Christoph Kettenring",
+          "description": "set decoration buyer"
+        },
+        {
+          "id": "nm0474067",
+          "name": "Oliver Kuhlmann",
+          "description": "standby props (as Oliver 'Kuhli' Kuhlmann)"
+        },
+        {
+          "id": "nm1768742",
+          "name": "Matthias Kulewatz",
+          "description": "assistant construction manager"
+        },
+        {
+          "id": "nm2747925",
+          "name": "Liliana Lambriev",
+          "description": "graphic designer"
+        },
+        {
+          "id": "nm3733644",
+          "name": "Christoph Lanksch",
+          "description": "leadman"
+        },
+        {
+          "id": "nm0647843",
+          "name": "Andreas Olshausen",
+          "description": "standby art director (as Andreas 'Ebbi' Olshausen)"
+        },
+        {
+          "id": "nm3535518",
+          "name": "Marguerite Ots",
+          "description": "head painter"
+        },
+        {
+          "id": "nm1844852",
+          "name": "Benjamin Palmer",
+          "description": "supervising prop maker (as Ben Palmer)"
+        },
+        {
+          "id": "nm3423558",
+          "name": "Roman Peisger",
+          "description": "standby carpenter"
+        },
+        {
+          "id": "nm3733596",
+          "name": "Petra Pieper",
+          "description": "greens person"
+        },
+        {
+          "id": "nm2126639",
+          "name": "Michelle Rose",
+          "description": "props coordinator"
+        },
+        {
+          "id": "nm3536620",
+          "name": "Martin Schultz",
+          "description": "stand by props assistant"
+        },
+        {
+          "id": "nm1249207",
+          "name": "Sascha Strutz",
+          "description": "prop buyer"
+        },
+        {
+          "id": "nm0856568",
+          "name": "Otu Tetteh",
+          "description": "props assistant"
+        },
+        {
+          "id": "nm0902189",
+          "name": "Jacob von Dohnanyi",
+          "description": "prop maker"
+        },
+        {
+          "id": "nm0916636",
+          "name": "Joey Weber",
+          "description": "set decoration buyer"
+        },
+        {
+          "id": "nm1271110",
+          "name": "Bülent Akgün",
+          "description": "on set dresser (uncredited)"
+        },
+        {
+          "id": "nm1237714",
+          "name": "Jerome Fortier",
+          "description": "head carpenter (uncredited)"
+        },
+        {
+          "id": "nm2837061",
+          "name": "Jens Gaube",
+          "description": "set dresser (uncredited)"
+        },
+        {
+          "id": "nm2352690",
+          "name": "Leif Heanzo",
+          "description": "props concept artist (uncredited)"
+        },
+        {
+          "id": "nm1001064",
+          "name": "Andreas Horstmann",
+          "description": "additional set decoration buyer (uncredited)"
+        },
+        {
+          "id": "nm6637738",
+          "name": "Paul M. Nolan",
+          "description": "prop maker (uncredited)"
+        },
+        {
+          "id": "nm1170176",
+          "name": "Stephanie Rass",
+          "description": "set designer (uncredited)"
+        },
+        {
+          "id": "nm2355238",
+          "name": "Judith Rosskoth",
+          "description": "assistant set decorator (uncredited)"
+        },
+        {
+          "id": "nm2871578",
+          "name": "Amelle Said Saleh",
+          "description": "assistant set decorator (uncredited)"
+        },
+        {
+          "id": "nm1426148",
+          "name": "Steve Summersgill",
+          "description": "2nd Unit Art Director (uncredited)"
+        },
+        {
+          "id": "nm2240989",
+          "name": "Alwara Thaler",
+          "description": "set decoration shopper (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm1883845",
+          "name": "Robert Althoff",
+          "description": "sound mix technician"
+        },
+        {
+          "id": "nm0042042",
+          "name": "Paul Aulicino",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0062741",
+          "name": "Gregg Baxter",
+          "description": "adr supervisor"
+        },
+        {
+          "id": "nm0169420",
+          "name": "Harry Cohen",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0242332",
+          "name": "Benjamin Dunker",
+          "description": "utility sound technician"
+        },
+        {
+          "id": "nm0282327",
+          "name": "Paul Flinchbaugh",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0317696",
+          "name": "Hector C. Gika",
+          "description": "sound effects editor (as Hector Gika)"
+        },
+        {
+          "id": "nm0366730",
+          "name": "Tom Hartig",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0415345",
+          "name": "Craig S. Jaeger",
+          "description": "foley editor (as Craig Jaeger)"
+        },
+        {
+          "id": "nm0445728",
+          "name": "Michael Keller",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0483341",
+          "name": "Tony Lamberti",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0591444",
+          "name": "Michael Minkler",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm3346677",
+          "name": "Dror Mohar",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0605321",
+          "name": "James Moriana",
+          "description": "foley artist (as James M. Moriana)"
+        },
+        {
+          "id": "nm0637810",
+          "name": "Nancy Nugent",
+          "description": "dialogue editor (as Nancy Nugent Title)"
+        },
+        {
+          "id": "nm2357824",
+          "name": "Diego Osorio",
+          "description": "dubbing"
+        },
+        {
+          "id": "nm0679428",
+          "name": "Margit Pfeiffer",
+          "description": "dialogue supervisor"
+        },
+        {
+          "id": "nm0778439",
+          "name": "Ann Scibelli",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0817876",
+          "name": "Branden Spencer",
+          "description": "supervising assistant sound editor"
+        },
+        {
+          "id": "nm0823758",
+          "name": "Wylie Stateman",
+          "description": "supervising sound editor"
+        },
+        {
+          "id": "nm0880360",
+          "name": "Mark Ulano",
+          "description": "production sound mixer"
+        },
+        {
+          "id": "nm1916276",
+          "name": "Brett Voss",
+          "description": "foley mixer"
+        },
+        {
+          "id": "nm0928989",
+          "name": "Jeffrey Wilhoit",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0949450",
+          "name": "David Young",
+          "description": "post-production sound engineer (as David M. Young)"
+        },
+        {
+          "id": "nm1129167",
+          "name": "Richard Burnette",
+          "description": "facility manager: Todd-AO (uncredited)"
+        },
+        {
+          "id": "nm3561873",
+          "name": "Michael Karl Huber",
+          "description": "sound dailies (uncredited)"
+        },
+        {
+          "id": "nm2068275",
+          "name": "Magic A. Moreno",
+          "description": "Mag and Digital Transfer Engineer (uncredited)"
+        },
+        {
+          "id": "nm1623319",
+          "name": "Steve Schatz",
+          "description": "assistant re-recording mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0275382",
+          "name": "Gerd Nefzer",
+          "description": "special effects supervisor (as Gerd Feuchter)"
+        },
+        {
+          "id": "nm0624338",
+          "name": "Uli Nefzer",
+          "description": "special effects supervisor"
+        },
+        {
+          "id": "nm0712194",
+          "name": "Bernd Rautenberg",
+          "description": "key armourer"
+        },
+        {
+          "id": "nm0773335",
+          "name": "Jens Schmiedel",
+          "description": "senior armourer"
+        },
+        {
+          "id": "nm4005815",
+          "name": "Thomas Trocha",
+          "description": "special effects technician"
+        },
+        {
+          "id": "nm1158449",
+          "name": "Herbert Blank",
+          "description": "special effects foreman (uncredited)"
+        },
+        {
+          "id": "nm2423743",
+          "name": "Nils Bleeck",
+          "description": "special effects technician: dailies (uncredited)"
+        },
+        {
+          "id": "nm2689856",
+          "name": "Jaroslav Bucek",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm3194073",
+          "name": "Tom Christ",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm3163900",
+          "name": "James Cowley",
+          "description": "special effects technician: dailies (uncredited)"
+        },
+        {
+          "id": "nm2114718",
+          "name": "Christoph Gartlacher",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0311919",
+          "name": "Markus Geiger",
+          "description": "special effects foreman (uncredited)"
+        },
+        {
+          "id": "nm1912126",
+          "name": "Joe Giles",
+          "description": "special effects technician: mold department, K.N.B. Effects Group (uncredited)"
+        },
+        {
+          "id": "nm1819546",
+          "name": "Brian Goehring",
+          "description": "special makeup effects crew: mold department K.N.B. EFX Group Inc. (uncredited)"
+        },
+        {
+          "id": "nm1367096",
+          "name": "Rolf Hanke",
+          "description": "accountant: special effects (uncredited)"
+        },
+        {
+          "id": "nm2832051",
+          "name": "Andreas Herberg",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0381060",
+          "name": "Till Hertrich",
+          "description": "special effects foreman (uncredited)"
+        },
+        {
+          "id": "nm1232719",
+          "name": "Wolfgang Higler",
+          "description": "special effects foreman (uncredited)"
+        },
+        {
+          "id": "nm0509660",
+          "name": "Sylvio Lienert",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm4558656",
+          "name": "Solon Luigi",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0527011",
+          "name": "Michael Luppino",
+          "description": "special effects foreman (uncredited)"
+        },
+        {
+          "id": "nm0995522",
+          "name": "Klaus Mielich",
+          "description": "special effects technical & crew coordinator (uncredited)"
+        },
+        {
+          "id": "nm1182110",
+          "name": "Gonzalo Outeda Giménez",
+          "description": "special effects senior technician (uncredited)"
+        },
+        {
+          "id": "nm2115928",
+          "name": "Monty Ploch",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm0773093",
+          "name": "Marcus Preussing",
+          "description": "special effects senior pyrotechnician (uncredited)"
+        },
+        {
+          "id": "nm2688102",
+          "name": "Claudius Rauch",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0748889",
+          "name": "Michael Rudnik",
+          "description": "special effects senior technician (uncredited)"
+        },
+        {
+          "id": "nm1713357",
+          "name": "Jürgen Thiel",
+          "description": "special effects senior technician (uncredited)"
+        },
+        {
+          "id": "nm0857946",
+          "name": "Thomas Thiele",
+          "description": "special effects senior technician (uncredited)"
+        },
+        {
+          "id": "nm1338286",
+          "name": "Roland Weder",
+          "description": "special effects technician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0243094",
+          "name": "Lester Dunton",
+          "description": "visual effects cameraman"
+        },
+        {
+          "id": "nm0004375",
+          "name": "John Dykstra",
+          "description": "visual effects designer"
+        },
+        {
+          "id": "nm0612260",
+          "name": "Viktor Muller",
+          "description": "visual effects supervisor (as Victor Mueller)"
+        },
+        {
+          "id": "nm0598791",
+          "name": "Rodney Montague",
+          "description": "CIS Hollywood (uncredited)"
+        },
+        {
+          "id": "nm1720984",
+          "name": "Caleb Owens",
+          "description": "visual effects artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm1057928",
+          "name": "Zoë Bell",
+          "description": "stunt double: Shosanna and Bridget"
+        },
+        {
+          "id": "nm7402887",
+          "name": "Werner Bernstaedt",
+          "description": "stunt rigger"
+        },
+        {
+          "id": "nm5346092",
+          "name": "Danny Bortfeld",
+          "description": "stunt performer"
+        },
+        {
+          "id": "nm8633924",
+          "name": "Sebastiano Cartier",
+          "description": "stunts"
+        },
+        {
+          "id": "nm11419557",
+          "name": "Jeff Dashnaw",
+          "description": "stunt coordinator"
+        },
+        {
+          "id": "nm0204294",
+          "name": "Bud Davis",
+          "description": "stunt coordinator"
+        },
+        {
+          "id": "nm3250491",
+          "name": "Michael Duessel",
+          "description": "stunt performer"
+        },
+        {
+          "id": "nm2350262",
+          "name": "Sascha Girndt",
+          "description": "stunt performer"
+        },
+        {
+          "id": "nm11028481",
+          "name": "Dennis Grzesczak",
+          "description": "stunts"
+        },
+        {
+          "id": "nm3733888",
+          "name": "Kristin Haberland",
+          "description": "stunt double: Francesca Mondino"
+        },
+        {
+          "id": "nm0405449",
+          "name": "Ralf Haeger",
+          "description": "key stunt rigger"
+        },
+        {
+          "id": "nm1118667",
+          "name": "Sönke Korries",
+          "description": "stunt double: Hermann Göring"
+        },
+        {
+          "id": "nm2350668",
+          "name": "Alexandra Nazahn",
+          "description": "stunt double: Shosanna"
+        },
+        {
+          "id": "nm1661320",
+          "name": "Antje Rau",
+          "description": "stunt coordinator: Germany (as Antje 'Angie' Rau)"
+        },
+        {
+          "id": "nm0871839",
+          "name": "Tim Trella",
+          "description": "utility stunts"
+        },
+        {
+          "id": "nm1185274",
+          "name": "Jörg Annen",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm3175571",
+          "name": "Uwe Arndt",
+          "description": "stunt rigger (uncredited)"
+        },
+        {
+          "id": "nm0087777",
+          "name": "Sarah Blaßkiewitz",
+          "description": "assistant stunt coordinator (uncredited)"
+        },
+        {
+          "id": "nm2442563",
+          "name": "Ulrik Bruchholz",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm2354199",
+          "name": "Jan Böhme",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm0211042",
+          "name": "Nicolas de Pruyssenaere",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm3250491",
+          "name": "Michael Duessel",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm1919646",
+          "name": "Christian Döbler",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1954550",
+          "name": "Ferdi Fischer",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1029508",
+          "name": "Oliver Fritsche",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0299706",
+          "name": "Guido Föhrweißer",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1331642",
+          "name": "Christian Gneissl",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1026045",
+          "name": "Martin Goeres",
+          "description": "stunt double (uncredited) / stunt performer (uncredited)"
+        },
+        {
+          "id": "nm3776825",
+          "name": "Andreas Grusinski",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm3467107",
+          "name": "Thomas Hacikoglu",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2450019",
+          "name": "Tom Hanslmaier",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2356796",
+          "name": "Udo Harnach",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1141540",
+          "name": "Christian Hebenstreit",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm3523474",
+          "name": "Thomas Heubeck",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm2351821",
+          "name": "Timo Honsa",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm4088805",
+          "name": "Florian Hotz",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm4518848",
+          "name": "Bernhard Häfner",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm3461546",
+          "name": "Oliver Juhrs",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm3304760",
+          "name": "Steffen Jung",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm4014684",
+          "name": "Alrik Kreemke",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2394426",
+          "name": "Alessija Lause",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0530991",
+          "name": "Marco Maas",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2955070",
+          "name": "Andreas Mintert",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1221392",
+          "name": "Mike Möller",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm1545947",
+          "name": "Christian Petersson",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1551274",
+          "name": "Bernd Pietsch",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0686563",
+          "name": "Leo Plank",
+          "description": "stunt rigger (uncredited)"
+        },
+        {
+          "id": "nm0699354",
+          "name": "Wojtek Prygel",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm2859078",
+          "name": "Dirk Quasten",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0704646",
+          "name": "Wolfgang Raach",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2351578",
+          "name": "Swen Raschka",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1641612",
+          "name": "Lutz Schleisner",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1032557",
+          "name": "Rene Schobes",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm3575043",
+          "name": "Alexander Schröder",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm1025329",
+          "name": "Wolfgang Stegemann",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0826147",
+          "name": "Mac Steinmeier",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0863432",
+          "name": "Ralf Tillmann",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0897371",
+          "name": "Vladimir Vilanov",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm0906010",
+          "name": "Mark Aaron Wagner",
+          "description": "fire gag stunt (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1781082",
+          "name": "Juan José Alcaide",
+          "description": "senior lighting grip (as Juan Jose Alcaide)"
+        },
+        {
+          "id": "nm2844967",
+          "name": "Mithat Baskan",
+          "description": "lighting grip"
+        },
+        {
+          "id": "nm0108342",
+          "name": "Geraldine Brezca",
+          "description": "clapper: \"camera angel\""
+        },
+        {
+          "id": "nm3690657",
+          "name": "Christian Brubach",
+          "description": "truss rigger"
+        },
+        {
+          "id": "nm0126644",
+          "name": "Dieter Bähr",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0145510",
+          "name": "Celio Castro",
+          "description": "senior set lighting"
+        },
+        {
+          "id": "nm1029068",
+          "name": "Birgit Dierken",
+          "description": "first assistant camera: \"b\" camera (as Birgit 'Bebe' Dierken)"
+        },
+        {
+          "id": "nm1029069",
+          "name": "Nicole Dierken",
+          "description": "second assistant camera: \"b\" camera"
+        },
+        {
+          "id": "nm0241042",
+          "name": "François Duhamel",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm1212825",
+          "name": "Vladimir Duranovic",
+          "description": "grip"
+        },
+        {
+          "id": "nm0249354",
+          "name": "Matthias Edinger",
+          "description": "rigging best boy (as Matthias 'Eddi' Edinger)"
+        },
+        {
+          "id": "nm3733634",
+          "name": "Jacob Engel",
+          "description": "grip"
+        },
+        {
+          "id": "nm0257278",
+          "name": "Jost Engelmayer",
+          "description": "set lighting"
+        },
+        {
+          "id": "nm1024312",
+          "name": "Sonny Christian Fels",
+          "description": "set lighting (as Sonny Fels)"
+        },
+        {
+          "id": "nm1139878",
+          "name": "Stefan Förster",
+          "description": "genny operator"
+        },
+        {
+          "id": "nm0342901",
+          "name": "Harry Groepler",
+          "description": "practical electrician (as Harry 'Abu' Groepler)"
+        },
+        {
+          "id": "nm1049890",
+          "name": "Sascha Görlich",
+          "description": "lighting grip"
+        },
+        {
+          "id": "nm0351986",
+          "name": "Oliver Haas",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0369435",
+          "name": "Dietmar Haupt",
+          "description": "rigging gaffer"
+        },
+        {
+          "id": "nm2358203",
+          "name": "Dan Jung",
+          "description": "set lighting"
+        },
+        {
+          "id": "nm0454185",
+          "name": "Ian Kincaid",
+          "description": "gaffer (as Ian R. Kincaid)"
+        },
+        {
+          "id": "nm2339303",
+          "name": "Thorsten Kosselek",
+          "description": "lighting grip (as Thorsten Kosellek)"
+        },
+        {
+          "id": "nm3733759",
+          "name": "Patrick Kubat",
+          "description": "rigging electrician"
+        },
+        {
+          "id": "nm3314069",
+          "name": "Sebastian Lindner",
+          "description": "lighting grip"
+        },
+        {
+          "id": "nm3622663",
+          "name": "Sebastian Mayer",
+          "description": "grip"
+        },
+        {
+          "id": "nm3733659",
+          "name": "Jörg Meinert",
+          "description": "lighting grip"
+        },
+        {
+          "id": "nm0582900",
+          "name": "Sebastian Meuschel",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm3354750",
+          "name": "Roland Moses",
+          "description": "rigging electrician (as Roland 'Mo' Modes)"
+        },
+        {
+          "id": "nm1317429",
+          "name": "Gero Neumann",
+          "description": "second assistant camera: \"a\" camera"
+        },
+        {
+          "id": "nm2566848",
+          "name": "Ilko Petkow",
+          "description": "grip"
+        },
+        {
+          "id": "nm2571705",
+          "name": "Matthias Pilz",
+          "description": "loader"
+        },
+        {
+          "id": "nm0687714",
+          "name": "Markus Pluta",
+          "description": "best boy grip"
+        },
+        {
+          "id": "nm0695823",
+          "name": "Helmut Prein",
+          "description": "gaffer: Germany"
+        },
+        {
+          "id": "nm0737337",
+          "name": "Thibault Roginas",
+          "description": "additional electrician"
+        },
+        {
+          "id": "nm2363691",
+          "name": "Christian Rybka",
+          "description": "rigging electrician"
+        },
+        {
+          "id": "nm0755580",
+          "name": "Till Sadlowsky",
+          "description": "genny operator (as Till Sadlowski)"
+        },
+        {
+          "id": "nm1236323",
+          "name": "Christian Scheibe",
+          "description": "grip"
+        },
+        {
+          "id": "nm0774666",
+          "name": "Axel Scholz",
+          "description": "set lighting"
+        },
+        {
+          "id": "nm0851692",
+          "name": "Gregor Tavenner",
+          "description": "first assistant camera: \"a\" camera"
+        },
+        {
+          "id": "nm1303209",
+          "name": "Mike Wächter",
+          "description": "dimmer board operator"
+        },
+        {
+          "id": "nm1388119",
+          "name": "Uwe Zegnotat",
+          "description": "camera trainee"
+        },
+        {
+          "id": "nm1710177",
+          "name": "Victor Abadia",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm3375355",
+          "name": "Martin Ausmane",
+          "description": "assistant video operator (uncredited) / video assist operator: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm1308314",
+          "name": "Jean-François Drigeard",
+          "description": "gaffer: Paris (uncredited)"
+        },
+        {
+          "id": "nm1308347",
+          "name": "Manuel Gaspar",
+          "description": "best boy: France (uncredited)"
+        },
+        {
+          "id": "nm2882569",
+          "name": "Jan Grunwald",
+          "description": "additional second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm2277933",
+          "name": "Vanessa Guez",
+          "description": "additional second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm1420373",
+          "name": "Eddie Handschak",
+          "description": "video operator: main unit (uncredited)"
+        },
+        {
+          "id": "nm0402902",
+          "name": "Kenneth Hunter",
+          "description": "photographer: architectural research, Los Angeles (uncredited)"
+        },
+        {
+          "id": "nm0420716",
+          "name": "Rafael Jeneral",
+          "description": "second assistant camera: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm2282570",
+          "name": "Daniel Jopp",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm1203089",
+          "name": "Moritz Kaethner",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm2572553",
+          "name": "Heiko Matting",
+          "description": "grip: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm3020865",
+          "name": "Kai Miedendorp",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0676469",
+          "name": "Hinrich Peters",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm5924114",
+          "name": "Marek Radolf",
+          "description": "balloon lighting supervisor (uncredited)"
+        },
+        {
+          "id": "nm1247093",
+          "name": "Lars Richter",
+          "description": "first assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0834505",
+          "name": "Leah Striker",
+          "description": "camera operator: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm0839814",
+          "name": "Bjoern Susen",
+          "description": "gaffer: second unit (uncredited)"
+        },
+        {
+          "id": "nm1376793",
+          "name": "Christian Wehrle",
+          "description": "key video assist (uncredited)"
+        },
+        {
+          "id": "nm0002152",
+          "name": "Jörg Widmer",
+          "description": "director of photography: splinter unit (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm3467308",
+          "name": "Salvadore Brandt",
+          "description": "extras casting assistant"
+        },
+        {
+          "id": "nm0046384",
+          "name": "Simone Bär",
+          "description": "casting: Germany"
+        },
+        {
+          "id": "nm0136171",
+          "name": "Olivier Carbone",
+          "description": "casting: France"
+        },
+        {
+          "id": "nm0364456",
+          "name": "Barbara Harris",
+          "description": "adr voice casting"
+        },
+        {
+          "id": "nm1937563",
+          "name": "Jenny Jue",
+          "description": "casting: US"
+        },
+        {
+          "id": "nm3733677",
+          "name": "Alexandra Montag",
+          "description": "assistant casting director: Germany"
+        },
+        {
+          "id": "nm1142490",
+          "name": "Johanna Ragwitz",
+          "description": "extras casting director: Agentur Filmgesichter"
+        },
+        {
+          "id": "nm0712874",
+          "name": "Johanna Ray",
+          "description": "casting: US"
+        },
+        {
+          "id": "nm3451508",
+          "name": "Mathilde Snodgrass",
+          "description": "assistant casting director: France"
+        },
+        {
+          "id": "nm2816901",
+          "name": "Patrick Winkler",
+          "description": "extras casting assistant"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0004714",
+          "name": "Giorgio Armani",
+          "description": "costume designer: Brad Pitt's evening attire"
+        },
+        {
+          "id": "nm2838245",
+          "name": "Daniela Backes",
+          "description": "principal set costumer"
+        },
+        {
+          "id": "nm0109940",
+          "name": "Daryl Bristow",
+          "description": "costume supervisor"
+        },
+        {
+          "id": "nm1862410",
+          "name": "Georgina Curtis",
+          "description": "military costumer"
+        },
+        {
+          "id": "nm2782086",
+          "name": "Markus Ernst",
+          "description": "military costumer"
+        },
+        {
+          "id": "nm0295131",
+          "name": "Brigitte Friedländer-Rodriguez",
+          "description": "wardrobe supervisor (as Brigitte Rodriguez)"
+        },
+        {
+          "id": "nm3733771",
+          "name": "Christian Goddard",
+          "description": "military costumer"
+        },
+        {
+          "id": "nm0485342",
+          "name": "Gary Lane",
+          "description": "military uniform supervisor"
+        },
+        {
+          "id": "nm0517701",
+          "name": "Anna Isabell Logen",
+          "description": "personal costumer: Mr. Pitt (as Isabell Logen)"
+        },
+        {
+          "id": "nm3073108",
+          "name": "Jenny Lorenz",
+          "description": "principal set costumer"
+        },
+        {
+          "id": "nm1681897",
+          "name": "Metin Misdik",
+          "description": "key principal costumer"
+        },
+        {
+          "id": "nm1075705",
+          "name": "Peter Paul",
+          "description": "wardrobe master"
+        },
+        {
+          "id": "nm2129880",
+          "name": "Meike Schlegel",
+          "description": "assistant costume designer"
+        },
+        {
+          "id": "nm1429742",
+          "name": "Michelle Wickland",
+          "description": "principal costumer / stunt costumer"
+        },
+        {
+          "id": "nm2837108",
+          "name": "Jeanette Apel",
+          "description": "dress pattern maker (uncredited)"
+        },
+        {
+          "id": "nm1510940",
+          "name": "Laurence Caines",
+          "description": "key costumer (uncredited)"
+        },
+        {
+          "id": "nm2019859",
+          "name": "Brita Hofmann",
+          "description": "costume textile artist (uncredited)"
+        },
+        {
+          "id": "nm3175709",
+          "name": "Anna Klages",
+          "description": "set costumer (uncredited)"
+        },
+        {
+          "id": "nm2002964",
+          "name": "Tina-Jane Krohn",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm1646602",
+          "name": "Maja Meschede",
+          "description": "costume buyer (uncredited)"
+        },
+        {
+          "id": "nm2289054",
+          "name": "Sonia Inés Rocha",
+          "description": "assistant textile artist (uncredited)"
+        },
+        {
+          "id": "nm3514886",
+          "name": "John Rowe",
+          "description": "military costumer (uncredited)"
+        },
+        {
+          "id": "nm1179364",
+          "name": "Anja Vesterling",
+          "description": "costume textile artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0071414",
+          "name": "Sheryl Benko",
+          "description": "post-production coordinator"
+        },
+        {
+          "id": "nm2226317",
+          "name": "Lee Bennett",
+          "description": "colorist: dailies"
+        },
+        {
+          "id": "nm3197392",
+          "name": "Alexander Boldt",
+          "description": "second assistant editor: film, Germany"
+        },
+        {
+          "id": "nm1171691",
+          "name": "Etienne Boussac",
+          "description": "first assistant editor: film, Germany"
+        },
+        {
+          "id": "nm0123163",
+          "name": "Gary Burritt",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm0195549",
+          "name": "Joe D'Augustine",
+          "description": "additional editor"
+        },
+        {
+          "id": "nm1676871",
+          "name": "Julia Dupuis",
+          "description": "second assistant editor: Avid, Germany"
+        },
+        {
+          "id": "nm1230266",
+          "name": "Julie Garcés",
+          "description": "assistant editor: Avid"
+        },
+        {
+          "id": "nm1140772",
+          "name": "Toska Hartmann",
+          "description": "first assistant editor: Avid, Germany (as Toska Baltruschat)"
+        },
+        {
+          "id": "nm1194804",
+          "name": "Evan Henke",
+          "description": "first assistant editor: Avid"
+        },
+        {
+          "id": "nm0394161",
+          "name": "Erin Michelle Hopkins",
+          "description": "assistant editor: film (as Erin Hopkins)"
+        },
+        {
+          "id": "nm0426258",
+          "name": "Stephanie Johnson",
+          "description": "first assistant editor: film"
+        },
+        {
+          "id": "nm2323984",
+          "name": "Nancy Jundi",
+          "description": "digital editing systems support"
+        },
+        {
+          "id": "nm2778165",
+          "name": "Kai Lamberton",
+          "description": "third assistant editor: Germany"
+        },
+        {
+          "id": "nm0524313",
+          "name": "Yvan Lucas",
+          "description": "colorist"
+        },
+        {
+          "id": "nm2762682",
+          "name": "Tom Reiser",
+          "description": "colorist assistant"
+        },
+        {
+          "id": "nm2872355",
+          "name": "Matthew Sakata",
+          "description": "editorial production assistant"
+        },
+        {
+          "id": "nm2331729",
+          "name": "Adam M. Weber",
+          "description": "apprentice editor (as Adam Weber)"
+        },
+        {
+          "id": "nm13246829",
+          "name": "Roland Eisinger",
+          "description": "digital intermediate film scanner: Efilm (uncredited)"
+        },
+        {
+          "id": "nm2586111",
+          "name": "Brian George",
+          "description": "colorist: Efilm (uncredited)"
+        },
+        {
+          "id": "nm1487689",
+          "name": "Traudl Nicholson",
+          "description": "color timer (uncredited)"
+        },
+        {
+          "id": "nm0664932",
+          "name": "Jim Passon",
+          "description": "color timer: Deluxe (uncredited)"
+        },
+        {
+          "id": "nm1733953",
+          "name": "Christian Prejza",
+          "description": "digital intermediate producer (uncredited)"
+        },
+        {
+          "id": "nm1859392",
+          "name": "Lisa Tutunjian",
+          "description": "digital intermediate editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm8180022",
+          "name": "Fabian Blecher",
+          "description": "location production assistant"
+        },
+        {
+          "id": "nm3205023",
+          "name": "Simon Daniel",
+          "description": "location assistant"
+        },
+        {
+          "id": "nm3204463",
+          "name": "Guido Fischer",
+          "description": "assistant location manager"
+        },
+        {
+          "id": "nm0344146",
+          "name": "Klaus Große Darrelmann",
+          "description": "location manager"
+        },
+        {
+          "id": "nm3204384",
+          "name": "David Pieper",
+          "description": "location assistant"
+        },
+        {
+          "id": "nm1997186",
+          "name": "Anja Wüstefeld",
+          "description": "location coordinator"
+        },
+        {
+          "id": "nm1808924",
+          "name": "Mathias Braun",
+          "description": "assistant location manager: Ottendorf (uncredited)"
+        },
+        {
+          "id": "nm4499662",
+          "name": "Joshua Gallon",
+          "description": "Location PA: splinter unit : second unit (uncredited)"
+        },
+        {
+          "id": "nm1774566",
+          "name": "Yann Jouannic",
+          "description": "location assistant: Paris (uncredited)"
+        },
+        {
+          "id": "nm1292955",
+          "name": "Arnaud Kaiser",
+          "description": "location manager (uncredited)"
+        },
+        {
+          "id": "nm3342477",
+          "name": "Thomas Lauterkorn",
+          "description": "location scout (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0708719",
+          "name": "Mary Ramos",
+          "description": "music supervisor"
+        },
+        {
+          "id": "nm1312824",
+          "name": "Jim Schultz",
+          "description": "music editor"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0457725",
+          "name": "Martin Kitrosser",
+          "description": "script supervisor"
+        },
+        {
+          "id": "nm0895528",
+          "name": "Caroline Veyssière",
+          "description": "additional script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm3771307",
+          "name": "Timo Dobbert",
+          "description": "driver: cast"
+        },
+        {
+          "id": "nm1006206",
+          "name": "Tom Ehrhardt",
+          "description": "picture vehicle coordinator"
+        },
+        {
+          "id": "nm1385310",
+          "name": "Florian Haeger",
+          "description": "driver: cast (as Florian Häger)"
+        },
+        {
+          "id": "nm0401146",
+          "name": "Daniel Huhn",
+          "description": "driver: cast"
+        },
+        {
+          "id": "nm3771794",
+          "name": "Wolfgang Hütter",
+          "description": "driver: producers (as Wolfgang 'Wuff' Hütter)"
+        },
+        {
+          "id": "nm1385822",
+          "name": "Nils Konrad",
+          "description": "drivers' captain"
+        },
+        {
+          "id": "nm1999122",
+          "name": "Erich Kraus",
+          "description": "driver: cast"
+        },
+        {
+          "id": "nm5447047",
+          "name": "Nicole Kreyßel",
+          "description": "production driver"
+        },
+        {
+          "id": "nm1771114",
+          "name": "Oliver Kueper-Grobecker",
+          "description": "transportation coordinator (as Oliver Küper)"
+        },
+        {
+          "id": "nm3284352",
+          "name": "Georg Meierotto",
+          "description": "driver: Mr. Tarantino"
+        },
+        {
+          "id": "nm1863097",
+          "name": "Birk Müller",
+          "description": "transportation captain"
+        },
+        {
+          "id": "nm6503226",
+          "name": "Robert J. Napier",
+          "description": "assistant transportation coordinator (as Robert James Napier)"
+        },
+        {
+          "id": "nm1386782",
+          "name": "Andreas Pauli",
+          "description": "driver: Mr. Bender"
+        },
+        {
+          "id": "nm3733607",
+          "name": "Jan Prudöhl",
+          "description": "head of department: trailers"
+        },
+        {
+          "id": "nm3838170",
+          "name": "Daniel Steiner",
+          "description": "driver: producers"
+        },
+        {
+          "id": "nm1488819",
+          "name": "Patrick Wiethoff",
+          "description": "driver: props"
+        },
+        {
+          "id": "nm2421642",
+          "name": "Jalal Aqdim",
+          "description": "picture car assistant coordinator: paris unit (uncredited)"
+        },
+        {
+          "id": "nm2036709",
+          "name": "Maxime Couteret",
+          "description": "transportation captain (uncredited)"
+        },
+        {
+          "id": "nm2941940",
+          "name": "Dennis Erdmann",
+          "description": "production driver (uncredited)"
+        },
+        {
+          "id": "nm2596017",
+          "name": "Marco Fischer",
+          "description": "truck wrangler (uncredited)"
+        },
+        {
+          "id": "nm1947698",
+          "name": "Charles Heidet",
+          "description": "picture car coordinator: Paris (uncredited)"
+        },
+        {
+          "id": "nm2138672",
+          "name": "Steffen Knabe",
+          "description": "production driver (uncredited)"
+        },
+        {
+          "id": "nm3472262",
+          "name": "Andreas Korpel",
+          "description": "additional truck driver: Paris (uncredited)"
+        },
+        {
+          "id": "nm2016158",
+          "name": "Matthias Langwich",
+          "description": "driver (uncredited)"
+        },
+        {
+          "id": "nm1387315",
+          "name": "Jérôme Servant",
+          "description": "transportation coordinator: France (uncredited)"
+        },
+        {
+          "id": "nm3989623",
+          "name": "Thomas Suess",
+          "description": "facilities crew (uncredited)"
+        },
+        {
+          "id": "nm0837335",
+          "name": "Olivier Suffert",
+          "description": "driver: Paris (uncredited)"
+        },
+        {
+          "id": "nm1108184",
+          "name": "Silke Werner",
+          "description": "driver: cast (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm3219998",
+          "name": "Melissa Altman",
+          "description": "assistant: Ms. Steinberg"
+        },
+        {
+          "id": "nm3048487",
+          "name": "Robyn Altman",
+          "description": "assistant: Mr. Phillips"
+        },
+        {
+          "id": "nm0072367",
+          "name": "Markus Bensch",
+          "description": "production executive: locations, Studio Babelsberg"
+        },
+        {
+          "id": "nm2025020",
+          "name": "Jonathan Bird",
+          "description": "Director of Business and Legal Affairs: The Weinstein Company"
+        },
+        {
+          "id": "nm3565867",
+          "name": "Bettina Brenner",
+          "description": "cashier assistant"
+        },
+        {
+          "id": "nm2876957",
+          "name": "Gero Brugmann",
+          "description": "legal counsel: Studio Babelsberg, Unverzagt Von Have (as Dr. Gero Brugmann)"
+        },
+        {
+          "id": "nm1428853",
+          "name": "Nina Büttner",
+          "description": "payroll accountant"
+        },
+        {
+          "id": "nm2906361",
+          "name": "Jon Carlo",
+          "description": "reasearch coordinator"
+        },
+        {
+          "id": "nm1646842",
+          "name": "Will Casey",
+          "description": "unit publicist (as William Casey)"
+        },
+        {
+          "id": "nm0165472",
+          "name": "Tim Clawson",
+          "description": "executive in charge of physical production: The Weinstein Company"
+        },
+        {
+          "id": "nm2812188",
+          "name": "Mara Fiedler",
+          "description": "set production assistant"
+        },
+        {
+          "id": "nm0285509",
+          "name": "Anne C. Ford",
+          "description": "production controller (as Anne Ford)"
+        },
+        {
+          "id": "nm0816059",
+          "name": "Anna Fuson",
+          "description": "pr consultant"
+        },
+        {
+          "id": "nm3838544",
+          "name": "Nicola Gador",
+          "description": "assistant: Mr. Pitt, Germany"
+        },
+        {
+          "id": "nm3720128",
+          "name": "Paloma Guridi",
+          "description": "stand-in: Francesca Mondino"
+        },
+        {
+          "id": "nm1370949",
+          "name": "Katja Hoerstmann",
+          "description": "funding coordinator: Studio Babelsberg (as Katja Hörstmann)"
+        },
+        {
+          "id": "nm2620216",
+          "name": "Jens Hoffmann",
+          "description": "security supervisor"
+        },
+        {
+          "id": "nm0391920",
+          "name": "Leah Holmes",
+          "description": "Post production accountant"
+        },
+        {
+          "id": "nm2941997",
+          "name": "Katharina Holzfuss",
+          "description": "assistant: Ms. Steinberg (as Katha Holzfuss)"
+        },
+        {
+          "id": "nm1405484",
+          "name": "Jay Johnson",
+          "description": "typographer: main and end title"
+        },
+        {
+          "id": "nm3515330",
+          "name": "Margit Jütz",
+          "description": "assistant accountant: Studio Babelsberg"
+        },
+        {
+          "id": "nm2821831",
+          "name": "Caroline Kaempfer",
+          "description": "set production assistant (as Caroline 'Carla' Kämpfer)"
+        },
+        {
+          "id": "nm2680599",
+          "name": "Nazia Khan",
+          "description": "assistant: Mr. Pitt"
+        },
+        {
+          "id": "nm2010557",
+          "name": "Mun Ju Kim",
+          "description": "cashier"
+        },
+        {
+          "id": "nm2496250",
+          "name": "Laine R. Kline",
+          "description": "executive in charge of business and legal affairs: The Weinstein Company (as Laine Kline)"
+        },
+        {
+          "id": "nm0505710",
+          "name": "Ronald J. Levin",
+          "description": "production legal (as Ron Levin)"
+        },
+        {
+          "id": "nm1599205",
+          "name": "Silvia Lindner",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm2719491",
+          "name": "Maurice Mahramzadeh",
+          "description": "set production assistant"
+        },
+        {
+          "id": "nm2714413",
+          "name": "Jan R. Martin",
+          "description": "assistant production coordinator"
+        },
+        {
+          "id": "nm0572589",
+          "name": "Julie McLean",
+          "description": "assistant: Mr. Tarantino (as Jules McLean)"
+        },
+        {
+          "id": "nm2009153",
+          "name": "Stefan Mentz",
+          "description": "set production assistant"
+        },
+        {
+          "id": "nm0598106",
+          "name": "Tim Monich",
+          "description": "dialect coach: Mr. Pitt"
+        },
+        {
+          "id": "nm4014573",
+          "name": "Danny Märtin",
+          "description": "file clerk (as Danny Groch)"
+        },
+        {
+          "id": "nm6132503",
+          "name": "Raveenderan Nadarajah",
+          "description": "payroll assistant (as Ravi Nadarajah)"
+        },
+        {
+          "id": "nm3733743",
+          "name": "Wolfgang Oriwol",
+          "description": "security: base camp"
+        },
+        {
+          "id": "nm2787414",
+          "name": "Andreas Pense",
+          "description": "legal counsel: Studio Babelsberg, Unverzagt Von Have (as Dr. Andreas Pense)"
+        },
+        {
+          "id": "nm1362154",
+          "name": "Karsten Piel",
+          "description": "accountant: Germany"
+        },
+        {
+          "id": "nm3733740",
+          "name": "Shana Priesz",
+          "description": "subtitle coordinator"
+        },
+        {
+          "id": "nm3731572",
+          "name": "Nicolas Richard",
+          "description": "translator: French dialogue (as Nicholas Richard)"
+        },
+        {
+          "id": "nm1303812",
+          "name": "Eric Ian Robinson",
+          "description": "production executive: The Weinstein Company (as Eric Robinson)"
+        },
+        {
+          "id": "nm3733626",
+          "name": "Matthias Rosenthal",
+          "description": "security: Checkpoint Charlie (as Matthias 'Matze' Rosenthal)"
+        },
+        {
+          "id": "nm0773364",
+          "name": "Lena Schmigalla",
+          "description": "assistant accountant"
+        },
+        {
+          "id": "nm1077886",
+          "name": "Wolfgang Schwedler",
+          "description": "accountant: Studio Babelsberg"
+        },
+        {
+          "id": "nm2989468",
+          "name": "Johannes Schwerdt",
+          "description": "assistant accountant"
+        },
+        {
+          "id": "nm2824191",
+          "name": "Tommy Simpson",
+          "description": "set production assistant"
+        },
+        {
+          "id": "nm3733701",
+          "name": "Gabriele Spilles",
+          "description": "craft service"
+        },
+        {
+          "id": "nm1682114",
+          "name": "Tina Steffan",
+          "description": "assistant: Mr. Tarantino / assistant: Ms. Savone"
+        },
+        {
+          "id": "nm1368087",
+          "name": "Jasmin Steigler",
+          "description": "assistant: Mr. Phillips"
+        },
+        {
+          "id": "nm3181358",
+          "name": "Christina Syring",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm6696538",
+          "name": "Christophe Thomas",
+          "description": "craft service key"
+        },
+        {
+          "id": "nm0878756",
+          "name": "Tom Tykwer",
+          "description": "translator: German dialogue"
+        },
+        {
+          "id": "nm2675156",
+          "name": "Clemens von Tubeuf",
+          "description": "stand-in: Col. Hans Landa (as Clemens Von Tubeuf)"
+        },
+        {
+          "id": "nm3017805",
+          "name": "Nicolas Walier",
+          "description": "stand-in: Lt. Aldo Raine"
+        },
+        {
+          "id": "nm1554200",
+          "name": "Mirjam Weber",
+          "description": "assistant to co-producer: Studio Babelsberg"
+        },
+        {
+          "id": "nm0602180",
+          "name": "Anne Wilson",
+          "description": "first assistant accountant"
+        },
+        {
+          "id": "nm3719833",
+          "name": "Constanze Wächter",
+          "description": "stand-in: Shosanna and Bridget"
+        },
+        {
+          "id": "nm3574602",
+          "name": "Katrin Wöller",
+          "description": "craft service"
+        },
+        {
+          "id": "nm0956651",
+          "name": "Sonja B. Zimmer",
+          "description": "production executive: Studio Babelsberg (as Sonja Zimmer)"
+        },
+        {
+          "id": "nm2574590",
+          "name": "Wassili Zygouris",
+          "description": "film projection supervisor"
+        },
+        {
+          "id": "nm3104650",
+          "name": "Sandro Acerbo",
+          "description": "Italian dubbing: Lt. Aldo Raine (uncredited)"
+        },
+        {
+          "id": "nm2958441",
+          "name": "Markus Albrecht",
+          "description": "military consultant (uncredited)"
+        },
+        {
+          "id": "nm1715971",
+          "name": "Segolene Amice Lagny",
+          "description": "production coordinator: France (uncredited)"
+        },
+        {
+          "id": "nm2093315",
+          "name": "Penelope Bischoff",
+          "description": "production secretary: France (uncredited)"
+        },
+        {
+          "id": "nm3129392",
+          "name": "Carole Schmidlin Blanchard",
+          "description": "set production assistant (uncredited)"
+        },
+        {
+          "id": "nm1048635",
+          "name": "Alex Boden",
+          "description": "researcher (uncredited)"
+        },
+        {
+          "id": "nm3522465",
+          "name": "Matthew Brown",
+          "description": "caretaker: extras (uncredited)"
+        },
+        {
+          "id": "nm3488968",
+          "name": "Mickaël Conan",
+          "description": "key office assistant (uncredited)"
+        },
+        {
+          "id": "nm0210843",
+          "name": "Zazie De Paris",
+          "description": "dialogue coach (uncredited)"
+        },
+        {
+          "id": "nm3180879",
+          "name": "Julia Dege",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm3626245",
+          "name": "Ryan Ditty",
+          "description": "assistant to producer (uncredited)"
+        },
+        {
+          "id": "nm4650768",
+          "name": "Rachel Ferretti",
+          "description": "post production intern (uncredited)"
+        },
+        {
+          "id": "nm3171767",
+          "name": "Emmanuel Fleury",
+          "description": "set production assistant (uncredited)"
+        },
+        {
+          "id": "nm7174906",
+          "name": "Marcel Genzmer",
+          "description": "security (uncredited)"
+        },
+        {
+          "id": "nm0320938",
+          "name": "Andrea Girolami",
+          "description": "assistant to Mr. Enzo G. Castellari (uncredited)"
+        },
+        {
+          "id": "nm2949712",
+          "name": "Michaël Gojon dit Martin",
+          "description": "armorer (uncredited)"
+        },
+        {
+          "id": "nm0338759",
+          "name": "Frederic Greene",
+          "description": "production controller: France (uncredited)"
+        },
+        {
+          "id": "nm9151635",
+          "name": "John Hamilton",
+          "description": "publicity coordinator: Universal Studios Home Entertainment (uncredited)"
+        },
+        {
+          "id": "nm1657668",
+          "name": "Nils Hasenau",
+          "description": "traffic control (uncredited)"
+        },
+        {
+          "id": "nm3568951",
+          "name": "Frederic Heidorn",
+          "description": "stand in/double (uncredited)"
+        },
+        {
+          "id": "nm3571622",
+          "name": "RoJeanne Herbel",
+          "description": "assistant post-production accountant (uncredited)"
+        },
+        {
+          "id": "nm3203309",
+          "name": "Michael Herbert",
+          "description": "intern (uncredited)"
+        },
+        {
+          "id": "nm0388439",
+          "name": "Robert Hoehn",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0391920",
+          "name": "Leah Holmes",
+          "description": "post-production accountant (uncredited)"
+        },
+        {
+          "id": "nm1894042",
+          "name": "Al Huynh",
+          "description": "craft service (uncredited)"
+        },
+        {
+          "id": "nm1497668",
+          "name": "Michael Justice",
+          "description": "intern (uncredited)"
+        },
+        {
+          "id": "nm2945614",
+          "name": "Ellie Kemps",
+          "description": "travel coordinator (uncredited)"
+        },
+        {
+          "id": "nm0457312",
+          "name": "Andreas Kispert",
+          "description": "set manager (uncredited)"
+        },
+        {
+          "id": "nm2847474",
+          "name": "Ayuko Koresawa",
+          "description": "script: splinter unit (uncredited)"
+        },
+        {
+          "id": "nm2039448",
+          "name": "Linda Ky",
+          "description": "shipping coordinator (uncredited)"
+        },
+        {
+          "id": "nm3118536",
+          "name": "Bianca Makarewicz",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm0541160",
+          "name": "Gabriel Mamruth",
+          "description": "payroll accountant (uncredited)"
+        },
+        {
+          "id": "nm1958742",
+          "name": "Paul Melzow",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm1493631",
+          "name": "Peti Misaila",
+          "description": "housing coordinator (uncredited)"
+        },
+        {
+          "id": "nm2429805",
+          "name": "Anna Mohr-Pietsch",
+          "description": "second assistant: Mr Weinstein (uncredited)"
+        },
+        {
+          "id": "nm3598310",
+          "name": "Andrew Napier",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm2061029",
+          "name": "Matthias Nerlich",
+          "description": "crowd marshall (uncredited)"
+        },
+        {
+          "id": "nm1479810",
+          "name": "Antonia Olivares",
+          "description": "set production assistant (uncredited)"
+        },
+        {
+          "id": "nm1114960",
+          "name": "Francesco Pezzulli",
+          "description": "Italian dubbing: Fredrick Zoller (uncredited)"
+        },
+        {
+          "id": "nm0695211",
+          "name": "Francesco Prando",
+          "description": "Italian dubbing: Lt. Archie Hicox (uncredited)"
+        },
+        {
+          "id": "nm2942465",
+          "name": "Jan Proppe",
+          "description": "set production assistant (uncredited)"
+        },
+        {
+          "id": "nm3403780",
+          "name": "Justine Raczkiewicz",
+          "description": "assistant to production executive (uncredited)"
+        },
+        {
+          "id": "nm2983924",
+          "name": "Loredana Rehekampff",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm2377668",
+          "name": "Valerie Milenka Repnau",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm2375394",
+          "name": "Denise Sadighi",
+          "description": "translator: German subtitle assistant (uncredited)"
+        },
+        {
+          "id": "nm3278488",
+          "name": "Sophie Saleyron",
+          "description": "press attache: France (uncredited)"
+        },
+        {
+          "id": "nm0767112",
+          "name": "Steve Sauthoff",
+          "description": "set production assistant (uncredited)"
+        },
+        {
+          "id": "nm1451225",
+          "name": "Boris Schaarschmidt",
+          "description": "translator: German subtitle assistant (uncredited)"
+        },
+        {
+          "id": "nm4167188",
+          "name": "Sven Schachschneider",
+          "description": "production staff (uncredited)"
+        },
+        {
+          "id": "nm3854460",
+          "name": "Jeremy Turkin",
+          "description": "intern (uncredited)"
+        },
+        {
+          "id": "nm2800155",
+          "name": "Erik Wiesbaum",
+          "description": "stand-in: Michael Fassbender (uncredited)"
+        },
+        {
+          "id": "nm3205494",
+          "name": "Mario Wittmann",
+          "description": "key set production assistant (uncredited)"
+        },
+        {
+          "id": "nm3491178",
+          "name": "Eike Wolf",
+          "description": "production publicist (uncredited)"
+        },
+        {
+          "id": "nm1738408",
+          "name": "Gerold Wunstel",
+          "description": "adr artist (uncredited)"
+        },
+        {
+          "id": "nm3121546",
+          "name": "Ugur Yildirim",
+          "description": "mac support (uncredited)"
+        },
+        {
+          "id": "nm2963209",
+          "name": "Lutz Zeidler",
+          "description": "armourer: dailies (uncredited) / on-set armorer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0066870",
+          "name": "Henri Béhar",
+          "description": "special thanks (as Henri Behar)"
+        },
+        {
+          "id": "nm0144758",
+          "name": "Enzo G. Castellari",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0001041",
+          "name": "Maggie Cheung",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0248849",
+          "name": "Caylah Eddleblute",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0329030",
+          "name": "Carlos K. Goodman",
+          "description": "special thanks (as Carlos Goodman)"
+        },
+        {
+          "id": "nm0375494",
+          "name": "Monte Hellman",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0000168",
+          "name": "Samuel L. Jackson",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0431665",
+          "name": "Steve Joyner",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0000172",
+          "name": "Harvey Keitel",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0001458",
+          "name": "Cloris Leachman",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm1469561",
+          "name": "Bryan Lourd",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0587518",
+          "name": "John Milius",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0697587",
+          "name": "Barry Primus",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm1249684",
+          "name": "Jeff Rendell",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm2569282",
+          "name": "Kenneth Rendell",
+          "description": "special thanks (as Kenneth W. Rendell)"
+        },
+        {
+          "id": "nm0744834",
+          "name": "Eli Roth",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm1187651",
+          "name": "Gabriel Roth",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0801127",
+          "name": "Mike Simpson",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0813177",
+          "name": "Sergio Sollima",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0004149",
+          "name": "Bo Svenson",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0878756",
+          "name": "Tom Tykwer",
+          "description": "special thanks"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,636 @@
+{
+  "imDbId": "tt0022100",
+  "title": "M",
+  "fullTitle": "M (1931)",
+  "type": "Movie",
+  "year": "1931",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000485",
+        "name": "Fritz Lang",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0902376",
+        "name": "Thea von Harbou",
+        "description": "(script) and"
+      },
+      {
+        "id": "nm0000485",
+        "name": "Fritz Lang",
+        "description": "(script)"
+      },
+      {
+        "id": "nm0414825",
+        "name": "Egon Jacobsohn",
+        "description": "(article) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000048",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2MzM0ODQwOV5BMl5BanBnXkFtZTYwMjYwNjI2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Peter Lorre",
+      "asCharacter": "Hans Beckert"
+    },
+    {
+      "id": "nm0927145",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ellen Widmann",
+      "asCharacter": "Frau Beckmann"
+    },
+    {
+      "id": "nm0484737",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDEyNTg4ODA0M15BMl5BanBnXkFtZTgwNzY1MTEwMzE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Inge Landgut",
+      "asCharacter": "Elsie Beckmann"
+    },
+    {
+      "id": "nm0921532",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDQ4MTgzMl5BMl5BanBnXkFtZTgwNzIzNzExMzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Otto Wernicke",
+      "asCharacter": "Inspector Karl Lohmann"
+    },
+    {
+      "id": "nm0519765",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZhYWVkYzgtMTBkYi00OWFlLWI3ZjAtN2E5N2VmZDEyNWNjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Theodor Loos",
+      "asCharacter": "Inspector Groeber"
+    },
+    {
+      "id": "nm0345073",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTc1NjM2ODkwNV5BMl5BanBnXkFtZTgwOTg1MTA5MTE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Gustaf Gründgens",
+      "asCharacter": "Schränker"
+    },
+    {
+      "id": "nm0323479",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Friedrich Gnaß",
+      "asCharacter": "Franz"
+    },
+    {
+      "id": "nm0643997",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTE1NDFiNjEtZGNkOS00YzJkLTk3ZTgtN2U0Yzg2NDM2ZGU0XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fritz Odemar",
+      "asCharacter": "The Cheater"
+    },
+    {
+      "id": "nm0447349",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWIzMTQxMzEtZWE2OS00YmZhLTliNjgtMzk0YzlmMWFmNjVlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul Kemp",
+      "asCharacter": "Pickpocket with Six Watches"
+    },
+    {
+      "id": "nm0003586",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDA1OWY1NzEtYmZlZS00NThlLThkNjgtODUyNzg4YjYzYTIyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Theo Lingen",
+      "asCharacter": "Bauernfänger"
+    },
+    {
+      "id": "nm0090104",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rudolf Blümner",
+      "asCharacter": "Beckert's Defender"
+    },
+    {
+      "id": "nm0313308",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY0MmZlMzQtMjk1MS00NjE4LWEwYjMtYjI2MTU4ZGUwMGZhXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Georg John",
+      "asCharacter": "Blind Panhandler"
+    },
+    {
+      "id": "nm0825461",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franz Stein",
+      "asCharacter": "Minister"
+    },
+    {
+      "id": "nm0821504",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ernst Stahl-Nachbaur",
+      "asCharacter": "Police Chief"
+    },
+    {
+      "id": "nm0081499",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZlOGFlOGMtNTI0Yi00MTBjLWI0Y2MtZDllOTU4ODg3YWYzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Gerhard Bienert",
+      "asCharacter": "Criminal Secretary"
+    },
+    {
+      "id": "nm0686783",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karl Platen",
+      "asCharacter": "Damowitz"
+    },
+    {
+      "id": "nm0884665",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTExMjU0NDA5OTheQTJeQWpwZ15BbWU4MDEwNzAxMTMx._V1_Ratio1.3182_AL_.jpg",
+      "name": "Rosa Valetti",
+      "asCharacter": "Bartender"
+    },
+    {
+      "id": "nm0903189",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hertha von Walther",
+      "asCharacter": "Prostitute"
+    },
+    {
+      "id": "nm2039080",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lucie Rhoden",
+      "asCharacter": "Sekretärin im Polizeiarchiv"
+    },
+    {
+      "id": "nm0021771",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Almas",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0050830",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carl Balhaus",
+      "asCharacter": "Leeser - Man Who Marks Hans Beckert (uncredited)"
+    },
+    {
+      "id": "nm0066844",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hans Behal",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0081510",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Biensfeldt",
+      "asCharacter": "Man suspected in street (uncredited)"
+    },
+    {
+      "id": "nm0140164",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Behal Carrell",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0197211",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBlMWI4OTAtYTI0NC00MDg3LWE4NDYtMThhM2ExYzYyNDc5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Josef Dahmen",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0246842",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hugo Döblin",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0248685",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "J.A. Eckhoff",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0251419",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Else Ehser",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0255956",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karl Elzer",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0264477",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Erwin Faber",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0299831",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ilse Fürstenberg",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0326693",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anna Goltz",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0331796",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Heinrich Gotho",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0340400",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Heinrich Gretler",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0352613",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Günther Hadank",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0366606",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Hartberg",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm1738173",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ernst Paul Hempel",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0405802",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oskar Höcker",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0388559",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY1MzkzNjYtNTZjNy00NWQ1LWIzN2YtNWRkMTRhNTUwOWQxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Albert Hörrmann",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm1067526",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ellen Isenta",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0842670",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karl Junge-Swinburne",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0439058",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Albert Karchow",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0449109",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Werner Kepich",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0470600",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hermann Krehan",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0498760",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kurth Leeser",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0509038",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rose Lichtenstein",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0517234",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lotte Loebinger",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0517824",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sigurd Lohde",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0520891",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfred Loretto",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0576754",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2FjOWE3ZDAtZTA0OC00YTBhLWJhMDYtZTg3YWMyNTU4OTQzXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Hanna Maron",
+      "asCharacter": "Girl in Circle at the Beginning (uncredited)"
+    },
+    {
+      "id": "nm1327562",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Max Maschek",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0575540",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Mederow",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0578559",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margarete Melzer",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0602159",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Trude Moos",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0626743",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hadrian Maria Netto",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0627054",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Günter Neumann",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0627146",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Neumann-Schüler",
+      "asCharacter": "Bit Role (uncredited)"
+    },
+    {
+      "id": "nm3478678",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Katharina Nied",
+      "asCharacter": "Woman (uncredited)"
+    },
+    {
+      "id": "nm0635006",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Maya Norden",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0638212",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Y0NTczYmItNTBkZC00MTQyLThjZWQtYjU5ZDI4YmIzZWUyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Fred Nurney",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0667406",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Edgar Pauly",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0688332",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTM1ZTAyMjctNmNjOC00NTI5LTk5ZmItYzhiYWI5NWU3ZWUwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Klaus Pohl",
+      "asCharacter": "Witness / One-Eyed Man (uncredited)"
+    },
+    {
+      "id": "nm0688848",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franz Poland",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm2651060",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eduard Rebane",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0716829",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Rehkopf",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0718537",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bertold Reissig",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm3480295",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ernst Rhaden",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0728753",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hans Ritter",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0754827",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Max Sablotzki",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0765852",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alexander Sascha",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0776543",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Agnes Schulz-Lichterfeld",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0824284",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leonard Steckel",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0835206",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karl-Heinz Stroux",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0874465",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wolf Trutz",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0907170",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQ5OGNiMDgtYjBjNy00Y2M3LTg0MTEtY2U3NjQ3Yjg5OGIwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Otto Waldis",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0910396",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Borwin Walth",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0911167",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUyYzIxYmItMGY4OC00OTViLWE2YTItZjBiY2RjNzI2ZThhL2ltYWdlXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Rolf Wanka",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm2314957",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ernst Wulf",
+      "asCharacter": "Xxx (uncredited)"
+    },
+    {
+      "id": "nm0956272",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bruno Ziener",
+      "asCharacter": "(uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0623873",
+          "name": "Seymour Nebenzal",
+          "description": "producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005922",
+          "name": "Fritz Arno Wagner",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0266239",
+          "name": "Paul Falkenberg",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0368218",
+          "name": "Emil Hasler",
+          "description": ""
+        },
+        {
+          "id": "nm0901576",
+          "name": "Karl Vollbrecht",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm1843229",
+          "name": "Wilhelm Weber",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0938229",
+          "name": "Ernst Wolff",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0711721",
+          "name": "Gustav Rathje",
+          "description": "unit manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0880618",
+          "name": "Edgar G. Ulmer",
+          "description": "set designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0266239",
+          "name": "Paul Falkenberg",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0417961",
+          "name": "Adolf Jansen",
+          "description": "sound"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0005642",
+          "name": "Robert Baberske",
+          "description": "second camera operator"
+        },
+        {
+          "id": "nm0902375",
+          "name": "Horst von Harbou",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0002915",
+          "name": "Erwin Hillier",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0890425",
+          "name": "Károly Vass",
+          "description": "assistant camera (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

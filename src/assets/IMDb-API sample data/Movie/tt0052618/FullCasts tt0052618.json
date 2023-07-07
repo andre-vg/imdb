@@ -1,0 +1,1685 @@
+{
+  "imDbId": "tt0052618",
+  "title": "Ben-Hur",
+  "fullTitle": "Ben-Hur (1959)",
+  "type": "Movie",
+  "year": "1959",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0943758",
+        "name": "William Wyler",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0908753",
+        "name": "Lew Wallace",
+        "description": "(A Tale of Christ) (as General Lew Wallace)"
+      },
+      {
+        "id": "nm0876562",
+        "name": "Karl Tunberg",
+        "description": "(screen play by)"
+      },
+      {
+        "id": "nm0000683",
+        "name": "Gore Vidal",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0027173",
+        "name": "Maxwell Anderson",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0067103",
+        "name": "S.N. Behrman",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0296737",
+        "name": "Christopher Fry",
+        "description": "(contributing writer) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000032",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBkOTkzMDYtY2JlMC00ODExLWJjNTAtZTcxMjZkMzZkYTgzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charlton Heston",
+      "asCharacter": "Judah Ben-Hur"
+    },
+    {
+      "id": "nm0370144",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0MTk0NzI5OF5BMl5BanBnXkFtZTcwNTI1NjQwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Hawkins",
+      "asCharacter": "Quintus Arrius"
+    },
+    {
+      "id": "nm0361823",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5Nzc3NzEzMV5BMl5BanBnXkFtZTcwNDUwNjAxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Haya Harareet",
+      "asCharacter": "Esther"
+    },
+    {
+      "id": "nm0000963",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzViZTliMjItOWNmYS00YmIxLTk2MzItMGQ1YWQwOTM5OGZjXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Stephen Boyd",
+      "asCharacter": "Messala"
+    },
+    {
+      "id": "nm0341518",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzg0NzMxMTUwM15BMl5BanBnXkFtZTYwMzg1MjI2._V1_Ratio0.8182_AL_.jpg",
+      "name": "Hugh Griffith",
+      "asCharacter": "Sheik Ilderim"
+    },
+    {
+      "id": "nm0779549",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1ODkzNzIzOTBeQTJeQWpwZ15BbWU3MDYwMDkzMTg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Martha Scott",
+      "asCharacter": "Miriam"
+    },
+    {
+      "id": "nm0640732",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyNzU4Mzg5N15BMl5BanBnXkFtZTcwNjkzODMxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Cathy O'Donnell",
+      "asCharacter": "Tirzah"
+    },
+    {
+      "id": "nm0415488",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3Njk3NjgwNl5BMl5BanBnXkFtZTcwNDg2MjYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Jaffe",
+      "asCharacter": "Simonides"
+    },
+    {
+      "id": "nm0192958",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MTA5ODcxNl5BMl5BanBnXkFtZTcwNzg0MTgwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Finlay Currie",
+      "asCharacter": "Balthasar / Narrator"
+    },
+    {
+      "id": "nm0861930",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxMjk0MzY3OF5BMl5BanBnXkFtZTcwMjQ5OTkxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Thring",
+      "asCharacter": "Pontius Pilate"
+    },
+    {
+      "id": "nm0519281",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGU5YzQyOTgtYjlmMC00Y2MxLTg4ZDktNDY4YjdhYWYxOGE4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Terence Longdon",
+      "asCharacter": "Drusus"
+    },
+    {
+      "id": "nm0718835",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Relph",
+      "asCharacter": "Tiberius Caesar"
+    },
+    {
+      "id": "nm0603682",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk5Njc4OTAwNV5BMl5BanBnXkFtZTcwMDg0NDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "André Morell",
+      "asCharacter": "Sextus"
+    },
+    {
+      "id": "nm0023389",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Umberto Alivernini",
+      "asCharacter": "Officer Spectator at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm0030433",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Armando Annuale",
+      "asCharacter": "Witness at the Birth of Jesus (uncredited)"
+    },
+    {
+      "id": "nm0031351",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Artemio Antonini",
+      "asCharacter": "Galley Guard (uncredited)"
+    },
+    {
+      "id": "nm1753318",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nello Appodia",
+      "asCharacter": "Oarsman (uncredited)"
+    },
+    {
+      "id": "nm0028186",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fortunato Arena",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0034756",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bruno Ariè",
+      "asCharacter": "Roman Officer (uncredited)"
+    },
+    {
+      "id": "nm2011893",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Les Ballets Africains",
+      "asCharacter": "Dancers at Roman Banquet (uncredited)"
+    },
+    {
+      "id": "nm0056228",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ3NjllOTUtZWUxMy00MzUzLWIwODktNDEwMTJhMDMzOGUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Emma Baron",
+      "asCharacter": "Jewish Woman (uncredited)"
+    },
+    {
+      "id": "nm0073317",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBhMjczYzYtM2UxNS00YWJmLWE2NDQtZjIzYTdmNjdiN2E5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ady Berber",
+      "asCharacter": "Malluch (uncredited)"
+    },
+    {
+      "id": "nm0078055",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJkYTZmNWItMzNhMy00NjY4LTk0OWUtZmU5MjVhMmIwMTc3XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Marina Berti",
+      "asCharacter": "Flavia (uncredited)"
+    },
+    {
+      "id": "nm0082514",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hugh Billingsley",
+      "asCharacter": "Mario (uncredited)"
+    },
+    {
+      "id": "nm0113832",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ4M2VmZjctZmJiNy00MjNmLWFmOTktZDE1NjRiYTMxOTE5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Jerry Brown",
+      "asCharacter": "The Corinthian (uncredited)"
+    },
+    {
+      "id": "nm0114533",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwNTUxMzE0MF5BMl5BanBnXkFtZTcwOTU5OTgwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Brown",
+      "asCharacter": "Chief of Rowers (uncredited)"
+    },
+    {
+      "id": "nm0125627",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzQzZmE0NTgtMWI1Ny00MWE1LTkyYTYtZDlmZTlmM2VlMTY3L2ltYWdlXkEyXkFqcGdeQXVyMjU5OTg5NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lando Buzzanca",
+      "asCharacter": "Jewish Slave in the Desert (uncredited)"
+    },
+    {
+      "id": "nm0130731",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfio Caltabiano",
+      "asCharacter": "Pirate (uncredited)"
+    },
+    {
+      "id": "nm0134828",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjg2Njg5NjY0MF5BMl5BanBnXkFtZTgwMDUxMzM1MjI@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Joe Canutt",
+      "asCharacter": "Sportsman (uncredited)"
+    },
+    {
+      "id": "nm0134933",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Otello Capanna",
+      "asCharacter": "The Byzantine (uncredited)"
+    },
+    {
+      "id": "nm0140185",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emile Carrer",
+      "asCharacter": "Rower No. 28 (uncredited)"
+    },
+    {
+      "id": "nm0142694",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angelo Casadei",
+      "asCharacter": "Crucifixion March Spectator (uncredited)"
+    },
+    {
+      "id": "nm0142699",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sergio Casadei",
+      "asCharacter": "The Athenian (uncredited)"
+    },
+    {
+      "id": "nm0142995",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Francesco Casaretti",
+      "asCharacter": "Judah's Stableman (uncredited)"
+    },
+    {
+      "id": "nm0145945",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aristide Catoni",
+      "asCharacter": "Man Watching the Procession (uncredited)"
+    },
+    {
+      "id": "nm0147566",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pietro Ceccarelli",
+      "asCharacter": "Roman Officer with Messala (uncredited)"
+    },
+    {
+      "id": "nm0147646",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDNlZjAwNWQtZmJiYy00YzI1LThhNTktMjFiNzNkODc1MmVhXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Aldo Cecconi",
+      "asCharacter": "Galley Guard (uncredited)"
+    },
+    {
+      "id": "nm4080316",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franz Colangeli",
+      "asCharacter": "Celebration Guest / Senator (uncredited)"
+    },
+    {
+      "id": "nm0171191",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Coleman",
+      "asCharacter": "Metellus (uncredited)"
+    },
+    {
+      "id": "nm0179395",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Livia Cordaro",
+      "asCharacter": "Crucifixion March Spectator (uncredited)"
+    },
+    {
+      "id": "nm0179762",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Antonio Corevi",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0181921",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Cosmo",
+      "asCharacter": "Raimondo (uncredited)"
+    },
+    {
+      "id": "nm0199422",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfredo Danesi",
+      "asCharacter": "The Armenian (uncredited)"
+    },
+    {
+      "id": "nm0203664",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Davies",
+      "asCharacter": "Quaestor (uncredited)"
+    },
+    {
+      "id": "nm0208873",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carmen de Hohenlohe",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0209238",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor De La Fosse",
+      "asCharacter": "Galley Officer (uncredited)"
+    },
+    {
+      "id": "nm6669608",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vincenzo De Palo",
+      "asCharacter": "Arab at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm0215345",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Liana Del Balzo",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0037876",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Consalvo Dell'Arti",
+      "asCharacter": "Celebration Guest (uncredited)"
+    },
+    {
+      "id": "nm0224302",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gianni Di Segni",
+      "asCharacter": "Galley Guard on Ship (uncredited)"
+    },
+    {
+      "id": "nm0233946",
+      "image": "https://m.media-amazon.com/images/M/MV5BODVlYTVjZTUtODM5MC00MDUxLWJhNzMtMjUyYjUzNjM3ODIwXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mino Doro",
+      "asCharacter": "Gratus (uncredited)"
+    },
+    {
+      "id": "nm0240821",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Dugan",
+      "asCharacter": "Seaman (uncredited)"
+    },
+    {
+      "id": "nm0266886",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franco Fantasia",
+      "asCharacter": "Roman Soldier Who Brings Crown to Gratus (uncredited)"
+    },
+    {
+      "id": "nm0269784",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dino Fazio",
+      "asCharacter": "Marcello (uncredited)"
+    },
+    {
+      "id": "nm0271224",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Umberto Felici",
+      "asCharacter": "Crucifixion Spectator (uncredited)"
+    },
+    {
+      "id": "nm0271417",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Felleghy",
+      "asCharacter": "Officer on rescue ship (uncredited)"
+    },
+    {
+      "id": "nm0276417",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI2Zjc2ZmYtNTNhNy00NjU4LWFiNTgtMzM3OTVjMGI3N2RlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Enzo Fiermonte",
+      "asCharacter": "Galley Officer (uncredited)"
+    },
+    {
+      "id": "nm0284289",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Folkerson",
+      "asCharacter": "Chariot Racer (uncredited)"
+    },
+    {
+      "id": "nm14736105",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Armando Fracassi",
+      "asCharacter": "Arab at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm0312575",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M4ZTAwNmItNDYzZC00Njk4LTkzOWMtMjRjNzM2Y2QxNzkxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Giuliano Gemma",
+      "asCharacter": "Roman Officer with Messala (uncredited)"
+    },
+    {
+      "id": "nm1339022",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oscar Giustini",
+      "asCharacter": "Rower (uncredited)"
+    },
+    {
+      "id": "nm0322623",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Glenn",
+      "asCharacter": "Rower No. 42 (uncredited)"
+    },
+    {
+      "id": "nm0205883",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzA0YjgwNjEtMGY5Zi00N2ZkLWJmMzgtZWY5YzE2YWI0NGY0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "José Greci",
+      "asCharacter": "Mary (uncredited)"
+    },
+    {
+      "id": "nm0354989",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGNjOGM4ZjAtNDE4Zi00MDliLTk1YTEtOTMwNmVlNDgwZTE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Richard Hale",
+      "asCharacter": "Gaspar (uncredited)"
+    },
+    {
+      "id": "nm0372592",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ0OGUwNzAtYTk0NC00ZjRmLWJiZjUtMzI1Yzg0N2E5MzU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Claude Heater",
+      "asCharacter": "Jesus - The Christ (uncredited)"
+    },
+    {
+      "id": "nm6002175",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Prince Hohenlohe",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0395443",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGY1NDgwOTQtY2JhZS00NWE4LWIyODUtMjY1ZTY3NTZmZmE4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9091_AL_.jpg",
+      "name": "John Horsley",
+      "asCharacter": "Spintho (uncredited)"
+    },
+    {
+      "id": "nm0042156",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Juaregui",
+      "asCharacter": "The Athenian (uncredited)"
+    },
+    {
+      "id": "nm0452422",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Kiehl",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0483653",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDk5ZjRkN2EtN2NlMS00ZWRkLTkxMTQtYTEyOGNmZjJkMmVkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Duncan Lamont",
+      "asCharacter": "Marius (uncredited)"
+    },
+    {
+      "id": "nm0485771",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Howard Lang",
+      "asCharacter": "Hortator (uncredited)"
+    },
+    {
+      "id": "nm0494452",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTU1OTU3NV5BMl5BanBnXkFtZTcwMTU1ODUzOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "John Le Mesurier",
+      "asCharacter": "Doctor (uncredited)"
+    },
+    {
+      "id": "nm0501384",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEwMDczNTY5MjReQTJeQWpwZ15BbWU3MDU0Mzc2MzQ@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Tutte Lemkow",
+      "asCharacter": "Leper (uncredited)"
+    },
+    {
+      "id": "nm0529036",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZkYWFiMzAtZTZlYy00MWFmLTg3ZTktZWU2MDczYWYxYTkyXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Cliff Lyons",
+      "asCharacter": "The Lubian (uncredited)"
+    },
+    {
+      "id": "nm0536240",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Raimondo Magni",
+      "asCharacter": "Soldier in the Bath House (uncredited)"
+    },
+    {
+      "id": "nm0546946",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ugo Mari",
+      "asCharacter": "Noble Spectator at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm0550045",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luigi Marra",
+      "asCharacter": "The Syrian (uncredited)"
+    },
+    {
+      "id": "nm0562807",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2ODE1MDI0NF5BMl5BanBnXkFtZTcwNzkyNzMyNw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Ferdy Mayne",
+      "asCharacter": "Captain of Rescue Ship (uncredited)"
+    },
+    {
+      "id": "nm0564219",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4MDk1NTA0NV5BMl5BanBnXkFtZTcwMzMxNjUzOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "May McAvoy",
+      "asCharacter": "Woman in Crowd (uncredited)"
+    },
+    {
+      "id": "nm0575594",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nona Medici",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0579632",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDVhY2M4ODktYmJjNy00NGVmLWJiNjItMDZkNzgwOWMyYWNjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Furio Meniconi",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0579634",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDhkYWY3MTAtOTE4NS00ZTc3LWFlZDgtM2UyMDNjYzQzMTY4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Mario Meniconi",
+      "asCharacter": "Crucifixion March Guard (uncredited)"
+    },
+    {
+      "id": "nm2796217",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Romano Milani",
+      "asCharacter": "Nobleman at Quintus' Return to Rome (uncredited)"
+    },
+    {
+      "id": "nm0593990",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tiberio Mitri",
+      "asCharacter": "Roman at Bath (uncredited)"
+    },
+    {
+      "id": "nm13818035",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Terzo Monachesi",
+      "asCharacter": "Noble Spectator at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm0597759",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sandro Mondini",
+      "asCharacter": "Nobleman at Quintus' Return to Rome (uncredited)"
+    },
+    {
+      "id": "nm0610578",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aldo Mozele",
+      "asCharacter": "Barca (uncredited)"
+    },
+    {
+      "id": "nm0620526",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Spartaco Nale",
+      "asCharacter": "Rower (uncredited)"
+    },
+    {
+      "id": "nm0641634",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas O'Leary",
+      "asCharacter": "Starter at Race (uncredited)"
+    },
+    {
+      "id": "nm0647474",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Remington Olmsted",
+      "asCharacter": "Decurian (uncredited)"
+    },
+    {
+      "id": "nm0668382",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQ5M2Q1YzUtZDJmNy00YjdmLTlkYmYtYTczNmE3M2UzNzRhXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Laurence Payne",
+      "asCharacter": "Joseph (uncredited)"
+    },
+    {
+      "id": "nm0678904",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Osiride Pevarello",
+      "asCharacter": "Jesus' Listener (uncredited)"
+    },
+    {
+      "id": "nm2227107",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk4ZWEyMzQtODFkZi00MDFjLTgzMmQtOGZlNDdmZTI2ZDAyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Renzo Pevarello",
+      "asCharacter": "Pirate (uncredited)"
+    },
+    {
+      "id": "nm0681201",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aldo Pial",
+      "asCharacter": "Cavalry Officer (uncredited)"
+    },
+    {
+      "id": "nm0681498",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vladimiro Picciafuochi",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0684266",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aldo Pini",
+      "asCharacter": "Bad Thief on Cross (uncredited)"
+    },
+    {
+      "id": "nm0688208",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ferdinando Poggi",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0694840",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Diego Pozzetto",
+      "asCharacter": "Villager (uncredited)"
+    },
+    {
+      "id": "nm6002177",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Prince Raimondo",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0712248",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Isarco Ravaioli",
+      "asCharacter": "Soldier at the Bath House (uncredited)"
+    },
+    {
+      "id": "nm0722310",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stella Rho",
+      "asCharacter": "Amrah (uncredited)"
+    },
+    {
+      "id": "nm0724967",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzcxZDNhMTktODliZC00MTc3LWJhMGYtYjExNTJkY2JlOGVkXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Edwin Richfield",
+      "asCharacter": "Supplier to Leper Colony (uncredited)"
+    },
+    {
+      "id": "nm14734320",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michele Righi",
+      "asCharacter": "Nobleman at the Chariot Race (uncredited)"
+    },
+    {
+      "id": "nm6002178",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mario Rivoltella",
+      "asCharacter": "Undetermined Role (uncredited)"
+    },
+    {
+      "id": "nm0743453",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hector Ross",
+      "asCharacter": "Officer (uncredited)"
+    },
+    {
+      "id": "nm6002176",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emanuele Ruspoli",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0763402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRiMTY1Y2EtOGU3ZC00NTg2LTg1MzgtZTFiYTIzNzUxZDJiXkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Amerigo Santarelli",
+      "asCharacter": "Rower (uncredited)"
+    },
+    {
+      "id": "nm0779993",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gino Scotti",
+      "asCharacter": "Spectator at the Birth of Jesus (uncredited)"
+    },
+    {
+      "id": "nm1217868",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmY2MTFiODAtYWFmYy00MzQ5LWEyN2QtNDBiYzc2ZjY2NjQ2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Pupita Lea Scuderoni",
+      "asCharacter": "Spectator at the Crucifixion March (uncredited)"
+    },
+    {
+      "id": "nm0558626",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Attilio Severini",
+      "asCharacter": "Horse Wrangler (uncredited)"
+    },
+    {
+      "id": "nm0789871",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Maxwell Shaw",
+      "asCharacter": "Rower No. 43 (uncredited)"
+    },
+    {
+      "id": "nm0791067",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Noel Sheldon",
+      "asCharacter": "Centurion (uncredited)"
+    },
+    {
+      "id": "nm0798570",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc5NjM3ZGEtZjRhZS00NGQzLTg2OWQtMjBhYWNlMjk1NjYwXkEyXkFqcGdeQXVyNDAxOTExNTM@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Aldo Silvani",
+      "asCharacter": "Man in Nazareth (uncredited)"
+    },
+    {
+      "id": "nm0799167",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Umberto Silvestri",
+      "asCharacter": "Guard on ship (uncredited)"
+    },
+    {
+      "id": "nm0802209",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Reginald Lal Singh",
+      "asCharacter": "Melchior (uncredited)"
+    },
+    {
+      "id": "nm14179228",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luigi Smith",
+      "asCharacter": "Servant in Judah's Household (uncredited)"
+    },
+    {
+      "id": "nm0812741",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gianni Solaro",
+      "asCharacter": "Galley Officer (uncredited)"
+    },
+    {
+      "id": "nm0819010",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roberto Spiombi",
+      "asCharacter": "Senator (uncredited)"
+    },
+    {
+      "id": "nm0485795",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Stevenson Lang",
+      "asCharacter": "Blind Man (uncredited)"
+    },
+    {
+      "id": "nm0855722",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQ5YzA0ZTAtZDQ1YS00MDVlLWI0ZjAtMmY0ZmJlZjA5MDMwXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Renato Terra",
+      "asCharacter": "Jesus' Listener (uncredited)"
+    },
+    {
+      "id": "nm0858456",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfred Thomas",
+      "asCharacter": "Oarsman (uncredited)"
+    },
+    {
+      "id": "nm0867894",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2RlZDAzNTAtN2U1ZS00OWFhLWI5OWEtZGI3ZjA5YjZjYmI4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Pietro Tordi",
+      "asCharacter": "Pilate's Servant (uncredited)"
+    },
+    {
+      "id": "nm0869193",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Giuseppe Tosi",
+      "asCharacter": "Chariot Driver (uncredited)"
+    },
+    {
+      "id": "nm0874298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmJhOTc5NzMtM2UzMy00YTlkLWE2YzEtYzhmMWY4MjQ5ZmY0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ralph Truman",
+      "asCharacter": "Aide to Tiberius (uncredited)"
+    },
+    {
+      "id": "nm0879646",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Giorgio Ubaldi",
+      "asCharacter": "Rower (uncredited)"
+    },
+    {
+      "id": "nm0887830",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Raimondo Van Riel",
+      "asCharacter": "Old Man (uncredited)"
+    },
+    {
+      "id": "nm0889658",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfredo Varelli",
+      "asCharacter": "Physician's Assistant (uncredited)"
+    },
+    {
+      "id": "nm0892891",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFmMzViMDEtMmM1Mi00ZWM3LWE3MzAtNDA0MWNhMGIyZTIyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Venantino Venantini",
+      "asCharacter": "Palefrenier de la course de chars (uncredited)"
+    },
+    {
+      "id": "nm0911497",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dervis Ward",
+      "asCharacter": "Jailer (uncredited)"
+    },
+    {
+      "id": "nm0913719",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Irina Wassilchikoff",
+      "asCharacter": "Guest at Banquet (uncredited)"
+    },
+    {
+      "id": "nm0950408",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Yrigoyen",
+      "asCharacter": "The Egyptian - Chariot Racer (uncredited)"
+    },
+    {
+      "id": "nm0820670",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjNiY2EwYmMtZjQzNS00MjhlLTk2OWItZDYyNjY0MzI3Njk1XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Nazzareno Zamperla",
+      "asCharacter": "Roman Soldier with a Bow on Galley (uncredited)"
+    },
+    {
+      "id": "nm0952753",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rinaldo Zamperla",
+      "asCharacter": "Pirate (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0797012",
+          "name": "Sol C. Siegel",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm2802831",
+          "name": "Joseph Vogel",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm0943758",
+          "name": "William Wyler",
+          "description": "producer (uncredited)"
+        },
+        {
+          "id": "nm0956547",
+          "name": "Sam Zimbalist",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0000067",
+          "name": "Miklós Rózsa",
+          "description": "(as Miklos Rozsa)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005892",
+          "name": "Robert Surtees",
+          "description": "director of photography (as Robert L. Surtees)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0242950",
+          "name": "John D. Dunning",
+          "description": "film editor"
+        },
+        {
+          "id": "nm0935988",
+          "name": "Ralph E. Winters",
+          "description": "film editor"
+        },
+        {
+          "id": "nm0004290",
+          "name": "Margaret Booth",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0397342",
+          "name": "Irene Howard",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0884343",
+          "name": "Vittorio Valentini",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0137063",
+          "name": "Edward C. Carfagno",
+          "description": "(as Edward Carfagno)"
+        },
+        {
+          "id": "nm0395178",
+          "name": "William A. Horning",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0402474",
+          "name": "Hugh Hunt",
+          "description": "(set decorations)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0353111",
+          "name": "Elizabeth Haffenden",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0097654",
+          "name": "Gabriella Borzelli",
+          "description": "hair stylist"
+        },
+        {
+          "id": "nm0662125",
+          "name": "Charles E. Parker",
+          "description": "makeup (as Charles Parker)"
+        },
+        {
+          "id": "nm1239077",
+          "name": "John Truwe",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0937316",
+          "name": "Edward Woehler",
+          "description": "unit production manager"
+        },
+        {
+          "id": "nm0169905",
+          "name": "J.J. Cohn",
+          "description": "production manager (uncredited)"
+        },
+        {
+          "id": "nm0295190",
+          "name": "Dave Friedman",
+          "description": "production manager (uncredited)"
+        },
+        {
+          "id": "nm0377021",
+          "name": "Henry Henigson",
+          "description": "production manager (uncredited)"
+        },
+        {
+          "id": "nm0517132",
+          "name": "Maurizio Lodi-Fè",
+          "description": "assistant production supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0013189",
+          "name": "Gus Agosti",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0134831",
+          "name": "Yakima Canutt",
+          "description": "second unit director"
+        },
+        {
+          "id": "nm0136585",
+          "name": "Alberto Cardone",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0554249",
+          "name": "Andrew Marton",
+          "description": "second unit director"
+        },
+        {
+          "id": "nm0016068",
+          "name": "John Alarimo",
+          "description": "second assistant director (uncredited)"
+        },
+        {
+          "id": "nm0049728",
+          "name": "Ferdinando Baldi",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm0460234",
+          "name": "Donald C. Klune",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm0001466",
+          "name": "Sergio Leone",
+          "description": "second unit director (uncredited)"
+        },
+        {
+          "id": "nm0812827",
+          "name": "Mario Soldati",
+          "description": "second unit director (uncredited)"
+        },
+        {
+          "id": "nm0861703",
+          "name": "Richard Thorpe",
+          "description": "third unit director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0054424",
+          "name": "Sante Barelli",
+          "description": "scenic artist"
+        },
+        {
+          "id": "nm2176806",
+          "name": "Henry Greutert",
+          "description": "sculptor"
+        },
+        {
+          "id": "nm0010553",
+          "name": "Ken Adam",
+          "description": "assistant art director (uncredited)"
+        },
+        {
+          "id": "nm0400031",
+          "name": "Mentor Huebner",
+          "description": "primary conceptual artist and production illustrator (uncredited)"
+        },
+        {
+          "id": "nm0585118",
+          "name": "Harold Michelson",
+          "description": "storyboard artist (uncredited)"
+        },
+        {
+          "id": "nm0658611",
+          "name": "Massimo Palmieri",
+          "description": "contruction manager (uncredited)"
+        },
+        {
+          "id": "nm0866489",
+          "name": "Italo Tomassi",
+          "description": "head scenic painter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0279361",
+          "name": "Sash Fisher",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0590665",
+          "name": "Franklin Milton",
+          "description": "recording supervisor"
+        },
+        {
+          "id": "nm1461906",
+          "name": "William Steinkamp",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0379771",
+          "name": "Kurt Hernfeld",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0401724",
+          "name": "Harold Humbrock",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0417005",
+          "name": "Van Allen James",
+          "description": "co-supervising sound editor (uncredited)"
+        },
+        {
+          "id": "nm1289939",
+          "name": "Kendrick Kinney",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0513555",
+          "name": "John Lipow",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm3577756",
+          "name": "John Logan",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0521215",
+          "name": "Milo B. Lory",
+          "description": "special sound effects (uncredited)"
+        },
+        {
+          "id": "nm0635561",
+          "name": "Lovell Norman",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0952611",
+          "name": "Mauro Zambuto",
+          "description": "sound engineer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0221756",
+          "name": "Umberto Dessena",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0399161",
+          "name": "Doug Hubbard",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm1468620",
+          "name": "Petro Vlahos",
+          "description": "special effects engineer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0318901",
+          "name": "A. Arnold Gillespie",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0387441",
+          "name": "Robert R. Hoag",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0495719",
+          "name": "Lee LeBlanc",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0000878",
+          "name": "Mario Bava",
+          "description": "special photographic effects (uncredited)"
+        },
+        {
+          "id": "nm0531881",
+          "name": "R.A. MacDonald",
+          "description": "visual effects (uncredited)"
+        },
+        {
+          "id": "nm0794391",
+          "name": "Cliff Shirpser",
+          "description": "special photographic effects (uncredited)"
+        },
+        {
+          "id": "nm0951046",
+          "name": "Matthew Yuricich",
+          "description": "matte artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0028186",
+          "name": "Fortunato Arena",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0044826",
+          "name": "Bill Babcock",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0113832",
+          "name": "Jerry Brown",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0130731",
+          "name": "Alfio Caltabiano",
+          "description": "stunt double: Charlton Heston (uncredited) / stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0134828",
+          "name": "Joe Canutt",
+          "description": "stunt double: Charlton Heston (uncredited) / stunts (uncredited)"
+        },
+        {
+          "id": "nm0134830",
+          "name": "Tap Canutt",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0134933",
+          "name": "Otello Capanna",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0142699",
+          "name": "Sergio Casadei",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0199422",
+          "name": "Alfredo Danesi",
+          "description": "chariot master (uncredited) / stunts (uncredited)"
+        },
+        {
+          "id": "nm0240821",
+          "name": "Michael Dugan",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0284289",
+          "name": "Bob Folkerson",
+          "description": "chariot driver (uncredited)"
+        },
+        {
+          "id": "nm0318176",
+          "name": "Mickey Gilbert",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0042156",
+          "name": "Eddie Juaregui",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0529036",
+          "name": "Cliff Lyons",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0550039",
+          "name": "Attilio Marra",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0550045",
+          "name": "Luigi Marra",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0674028",
+          "name": "Peter Perkins",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm2227107",
+          "name": "Renzo Pevarello",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0688208",
+          "name": "Ferdinando Poggi",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0694118",
+          "name": "Nosher Powell",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0709521",
+          "name": "Glenn Randall Jr.",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0732569",
+          "name": "Doug Robinson",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0558626",
+          "name": "Attilio Severini",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0789211",
+          "name": "David Sharpe",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0830882",
+          "name": "Boyd Stockman",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0879646",
+          "name": "Giorgio Ubaldi",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0929671",
+          "name": "Charles Willcox",
+          "description": "chariot driver (uncredited)"
+        },
+        {
+          "id": "nm0930810",
+          "name": "Jack Williams",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0950408",
+          "name": "Joe Yrigoyen",
+          "description": "stunt double: Stephen Boyd (uncredited)"
+        },
+        {
+          "id": "nm0945152",
+          "name": "Ian Yule",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0820670",
+          "name": "Nazzareno Zamperla",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0952753",
+          "name": "Rinaldo Zamperla",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0547833",
+          "name": "Raffaele Marino",
+          "description": "gaffer (as Raf Marino)"
+        },
+        {
+          "id": "nm8338116",
+          "name": "Domenico Parrello",
+          "description": "grip"
+        },
+        {
+          "id": "nm0691936",
+          "name": "Piero Portalupi",
+          "description": "additional photography (as Pietro Portalupi)"
+        },
+        {
+          "id": "nm0920052",
+          "name": "Harold E. Wellman",
+          "description": "additional photography"
+        },
+        {
+          "id": "nm0107676",
+          "name": "Francesco Brescini",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm1103269",
+          "name": "Eric Carpenter",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm2096879",
+          "name": "Nino DiGiovanni",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0550638",
+          "name": "Owen Marsh",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0629885",
+          "name": "Meredith M. Nicholson",
+          "description": "camera operator: second unit (uncredited)"
+        },
+        {
+          "id": "nm2095533",
+          "name": "Edward Phillips",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0691936",
+          "name": "Piero Portalupi",
+          "description": "camera operator: second unit (uncredited)"
+        },
+        {
+          "id": "nm0773501",
+          "name": "John Schmitz",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0869198",
+          "name": "Mario Tosi",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0906382",
+          "name": "Edward Wahrman",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0920052",
+          "name": "Harold E. Wellman",
+          "description": "camera operator: third unit (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm1287578",
+          "name": "Joan Joseff",
+          "description": "costume jeweller (uncredited)"
+        },
+        {
+          "id": "nm0551564",
+          "name": "Jack Martell",
+          "description": "wardrobe (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0108663",
+          "name": "Joan Bridge",
+          "description": "color consultant: costumes"
+        },
+        {
+          "id": "nm0353306",
+          "name": "Charles K. Hagedon",
+          "description": "color consultant: settings"
+        },
+        {
+          "id": "nm0612134",
+          "name": "Frederick Muller",
+          "description": "assistant editor (uncredited)"
+        },
+        {
+          "id": "nm0826114",
+          "name": "Fredric Steinkamp",
+          "description": "supervising editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm12400039",
+          "name": "Alfred E. Brain",
+          "description": "musician: french horn"
+        },
+        {
+          "id": "nm0018237",
+          "name": "Alex Alexander",
+          "description": "musician: cello (uncredited)"
+        },
+        {
+          "id": "nm1180802",
+          "name": "Gus Bivona",
+          "description": "musician: clarinet (uncredited)"
+        },
+        {
+          "id": "nm1147957",
+          "name": "John T. Boudreau",
+          "description": "musician: drums (uncredited)"
+        },
+        {
+          "id": "nm0173977",
+          "name": "Manuel Compinsky",
+          "description": "musician: violin (uncredited)"
+        },
+        {
+          "id": "nm0006021",
+          "name": "Alexander Courage",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm1179904",
+          "name": "Vince De Rosa",
+          "description": "musician: french horn (uncredited)"
+        },
+        {
+          "id": "nm0257113",
+          "name": "Leonard A. Engel",
+          "description": "supervising music editor (uncredited)"
+        },
+        {
+          "id": "nm5917974",
+          "name": "Conrad Gozzo",
+          "description": "musician: trumpet (uncredited)"
+        },
+        {
+          "id": "nm0442209",
+          "name": "Louis Kaufman",
+          "description": "musician: violin (uncredited)"
+        },
+        {
+          "id": "nm0538112",
+          "name": "Virginia Majewski",
+          "description": "musician: viola (uncredited)"
+        },
+        {
+          "id": "nm0704922",
+          "name": "Max Rabinowitz",
+          "description": "musician: piano (uncredited)"
+        },
+        {
+          "id": "nm0711107",
+          "name": "Uan Rasey",
+          "description": "musician: trumpet (uncredited)"
+        },
+        {
+          "id": "nm0000067",
+          "name": "Miklós Rózsa",
+          "description": "conductor (uncredited) / orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0764760",
+          "name": "William Saracino",
+          "description": "music editor (uncredited)"
+        },
+        {
+          "id": "nm0951746",
+          "name": "Eugene Zador",
+          "description": "orchestrator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0043539",
+          "name": "Yvonne Axworthy",
+          "description": "script supervisor (uncredited)"
+        },
+        {
+          "id": "nm0296737",
+          "name": "Christopher Fry",
+          "description": "script editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0049728",
+          "name": "Ferdinando Baldi",
+          "description": "historical advisor (uncredited)"
+        },
+        {
+          "id": "nm5968706",
+          "name": "Reynold Brown",
+          "description": "movie poster art (uncredited)"
+        },
+        {
+          "id": "nm3514868",
+          "name": "Oscar Doob",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm2098393",
+          "name": "Morgan Hudgins",
+          "description": "unit publicist (uncredited)"
+        },
+        {
+          "id": "nm0567358",
+          "name": "Ralph McCutcheon",
+          "description": "horse trainer (uncredited)"
+        },
+        {
+          "id": "nm0337449",
+          "name": "Enzo Musumeci Greco",
+          "description": "master of arms (uncredited)"
+        },
+        {
+          "id": "nm0709524",
+          "name": "Glenn H. Randall Sr.",
+          "description": "horse trainer (uncredited)"
+        },
+        {
+          "id": "nm0834424",
+          "name": "Howard Strickling",
+          "description": "publicity director: MGM (uncredited)"
+        },
+        {
+          "id": "nm1264932",
+          "name": "Dan S. Terrell",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm0952611",
+          "name": "Mauro Zambuto",
+          "description": "set engineer (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

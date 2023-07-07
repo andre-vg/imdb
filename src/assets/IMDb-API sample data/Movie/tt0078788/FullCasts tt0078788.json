@@ -1,0 +1,2189 @@
+{
+  "imDbId": "tt0078788",
+  "title": "Apocalypse Now",
+  "fullTitle": "Apocalypse Now (1979)",
+  "type": "Movie",
+  "year": "1979",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000338",
+        "name": "Francis Ford Coppola",
+        "description": "(as Francis Coppola)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0587518",
+        "name": "John Milius",
+        "description": "(written by) and"
+      },
+      {
+        "id": "nm0000338",
+        "name": "Francis Ford Coppola",
+        "description": "(written by) (as Francis Coppola)"
+      },
+      {
+        "id": "nm0380282",
+        "name": "Michael Herr",
+        "description": "(narration)"
+      },
+      {
+        "id": "nm0175676",
+        "name": "Joseph Conrad",
+        "description": "(novel) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000008",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Marlon Brando",
+      "asCharacter": "Colonel Walter E. Kurtz"
+    },
+    {
+      "id": "nm0000640",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM1MTA5MTY0MV5BMl5BanBnXkFtZTcwMTQ4OTUzMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Martin Sheen",
+      "asCharacter": "Captain Benjamin L. Willard"
+    },
+    {
+      "id": "nm0000380",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk1MjA2Mjc2MF5BMl5BanBnXkFtZTcwOTE4MTUwMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Duvall",
+      "asCharacter": "Lieutenant Colonel Bill Kilgore"
+    },
+    {
+      "id": "nm0002078",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDIyMDQwN15BMl5BanBnXkFtZTYwMzM5NzE1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frederic Forrest",
+      "asCharacter": "Jay 'Chef' Hicks"
+    },
+    {
+      "id": "nm0098734",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxMDQ3NDQ5OF5BMl5BanBnXkFtZTYwODY3MDY0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Bottoms",
+      "asCharacter": "Lance B. Johnson"
+    },
+    {
+      "id": "nm0000401",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Laurence Fishburne",
+      "asCharacter": "Tyrone 'Clean' Miller (as Larry Fishburne)"
+    },
+    {
+      "id": "nm0355278",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwOTY2Mjk3OF5BMl5BanBnXkFtZTYwNzYxMjgy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Albert Hall",
+      "asCharacter": "Chief Phillips"
+    },
+    {
+      "id": "nm0000148",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harrison Ford",
+      "asCharacter": "Colonel Lucas"
+    },
+    {
+      "id": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dennis Hopper",
+      "asCharacter": "Photojournalist"
+    },
+    {
+      "id": "nm0819525",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjM5ODQyMF5BMl5BanBnXkFtZTcwNjgzOTIxNg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "G.D. Spradlin",
+      "asCharacter": "General R. Corman"
+    },
+    {
+      "id": "nm0956310",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWNhMjU4MGEtZjU4Mi00YTU2LWFkODQtYTllYzRiNWE4OWQzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Jerry Ziesmer",
+      "asCharacter": "Jerry, Civilian"
+    },
+    {
+      "id": "nm0001277",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NzAwMzE1OF5BMl5BanBnXkFtZTYwMjkzOTY0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Scott Glenn",
+      "asCharacter": "Lieutenant Richard M. Colby"
+    },
+    {
+      "id": "nm0125793",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bo Byers",
+      "asCharacter": "MP Sergeant #1"
+    },
+    {
+      "id": "nm0443856",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0MTcwNzYyN15BMl5BanBnXkFtZTcwOTY3NzEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Keane",
+      "asCharacter": "Kilgore's Gunner"
+    },
+    {
+      "id": "nm0743953",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MzA3MDg5MF5BMl5BanBnXkFtZTcwMjUyNTgyMQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Kerry Rossall",
+      "asCharacter": "Mike from San Diego"
+    },
+    {
+      "id": "nm0574360",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ron McQueen",
+      "asCharacter": "Injured Soldier"
+    },
+    {
+      "id": "nm0556985",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ2YjQ1YTQtNWViYS00NzI4LWE5ZGUtODA0ZmQzM2QxNGFjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Tom Mason",
+      "asCharacter": "Supply Sergeant"
+    },
+    {
+      "id": "nm0939626",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cynthia Wood",
+      "asCharacter": "Playmate of the Year"
+    },
+    {
+      "id": "nm0131974",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4NzM2NTgyNV5BMl5BanBnXkFtZTcwNTMxNzcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Colleen Camp",
+      "asCharacter": "Playmate, Miss May"
+    },
+    {
+      "id": "nm0139404",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Linda Carpenter",
+      "asCharacter": "Playmate"
+    },
+    {
+      "id": "nm0857806",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjliMTI5ZjktYTgxZi00M2YzLWJiZTUtM2NkNzI5NDY2MDIwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Thibeau",
+      "asCharacter": "Soldier in Trench"
+    },
+    {
+      "id": "nm0907468",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Glenn Walken",
+      "asCharacter": "Lieutenant Carlsen"
+    },
+    {
+      "id": "nm0134548",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFiMDg3ZDctNGIyNi00NTdiLWE1MGUtZjc4MzU3NTAxOTljXkEyXkFqcGdeQXVyOTEzNzI2Ng@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "George Cantero",
+      "asCharacter": "Soldier with Suitcase"
+    },
+    {
+      "id": "nm0495023",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGExYzUzM2UtNTkyNC00ZjBjLWIzNmMtMDBiNzg1YTljODkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Damien Leake",
+      "asCharacter": "Machine Gunner"
+    },
+    {
+      "id": "nm0723439",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTZjNjgzYTQtN2YxZS00YmNjLWIxMGMtZWNiNDU1ZmY4Y2M0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Herb Rice",
+      "asCharacter": "Roach"
+    },
+    {
+      "id": "nm0881536",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Upton",
+      "asCharacter": "Spotter"
+    },
+    {
+      "id": "nm0138816",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Larry Carney",
+      "asCharacter": "MP Sergeant #2"
+    },
+    {
+      "id": "nm0178898",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDc5NjExMV5BMl5BanBnXkFtZTYwOTUyMzgy._V1_Ratio1.0455_AL_.jpg",
+      "name": "Marc Coppola",
+      "asCharacter": "AFRS Announcer"
+    },
+    {
+      "id": "nm0452681",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daniel Kiewit",
+      "asCharacter": "Major from New Jersey"
+    },
+    {
+      "id": "nm0268846",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Father Elias",
+      "asCharacter": "Catholic Priest"
+    },
+    {
+      "id": "nm0333931",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY4OThiOTItZmQ0YS00ZTllLWE5N2ItMmFkMmJkY2M1ZGE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Bill Graham",
+      "asCharacter": "Agent"
+    },
+    {
+      "id": "nm0416550",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hattie Bell",
+      "asCharacter": "Mrs. Miller, Clean's Mother (voice) (as Hattie James)"
+    },
+    {
+      "id": "nm0743512",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkwMTVjM2EtNWIyNS00ZDc5LThiNjgtNjc4Y2QyZGJjODgyXkEyXkFqcGdeQXVyMTMxMTIwMTE0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jerry Ross",
+      "asCharacter": "Johnny from Malibu / Mike from San Diego"
+    },
+    {
+      "id": "nm0924715",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dick White",
+      "asCharacter": "Helicopter Pilot"
+    },
+    {
+      "id": "nm0549650",
+      "image": "https://m.media-amazon.com/images/M/MV5BODBmYmZjZWYtNzY0YS00Nzk3LTljZmQtMjM3YzhkMzVlOGM4XkEyXkFqcGdeQXVyMTA2NDgyNA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Christian Marquand",
+      "asCharacter": "Hubert de Marais (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0167467",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU3NDQ2MDYzOF5BMl5BanBnXkFtZTcwNzI5OTgwOA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Aurore Clément",
+      "asCharacter": "Roxanne Sarrault (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0685977",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michel Pitton",
+      "asCharacter": "Philippe de Marais(Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0898004",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjI1NDU3MGItMTc1ZC00MTAwLWEyOTItMmMyNTUwMDJlOGRlXkEyXkFqcGdeQXVyMTA2NDgyNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frank Villard",
+      "asCharacter": "Gaston de Marais (Redux and Final Cut versions only) (as Franck Villard)"
+    },
+    {
+      "id": "nm0647145",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Olivier",
+      "asCharacter": "Christian de Marais (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm1021808",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chrystel Le Pelletier",
+      "asCharacter": "Claudine (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm1022517",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Julian",
+      "asCharacter": "The Tutor (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm1021810",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yvon LeSeaux",
+      "asCharacter": "Sergeant Le Fevre (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0178910",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTE2MDkzOF5BMl5BanBnXkFtZTYwOTgyMDgz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Roman Coppola",
+      "asCharacter": "Francis de Marais (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0178887",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFjOGUzODgtZDQzNC00MDY2LWJmMjYtZDdlNGM2NTI2MzMyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Gian-Carlo Coppola",
+      "asCharacter": "Gilles de Marais (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm1025168",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Henri Sadardeil",
+      "asCharacter": "French Soldier #1 (Redux and Final Cut versions only) (as Henri Sadardiel)"
+    },
+    {
+      "id": "nm1022102",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gilbert Renkens",
+      "asCharacter": "French Soldier #2 (Redux and Final Cut versions only)"
+    },
+    {
+      "id": "nm0068157",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGZkYzA0M2EtZmY0ZS00NTE0LThjNWEtYjIxZWRjZDEzMTJlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Don Gordon Bell",
+      "asCharacter": "Radio Operator / Soldier (uncredited)"
+    },
+    {
+      "id": "nm13468471",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robin Blair-Crawford",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0000338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Francis Ford Coppola",
+      "asCharacter": "Director of TV Crew (uncredited)"
+    },
+    {
+      "id": "nm0290581",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyNjI4MDkxOV5BMl5BanBnXkFtZTYwNjg0ODA0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Larry Franco",
+      "asCharacter": "Soldier Clinging to Helicopter (uncredited)"
+    },
+    {
+      "id": "nm0301330",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jim Gaines",
+      "asCharacter": "Extra (uncredited)"
+    },
+    {
+      "id": "nm0000172",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxMDcxMjgxOV5BMl5BanBnXkFtZTcwODc2NTk2MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harvey Keitel",
+      "asCharacter": "Captain Benjamin L. Willard (boat departure scene) (uncredited)"
+    },
+    {
+      "id": "nm0483279",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQ5MDNjOTUtYWZlNS00MWRlLTkzMTQtMzg0MTBlMDgxN2EzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTA4NDY2Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul Lambert",
+      "asCharacter": "Messenger for Willard (uncredited)"
+    },
+    {
+      "id": "nm0521554",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Evan A. Lottman",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0629897",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nick Nicholson",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm1127107",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Linn Phillips III",
+      "asCharacter": "Guitarist in Band (uncredited)"
+    },
+    {
+      "id": "nm0732455",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1MzU4NTAzNF5BMl5BanBnXkFtZTcwMjk5ODgxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles Robinson",
+      "asCharacter": "Soldier with Colby (uncredited)"
+    },
+    {
+      "id": "nm1555972",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sebastián Roque",
+      "asCharacter": "Tribal Child (uncredited)"
+    },
+    {
+      "id": "nm0782132",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pierre Segui",
+      "asCharacter": "French Soldier (Redux and Final Cut versions only) (uncredited)"
+    },
+    {
+      "id": "nm0005886",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NDkxMjEyNl5BMl5BanBnXkFtZTYwMDk2NjEz._V1_Ratio0.8636_AL_.jpg",
+      "name": "Vittorio Storaro",
+      "asCharacter": "TV Photographer (uncredited)"
+    },
+    {
+      "id": "nm0835459",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ4OTYyNDctMjRiMS00ZmM1LWEwYTgtYTczOWIwNzVjN2I5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Henry Strzalkowski",
+      "asCharacter": "Bit Part (uncredited)"
+    },
+    {
+      "id": "nm3471084",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lonnie 'Lono' Woodley",
+      "asCharacter": "Helicopter Skid Marine (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0039068",
+          "name": "John Ashley",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0041447",
+          "name": "Kim Aubry",
+          "description": "producer (version \"Apocalypse Now Redux (2001)\")"
+        },
+        {
+          "id": "nm0000338",
+          "name": "Francis Ford Coppola",
+          "description": "producer (as Francis Coppola)"
+        },
+        {
+          "id": "nm0292875",
+          "name": "Gray Frederickson",
+          "description": "co-producer"
+        },
+        {
+          "id": "nm1199564",
+          "name": "Shannon Lail",
+          "description": "co-producer (version \"Apocalypse Now Redux (2001)\")"
+        },
+        {
+          "id": "nm0739388",
+          "name": "Eddie Romero",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0740407",
+          "name": "Fred Roos",
+          "description": "co-producer"
+        },
+        {
+          "id": "nm0803752",
+          "name": "Mona Skager",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0827923",
+          "name": "Tom Sternberg",
+          "description": "co-producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0178874",
+          "name": "Carmine Coppola",
+          "description": ""
+        },
+        {
+          "id": "nm0000338",
+          "name": "Francis Ford Coppola",
+          "description": "(as Francis Coppola)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005886",
+          "name": "Vittorio Storaro",
+          "description": "(photography)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0296636",
+          "name": "Lisa Fruchtman",
+          "description": ""
+        },
+        {
+          "id": "nm0338513",
+          "name": "Gerald B. Greenberg",
+          "description": ""
+        },
+        {
+          "id": "nm0004555",
+          "name": "Walter Murch",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0509490",
+          "name": "Terry Liebling",
+          "description": ""
+        },
+        {
+          "id": "nm0708525",
+          "name": "Vic Ramos",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0851790",
+          "name": "Dean Tavoularis",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0333908",
+          "name": "Angelo P. Graham",
+          "description": "(as Angelo Graham)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0625388",
+          "name": "George R. Nelson",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0087865",
+          "name": "Fred C. Blau Jr.",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0949640",
+          "name": "Jack H. Young",
+          "description": "makeup artist (as Jack Young)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0159124",
+          "name": "Leon Chooluck",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0651614",
+          "name": "Barrie M. Osborne",
+          "description": "production manager (as Barrie Osborne)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0105010",
+          "name": "Tony Brandt",
+          "description": "additional assistant director"
+        },
+        {
+          "id": "nm0290581",
+          "name": "Larry Franco",
+          "description": "second assistant director (as Larry J. Franco)"
+        },
+        {
+          "id": "nm0956310",
+          "name": "Jerry Ziesmer",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm1223040",
+          "name": "James B. Casey",
+          "description": "sculptor (as James Casey)"
+        },
+        {
+          "id": "nm0226356",
+          "name": "Roger Dietz",
+          "description": "set artist"
+        },
+        {
+          "id": "nm0275361",
+          "name": "Gary Fettis",
+          "description": "leadman"
+        },
+        {
+          "id": "nm0403092",
+          "name": "Willie E. Hunter",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0479028",
+          "name": "John La Salandra",
+          "description": "construction coordinator (as John LaSalandra)"
+        },
+        {
+          "id": "nm0534962",
+          "name": "Douglas E. Madison",
+          "description": "property master (as Doug Madison)"
+        },
+        {
+          "id": "nm0613468",
+          "name": "James J. Murakami",
+          "description": "assistant art director (as James Murakami)"
+        },
+        {
+          "id": "nm0747438",
+          "name": "Thomas L. Roysden",
+          "description": "assistant property master (as Tom Roysden)"
+        },
+        {
+          "id": "nm0768733",
+          "name": "Robert Scaife",
+          "description": "construction foreman (as Bob Scaife)"
+        },
+        {
+          "id": "nm0789570",
+          "name": "Tom Shaw Jr.",
+          "description": "assistant property master (as Tom Shaw)"
+        },
+        {
+          "id": "nm0851789",
+          "name": "Alex Tavoularis",
+          "description": "production illustrator"
+        },
+        {
+          "id": "nm0866668",
+          "name": "Matt Tomich",
+          "description": "assistant property master"
+        },
+        {
+          "id": "nm0942869",
+          "name": "Thomas J. Wright",
+          "description": "production illustrator (as Thomas A. Wright)"
+        },
+        {
+          "id": "nm0049439",
+          "name": "Francisco Balangue",
+          "description": "construction manager (uncredited)"
+        },
+        {
+          "id": "nm2200560",
+          "name": "Tom Jung",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm0518464",
+          "name": "Lance Lombardo",
+          "description": "property (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0066740",
+          "name": "Richard Beggs",
+          "description": "re-recordist"
+        },
+        {
+          "id": "nm0068140",
+          "name": "David Bell",
+          "description": "sound intern: redux version"
+        },
+        {
+          "id": "nm0071197",
+          "name": "Louis Benioff",
+          "description": "apprentice sound editor"
+        },
+        {
+          "id": "nm0074281",
+          "name": "Mark Berger",
+          "description": "re-recordist"
+        },
+        {
+          "id": "nm0076625",
+          "name": "George Berndt",
+          "description": "adr editor: redux version"
+        },
+        {
+          "id": "nm0096472",
+          "name": "Jim Borgardt",
+          "description": "dialogue editor (as James A. Borgardt)"
+        },
+        {
+          "id": "nm0101537",
+          "name": "Nathan Boxer",
+          "description": "production sound recordist"
+        },
+        {
+          "id": "nm0162758",
+          "name": "Richard P. Cirincione",
+          "description": "supervising sound editor (as Richard Cirincione)"
+        },
+        {
+          "id": "nm0195364",
+          "name": "Joanne D'Antonio",
+          "description": "dialog editor"
+        },
+        {
+          "id": "nm0998751",
+          "name": "Dave Davis",
+          "description": "assistant sound editor (as Dave Davies)"
+        },
+        {
+          "id": "nm0220475",
+          "name": "Ethan Derner",
+          "description": "assistant sound editor: redux"
+        },
+        {
+          "id": "nm0254713",
+          "name": "Barbara Ellis",
+          "description": "apprentice sound editor"
+        },
+        {
+          "id": "nm0296638",
+          "name": "Rob Fruchtman",
+          "description": "apprentice sound editor"
+        },
+        {
+          "id": "nm2145539",
+          "name": "Colin Guthrie",
+          "description": "Mix Engineer / assistant restoration mixer"
+        },
+        {
+          "id": "nm0376153",
+          "name": "Doug Hemphill",
+          "description": "mix recordist"
+        },
+        {
+          "id": "nm0381794",
+          "name": "Jephrey Hetz",
+          "description": "apprentice sound editor"
+        },
+        {
+          "id": "nm0388278",
+          "name": "Leslie Hodgson",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0390843",
+          "name": "Tim Holland",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0395127",
+          "name": "Pete Horner",
+          "description": "sound editor: Redux"
+        },
+        {
+          "id": "nm0413913",
+          "name": "Pat Jackson",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0414726",
+          "name": "Jack C. Jacobsen",
+          "description": "production sound recordist (as Jack Jacobsen)"
+        },
+        {
+          "id": "nm0456253",
+          "name": "Michael Kirchberger",
+          "description": "supervising sound editor: redux"
+        },
+        {
+          "id": "nm0131144",
+          "name": "Kyrsten Mate",
+          "description": "sound effects editor: Redux version (as Kyrsten Mate Comoglio)"
+        },
+        {
+          "id": "nm0564237",
+          "name": "Barbara McBane",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0571170",
+          "name": "Jim McKee",
+          "description": "sensual sound designer / sound supervisor"
+        },
+        {
+          "id": "nm0591969",
+          "name": "Jay Miracle",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0597199",
+          "name": "Jeremy Molod",
+          "description": "foley editor: redux version"
+        },
+        {
+          "id": "nm0601201",
+          "name": "Everett Moore",
+          "description": "apprentice sound editor (Redux version)"
+        },
+        {
+          "id": "nm0004555",
+          "name": "Walter Murch",
+          "description": "Re-Recordist / Sound Montage and Design / sound designer"
+        },
+        {
+          "id": "nm0638340",
+          "name": "John Nutt",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0770733",
+          "name": "Maurice Schell",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0779845",
+          "name": "Thomas Scott",
+          "description": "re-recordist"
+        },
+        {
+          "id": "nm0789458",
+          "name": "Leslie Shatz",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0805130",
+          "name": "Brian Slack",
+          "description": "adr mixer"
+        },
+        {
+          "id": "nm0833600",
+          "name": "Erich Stratmann",
+          "description": "assistant sound editor: redux (as Erich Stratman)"
+        },
+        {
+          "id": "nm0835330",
+          "name": "Dale Strumpell",
+          "description": "re-recordist"
+        },
+        {
+          "id": "nm0858378",
+          "name": "Randy Thom",
+          "description": "post production recordist"
+        },
+        {
+          "id": "nm0861658",
+          "name": "Dennie Thorpe",
+          "description": "apprentice sound editor (as Denise Thorpe)"
+        },
+        {
+          "id": "nm0915165",
+          "name": "Jeff Watts",
+          "description": "apprentice sound editor"
+        },
+        {
+          "id": "nm0915374",
+          "name": "Nina Wax",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0927796",
+          "name": "Les Wiggins",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0933680",
+          "name": "Karen G. Wilson",
+          "description": "assistant sound editor (as Karen Wilson)"
+        },
+        {
+          "id": "nm0020614",
+          "name": "James Allen",
+          "description": "Re-Recordist (uncredited)"
+        },
+        {
+          "id": "nm1912227",
+          "name": "Steve Bartlett",
+          "description": "sound (uncredited)"
+        },
+        {
+          "id": "nm0998750",
+          "name": "Robert Davenport",
+          "description": "audio technician (uncredited)"
+        },
+        {
+          "id": "nm0395127",
+          "name": "Pete Horner",
+          "description": "adr recordist: redux (uncredited) / re-recording mixer: final cut (uncredited)"
+        },
+        {
+          "id": "nm0004213",
+          "name": "Cliff Latimer",
+          "description": "sound department assistant (uncredited)"
+        },
+        {
+          "id": "nm0540454",
+          "name": "Kitty Malone",
+          "description": "foley artist (uncredited)"
+        },
+        {
+          "id": "nm0003864",
+          "name": "Michael S. Murphey",
+          "description": "foley artist (uncredited)"
+        },
+        {
+          "id": "nm0737129",
+          "name": "Philip Rogers",
+          "description": "sound remastering of orig 6 track magnetic sound elements (restored version) (uncredited)"
+        },
+        {
+          "id": "nm0858378",
+          "name": "Randy Thom",
+          "description": "mix assistant (uncredited) / sound effects recordist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0043683",
+          "name": "Eddie Ayay",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0138566",
+          "name": "Mario Carmona",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0146935",
+          "name": "Lawrence J. Cavanaugh",
+          "description": "special effects (as Larry Cavanaugh)"
+        },
+        {
+          "id": "nm0256846",
+          "name": "Gerald Endler",
+          "description": "special effects (as Jerry Endler)"
+        },
+        {
+          "id": "nm0283166",
+          "name": "A.D. Flowers",
+          "description": "special effects coordinator"
+        },
+        {
+          "id": "nm0292162",
+          "name": "John Fraser",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0375690",
+          "name": "Richard O. Helmer",
+          "description": "special effects (as Richard Helmer)"
+        },
+        {
+          "id": "nm0514302",
+          "name": "Rudy Liszczak",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0518375",
+          "name": "Joe Lombardi",
+          "description": "special effects coordinator (as Joseph Lombardi)"
+        },
+        {
+          "id": "nm0553116",
+          "name": "Ted Martin",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0820408",
+          "name": "David St. Ana",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0292594",
+          "name": "John Frazier",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0419649",
+          "name": "Jefferson Zuma Jay Wagner",
+          "description": "special effects assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm1808808",
+          "name": "Joe Benoit",
+          "description": "optical coordinator: Modern Film Effects"
+        },
+        {
+          "id": "nm1811989",
+          "name": "Skip Watt",
+          "description": "optical coordinator: Modern Film Effects"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0102434",
+          "name": "Steve Boyum",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0278200",
+          "name": "Joe Finnegan",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0392470",
+          "name": "Larry Holt",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0502777",
+          "name": "Terry Leonard",
+          "description": "stunt coordinator (as Terry J. Leonard)"
+        },
+        {
+          "id": "nm0743953",
+          "name": "Kerry Rossall",
+          "description": "stunts (as Kerry Rossal)"
+        },
+        {
+          "id": "nm0914048",
+          "name": "Chuck Waters",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0164418",
+          "name": "Rip Clark",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0502777",
+          "name": "Terry Leonard",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0881536",
+          "name": "William Upton",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0016644",
+          "name": "Giuseppe Alberti",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0076491",
+          "name": "Luigi Bernardini",
+          "description": "assistant camera (as Rino Bernardini)"
+        },
+        {
+          "id": "nm0005664",
+          "name": "Stephen H. Burum",
+          "description": "director of photography: second unit"
+        },
+        {
+          "id": "nm0124885",
+          "name": "David L. Butler",
+          "description": "aerial camera operator (as David Butler)"
+        },
+        {
+          "id": "nm0209362",
+          "name": "Rogilio De La Rama",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0221042",
+          "name": "Caleb Deschanel",
+          "description": "director of photography: insert"
+        },
+        {
+          "id": "nm0302861",
+          "name": "Luciano Galli",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0314734",
+          "name": "Chas Gerretsen",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0487495",
+          "name": "Efren Lapid",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0545558",
+          "name": "Alfredo Marchetti",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0545578",
+          "name": "Mauro Marchetti",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0005812",
+          "name": "Hiro Narita",
+          "description": "camera operator: insert"
+        },
+        {
+          "id": "nm0461300",
+          "name": "David B. Nowell",
+          "description": "assistant camera (as David Nowell)"
+        },
+        {
+          "id": "nm0785860",
+          "name": "Piero Servo",
+          "description": "camera operator: second unit"
+        },
+        {
+          "id": "nm0880866",
+          "name": "Enrico Umetelli",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0918237",
+          "name": "Josh Weiner",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm3870907",
+          "name": "David Jones",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0924715",
+          "name": "Dick White",
+          "description": "still photographer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm0060464",
+          "name": "Sue Bastian",
+          "description": "casting assistant / director of casting for locals and extras"
+        },
+        {
+          "id": "nm0065143",
+          "name": "Heig Beck",
+          "description": "casting assistant"
+        },
+        {
+          "id": "nm0141879",
+          "name": "Randy Carter",
+          "description": "casting: Philippines"
+        },
+        {
+          "id": "nm0178898",
+          "name": "Marc Coppola",
+          "description": "casting assistant"
+        },
+        {
+          "id": "nm0307147",
+          "name": "Éva Gárdos",
+          "description": "casting: Montagnard tribesmen (as Eva Gardos)"
+        },
+        {
+          "id": "nm0582465",
+          "name": "Ken Metcalfe",
+          "description": "casting assistant"
+        },
+        {
+          "id": "nm0925743",
+          "name": "Lou Whitehill",
+          "description": "casting: Philippines"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0063037",
+          "name": "Luster Bayless",
+          "description": "costumer"
+        },
+        {
+          "id": "nm13906199",
+          "name": "Linda Burza",
+          "description": "seamstress"
+        },
+        {
+          "id": "nm0123852",
+          "name": "Norman A. Burza",
+          "description": "costumer (as Norman Burza)"
+        },
+        {
+          "id": "nm0277176",
+          "name": "Dennis Fill",
+          "description": "costumer (as Dennis M. Fill)"
+        },
+        {
+          "id": "nm0416353",
+          "name": "Charles E. James",
+          "description": "costume supervisor"
+        },
+        {
+          "id": "nm0514565",
+          "name": "George L. Little",
+          "description": "costumer (as George Little)"
+        },
+        {
+          "id": "nm0392434",
+          "name": "Haleen K. Holt",
+          "description": "costume illustrator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0998597",
+          "name": "Susan Arnold",
+          "description": "apprentice film editor"
+        },
+        {
+          "id": "nm0076625",
+          "name": "George Berndt",
+          "description": "associate editor"
+        },
+        {
+          "id": "nm0091249",
+          "name": "Jay Boekelheide",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0002561",
+          "name": "Richard Candib",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0165602",
+          "name": "Doug Claybourne",
+          "description": "post-production coordinator"
+        },
+        {
+          "id": "nm0167986",
+          "name": "Arthur Coburn",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm1485322",
+          "name": "Sean Cullen",
+          "description": "assistant editor: avid: Redux version: 2001"
+        },
+        {
+          "id": "nm0270458",
+          "name": "Rudi Fehr",
+          "description": "foreign post-production coordinator"
+        },
+        {
+          "id": "nm0279017",
+          "name": "Ken Fischer",
+          "description": "assistant film editor (as Ken Fisher)"
+        },
+        {
+          "id": "nm0334391",
+          "name": "Dale E. Grahn",
+          "description": "color timer (Redux version)"
+        },
+        {
+          "id": "nm0377948",
+          "name": "Mo Henry",
+          "description": "negative cutter (Redux version)"
+        },
+        {
+          "id": "nm0414281",
+          "name": "Michael Jacobi",
+          "description": "first assistant film editor"
+        },
+        {
+          "id": "nm0456253",
+          "name": "Michael Kirchberger",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0521554",
+          "name": "Evan A. Lottman",
+          "description": "additional editor (as Evan Lottman)"
+        },
+        {
+          "id": "nm0539794",
+          "name": "Barry Malkin",
+          "description": "additional editor (as Blackie Malkin)"
+        },
+        {
+          "id": "nm0548772",
+          "name": "Barbara Marks",
+          "description": "post-production coordinator"
+        },
+        {
+          "id": "nm0548943",
+          "name": "Richard Marks",
+          "description": "supervising editor"
+        },
+        {
+          "id": "nm1098912",
+          "name": "Walter Slater Murch",
+          "description": "assistant film editor (Redux version)"
+        },
+        {
+          "id": "nm0637026",
+          "name": "Ernesto Novelli",
+          "description": "supervising color technician"
+        },
+        {
+          "id": "nm0743512",
+          "name": "Jerry Ross",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0746311",
+          "name": "Larry Rovetti",
+          "description": "supervising color technician"
+        },
+        {
+          "id": "nm0002377",
+          "name": "Stephen Semel",
+          "description": "assistant film editor (as Steve Semel)"
+        },
+        {
+          "id": "nm0810209",
+          "name": "Tracey Smith",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0837592",
+          "name": "Daniel R. Suhart",
+          "description": "post-production assistant: Fred Roos (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0257629",
+          "name": "Jack English",
+          "description": "location coordinator"
+        },
+        {
+          "id": "nm0791007",
+          "name": "David Sheldon",
+          "description": "location consultant"
+        },
+        {
+          "id": "nm0871578",
+          "name": "Liz Treadwell",
+          "description": "location scout"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0024029",
+          "name": "Jordan Amarantha",
+          "description": "musician"
+        },
+        {
+          "id": "nm0066740",
+          "name": "Richard Beggs",
+          "description": "musician: synthesizer"
+        },
+        {
+          "id": "nm0259803",
+          "name": "Greg Errico",
+          "description": "musician"
+        },
+        {
+          "id": "nm0322336",
+          "name": "Patrick Gleeson",
+          "description": "musician: master synthesizer"
+        },
+        {
+          "id": "nm1385210",
+          "name": "Ed Goldfarb",
+          "description": "music arranger (Redux version)"
+        },
+        {
+          "id": "nm0361056",
+          "name": "Randy Hansen",
+          "description": "musician: guitar"
+        },
+        {
+          "id": "nm0366449",
+          "name": "Mickey Hart",
+          "description": "musician"
+        },
+        {
+          "id": "nm1777021",
+          "name": "Michael Hinton",
+          "description": "music production assistance"
+        },
+        {
+          "id": "nm0403984",
+          "name": "Zakir Hussain",
+          "description": "musician"
+        },
+        {
+          "id": "nm0402137",
+          "name": "Craig Huxley",
+          "description": "musician: Master Synthesizer, Composer Additional Music (uncredited)"
+        },
+        {
+          "id": "nm0470177",
+          "name": "Bernard Krause",
+          "description": "musician: synthesizer (as Bernard L. Krause)"
+        },
+        {
+          "id": "nm0471066",
+          "name": "Bill Kreutzmann",
+          "description": "musician (as Billy Kreutzmann)"
+        },
+        {
+          "id": "nm0503943",
+          "name": "Phil Lesh",
+          "description": "musician"
+        },
+        {
+          "id": "nm0998655",
+          "name": "Jim Loveless",
+          "description": "musician"
+        },
+        {
+          "id": "nm0603500",
+          "name": "Airto Moreira",
+          "description": "music production assistance"
+        },
+        {
+          "id": "nm0696406",
+          "name": "Don Preston",
+          "description": "musician: synthesizer"
+        },
+        {
+          "id": "nm0748247",
+          "name": "David Rubinson",
+          "description": "music producer"
+        },
+        {
+          "id": "nm0825979",
+          "name": "Nyle Steiner",
+          "description": "musician: synthesizer"
+        },
+        {
+          "id": "nm0002980",
+          "name": "Shirley Walker",
+          "description": "musician: synthesizer"
+        },
+        {
+          "id": "nm0936899",
+          "name": "Stan Witt",
+          "description": "music editor"
+        },
+        {
+          "id": "nm0090799",
+          "name": "Michael Boddicker",
+          "description": "musician: synthesizer (uncredited)"
+        },
+        {
+          "id": "nm0230392",
+          "name": "George Doering",
+          "description": "musician (uncredited)"
+        },
+        {
+          "id": "nm0361056",
+          "name": "Randy Hansen",
+          "description": "composer: additional music (uncredited)"
+        },
+        {
+          "id": "nm0366449",
+          "name": "Mickey Hart",
+          "description": "composer: additional music (uncredited)"
+        },
+        {
+          "id": "nm0428661",
+          "name": "Leslie Ann Jones",
+          "description": "score recordist (uncredited)"
+        },
+        {
+          "id": "nm0006288",
+          "name": "David Shire",
+          "description": "composer: unused music (uncredited)"
+        },
+        {
+          "id": "nm0828755",
+          "name": "Sally Stevens",
+          "description": "singer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0394476",
+          "name": "Nancy Hopton",
+          "description": "script supervisor (as Nancy Tonery)"
+        },
+        {
+          "id": "nm0704409",
+          "name": "Ray Quiroz",
+          "description": "script supervisor (as Raymond Quiroz)"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0391186",
+          "name": "Dennis Hollis",
+          "description": "transportation coordinator"
+        },
+        {
+          "id": "nm0713904",
+          "name": "John Reade",
+          "description": "transportation coordinator (as John C. Reade)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0007442",
+          "name": "Andy Aaron",
+          "description": "staff: Omni Zoetrope Studios (as Andrew Aaron)"
+        },
+        {
+          "id": "nm3988331",
+          "name": "Abigail Abbuehl",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0011672",
+          "name": "John Addington",
+          "description": "fixed wing pilot"
+        },
+        {
+          "id": "nm0017184",
+          "name": "Marisa Alcaraz",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm3987873",
+          "name": "Lawrence Andrews",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0042637",
+          "name": "Jean A. Autrey",
+          "description": "production controller"
+        },
+        {
+          "id": "nm0064660",
+          "name": "Lee Beaupre",
+          "description": "marketing director"
+        },
+        {
+          "id": "nm0091250",
+          "name": "Todd Boekelheide",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0112633",
+          "name": "Paul Broucek",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0130815",
+          "name": "John Calvert",
+          "description": "choreographer: playmate show"
+        },
+        {
+          "id": "nm0138816",
+          "name": "Larry Carney",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0140785",
+          "name": "David Carroll",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0140966",
+          "name": "Robert Carroll",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0152415",
+          "name": "John Chapman",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0165602",
+          "name": "Doug Claybourne",
+          "description": "special assistant to producers"
+        },
+        {
+          "id": "nm0165603",
+          "name": "Patti Claybourne",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm3987648",
+          "name": "Denise Cooney",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0178301",
+          "name": "Pete Cooper",
+          "description": "marine coordinator"
+        },
+        {
+          "id": "nm0178880",
+          "name": "Eleanor Coppola",
+          "description": "documentary supervisor"
+        },
+        {
+          "id": "nm0000338",
+          "name": "Francis Ford Coppola",
+          "description": "presenter"
+        },
+        {
+          "id": "nm0179863",
+          "name": "Russ Corin",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0185800",
+          "name": "Catherine Craig",
+          "description": "archivist (2001 Redux version)"
+        },
+        {
+          "id": "nm3988023",
+          "name": "Douglas Cross",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0216743",
+          "name": "Loolee DeLeon",
+          "description": "production coordinator (as Loolee De Leon)"
+        },
+        {
+          "id": "nm0225369",
+          "name": "Brett Dicker",
+          "description": "foreign publicity coordinator"
+        },
+        {
+          "id": "nm0227666",
+          "name": "Tony Dingman",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0227886",
+          "name": "Richard Dioguardi",
+          "description": "military advisor"
+        },
+        {
+          "id": "nm0239307",
+          "name": "Mitch Dubin",
+          "description": "staff: Omni Zoetrope Studios (as Mitchell Dubin)"
+        },
+        {
+          "id": "nm0250356",
+          "name": "Shane Edwards",
+          "description": "marine coordinator"
+        },
+        {
+          "id": "nm0253672",
+          "name": "T.S. Eliot",
+          "description": "poem: The Hollow Men\""
+        },
+        {
+          "id": "nm3987110",
+          "name": "Charles Esposito",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0277601",
+          "name": "Deborah Fine",
+          "description": "production liaison and research: USA"
+        },
+        {
+          "id": "nm0280408",
+          "name": "Wayne Fitzgerald",
+          "description": "titles"
+        },
+        {
+          "id": "nm1114003",
+          "name": "Karen Frerichs",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm3987747",
+          "name": "Dain Fritz",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0296035",
+          "name": "Jack Fritz",
+          "description": "executive assistant"
+        },
+        {
+          "id": "nm0309357",
+          "name": "Dennis Gassner",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0322448",
+          "name": "Dan Gleich",
+          "description": "staff: Omni Zoetrope Studios (as Daniel Gleich)"
+        },
+        {
+          "id": "nm0326014",
+          "name": "Ernst Goldschmidt",
+          "description": "representative: foreign producer"
+        },
+        {
+          "id": "nm0998636",
+          "name": "Paul Gregory",
+          "description": "military advisor"
+        },
+        {
+          "id": "nm0376153",
+          "name": "Doug Hemphill",
+          "description": "staff: Omni Zoetrope Studios (as Douglas Hemphill)"
+        },
+        {
+          "id": "nm0378146",
+          "name": "Paul G. Hensler",
+          "description": "military advisor (as Paul Hensler)"
+        },
+        {
+          "id": "nm3988119",
+          "name": "Shelley Higgins",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm3987061",
+          "name": "James Hill",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0400736",
+          "name": "Kevin Hughes",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm1599092",
+          "name": "Linda Ignacio",
+          "description": "department of tourism: Philippines"
+        },
+        {
+          "id": "nm0415911",
+          "name": "Dennis Jakob",
+          "description": "creative consultant"
+        },
+        {
+          "id": "nm0428266",
+          "name": "J. David Jones",
+          "description": "aerial coordinator (as David Jones)"
+        },
+        {
+          "id": "nm0431781",
+          "name": "Dennis Juban",
+          "description": "military liaison: Philippines"
+        },
+        {
+          "id": "nm0436362",
+          "name": "Peter Kama",
+          "description": "military advisor (as Lt. Colonel Peter Kama)"
+        },
+        {
+          "id": "nm3987443",
+          "name": "Donald Kaufman",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0454234",
+          "name": "Lloyd Kind",
+          "description": "production assistant (as Lloyd Kino)"
+        },
+        {
+          "id": "nm0457671",
+          "name": "Colin Michael Kitchens",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm3988153",
+          "name": "Julie Kramer",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0479028",
+          "name": "John La Salandra",
+          "description": "production executive (as John LaSalandra)"
+        },
+        {
+          "id": "nm0004213",
+          "name": "Cliff Latimer",
+          "description": "staff: Omni Zoetrope Studios (as Clifford Latimer)"
+        },
+        {
+          "id": "nm0524145",
+          "name": "Gwen M. Lucas",
+          "description": "assistant production controller"
+        },
+        {
+          "id": "nm0548772",
+          "name": "Barbara Marks",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm0558953",
+          "name": "Melissa Mathison",
+          "description": "executive assistant"
+        },
+        {
+          "id": "nm3988052",
+          "name": "James Miller",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm1619997",
+          "name": "James T. Mockoski",
+          "description": "restoration supervisor"
+        },
+        {
+          "id": "nm3988129",
+          "name": "Andrew Moore",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm3987553",
+          "name": "Julie Morin",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm2803153",
+          "name": "Katherine Morton",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0998669",
+          "name": "Dennis Murphy",
+          "description": "marine coordinator"
+        },
+        {
+          "id": "nm0623355",
+          "name": "Anahid Nazarian",
+          "description": "archivist (Redux version)"
+        },
+        {
+          "id": "nm3987661",
+          "name": "Christopher Nedderson",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0632628",
+          "name": "Sherry Nisewaner",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm3986859",
+          "name": "Valerie O'Conor",
+          "description": "staff: Omni Zoetrope Studios (as Valerie Koutnik)"
+        },
+        {
+          "id": "nm0662062",
+          "name": "Barbara Parker",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0662188",
+          "name": "David Parker",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm10480952",
+          "name": "Bob Peak",
+          "description": "movie poster illustration"
+        },
+        {
+          "id": "nm3986909",
+          "name": "Robert Peitso",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0677253",
+          "name": "Kristine Peterson",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm2456037",
+          "name": "Bill Poplar",
+          "description": "staff: Omni Zoetrope Studios (as Wm. Poplar)"
+        },
+        {
+          "id": "nm3988096",
+          "name": "Michael Popso",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0705372",
+          "name": "Phil Radcliffe",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0709853",
+          "name": "Liz Randol",
+          "description": "staff: Omni Zoetrope Studios (as Liza Randol)"
+        },
+        {
+          "id": "nm0721009",
+          "name": "Fred Rexer",
+          "description": "military advisor (as Fred Rexer Jr.)"
+        },
+        {
+          "id": "nm0729663",
+          "name": "Francesca Riviere",
+          "description": "production secretary: USA"
+        },
+        {
+          "id": "nm0752517",
+          "name": "Doug Ryan",
+          "description": "military advisor"
+        },
+        {
+          "id": "nm3988015",
+          "name": "Stefan Sekula",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0002784",
+          "name": "Frank Simeone",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0838874",
+          "name": "Gabe Sumner",
+          "description": "campaign coordinator"
+        },
+        {
+          "id": "nm1787261",
+          "name": "Nancy Ely Swanson",
+          "description": "staff: Omni Zoetrope Studios (as Nancy Ely)"
+        },
+        {
+          "id": "nm3987611",
+          "name": "Susan Thistle",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0866668",
+          "name": "Matt Tomich",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm1064036",
+          "name": "Wayne Wagner",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0910286",
+          "name": "Krystal Walters",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0916982",
+          "name": "Norman Webster",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm3987826",
+          "name": "Madeline Lee Werner",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0924715",
+          "name": "Dick White",
+          "description": "aerial coordinator / military advisor"
+        },
+        {
+          "id": "nm3987476",
+          "name": "David Wirt",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0944748",
+          "name": "Irwin Yablans",
+          "description": "producer's representative: USA and Canadian"
+        },
+        {
+          "id": "nm3988075",
+          "name": "Teresa Zaleska",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0953271",
+          "name": "Joseph Zappala",
+          "description": "staff: Omni Zoetrope Studios"
+        },
+        {
+          "id": "nm0008774",
+          "name": "Michèle Abitbol",
+          "description": "press attache: France (redux version) (uncredited)"
+        },
+        {
+          "id": "nm0046573",
+          "name": "Mindaugus Bagdon",
+          "description": "Second Unit Assistant (uncredited)"
+        },
+        {
+          "id": "nm0061540",
+          "name": "Susan Leslie Battles",
+          "description": "secretary to the producers (uncredited)"
+        },
+        {
+          "id": "nm13468471",
+          "name": "Robin Blair-Crawford",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0178301",
+          "name": "Pete Cooper",
+          "description": "Stand-in: Marlon Brando (uncredited)"
+        },
+        {
+          "id": "nm1281859",
+          "name": "Dan DiPaola",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0251349",
+          "name": "Gina Ehrlich",
+          "description": "production coordinator (uncredited)"
+        },
+        {
+          "id": "nm0000388",
+          "name": "R. Lee Ermey",
+          "description": "military advisor (uncredited)"
+        },
+        {
+          "id": "nm0261724",
+          "name": "Joe Estevez",
+          "description": "adr performer (uncredited) / stand-in/voice-over: Willard (uncredited) / stand-in: Martin Sheen (uncredited)"
+        },
+        {
+          "id": "nm0420691",
+          "name": "Nancy Jencks",
+          "description": "film chain operator (uncredited)"
+        },
+        {
+          "id": "nm2469394",
+          "name": "Séverine Lajarrige",
+          "description": "press attache: France (redux version) (uncredited)"
+        },
+        {
+          "id": "nm0487449",
+          "name": "Oli Laperal Jr.",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0230130",
+          "name": "Loris Loddi",
+          "description": "Italian dubbing: Lance B. Johnson (uncredited)"
+        },
+        {
+          "id": "nm0820694",
+          "name": "Tony St. John",
+          "description": "electronic cinema (uncredited)"
+        },
+        {
+          "id": "nm0882388",
+          "name": "Michael E. Uslan",
+          "description": "production attorney (uncredited)"
+        },
+        {
+          "id": "nm0226076",
+          "name": "Wynne Wicker",
+          "description": "technical advisor: Vietnam (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0342139",
+          "name": "Anthony Grimani",
+          "description": "Special Thanks to: SKYWALKER SOUND NORTH, 1991 laserdisc (as Tony Grimani)"
+        },
+        {
+          "id": "nm0391642",
+          "name": "Tomlinson Holman",
+          "description": "Special Thanks to: SKYWALKER SOUND NORTH, 1991 laserdisc"
+        },
+        {
+          "id": "nm0502607",
+          "name": "Dennis Leonard",
+          "description": "Special Thanks to: SKYWALKER SOUND NORTH, 1991 laserdisc"
+        },
+        {
+          "id": "nm0700892",
+          "name": "Flora Purim",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0770522",
+          "name": "Jeff Scheftel",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0838707",
+          "name": "Gary Summers",
+          "description": "Special Thanks to: SKYWALKER SOUND NORTH, 1991 laserdisc"
+        },
+        {
+          "id": "nm10589151",
+          "name": "Paul Theodoropoulos",
+          "description": "Special Thanks to: Skywalker Sound North"
+        },
+        {
+          "id": "nm1064036",
+          "name": "Wayne Wagner",
+          "description": "Special Thanks to: SKYWALKER SOUND NORTH, 1991 laserdisc"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

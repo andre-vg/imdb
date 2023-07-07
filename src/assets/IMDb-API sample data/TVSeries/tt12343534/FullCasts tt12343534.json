@@ -1,0 +1,839 @@
+{
+  "imDbId": "tt12343534",
+  "title": "Jujutsu Kaisen",
+  "fullTitle": "Jujutsu Kaisen (TV Series 2020– )",
+  "type": "TVSeries",
+  "year": "2020",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm4810022",
+        "name": "Seong-Hu Park",
+        "description": "(10 episodes, 2020)"
+      },
+      {
+        "id": "nm9646660",
+        "name": "Hideaki Abe",
+        "description": "(1 episode, 2020)"
+      },
+      {
+        "id": "nm11605063",
+        "name": "Kakushi Ifuku",
+        "description": "(1 episode, 2020)"
+      },
+      {
+        "id": "nm7847387",
+        "name": "Eri Nagata",
+        "description": "(1 episode, 2020)"
+      },
+      {
+        "id": "nm9639013",
+        "name": "Yôsuke Takada",
+        "description": "(1 episode, 2020)"
+      },
+      {
+        "id": "nm4163778",
+        "name": "Ryôhei Takeshita",
+        "description": "(1 episode, 2020)"
+      },
+      {
+        "id": "nm6378016",
+        "name": "Yui Umemoto",
+        "description": "(1 episode, 2020)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm12013605",
+        "name": "Gege Akutami",
+        "description": "(manga) (24 episodes, 2020-2021)"
+      },
+      {
+        "id": "nm12013605",
+        "name": "Gege Akutami",
+        "description": "(showrunner) (23 episodes, 2020-2021)"
+      },
+      {
+        "id": "nm5003154",
+        "name": "Hiroshi Seko",
+        "description": "(screenplay) (24 episodes, 2020-2021)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm7121595",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Junya Enoki",
+      "asCharacter": "Yuji Itadori 24 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1361499",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJlNTk1YTYtNzg4MC00MjYwLWEzNzQtYzA2NmFmN2UwZDU0XkEyXkFqcGdeQXVyMTE2ODc2NjM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Adam McArthur",
+      "asCharacter": "Yuji Itadori / ... 24 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1697606",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJkYzkyOGYtNDg0ZS00MjBmLWI1MTQtYjNlZTEwZDlkZjI2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Yûichi Nakamura",
+      "asCharacter": "Satoru Gojo 20 episodes, 2020-2021"
+    },
+    {
+      "id": "nm6793636",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yuma Uchida",
+      "asCharacter": "Megumi Fushiguro 18 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4439231",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Asami Seto",
+      "asCharacter": "Nobara Kugisaki / ... 18 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2837894",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM4YTAyOGItNGM1NS00YzRlLWI4ZjItYTk5ZDdlZTk1NGZmXkEyXkFqcGdeQXVyMjAzMjQ4NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robbie Daymond",
+      "asCharacter": "Megumi Fushiguro 17 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0412628",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE1NjNhZDctZmYyNy00ZDE5LWIwYTctN2VkMDM3OWEyYTJhXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mitsuo Iwata",
+      "asCharacter": "Kiyotaka Ijichi 15 episodes, 2020-2021"
+    },
+    {
+      "id": "nm3803047",
+      "image": "https://m.media-amazon.com/images/M/MV5BODI0ZDZkYWItNWZjYi00MGFkLTgwYjEtZTZiNWRiZjk1ZDhhXkEyXkFqcGdeQXVyNTI4NjU1MzU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Chris Tergliafera",
+      "asCharacter": "Kiyotaka Ijichi 15 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0485670",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIzODBlYjktNmIwYy00Y2NlLTkzMWQtMTYyNDFhMGI5NjNkXkEyXkFqcGdeQXVyMTk1MjE3Nzk@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lex Lang",
+      "asCharacter": "Suguru Geto 15 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4858403",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZlMmVhY2ItYTNjZC00NTBmLWIxYjQtMTdjNDk1MzU3N2FiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Nobunaga Shimazaki",
+      "asCharacter": "Mahito 14 episodes, 2020-2021"
+    },
+    {
+      "id": "nm3265752",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVmOTAxOTItMmMwYS00MGM2LWExYzYtZjllMjBkZDYzODYzXkEyXkFqcGdeQXVyODE2MDY1NTE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Allegra Clark",
+      "asCharacter": "Maki Zen'in / ... 14 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0782840",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ3MWZjYTEtNzg4Mi00MzE1LWFjNTUtMjEzNGNjZTk4YjliXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tomokazu Seki",
+      "asCharacter": "Panda 13 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4262853",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mikako Komatsu",
+      "asCharacter": "Maki Zen'in 12 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2146022",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM1NmJmYjQtZGI0Yy00ZDU1LTkzOWMtYjhiZTMwNzAwMTFkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kôki Uchiyama",
+      "asCharacter": "Toge Inumaki 12 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2836674",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM4MDIzMWEtYTI3ZS00ZmQ2LWFiYTAtYzZjODJmMGIxZmUxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kaiji Tang",
+      "asCharacter": "Satoru Gojo 11 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1146347",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTMzNGJkOTUtMDExOS00Y2VjLTk1NmItOTJhNmE3MDE1NzI4XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jun'ichi Suwabe",
+      "asCharacter": "Ryomen Sukuna 10 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0419760",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjZjMDU2NzQtZDhhNy00YjI3LThmMmQtMTUwNzIyNGQ4ZTg4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Tara Sands",
+      "asCharacter": "Utahime / ... 10 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1328859",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2JlMzk5ZjEtNDM1Mi00OTc1LWI2ZTAtZWM0MmZmODgxMDFjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kenjirô Tsuda",
+      "asCharacter": "Kento Nanami 9 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0157133",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdmNDg3NmEtOGRhYy00YjA3LTljMWQtYjhmNTgwZmJmYWFhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Shigeru Chiba",
+      "asCharacter": "Jogo / ... 9 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1425287",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Takaya Kuroda",
+      "asCharacter": "Masamichi Yaga / ... 9 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4515899",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDJkMjk0MWQtN2I3ZC00MmJkLWIxNzktYzU0NTA0YTBlYzcxXkEyXkFqcGdeQXVyMzc4MTcyODE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Amber Lee Connors",
+      "asCharacter": "Mei Mei / ... 9 episodes, 2020-2021"
+    },
+    {
+      "id": "nm6606380",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJiZmUzODUtOTc1MC00MDhhLThiNWUtNDdiYjlkODU2YTZiXkEyXkFqcGdeQXVyMjU0NTg5MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Matthew David Rudd",
+      "asCharacter": "Panda 9 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0757327",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIyMGYyOTYtMGQ5OS00MWM3LWIxNzUtYTkyOWExOWQ4YjhiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Takahiro Sakurai",
+      "asCharacter": "Suguru Geto 8 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1878161",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Subaru Kimura",
+      "asCharacter": "Aoi Todo 8 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2335252",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdkZDlhZWQtM2RjZi00ZWRlLTgwZWYtMWJmN2QwNDE5OTk4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lucien Dodge",
+      "asCharacter": "Mahito 8 episodes, 2020-2021"
+    },
+    {
+      "id": "nm3304361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzg1ZGQ1M2YtNWE0Ny00ZThmLTgzM2QtYTJiMTJiMTU2MmEwXkEyXkFqcGdeQXVyMTg0MTAxOTg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anne Yatco",
+      "asCharacter": "Nobara Kugisaki 8 episodes, 2020-2021"
+    },
+    {
+      "id": "nm6745380",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Landon McDonald",
+      "asCharacter": "Noritoshi Kamo 8 episodes, 2021"
+    },
+    {
+      "id": "nm2095800",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmVhZGIxZTMtZDY0MC00MDBmLThmZjktOGFmNWVhNWFlMTcyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Marina Inoue",
+      "asCharacter": "Mai Zen'in 7 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4533533",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chinatsu Akasaki",
+      "asCharacter": "Kasumi Miwa 7 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2174227",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmM0MjRkYjMtNzhiYS00YmNmLTlmMmYtMjlkOWE0NzQzNzYzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Satoshi Hino",
+      "asCharacter": "Noritoshi Kamo 7 episodes, 2021"
+    },
+    {
+      "id": "nm2932868",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yôko Hikasa",
+      "asCharacter": "Utahime Iori 7 episodes, 2021"
+    },
+    {
+      "id": "nm1069584",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUxZGRmZmItYjdmYS00ZTI0LWFkMWItNzNkNjU2YjFjMDBjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rie Kugimiya",
+      "asCharacter": "Momo Nishimiya 6 episodes, 2021"
+    },
+    {
+      "id": "nm0611212",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mugihito",
+      "asCharacter": "Yoshinobu Gakuganji 6 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0848968",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFiMzk2YjYtYTNjNC00NTRiLWExMDUtY2Q0MDM1MzEwZjU0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Atsuko Tanaka",
+      "asCharacter": "Hanami 6 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1996362",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM2Nzg1OTQtYWE2MS00ZWRlLWExYTYtNTRiODg3YWJjMDQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Marie Westbrook",
+      "asCharacter": "Hanami 6 episodes, 2020-2021"
+    },
+    {
+      "id": "nm6233872",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yoshitaka Yamaya",
+      "asCharacter": "Junpei Yoshino 5 episodes, 2020"
+    },
+    {
+      "id": "nm1142722",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWM0MTUyNTktYTRlNS00M2E3LWE2YzItZmFhMzE1ZmVlMTljXkEyXkFqcGdeQXVyNjkwMjM2NTI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Keith Silverstein",
+      "asCharacter": "Masamichi Yaga 5 episodes, 2020-2021"
+    },
+    {
+      "id": "nm4648426",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Xander Mobus",
+      "asCharacter": "Toge Inumaki / ... 5 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2616557",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDEyMjFlODQtZjI5OC00ZTFmLTgzYWQtMzIxZDRkYTI0NWZkXkEyXkFqcGdeQXVyMjM4OTM4MzM@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Ray Chase",
+      "asCharacter": "Ryomen Sukuna 5 episodes, 2020"
+    },
+    {
+      "id": "nm0747346",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZkNjExN2EtNDgzZC00YjU2LTg0MDctZTBmZTkzNmM2MzI5XkEyXkFqcGdeQXVyMTA4Mjc4Mg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Nicolas Roye",
+      "asCharacter": "Junpei Yoshino 5 episodes, 2020"
+    },
+    {
+      "id": "nm2594314",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aya Endô",
+      "asCharacter": "Shoko Ieiri 4 episodes, 2020"
+    },
+    {
+      "id": "nm0594074",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU0MzgwNTEtNjJmNi00OGJlLWFkMjUtZTdhZGM1MjM3ODFmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kotono Mitsuishi",
+      "asCharacter": "Mei Mei 4 episodes, 2021"
+    },
+    {
+      "id": "nm1132505",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM1ZWNlZmItZTQzMC00NDI1LTljNDYtNDJkZWZmYjg5Yjc2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tetsu Inada",
+      "asCharacter": "Juzo Kumiya 4 episodes, 2021"
+    },
+    {
+      "id": "nm3961240",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tomoyo Kurosawa",
+      "asCharacter": "Takada-chan 4 episodes, 2020-2021"
+    },
+    {
+      "id": "nm1035500",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczMDA1MDIzNV5BMl5BanBnXkFtZTYwOTE1OTYy._V1_Ratio1.0000_AL_.jpg",
+      "name": "Kyle Hebert",
+      "asCharacter": "Grandfather / ... 4 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0815040",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNkNzUyYmItNzY1Mi00ODY5LWIzZTMtMjVmMjI0MmZkNDgzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Sorich",
+      "asCharacter": "Jogo 4 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2876104",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzYyNDk3MGUtNmE1Zi00ZTU0LWIzNzMtNmQ4N2EyYjRlNzg3XkEyXkFqcGdeQXVyMzI0NzMzMDk@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Ryan Bartley",
+      "asCharacter": "Shoko Ieiri 4 episodes, 2020"
+    },
+    {
+      "id": "nm1720779",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM1YTNjNGEtMjkwNC00M2U2LWJjODYtYjc5YWZhMzk2OWRjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8182_AL_.jpg",
+      "name": "David Vincent",
+      "asCharacter": "Kento Nanami 4 episodes, 2020"
+    },
+    {
+      "id": "nm0945322",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDY3MDI1ZTItOGQxOC00ZDQ4LWFlY2EtM2UxMjQyYjlmY2NmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kappei Yamaguchi",
+      "asCharacter": "Kechizu 3 episodes, 2021"
+    },
+    {
+      "id": "nm4303311",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yoshitsugu Matsuoka",
+      "asCharacter": "Ultimate Mechamaru 3 episodes, 2021"
+    },
+    {
+      "id": "nm2977461",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDcyYjdmNWEtZTFjOS00MGE4LTkwYTQtMTQ1ZmJkODFmYjg5XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Saori Hayami",
+      "asCharacter": "Tsumiki Fushiguro 3 episodes, 2020-2021"
+    },
+    {
+      "id": "nm7351779",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Takamasa Mogi",
+      "asCharacter": "Ito 3 episodes, 2020"
+    },
+    {
+      "id": "nm3111407",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Akira Harada",
+      "asCharacter": "Tonomura 3 episodes, 2020"
+    },
+    {
+      "id": "nm5176753",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sora Tokui",
+      "asCharacter": "Akari Nitta 2 episodes, 2021"
+    },
+    {
+      "id": "nm0882358",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shigeru Ushiyama",
+      "asCharacter": "Takeda 2 episodes, 2021"
+    },
+    {
+      "id": "nm0387033",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDNlZTAyYjAtY2VkMC00YTA3LThjYWYtYWQyNjQ2NDcxODI4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Nobuyuki Hiyama",
+      "asCharacter": "Eso 2 episodes, 2021"
+    },
+    {
+      "id": "nm1468944",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chie Nakamura",
+      "asCharacter": "Kamo's Mother 2 episodes, 2021"
+    },
+    {
+      "id": "nm1906130",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Wataru Hatano",
+      "asCharacter": "Haruta Shigemo 2 episodes, 2021"
+    },
+    {
+      "id": "nm9532108",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Natsumi Kawaida",
+      "asCharacter": "Kamo (Child) 2 episodes, 2021"
+    },
+    {
+      "id": "nm12048423",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yugo Sekiguchi",
+      "asCharacter": "Taichi Kanada 2 episodes, 2021"
+    },
+    {
+      "id": "nm3677958",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTRkNTg2MWEtNTRhMS00ZTkyLWI1MzUtODQzNDE5NDczYWU3XkEyXkFqcGdeQXVyNTg1MzgzNjg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Laura Post",
+      "asCharacter": "Mai Zen'in 2 episodes, 2020-2021"
+    },
+    {
+      "id": "nm3125992",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjEzOTI1ZDMtMWM2NS00NDFmLTkxZDYtYzYyYTU4MjYzYTRiXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Xanthe Huynh",
+      "asCharacter": "Sasaki 2 episodes, 2020"
+    },
+    {
+      "id": "nm2540995",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mariya Ise",
+      "asCharacter": "Sasaki 2 episodes, 2020"
+    },
+    {
+      "id": "nm10931637",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Suzie Yeung",
+      "asCharacter": "Tsumiki Fushiguro 2 episodes, 2020"
+    },
+    {
+      "id": "nm8000264",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Akiha Matsui",
+      "asCharacter": "Waitress 2 episodes, 2020"
+    },
+    {
+      "id": "nm1390854",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aya Nakamura",
+      "asCharacter": "Okazaki's Mother 2 episodes, 2020"
+    },
+    {
+      "id": "nm0633788",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Junko Noda",
+      "asCharacter": "Nagi Yoshino 1 episode, 2020"
+    },
+    {
+      "id": "nm2106149",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yu Hayashi",
+      "asCharacter": "Takuma Ino 1 episode, 2020"
+    },
+    {
+      "id": "nm8530460",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shuhei Matsuda",
+      "asCharacter": "Fujinuma (Brother) 1 episode, 2021"
+    },
+    {
+      "id": "nm8858390",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arisa Sakuraba",
+      "asCharacter": "Fujinuma (Sister) 1 episode, 2021"
+    },
+    {
+      "id": "nm0620124",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDVlYzE1NDctYjY5My00YjNjLTkyMGQtMjU2ZmEyNTIzNGQzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jôji Nakata",
+      "asCharacter": "Naobito Zen'in 1 episode, 2021"
+    },
+    {
+      "id": "nm0383022",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Noriko Hidaka",
+      "asCharacter": "Yuki Tsukumo 1 episode, 2021"
+    },
+    {
+      "id": "nm11226719",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Takaaki Torashima",
+      "asCharacter": "Delinquent B 1 episode, 2021"
+    },
+    {
+      "id": "nm0620657",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVhZjEzZjUtZWU1Ni00NDAyLTk3OGQtZWUyMWE3Mzc0OTJlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Daisuke Namikawa",
+      "asCharacter": "Choso 1 episode, 2021"
+    },
+    {
+      "id": "nm9052543",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yuki Kazu",
+      "asCharacter": "Aoi Todo (Third Grade) 1 episode, 2021"
+    },
+    {
+      "id": "nm7164831",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yoshiki Nakajima",
+      "asCharacter": "Student Council President 1 episode, 2020"
+    },
+    {
+      "id": "nm7552800",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shun'ichi Maki",
+      "asCharacter": "Tadashi Okazaki 1 episode, 2020"
+    },
+    {
+      "id": "nm9311344",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yuji Murai",
+      "asCharacter": "Prodo 1 episode, 2020"
+    },
+    {
+      "id": "nm7134754",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daichi Hayashi",
+      "asCharacter": "Sam 1 episode, 2020"
+    },
+    {
+      "id": "nm3412673",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kenji Sugimura",
+      "asCharacter": "Takagi 1 episode, 2020"
+    },
+    {
+      "id": "nm9302851",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Takahiro Sumi",
+      "asCharacter": "Iguchi 1 episode, 2020"
+    },
+    {
+      "id": "nm5804925",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQ3Zjc4NDktMzQ0My00MjRkLWEyZDYtMzkxOWY0NzVhMDJhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Chris Hackney",
+      "asCharacter": "Haruta Shigemo 1 episode, 2021"
+    }
+  ],
+  "others": [
+    {
+      "job": "Series Produced by",
+      "items": [
+        {
+          "id": "nm3514622",
+          "name": "Toshihiro Maeda",
+          "description": "producer (25 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm12138847",
+          "name": "Akifumi Fujio",
+          "description": "executive producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm4032710",
+          "name": "Makoto Kimura",
+          "description": "producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm14699464",
+          "name": "Hiroaki Matsutani",
+          "description": "producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm14699466",
+          "name": "Yuriha Murai",
+          "description": "producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm14699465",
+          "name": "Yoshiaki Takagaki",
+          "description": "producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm10403359",
+          "name": "Akito Takahashi",
+          "description": "executive producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm9030997",
+          "name": "Kazutaka Yamanaka",
+          "description": "executive producer (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm6377476",
+          "name": "Nikki Fish",
+          "description": "co-producer (11 episodes, 2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Music by",
+      "items": [
+        {
+          "id": "nm11875975",
+          "name": "Alisa Okehazama",
+          "description": "(24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm13419308",
+          "name": "Yoshimasa Terui",
+          "description": "(24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm5055444",
+          "name": "Hiroaki Tsutsumi",
+          "description": "(24 episodes, 2020-2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Art Direction by",
+      "items": [
+        {
+          "id": "nm12138839",
+          "name": "Moonflower",
+          "description": "(11 episodes, 2020)"
+        },
+        {
+          "id": "nm12116496",
+          "name": "Jeong Yeon Kim",
+          "description": "(9 episodes, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Production Management",
+      "items": [
+        {
+          "id": "nm3818447",
+          "name": "Sierra Leoni",
+          "description": "production manager (24 episodes, 2020-2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Art Department",
+      "items": [
+        {
+          "id": "nm0159109",
+          "name": "Yoshiaki Kawajiri",
+          "description": "storyboard artist (2 episodes, 2020)"
+        },
+        {
+          "id": "nm1483822",
+          "name": "Hiroaki Andô",
+          "description": "storyboard artist (1 episode, 2020)"
+        },
+        {
+          "id": "nm0386238",
+          "name": "Tadashi Hiramatsu",
+          "description": "storyboard artist (1 episode, 2020)"
+        },
+        {
+          "id": "nm7847387",
+          "name": "Eri Nagata",
+          "description": "storyboard artist (1 episode, 2020)"
+        },
+        {
+          "id": "nm2736898",
+          "name": "Takahiro Shikama",
+          "description": "storyboard artist (1 episode, 2020)"
+        },
+        {
+          "id": "nm4163778",
+          "name": "Ryôhei Takeshita",
+          "description": "storyboard artist (1 episode, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Sound Department",
+      "items": [
+        {
+          "id": "nm10037493",
+          "name": "Joey Little",
+          "description": "adr recordist (1 episode, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Animation Department",
+      "items": [
+        {
+          "id": "nm13252107",
+          "name": "Brooklyn Martin",
+          "description": "animator (11 episodes, 2021)"
+        },
+        {
+          "id": "nm13244566",
+          "name": "Brooklyn El-Omar",
+          "description": "key animator (6 episodes, 2021)"
+        },
+        {
+          "id": "nm12805920",
+          "name": "Seon Ryong Choi",
+          "description": "background artist: Studio Forest (5 episodes, 2020)"
+        },
+        {
+          "id": "nm9065842",
+          "name": "Keiichiro Watanabe",
+          "description": "animator (4 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm12512239",
+          "name": "Benjamin Faure",
+          "description": "key animator (3 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm9763772",
+          "name": "Tomoko Kitagawa",
+          "description": "key animator / secondary key animator (3 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm12804372",
+          "name": "Wen Hao Zhang",
+          "description": "key animator (2 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm0386238",
+          "name": "Tadashi Hiramatsu",
+          "description": "chief animation director (1 episode, 2020)"
+        },
+        {
+          "id": "nm1547388",
+          "name": "Yoshiko Nakamura",
+          "description": "secondary key animator (1 episode, 2020)"
+        },
+        {
+          "id": "nm2225467",
+          "name": "Terumi Nishii",
+          "description": "chief animation director (1 episode, 2020)"
+        },
+        {
+          "id": "nm4796349",
+          "name": "Hironori Tanaka",
+          "description": "key animator (1 episode, 2020)"
+        },
+        {
+          "id": "nm4632702",
+          "name": "Ken Arto",
+          "description": "key animator (1 episode, 2021)"
+        },
+        {
+          "id": "nm11660527",
+          "name": "Matto",
+          "description": "inbetween artist (1 episode, 2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Casting Department",
+      "items": [
+        {
+          "id": "nm3818447",
+          "name": "Sierra Leoni",
+          "description": "casting lead (24 episodes, 2020-2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Music Department",
+      "items": [
+        {
+          "id": "nm1509862",
+          "name": "Youki Yamamoto",
+          "description": "vocal direction (24 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm11894425",
+          "name": "Kirk Aztech Yi",
+          "description": "lyrics (4 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm13679318",
+          "name": "Paranom",
+          "description": "lyrics (3 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm8308764",
+          "name": "Aklo",
+          "description": "theme song (1 episode, 2020)"
+        },
+        {
+          "id": "nm14717143",
+          "name": "Steve Memmolo",
+          "description": "singer (1 episode, 2021)"
+        }
+      ]
+    },
+    {
+      "job": "Series Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm4481399",
+          "name": "Amanda Céline Miller",
+          "description": "script adaptation (1 episode, 2020)"
+        },
+        {
+          "id": "nm8886804",
+          "name": "Briana Noelle Miller",
+          "description": "script spotting (1 episode, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Additional Crew",
+      "items": [
+        {
+          "id": "nm10063378",
+          "name": "Jeremy Santiago",
+          "description": "production coordinator (21 episodes, 2020-2021)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

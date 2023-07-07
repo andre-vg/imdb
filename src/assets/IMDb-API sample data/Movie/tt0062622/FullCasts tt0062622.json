@@ -1,0 +1,2159 @@
+{
+  "imDbId": "tt0062622",
+  "title": "2001: A Space Odyssey",
+  "fullTitle": "2001: A Space Odyssey (1968)",
+  "type": "Movie",
+  "year": "1968",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": "(screenplay by) and"
+      },
+      {
+        "id": "nm0002009",
+        "name": "Arthur C. Clarke",
+        "description": "(screenplay by)"
+      },
+      {
+        "id": "nm0002009",
+        "name": "Arthur C. Clarke",
+        "description": "(short story \"The Sentinel\") (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0001158",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTczODgxNDU1NV5BMl5BanBnXkFtZTYwMzQxOTI2._V1_Ratio1.0000_AL_.jpg",
+      "name": "Keir Dullea",
+      "asCharacter": "Dr. Dave Bowman"
+    },
+    {
+      "id": "nm0516972",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDMzNjQ1Nl5BMl5BanBnXkFtZTYwNzMxOTI2._V1_Ratio1.0000_AL_.jpg",
+      "name": "Gary Lockwood",
+      "asCharacter": "Dr. Frank Poole"
+    },
+    {
+      "id": "nm0843213",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzAzMDc5OTI1NV5BMl5BanBnXkFtZTcwNDQ1MzY2OQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "William Sylvester",
+      "asCharacter": "Dr. Heywood R. Floyd"
+    },
+    {
+      "id": "nm0725220",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNlZjBiZmUtMjJlNC00MGEyLTgzY2MtMTA2N2I5ZDYzNTY3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Daniel Richter",
+      "asCharacter": "Moon-Watcher"
+    },
+    {
+      "id": "nm0744436",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1ODMwMzQ5OV5BMl5BanBnXkFtZTcwNTgxOTgxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Leonard Rossiter",
+      "asCharacter": "Dr. Andrei Smyslov"
+    },
+    {
+      "id": "nm0879239",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0NTAzMzkzOV5BMl5BanBnXkFtZTcwMDMwNjIyMw@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Margaret Tyzack",
+      "asCharacter": "Elena"
+    },
+    {
+      "id": "nm0064235",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0ODE0NzkwOF5BMl5BanBnXkFtZTcwMjkwODUxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Beatty",
+      "asCharacter": "Dr. Ralph Halvorsen"
+    },
+    {
+      "id": "nm0838330",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjgzNGViNzYtODYxMC00NGUyLWI0NjQtMmZkNmFlNDkyZWY0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.2273_AL_.jpg",
+      "name": "Sean Sullivan",
+      "asCharacter": "Dr. Bill Michaels"
+    },
+    {
+      "id": "nm0706937",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBiMjBjMzctMWMzOS00ODc4LTgyNjEtMTMxMGQ4ZTRmZjRjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Douglas Rain",
+      "asCharacter": "HAL 9000 (voice)"
+    },
+    {
+      "id": "nm0588339",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Miller",
+      "asCharacter": "Mission Controller (voice)"
+    },
+    {
+      "id": "nm0922916",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjM4MmQ2MWEtYmNiZi00MWU5LTkyYzItNzFjMzUxNTdlYTRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Bill Weston",
+      "asCharacter": "Astronaut"
+    },
+    {
+      "id": "nm0084042",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTExODU3OTc5NTVeQTJeQWpwZ15BbWU4MDYyOTY5MjEx._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ed Bishop",
+      "asCharacter": "Aries-1B Lunar Shuttle Captain (as Edward Bishop)"
+    },
+    {
+      "id": "nm0065140",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM4ZGFmMWUtYTE1MC00NTlhLTgwODItY2YzOWE0Mjg3ZTY4XkEyXkFqcGdeQXVyNDU4NDMzNDY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Glenn Beck",
+      "asCharacter": "Astronaut"
+    },
+    {
+      "id": "nm0317506",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzcwNjAyYTMtZmNlMC00ZWVjLThiYmMtZGE0ZDA5MTZiODQyXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Alan Gifford",
+      "asCharacter": "Poole's Father"
+    },
+    {
+      "id": "nm0319268",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ2NzYwYjctZDlkNC00NmZhLTkyOGUtZDJkMTNjNzQ5MzE4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ann Gillis",
+      "asCharacter": "Poole's Mother"
+    },
+    {
+      "id": "nm0140809",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjgzNjkyNl5BMl5BanBnXkFtZTYwNzYxOTI2._V1_Ratio1.0455_AL_.jpg",
+      "name": "Edwina Carroll",
+      "asCharacter": "Aries-1B Stewardess"
+    },
+    {
+      "id": "nm0103988",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk0MTUyNDExN15BMl5BanBnXkFtZTcwMjMwMTgyMw@@._V1_Ratio2.1364_AL_.jpg",
+      "name": "Penny Brahms",
+      "asCharacter": "Stewardess"
+    },
+    {
+      "id": "nm0236049",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjRmOWFhMjMtMTVlZi00ODFmLThhYTktZTBkY2RiZjA4NWQwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.2273_AL_.jpg",
+      "name": "Heather Downham",
+      "asCharacter": "Stewardess"
+    },
+    {
+      "id": "nm0522569",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mike Lovell",
+      "asCharacter": "Astronaut"
+    },
+    {
+      "id": "nm0039070",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Ashley",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0068284",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmy Bell",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0152926",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTg4MmI3ZDItMmU0My00ZGJmLWJjZjgtZmMwZTlmYWJjNDVkXkEyXkFqcGdeQXVyMjI0MDY5MTI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "David Charkham",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0205471",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Simon Davis",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0205887",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jonathan Daw",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0217628",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Péter Delmár",
+      "asCharacter": "Ape (as Peter Delmar)"
+    },
+    {
+      "id": "nm0240956",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Terry Duggan",
+      "asCharacter": "Ape Attacked by Leopard"
+    },
+    {
+      "id": "nm0281443",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Fleetwood",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0344008",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Danny Grover",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0370311",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brian Hawley",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0385651",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Hines",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0413273",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anthony Jackson",
+      "asCharacter": "Ape (as Tony Jackson)"
+    },
+    {
+      "id": "nm1262811",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Jordan",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0533229",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Scott MacKee",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0545444",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Laurence Marchant",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0655942",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Darryl Paes",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0716327",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Refalo",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0908518",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andy Wallace",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm0934408",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Wilyman",
+      "asCharacter": "Ape"
+    },
+    {
+      "id": "nm1592207",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Woods",
+      "asCharacter": "Ape Killed by Moon-Watcher (as Richard Wood)"
+    },
+    {
+      "id": "nm1264415",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Martin Amor",
+      "asCharacter": "Interviewer (uncredited)"
+    },
+    {
+      "id": "nm0027400",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "S. Newton Anderson",
+      "asCharacter": "Young Man (uncredited)"
+    },
+    {
+      "id": "nm0056707",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ann Barrass",
+      "asCharacter": "Stewardess on Space Station (uncredited)"
+    },
+    {
+      "id": "nm8748713",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jim Beasley",
+      "asCharacter": "Aeroflot Co-Pilot (uncredited)"
+    },
+    {
+      "id": "nm0089415",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sheraton Blount",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm1264630",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ann Bormann",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm5520476",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Clifford",
+      "asCharacter": "TMA-1 Site Technician #2 (uncredited)"
+    },
+    {
+      "id": "nm0185425",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harold Coyne",
+      "asCharacter": "Military Officer at Clavius Meeting (uncredited)"
+    },
+    {
+      "id": "nm0188478",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Julie Croft",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0276092",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGUyNGI0NWQtZjdkMS00YmU3LTk0MTUtMWE5YmJmNDJjODRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Harry Fielder",
+      "asCharacter": "Moonwalker (uncredited)"
+    },
+    {
+      "id": "nm1263440",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Penny Francis",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0371753",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jane Hayward",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0393773",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lew Hooper",
+      "asCharacter": "Military Officer at Clavius Meeting (uncredited)"
+    },
+    {
+      "id": "nm0445152",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Judy Keirn",
+      "asCharacter": "Voice Print Identification Girl (uncredited)"
+    },
+    {
+      "id": "nm0447611",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY2MTRiNzctODQ1OC00OTAzLWE2M2MtZjgxMmYyZjliOGIwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kenneth Kendall",
+      "asCharacter": "BBC-12 Announcer (uncredited)"
+    },
+    {
+      "id": "nm0467991",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Maya Koumani",
+      "asCharacter": "Dr. Stretyeneva (uncredited)"
+    },
+    {
+      "id": "nm0473588",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vivian Kubrick",
+      "asCharacter": "Squirt - Floyd's Daughter (uncredited)"
+    },
+    {
+      "id": "nm0487089",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roy Lansford",
+      "asCharacter": "Scientist at TMA-1 Briefing (uncredited)"
+    },
+    {
+      "id": "nm0518746",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODgyMjkzMl5BMl5BanBnXkFtZTYwMTYxOTI2._V1_Ratio1.0000_AL_.jpg",
+      "name": "Maggie London",
+      "asCharacter": "Hostess in Elevator (uncredited)"
+    },
+    {
+      "id": "nm0548445",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marcella Markham",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm2066570",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Irena Marr",
+      "asCharacter": "Russian Scientist (uncredited)"
+    },
+    {
+      "id": "nm1285458",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Krystyna Marr",
+      "asCharacter": "Russian Scientist (uncredited)"
+    },
+    {
+      "id": "nm0560255",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NDI3MzYzNl5BMl5BanBnXkFtZTYwOTUxOTI2._V1_Ratio2.2273_AL_.jpg",
+      "name": "Chela Matthison",
+      "asCharacter": "Receptionist (uncredited)"
+    },
+    {
+      "id": "nm8742461",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Colin McKenzie",
+      "asCharacter": "Scientist (uncredited)"
+    },
+    {
+      "id": "nm1263886",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kim Neil",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm1264700",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jane Pearl",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm1263957",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Penny Pearl",
+      "asCharacter": "(uncredited)"
+    },
+    {
+      "id": "nm0694138",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjkwYzFlZTYtMGNiNi00NDhjLTk0ZWItMmQ4NjlmNDU1MjEwXkEyXkFqcGdeQXVyODE4NTI0NzA@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ivor Powell",
+      "asCharacter": "V. F. Kaminsky (uncredited)"
+    },
+    {
+      "id": "nm0732569",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGNjZDg5NTUtYTFkZi00YmJlLWJmZGQtNTZhNjdlYWFhYzhhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Doug Robinson",
+      "asCharacter": "Judo Opponent on Aries-Ib TV (uncredited)"
+    },
+    {
+      "id": "nm10509156",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jennifer Sanders",
+      "asCharacter": "Judo Opponent on Aries-Ib TV (uncredited)"
+    },
+    {
+      "id": "nm0779441",
+      "image": "https://m.media-amazon.com/images/M/MV5BODU1MjQ5OTUwM15BMl5BanBnXkFtZTcwODUwNjcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kevin Scott",
+      "asCharacter": "Miller (uncredited)"
+    },
+    {
+      "id": "nm0842694",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Swindells",
+      "asCharacter": "TMA-1 Site Technician #1 (uncredited)"
+    },
+    {
+      "id": "nm0875813",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY5ZGI1ODMtZjA5MC00NjNmLTg3OTUtNTAwNTQyMjI2ZWYwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Burnell Tucker",
+      "asCharacter": "TMA-1 Site Photographer (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0528540",
+          "name": "Victor Lyndon",
+          "description": "associate producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005910",
+          "name": "Geoffrey Unsworth",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0522487",
+          "name": "Ray Lovejoy",
+          "description": "film editor"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0509896",
+          "name": "James Liggat",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0033658",
+          "name": "Ernest Archer",
+          "description": ""
+        },
+        {
+          "id": "nm0486127",
+          "name": "Harry Lange",
+          "description": ""
+        },
+        {
+          "id": "nm0557650",
+          "name": "Anthony Masters",
+          "description": "(as Tony Masters)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0388589",
+          "name": "John Hoesli",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0142204",
+          "name": "Robert Cartwright",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0293084",
+          "name": "Stuart Freeborn",
+          "description": "makeup"
+        },
+        {
+          "id": "nm0037743",
+          "name": "Colin Arthur",
+          "description": "special effects makeup artist: ape masks (uncredited)"
+        },
+        {
+          "id": "nm0065679",
+          "name": "Carol Beckett",
+          "description": "key hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0293077",
+          "name": "Graham Freeborn",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0293078",
+          "name": "Kay Freeborn",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0391740",
+          "name": "Alice Holmes",
+          "description": "key hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0502552",
+          "name": "Leonard",
+          "description": "ape suits consultant (uncredited)"
+        },
+        {
+          "id": "nm0589968",
+          "name": "Richard Mills",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0662125",
+          "name": "Charles E. Parker",
+          "description": "makeup supervisor (uncredited)"
+        },
+        {
+          "id": "nm0662488",
+          "name": "Mibs Parker",
+          "description": "assistant hairdresser (uncredited)"
+        },
+        {
+          "id": "nm0724117",
+          "name": "Hugh Richards",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm1264062",
+          "name": "Muriel Rickaby",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0901610",
+          "name": "Daphne Vollmer",
+          "description": "assistant hair stylist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0063859",
+          "name": "Ronnie Bear",
+          "description": "post-production manager (uncredited)"
+        },
+        {
+          "id": "nm0104746",
+          "name": "Clifton Brandon",
+          "description": "production manager (uncredited)"
+        },
+        {
+          "id": "nm1263450",
+          "name": "Eddie Frewin",
+          "description": "unit production manager (uncredited)"
+        },
+        {
+          "id": "nm0915226",
+          "name": "Robert Watts",
+          "description": "production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0185633",
+          "name": "Derek Cracknell",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0001949",
+          "name": "Andrew Birkin",
+          "description": "second unit director (uncredited)"
+        },
+        {
+          "id": "nm0396559",
+          "name": "Richard Hoult",
+          "description": "third assistant director (uncredited)"
+        },
+        {
+          "id": "nm0003496",
+          "name": "Richard Jenkins",
+          "description": "second assistant director (uncredited)"
+        },
+        {
+          "id": "nm0590066",
+          "name": "Jonathan Mills",
+          "description": "third assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0010068",
+          "name": "Brian Ackland-Snow",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0010070",
+          "name": "Terry Ackland-Snow",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0040770",
+          "name": "Martin Atkinson",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0116767",
+          "name": "Frank Bruton",
+          "description": "property master (uncredited)"
+        },
+        {
+          "id": "nm1263210",
+          "name": "Wally Bull",
+          "description": "master plasterer (uncredited)"
+        },
+        {
+          "id": "nm0121631",
+          "name": "Chris Burke",
+          "description": "stand-by painter (uncredited)"
+        },
+        {
+          "id": "nm1263215",
+          "name": "R. Burton",
+          "description": "engineering draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0134262",
+          "name": "Roy Cannon",
+          "description": "stand-by props (uncredited)"
+        },
+        {
+          "id": "nm0138881",
+          "name": "Roy Carnon",
+          "description": "scientific design specialist (uncredited)"
+        },
+        {
+          "id": "nm1263243",
+          "name": "Reg Carter",
+          "description": "stand-by carpenter (uncredited)"
+        },
+        {
+          "id": "nm0157582",
+          "name": "Peter Childs",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0157670",
+          "name": "Colin Chilvers",
+          "description": "art department assistant (uncredited)"
+        },
+        {
+          "id": "nm0170403",
+          "name": "Dave Coldham",
+          "description": "plaster crew (uncredited)"
+        },
+        {
+          "id": "nm0271941",
+          "name": "John Fenner",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm1263438",
+          "name": "Alan Fraiser",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0295682",
+          "name": "Dick Frift",
+          "description": "construction coordinator (uncredited)"
+        },
+        {
+          "id": "nm1263466",
+          "name": "Anna Garrett",
+          "description": "art department typist (uncredited)"
+        },
+        {
+          "id": "nm1262865",
+          "name": "Henry Gomez",
+          "description": "stand-by plasterer (uncredited)"
+        },
+        {
+          "id": "nm0337067",
+          "name": "John Graysmark",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0337070",
+          "name": "Tony Graysmark",
+          "description": "construction supervisor (uncredited)"
+        },
+        {
+          "id": "nm0353569",
+          "name": "Russell Hagg",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0359414",
+          "name": "Peter Hancock",
+          "description": "props (uncredited)"
+        },
+        {
+          "id": "nm0385067",
+          "name": "Les Hillman",
+          "description": "moon construction engineer (uncredited)"
+        },
+        {
+          "id": "nm1162494",
+          "name": "Jack Holden",
+          "description": "set dresser (uncredited)"
+        },
+        {
+          "id": "nm1262866",
+          "name": "James Holmes",
+          "description": "stand-by stagehand (uncredited)"
+        },
+        {
+          "id": "nm0406479",
+          "name": "Tommy Ibbetson",
+          "description": "stand-by props (uncredited)"
+        },
+        {
+          "id": "nm1263585",
+          "name": "Bill Isaacs",
+          "description": "production buyer (uncredited)"
+        },
+        {
+          "id": "nm1263600",
+          "name": "P. Jarratt",
+          "description": "engineering draughtsman (uncredited)"
+        },
+        {
+          "id": "nm1263637",
+          "name": "Theresa Kendall",
+          "description": "art department secretary (uncredited)"
+        },
+        {
+          "id": "nm0473583",
+          "name": "Christiane Kubrick",
+          "description": "concept artist (uncredited)"
+        },
+        {
+          "id": "nm1263696",
+          "name": "Phil Lanning",
+          "description": "stand-by props (uncredited)"
+        },
+        {
+          "id": "nm1269175",
+          "name": "Malcolm Legge",
+          "description": "stagehand carpenter (uncredited)"
+        },
+        {
+          "id": "nm0564677",
+          "name": "Robert McCall",
+          "description": "conceptual designer (uncredited)"
+        },
+        {
+          "id": "nm1263823",
+          "name": "Jumbo Miall",
+          "description": "drapes (uncredited)"
+        },
+        {
+          "id": "nm0601518",
+          "name": "Liz Moore",
+          "description": "designer: Star Child (uncredited)"
+        },
+        {
+          "id": "nm1301243",
+          "name": "Olivier Mourgue",
+          "description": "interior designer: Discovery (uncredited)"
+        },
+        {
+          "id": "nm1055909",
+          "name": "Bob Nadkarni",
+          "description": "sculptor (uncredited)"
+        },
+        {
+          "id": "nm1263915",
+          "name": "Stan Odgen",
+          "description": "plasterer's laborer (uncredited)"
+        },
+        {
+          "id": "nm6407342",
+          "name": "Charlie Parfitt",
+          "description": "fibrous plasterer (uncredited)"
+        },
+        {
+          "id": "nm4145974",
+          "name": "G. Payne",
+          "description": "moon construction engineer (uncredited)"
+        },
+        {
+          "id": "nm0695421",
+          "name": "Anthony Pratt",
+          "description": "sketch artist (uncredited)"
+        },
+        {
+          "id": "nm0713937",
+          "name": "Tony Reading",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0741483",
+          "name": "John Rose",
+          "description": "technical illustrator (uncredited)"
+        },
+        {
+          "id": "nm0796492",
+          "name": "John Siddall",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0810292",
+          "name": "Wallis Smith",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm1264227",
+          "name": "Penny Struthers",
+          "description": "art department assistant (uncredited)"
+        },
+        {
+          "id": "nm0866766",
+          "name": "Alan Tomkins",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0907777",
+          "name": "Gus Walker",
+          "description": "TMA-1 construction manager (uncredited)"
+        },
+        {
+          "id": "nm0932739",
+          "name": "Frank Willson",
+          "description": "draughtsman (uncredited)"
+        },
+        {
+          "id": "nm1134759",
+          "name": "John Young",
+          "description": "technical illustrator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0083378",
+          "name": "H.L. Bird",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0753160",
+          "name": "Winston Ryder",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0808534",
+          "name": "J.B. Smith",
+          "description": "chief dubbing mixer"
+        },
+        {
+          "id": "nm0914249",
+          "name": "A.W. Watkins",
+          "description": "sound supervisor"
+        },
+        {
+          "id": "nm0176915",
+          "name": "Bill Cook",
+          "description": "boom operator (uncredited)"
+        },
+        {
+          "id": "nm0339932",
+          "name": "Robin Gregory",
+          "description": "sound recordist (uncredited)"
+        },
+        {
+          "id": "nm0342341",
+          "name": "Ernie Grimsdale",
+          "description": "assistant dubbing editor (uncredited)"
+        },
+        {
+          "id": "nm1153989",
+          "name": "Michael Hickey",
+          "description": "sound camera operator (uncredited)"
+        },
+        {
+          "id": "nm0737129",
+          "name": "Philip Rogers",
+          "description": "sound recordist: restorated version (uncredited)"
+        },
+        {
+          "id": "nm1265026",
+          "name": "Neil Stevenson",
+          "description": "sound maintenance (uncredited)"
+        },
+        {
+          "id": "nm1084378",
+          "name": "Malcolm Stewart",
+          "description": "sound designer (uncredited)"
+        },
+        {
+          "id": "nm1193528",
+          "name": "John Streeter",
+          "description": "sound recordist (uncredited)"
+        },
+        {
+          "id": "nm0941734",
+          "name": "Don Wortham",
+          "description": "boom operator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0050529",
+          "name": "Ron Ballanger",
+          "description": "special effects technician (uncredited)"
+        },
+        {
+          "id": "nm0101155",
+          "name": "Les Bowie",
+          "description": "special effects additional supervisor (uncredited)"
+        },
+        {
+          "id": "nm0108130",
+          "name": "Colin Brewer",
+          "description": "special effects coordinator (uncredited)"
+        },
+        {
+          "id": "nm6194662",
+          "name": "Hugh Cassidy",
+          "description": "projectionist (uncredited)"
+        },
+        {
+          "id": "nm1263309",
+          "name": "Ted Creed",
+          "description": "special effects engineer (uncredited)"
+        },
+        {
+          "id": "nm0191235",
+          "name": "Bob Cuff",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm0191240",
+          "name": "Joy Cuff",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm0225312",
+          "name": "Roger Dicken",
+          "description": "special effects artwork (uncredited)"
+        },
+        {
+          "id": "nm0313142",
+          "name": "Wally Gentleman",
+          "description": "special effects supervisor (uncredited)"
+        },
+        {
+          "id": "nm0364859",
+          "name": "Jimmy Harris",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0372739",
+          "name": "Fred Heather",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm1263566",
+          "name": "Graham Hooper",
+          "description": "special effects stills printer (uncredited)"
+        },
+        {
+          "id": "nm0007049",
+          "name": "Garth Inns",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0424644",
+          "name": "Brian Johnson",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm1263639",
+          "name": "Valerie Kent",
+          "description": "special effects department secretary (uncredited)"
+        },
+        {
+          "id": "nm0546672",
+          "name": "Antonio Margheriti",
+          "description": "special effects consultant (uncredited)"
+        },
+        {
+          "id": "nm1263808",
+          "name": "Dan McGowen",
+          "description": "special effects stills printer (uncredited)"
+        },
+        {
+          "id": "nm9093660",
+          "name": "Michael Mott",
+          "description": "fabricator (uncredited)"
+        },
+        {
+          "id": "nm0625005",
+          "name": "Curly Nelhams",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm1263977",
+          "name": "Hilary Ann Pickburn",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm1263996",
+          "name": "George Pollack",
+          "description": "special effects coordinator (uncredited)"
+        },
+        {
+          "id": "nm0689659",
+          "name": "George Pollock",
+          "description": "special effects coordinator (uncredited)"
+        },
+        {
+          "id": "nm1264004",
+          "name": "Douglas Potts",
+          "description": "special effects model maker (uncredited)"
+        },
+        {
+          "id": "nm0821228",
+          "name": "Charles Staffell",
+          "description": "special effects additional supervisor (uncredited)"
+        },
+        {
+          "id": "nm1264264",
+          "name": "Delia Tindall",
+          "description": "special effects department secretary (uncredited)"
+        },
+        {
+          "id": "nm1267244",
+          "name": "Tori Traynor",
+          "description": "special effects runner (uncredited)"
+        },
+        {
+          "id": "nm0911620",
+          "name": "Jimmy Ward",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm1264347",
+          "name": "Tom Welford",
+          "description": "special effects maintenance (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0134764",
+          "name": "Colin Cantwell",
+          "description": "special photographic effects (as Colin J. Cantwell)"
+        },
+        {
+          "id": "nm0397644",
+          "name": "Tom Howard",
+          "description": "special photographic effects supervisor"
+        },
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "special photographic effects designer / special photographic effects director"
+        },
+        {
+          "id": "nm0517479",
+          "name": "Bryan Loftus",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0517521",
+          "name": "Bruce Logan",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0539534",
+          "name": "John Jack Malick",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0552304",
+          "name": "Frederick Martin",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0651635",
+          "name": "David Osborne",
+          "description": "special photographic effects"
+        },
+        {
+          "id": "nm0669974",
+          "name": "Con Pederson",
+          "description": "special photographic effects supervisor"
+        },
+        {
+          "id": "nm0874320",
+          "name": "Douglas Trumbull",
+          "description": "special photographic effects supervisor"
+        },
+        {
+          "id": "nm0891764",
+          "name": "Wally Veevers",
+          "description": "special photographic effects supervisor"
+        },
+        {
+          "id": "nm1263092",
+          "name": "Herbert Bailey",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0071629",
+          "name": "Brian Bennett",
+          "description": "visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm0081860",
+          "name": "Peter Biggs",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0091100",
+          "name": "Martin Body",
+          "description": "camera assistant (uncredited) / visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm0118918",
+          "name": "Jim Budd",
+          "description": "matte camera printer (uncredited)"
+        },
+        {
+          "id": "nm0191240",
+          "name": "Joy Cuff",
+          "description": "model maker (uncredited)"
+        },
+        {
+          "id": "nm0204032",
+          "name": "William C. Davies",
+          "description": "airbrush artist (uncredited)"
+        },
+        {
+          "id": "nm0225666",
+          "name": "Jim Dickson",
+          "description": "technical animation specialist (uncredited)"
+        },
+        {
+          "id": "nm0242670",
+          "name": "Linwood G. Dunn",
+          "description": "background plates (uncredited)"
+        },
+        {
+          "id": "nm0285522",
+          "name": "Bernard Ford",
+          "description": "visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm1263001",
+          "name": "Jenny Foster",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0304571",
+          "name": "John Gant",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263474",
+          "name": "Edward Gerald",
+          "description": "animation stand (uncredited)"
+        },
+        {
+          "id": "nm1263002",
+          "name": "Martin Goldsmith",
+          "description": "animation stand (uncredited)"
+        },
+        {
+          "id": "nm1263501",
+          "name": "Caird Green",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263505",
+          "name": "Ann Griffiths",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263521",
+          "name": "Fran Guye",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1838113",
+          "name": "Denis Hall",
+          "description": "rostrum cameraman (uncredited)"
+        },
+        {
+          "id": "nm0363426",
+          "name": "Peter Harman",
+          "description": "visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm1263546",
+          "name": "Paul Haywood",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263566",
+          "name": "Graham Hooper",
+          "description": "visual effects stills printer (uncredited)"
+        },
+        {
+          "id": "nm0395613",
+          "name": "John Horton",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0397644",
+          "name": "Tom Howard",
+          "description": "front projection supervisor (uncredited)"
+        },
+        {
+          "id": "nm0401752",
+          "name": "Jeremy Hume",
+          "description": "matte artist (uncredited)"
+        },
+        {
+          "id": "nm1263626",
+          "name": "Malcolm Kafetz",
+          "description": "optical special properties (uncredited)"
+        },
+        {
+          "id": "nm1263005",
+          "name": "Sarah Katz",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0446643",
+          "name": "Martin Kelly",
+          "description": "camera operator: visual effects unit (uncredited)"
+        },
+        {
+          "id": "nm0493064",
+          "name": "Trevor Lawrence",
+          "description": "airbrush artist (uncredited)"
+        },
+        {
+          "id": "nm1263728",
+          "name": "Alf Levy",
+          "description": "airbrush artist (uncredited)"
+        },
+        {
+          "id": "nm0533466",
+          "name": "John Mackey",
+          "description": "miniatures camera (uncredited)"
+        },
+        {
+          "id": "nm1263805",
+          "name": "Robin McDonnell",
+          "description": "second visual effects assistant editor (uncredited)"
+        },
+        {
+          "id": "nm1263808",
+          "name": "Dan McGowen",
+          "description": "visual effects stills printer (uncredited)"
+        },
+        {
+          "id": "nm1055909",
+          "name": "Bob Nadkarni",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0619796",
+          "name": "Roy Naisbitt",
+          "description": "animation artist (uncredited)"
+        },
+        {
+          "id": "nm0651635",
+          "name": "David Osborne",
+          "description": "director of photography: visual effects unit (uncredited)"
+        },
+        {
+          "id": "nm0669018",
+          "name": "Terry Pearce",
+          "description": "visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm0673830",
+          "name": "Zoran Perisic",
+          "description": "animation stand (uncredited)"
+        },
+        {
+          "id": "nm3062071",
+          "name": "David Peterson",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263975",
+          "name": "Catherine Philby",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1263989",
+          "name": "William Plampton",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264004",
+          "name": "Douglas Potts",
+          "description": "model maker (uncredited)"
+        },
+        {
+          "id": "nm1264012",
+          "name": "Hapugoda Premaratne",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm10660596",
+          "name": "Alan Quested",
+          "description": "matte camera printer (uncredited)"
+        },
+        {
+          "id": "nm1264043",
+          "name": "Hilary Randall",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1142533",
+          "name": "Bob Rickerd",
+          "description": "visual effects floor camera department (uncredited)"
+        },
+        {
+          "id": "nm1264072",
+          "name": "Livia Rolandini",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264157",
+          "name": "Clive Sheperd",
+          "description": "blob supervisor (uncredited)"
+        },
+        {
+          "id": "nm1263009",
+          "name": "James Simpson",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264177",
+          "name": "Gary Sinclair",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1270192",
+          "name": "Jaiseet Singh",
+          "description": "animation stand (uncredited)"
+        },
+        {
+          "id": "nm1162511",
+          "name": "Dennis Smith",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264205",
+          "name": "Jack Spooner",
+          "description": "matte camera printer (uncredited)"
+        },
+        {
+          "id": "nm0821228",
+          "name": "Charles Staffell",
+          "description": "back projection supervisor (uncredited)"
+        },
+        {
+          "id": "nm0831377",
+          "name": "Phil Stokes",
+          "description": "miniatures assistant (uncredited)"
+        },
+        {
+          "id": "nm1264254",
+          "name": "David Temple",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm0877842",
+          "name": "Roger Turner",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264336",
+          "name": "Nigel Walter",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm4874217",
+          "name": "David Watkins",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264353",
+          "name": "James Wilkins",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264355",
+          "name": "Brian Wilsher",
+          "description": "blob artist (uncredited)"
+        },
+        {
+          "id": "nm1264364",
+          "name": "Ron Wooster",
+          "description": "matte camera printer (uncredited)"
+        },
+        {
+          "id": "nm0951047",
+          "name": "Richard Yuricich",
+          "description": "additional matte photography (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm1263277",
+          "name": "Brian Chutter",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm4801476",
+          "name": "Bobby Clark",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm1263329",
+          "name": "Robin Dawson-Whisker",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm0240956",
+          "name": "Terry Duggan",
+          "description": "ape attacked by leopard (uncredited)"
+        },
+        {
+          "id": "nm0290201",
+          "name": "John Francis",
+          "description": "stunt coordinator (uncredited)"
+        },
+        {
+          "id": "nm1263620",
+          "name": "Gerry Judge",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm1263827",
+          "name": "Eddie Milburn",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm1262997",
+          "name": "Tom Sheppard",
+          "description": "stunt double (uncredited)"
+        },
+        {
+          "id": "nm0922916",
+          "name": "Bill Weston",
+          "description": "stunt double: Keir Dullea (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0005633",
+          "name": "John Alcott",
+          "description": "additional photography"
+        },
+        {
+          "id": "nm0683233",
+          "name": "Kelvin Pike",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0915151",
+          "name": "George Watts",
+          "description": "camera assistant"
+        },
+        {
+          "id": "nm1583893",
+          "name": "Kevin Bray",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm3137874",
+          "name": "Don Budge",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0128310",
+          "name": "David Cadwallader",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0132592",
+          "name": "John Campbell",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm4899517",
+          "name": "Ted Cread",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0300759",
+          "name": "Robert Gaffney",
+          "description": "director of photography: Monument Valley (uncredited)"
+        },
+        {
+          "id": "nm0323867",
+          "name": "Norman Godden",
+          "description": "camera maintenance (uncredited)"
+        },
+        {
+          "id": "nm0360346",
+          "name": "Peter Hannan",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0365355",
+          "name": "Stuart Harris",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm0416347",
+          "name": "Cedric James",
+          "description": "second camera assistant (uncredited)"
+        },
+        {
+          "id": "nm0419606",
+          "name": "John Jay",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm1263606",
+          "name": "Bill Jeffrey",
+          "description": "chief lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0456637",
+          "name": "Douglas Kirkland",
+          "description": "special still photographer (uncredited)"
+        },
+        {
+          "id": "nm0517479",
+          "name": "Bryan Loftus",
+          "description": "focus puller (uncredited)"
+        },
+        {
+          "id": "nm0003423",
+          "name": "Peter MacDonald",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0587942",
+          "name": "Barry Miller",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm1264882",
+          "name": "Jed Murphy",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0651635",
+          "name": "David Osborne",
+          "description": "focus puller (uncredited)"
+        },
+        {
+          "id": "nm0669018",
+          "name": "Terry Pearce",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm3777926",
+          "name": "Jerry Sandler",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm0768727",
+          "name": "Graeme Scaife",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm0852405",
+          "name": "Gilbert Taylor",
+          "description": "additional photographer (uncredited)"
+        },
+        {
+          "id": "nm0907750",
+          "name": "George Walker",
+          "description": "assistant chief lighting technician (uncredited)"
+        },
+        {
+          "id": "nm4713398",
+          "name": "Michael Wilson",
+          "description": "additional photographer (uncredited)"
+        },
+        {
+          "id": "nm0941613",
+          "name": "Ken Worringham",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0944009",
+          "name": "David Wynn-Jones",
+          "description": "clapper loader (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0024868",
+          "name": "Hardy Amies",
+          "description": "wardrobe"
+        },
+        {
+          "id": "nm0048378",
+          "name": "David Baker",
+          "description": "assistant wardrobe supervisor (uncredited)"
+        },
+        {
+          "id": "nm0317105",
+          "name": "Mary Gibson",
+          "description": "wardrobe supervisor (uncredited)"
+        },
+        {
+          "id": "nm0574176",
+          "name": "Duncan McPhee",
+          "description": "wardrobe assistant (uncredited)"
+        },
+        {
+          "id": "nm0838054",
+          "name": "Eileen Sullivan",
+          "description": "wardrobe supervisor (uncredited)"
+        },
+        {
+          "id": "nm0934314",
+          "name": "John Wilson-Apperson",
+          "description": "wardrobe supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0212387",
+          "name": "David de Wilde",
+          "description": "editorial assistant (as David De Wilde)"
+        },
+        {
+          "id": "nm3407307",
+          "name": "Janet Wilson",
+          "description": "colorist: digital color correction"
+        },
+        {
+          "id": "nm1844753",
+          "name": "Stewart Brown",
+          "description": "color consultant: Technicolor (uncredited)"
+        },
+        {
+          "id": "nm0344023",
+          "name": "John Grover",
+          "description": "first assistant editor (uncredited)"
+        },
+        {
+          "id": "nm1264821",
+          "name": "Doug Haig",
+          "description": "color consultant: Technicolor (uncredited)"
+        },
+        {
+          "id": "nm1264840",
+          "name": "Harry V. Jones",
+          "description": "color timer (uncredited)"
+        },
+        {
+          "id": "nm0611987",
+          "name": "Bob Mullen",
+          "description": "assistant editor (uncredited)"
+        },
+        {
+          "id": "nm0791780",
+          "name": "Gary Shepherd",
+          "description": "assistant editor (uncredited)"
+        },
+        {
+          "id": "nm1264373",
+          "name": "Alice Yendell",
+          "description": "negative cutter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm1262958",
+          "name": "Jack Stephens",
+          "description": "location manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0006154",
+          "name": "Aram Khachaturyan",
+          "description": "music by (as Aram Khatchaturian)"
+        },
+        {
+          "id": "nm0509893",
+          "name": "György Ligeti",
+          "description": "music by"
+        },
+        {
+          "id": "nm0006310",
+          "name": "Johann Strauss",
+          "description": "music by (as Johann Strauß)"
+        },
+        {
+          "id": "nm0006309",
+          "name": "Richard Strauss",
+          "description": "music by"
+        },
+        {
+          "id": "nm0601716",
+          "name": "Patrick Moore",
+          "description": "musical consultant (uncredited)"
+        },
+        {
+          "id": "nm0006218",
+          "name": "Alex North",
+          "description": "composer: unused music (uncredited)"
+        },
+        {
+          "id": "nm0881973",
+          "name": "Frank J. Urioste",
+          "description": "music editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0138220",
+          "name": "Pamela Carlton",
+          "description": "continuity (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm1262903",
+          "name": "Terry Brown",
+          "description": "driver (uncredited)"
+        },
+        {
+          "id": "nm1263288",
+          "name": "Ron Coldham",
+          "description": "driver (uncredited)"
+        },
+        {
+          "id": "nm1262911",
+          "name": "Michael Connor",
+          "description": "driver: Mr. Kubrick (uncredited)"
+        },
+        {
+          "id": "nm1263450",
+          "name": "Eddie Frewin",
+          "description": "transportation captain (uncredited)"
+        },
+        {
+          "id": "nm1262968",
+          "name": "Jim Warner",
+          "description": "driver: Mr. Kubrick (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0649566",
+          "name": "Frederick I. Ordway III",
+          "description": "scientific consultant"
+        },
+        {
+          "id": "nm0037743",
+          "name": "Colin Arthur",
+          "description": "laboratory assistant (uncredited)"
+        },
+        {
+          "id": "nm1262899",
+          "name": "John Barnett",
+          "description": "stills technician (uncredited)"
+        },
+        {
+          "id": "nm1263140",
+          "name": "Domeny Bernie",
+          "description": "typist (uncredited)"
+        },
+        {
+          "id": "nm1263147",
+          "name": "Shrish Bhatt",
+          "description": "accounts inventory clerk (uncredited)"
+        },
+        {
+          "id": "nm0001949",
+          "name": "Andrew Birkin",
+          "description": "assistant: Mr. Kubrick (uncredited)"
+        },
+        {
+          "id": "nm1262901",
+          "name": "Elizabeth Brady",
+          "description": "assistant: Christine Mitchell (uncredited)"
+        },
+        {
+          "id": "nm0135971",
+          "name": "Roger Caras",
+          "description": "unit publicist: USA (uncredited)"
+        },
+        {
+          "id": "nm1263258",
+          "name": "Merle Chamberlin",
+          "description": "production coordinator (uncredited)"
+        },
+        {
+          "id": "nm1263277",
+          "name": "Brian Chutter",
+          "description": "stand-in (uncredited)"
+        },
+        {
+          "id": "nm0165756",
+          "name": "Patrick Clayton",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm1274263",
+          "name": "Robin Dawson-Whitaker",
+          "description": "stand-in (uncredited)"
+        },
+        {
+          "id": "nm0240956",
+          "name": "Terry Duggan",
+          "description": "wrangler (uncredited)"
+        },
+        {
+          "id": "nm1262916",
+          "name": "George Dunn",
+          "description": "projectionist (uncredited)"
+        },
+        {
+          "id": "nm0294522",
+          "name": "Anthony Frewin",
+          "description": "assistant: Mr. Kubrick (uncredited)"
+        },
+        {
+          "id": "nm1263524",
+          "name": "Adrian Haggard",
+          "description": "choreographer (uncredited)"
+        },
+        {
+          "id": "nm0359101",
+          "name": "Keith Hamshere",
+          "description": "stills filing clerk (uncredited)"
+        },
+        {
+          "id": "nm0364496",
+          "name": "Brian Harris",
+          "description": "assistant accountant (uncredited)"
+        },
+        {
+          "id": "nm1263541",
+          "name": "Margaret Hattam",
+          "description": "typist (uncredited)"
+        },
+        {
+          "id": "nm1263561",
+          "name": "Jill Hollamby",
+          "description": "assistant: Christine Mitchell (uncredited)"
+        },
+        {
+          "id": "nm0421648",
+          "name": "Randee Lynne Jensen",
+          "description": "distribution executive (uncredited)"
+        },
+        {
+          "id": "nm1263620",
+          "name": "Gerry Judge",
+          "description": "stand-in (uncredited)"
+        },
+        {
+          "id": "nm0484173",
+          "name": "Peter Lancaster",
+          "description": "assistant accountant (uncredited)"
+        },
+        {
+          "id": "nm0486127",
+          "name": "Harry Lange",
+          "description": "advisor: aeronautics (uncredited)"
+        },
+        {
+          "id": "nm1262938",
+          "name": "John Locke",
+          "description": "dark room assistant (uncredited)"
+        },
+        {
+          "id": "nm0564677",
+          "name": "Robert McCall",
+          "description": "publicity artist (uncredited)"
+        },
+        {
+          "id": "nm1262942",
+          "name": "Richard McKenna",
+          "description": "astronautics advisor (uncredited)"
+        },
+        {
+          "id": "nm1262943",
+          "name": "George Merritt",
+          "description": "engineering shop manager (uncredited)"
+        },
+        {
+          "id": "nm1263819",
+          "name": "Hilary Messenger",
+          "description": "publicity secretary (uncredited)"
+        },
+        {
+          "id": "nm1263827",
+          "name": "Eddie Milburn",
+          "description": "stand-in (uncredited)"
+        },
+        {
+          "id": "nm0591669",
+          "name": "Marvin Minsky",
+          "description": "technical consultant (uncredited)"
+        },
+        {
+          "id": "nm1388199",
+          "name": "Christine Mitchell",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm1263834",
+          "name": "Ormond G. Mitchell",
+          "description": "technical advisor (uncredited)"
+        },
+        {
+          "id": "nm0615173",
+          "name": "Michael Murray",
+          "description": "runner (uncredited)"
+        },
+        {
+          "id": "nm1263900",
+          "name": "Sam Nolan",
+          "description": "caterer (uncredited)"
+        },
+        {
+          "id": "nm1263935",
+          "name": "Daphne Paice",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0663634",
+          "name": "Betty Parry",
+          "description": "secretary to Ronnie Bear (uncredited) / secretary: Mr. Bear (uncredited)"
+        },
+        {
+          "id": "nm0681047",
+          "name": "Ron Phipps",
+          "description": "production accountant (uncredited)"
+        },
+        {
+          "id": "nm1264903",
+          "name": "Arthur Porter",
+          "description": "assistant accountant (uncredited)"
+        },
+        {
+          "id": "nm0694138",
+          "name": "Ivor Powell",
+          "description": "publicist (uncredited) / publicity department liaison (uncredited)"
+        },
+        {
+          "id": "nm1264058",
+          "name": "Benn Reyes",
+          "description": "unit publicist (uncredited)"
+        },
+        {
+          "id": "nm0725220",
+          "name": "Daniel Richter",
+          "description": "choreographer (uncredited)"
+        },
+        {
+          "id": "nm0737099",
+          "name": "Monica Rogers",
+          "description": "production department secretary (uncredited)"
+        },
+        {
+          "id": "nm0741435",
+          "name": "Iris Rose",
+          "description": "production secretary (uncredited)"
+        },
+        {
+          "id": "nm0745760",
+          "name": "Mike Round",
+          "description": "print librarian (uncredited)"
+        },
+        {
+          "id": "nm1262997",
+          "name": "Tom Sheppard",
+          "description": "stand-in (uncredited)"
+        },
+        {
+          "id": "nm1264175",
+          "name": "Elaine Simms",
+          "description": "secretary: Mr. Caras (uncredited)"
+        },
+        {
+          "id": "nm0801191",
+          "name": "Roy Simpson",
+          "description": "choreographer (uncredited)"
+        },
+        {
+          "id": "nm1264932",
+          "name": "Dan S. Terrell",
+          "description": "publicity supervisor (uncredited)"
+        },
+        {
+          "id": "nm0873440",
+          "name": "Edna Tromans",
+          "description": "unit publicist (uncredited)"
+        },
+        {
+          "id": "nm1264341",
+          "name": "Margaret Warrington",
+          "description": "secretary (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

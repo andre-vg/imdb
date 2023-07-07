@@ -1,0 +1,2917 @@
+{
+  "id": "tt0347149",
+  "title": "Howl's Moving Castle",
+  "originalTitle": "Hauru no ugoku shiro",
+  "fullTitle": "Howl's Moving Castle (2004)",
+  "type": "Movie",
+  "year": "2004",
+  "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+  "releaseDate": "2005-06-17",
+  "runtimeMins": "119",
+  "runtimeStr": "1h 59min",
+  "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+  "plotLocal": "",
+  "plotLocalIsRtl": false,
+  "awards": "Top rated movie #165 | Nominated for 1 Oscar, 14 wins & 20 nominations total",
+  "directors": "Hayao Miyazaki",
+  "directorList": [
+    {
+      "id": "nm0594503",
+      "name": "Hayao Miyazaki"
+    }
+  ],
+  "writers": "Hayao Miyazaki, Diana Wynne Jones",
+  "writerList": [
+    {
+      "id": "nm0594503",
+      "name": "Hayao Miyazaki"
+    },
+    {
+      "id": "nm1168510",
+      "name": "Diana Wynne Jones"
+    }
+  ],
+  "stars": "Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",
+  "starList": [
+    {
+      "id": "nm0047962",
+      "name": "Chieko Baishô"
+    },
+    {
+      "id": "nm0454120",
+      "name": "Takuya Kimura"
+    },
+    {
+      "id": "nm0309107",
+      "name": "Tatsuya Gashûin"
+    }
+  ],
+  "actorList": [
+    {
+      "id": "nm0047962",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chieko Baishô",
+      "asCharacter": "Sofî (voice)"
+    },
+    {
+      "id": "nm0454120",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM1ODAxNjIwOF5BMl5BanBnXkFtZTgwMzI2MDYzMjI@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Takuya Kimura",
+      "asCharacter": "Hauru (voice)"
+    },
+    {
+      "id": "nm0594271",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Akihiro Miwa",
+      "asCharacter": "Arechi no Majo (voice)"
+    },
+    {
+      "id": "nm0309107",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzkwYTU0MTYtYTVhMC00NGQ3LWJkZmUtOWFlYzhmMDI3MzdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tatsuya Gashûin",
+      "asCharacter": "Karushifâ (voice)"
+    },
+    {
+      "id": "nm1126340",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzlkYzdjYWEtOTkyNC00NDNhLWIyNTItZmFjNWQxZDZmNzFlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Ryunosuke Kamiki",
+      "asCharacter": "Marukuru (voice) (as Ryûnosuke Kamiki)"
+    },
+    {
+      "id": "nm0410659",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mitsunori Isaki",
+      "asCharacter": "Koshô (voice)"
+    },
+    {
+      "id": "nm1126978",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDZiYzI4MWEtYmE2OC00YzkzLThlNzctYmY4MjY1NGFlNTIzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Yô Ôizumi",
+      "asCharacter": "Kakashi no Kabu (voice)"
+    },
+    {
+      "id": "nm0960033",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Akio Ôtsuka",
+      "asCharacter": "Kokuô (voice)"
+    },
+    {
+      "id": "nm0361717",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daijirô Harada",
+      "asCharacter": "Hin (voice)"
+    },
+    {
+      "id": "nm0441353",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2I3OWQxNDctMmY3Yi00MmMwLWI1ZGEtYmY4N2U3ZDMwNWE2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Haruko Katô",
+      "asCharacter": "Sariman (voice)"
+    },
+    {
+      "id": "nm0001739",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3OTQ1ODk3N15BMl5BanBnXkFtZTYwMDk4MDM2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jean Simmons",
+      "asCharacter": "Grandma Sophie (voice)"
+    },
+    {
+      "id": "nm0000288",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christian Bale",
+      "asCharacter": "Howl (voice)"
+    },
+    {
+      "id": "nm0000002",
+      "image": "https://m.media-amazon.com/images/M/MV5BODJmNDcwOGQtOTk5OC00MDA3LWFkNzMtOGVhYTgyZGQwNmZlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lauren Bacall",
+      "asCharacter": "Witch of the Waste (voice)"
+    },
+    {
+      "id": "nm0001100",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAwMDkzNTAyODdeQTJeQWpwZ15BbWU3MDY5ODEzMjQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Blythe Danner",
+      "asCharacter": "Madame Suliman (voice)"
+    },
+    {
+      "id": "nm0607865",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2NjIzMDg3NV5BMl5BanBnXkFtZTcwNDQ5MzczNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Emily Mortimer",
+      "asCharacter": "Young Sophie (voice)"
+    },
+    {
+      "id": "nm1242688",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI4OTk0MjQ1OV5BMl5BanBnXkFtZTcwNTE3NjM3Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Josh Hutcherson",
+      "asCharacter": "Markl (voice)"
+    },
+    {
+      "id": "nm0000345",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MjA4MjM4NV5BMl5BanBnXkFtZTcwMzE0MjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Billy Crystal",
+      "asCharacter": "Calcifer (voice)"
+    },
+    {
+      "id": "nm0540441",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Jena Malone",
+      "asCharacter": "Lettie (voice)"
+    },
+    {
+      "id": "nm0293342",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1Mzg3Mzg0OV5BMl5BanBnXkFtZTcwNjEyNzQwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Crispin Freeman",
+      "asCharacter": "Prince Turnip (voice)"
+    },
+    {
+      "id": "nm0798944",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWMwMjM1YTctNzVlZi00ZDFmLTg4YWItYTNmNTg5YjdlNTM5XkEyXkFqcGdeQXVyODU5MTcxMw@@._V1_Ratio1.6818_AL_.jpg",
+      "name": "Mark Silverman",
+      "asCharacter": "King (voice)"
+    },
+    {
+      "id": "nm0015924",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2RiZGZiODItY2NlMy00Njg2LTgxMmMtZjE1ZDhmOTcwYzIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mari Devon",
+      "asCharacter": "Honey (voice)"
+    },
+    {
+      "id": "nm1137414",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDg1OWU1YjItMDE5ZS00ZWYwLThhMWYtMGI0ZTFhZmUxMjYyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Liliana Mumy",
+      "asCharacter": "Madge (voice)"
+    },
+    {
+      "id": "nm0016141",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMTk3MzIyOF5BMl5BanBnXkFtZTcwODA0MDk5Nw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Carlos Alazraqui",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0018646",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTcxNDk3OF5BMl5BanBnXkFtZTgwMDc4NjU1NjE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Newell Alexander",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0018715",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc3MDAyOTg3OF5BMl5BanBnXkFtZTcwOTQ0MDMwOQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Rosemary Alexander",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm1591185",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTFhMGE5NmUtZWE2OS00NTNkLWJlZmItMzhhOTBmYTNjMzFhXkEyXkFqcGdeQXVyMzg0MTE4MTQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Julia Barnett",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0086840",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzkzMDIxNl5BMl5BanBnXkFtZTYwMDIwMDk1._V1_Ratio1.4545_AL_.jpg",
+      "name": "Susanne Blakeslee",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0139999",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmEzZTU1MmYtMWM1NS00ZWVmLTk5ODItNzY0MmNjNzI1MjRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Leslie Carrara-Rudolph",
+      "asCharacter": "(voice) (as Leslie Carrara)"
+    },
+    {
+      "id": "nm0141831",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTQ2OTAwMV5BMl5BanBnXkFtZTgwMjM0NDA0MzE@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Mitch Carter",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0184748",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NTYxMzEzMV5BMl5BanBnXkFtZTcwMjU0MjIzMQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "David Cowgill",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0233547",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDI0ZWZjY2MtN2JkZi00NTBmLTk5MWMtMWM0Y2FiMTcxNjhmXkEyXkFqcGdeQXVyODE4NTY3Mjc@._V1_Ratio1.1364_AL_.jpg",
+      "name": "Holly Dorff",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0237881",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFhMDk2MWItMmEzZS00ZWQzLTkwNGItZmJiYmJkMjUyZGVhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Moosie Drier",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0252055",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE1NDk1MjQ0MV5BMl5BanBnXkFtZTcwMDkxMDkwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ike Eisenmann",
+      "asCharacter": "(voice) (as Iake Eissinmann)"
+    },
+    {
+      "id": "nm0295115",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWRhMjNmMWEtZDJmYS00ZWU1LWEwZmYtYjlhYzAyNzZhZjc5XkEyXkFqcGdeQXVyMTU0MDkzMzAx._V1_Ratio0.7727_AL_.jpg",
+      "name": "Will Friedle",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0033977",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIwZTE0NmItMDE1Mi00NDY2LTlmMDQtOTRmYWYyOTlhY2I4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Bridget Hoffman",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0395777",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM3NjAzMzk5MV5BMl5BanBnXkFtZTgwNzM0Njk1MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Richard Steven Horvitz",
+      "asCharacter": "(voice) (as Richard Horvitz)"
+    },
+    {
+      "id": "nm0403564",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMyNDYyNDkzM15BMl5BanBnXkFtZTcwOTk0OTE5Ng@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Sherry Hursey",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0506439",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTcyODk0N2UtYTBkYS00YzZmLWJjZWQtMWE0OWU0ZTE5ZDg4XkEyXkFqcGdeQXVyMTk5MjU4NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Hope Levy",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0532309",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christina MacGregor",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0566906",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhmNWMxOWUtNDNmNS00NzA2LWE3MjItZDA5NTFhZjYwODY0XkEyXkFqcGdeQXVyMzY4MTcyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joel McCrary",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0592437",
+      "image": "https://m.media-amazon.com/images/M/MV5BODkxZDY0NTYtY2Y0ZC00OTEyLTg3ZTQtMjI1NTFkOGQzMzVmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Edie Mirman",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0719115",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Renaday",
+      "asCharacter": "(voice) (as Pete Renaday)"
+    },
+    {
+      "id": "nm1780029",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NzIwMTQ1OV5BMl5BanBnXkFtZTcwMTU1OTcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kristen Rutherford",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0820298",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDBiZjY4YTctMWU5Ny00ODBlLWI5MDEtZmJhMzBkZjM1Njc1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Warren Sroka",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm0048389",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dee Bradley Baker",
+      "asCharacter": "Heen (voice)"
+    },
+    {
+      "id": "nm1333545",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY5NTY2MmEtZjg4My00M2RiLWEzYzQtYjRlODdlYzY3MThhXkEyXkFqcGdeQXVyNTUzODkyOTk@._V1_Ratio0.7273_AL_.jpg",
+      "name": "São José Correia",
+      "asCharacter": "Madame Suliman (voice)"
+    },
+    {
+      "id": "nm2178537",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cornelia Dahlgren",
+      "asCharacter": "Lettie (voice)"
+    },
+    {
+      "id": "nm0211901",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rui de Sá",
+      "asCharacter": "Bruxa do Nada (voice)"
+    },
+    {
+      "id": "nm0256048",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0ZWU1ZDMtYmE5YS00ZDRmLTk0OTktMzBmMWVkZWNjN2ZlXkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Victor Emanuel",
+      "asCharacter": "Calcifer (voice)"
+    },
+    {
+      "id": "nm1512998",
+      "image": "https://m.media-amazon.com/images/M/MV5BODcyNTE3MTQtMzdkMC00Y2Y3LWEzN2EtMWZkNWNiYzM2ZmZkXkEyXkFqcGdeQXVyMTU1ODM4MDgw._V1_Ratio0.7273_AL_.jpg",
+      "name": "Albano Jerónimo",
+      "asCharacter": "Howl (voice)"
+    },
+    {
+      "id": "nm1846916",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yayoi Kazuki",
+      "asCharacter": "Lettie (voice) (as Kayako Tsuzuki)"
+    },
+    {
+      "id": "nm1211540",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTZlNWIxNzgtM2UwMi00ZDZiLTkxOTQtNjhiNWNjN2Y3YTc0XkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Márcia Leal",
+      "asCharacter": "Sophie (voice)"
+    },
+    {
+      "id": "nm0563902",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA1NDMyZmItZDZjZC00NzBmLWIxZTUtZWExZTUxY2IzMDdmXkEyXkFqcGdeQXVyNzg1MDkyMDc@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Scott McAfee",
+      "asCharacter": "Student (voice)"
+    },
+    {
+      "id": "nm3179700",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Manabu Muraji",
+      "asCharacter": "(voice)"
+    },
+    {
+      "id": "nm2008578",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "João Secundino",
+      "asCharacter": "Markl (voice)"
+    },
+    {
+      "id": "nm0782751",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDk4MTgyZjEtMzdiNS00ZjQ5LWE2OTctNWIwZmUxMGI0YmY5XkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joana Seixas",
+      "asCharacter": "Cabeça de Nabo (voice)"
+    },
+    {
+      "id": "nm1926657",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTkxMDYtMmIzNy00MGE4LTgxODMtZjY0MWQ2ZWM5NzE2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Shigeyuki Totsugi",
+      "asCharacter": "(voice) (as Shigeyuki Sato)"
+    },
+    {
+      "id": "nm3740910",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mayuno Yasokawa",
+      "asCharacter": "Honey (voice)"
+    },
+    {
+      "id": "nm1904410",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMDA2NDA5OF5BMl5BanBnXkFtZTgwNzA0NDE2MjE@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Ken Yasuda",
+      "asCharacter": "Soldier (voice)"
+    },
+    {
+      "id": "nm0358460",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEyMDI5NzgxODReQTJeQWpwZ15BbWU3MDY3MzY0MDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Daran Norris",
+      "asCharacter": "(voice) (uncredited)"
+    }
+  ],
+  "fullCast": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "directors": {
+      "job": "Director",
+      "items": [
+        {
+          "id": "nm0594503",
+          "name": "Hayao Miyazaki",
+          "description": ""
+        }
+      ]
+    },
+    "writers": {
+      "job": "Writer",
+      "items": [
+        {
+          "id": "nm0594503",
+          "name": "Hayao Miyazaki",
+          "description": "(screenplay)"
+        },
+        {
+          "id": "nm1168510",
+          "name": "Diana Wynne Jones",
+          "description": "(novel) (as Daiana Win Jônzu)"
+        }
+      ]
+    },
+    "actors": [
+      {
+        "id": "nm0047962",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Chieko Baishô",
+        "asCharacter": "Sofî (voice)"
+      },
+      {
+        "id": "nm0454120",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM1ODAxNjIwOF5BMl5BanBnXkFtZTgwMzI2MDYzMjI@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Takuya Kimura",
+        "asCharacter": "Hauru (voice)"
+      },
+      {
+        "id": "nm0594271",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Akihiro Miwa",
+        "asCharacter": "Arechi no Majo (voice)"
+      },
+      {
+        "id": "nm0309107",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkwYTU0MTYtYTVhMC00NGQ3LWJkZmUtOWFlYzhmMDI3MzdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Tatsuya Gashûin",
+        "asCharacter": "Karushifâ (voice)"
+      },
+      {
+        "id": "nm1126340",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzlkYzdjYWEtOTkyNC00NDNhLWIyNTItZmFjNWQxZDZmNzFlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Ryunosuke Kamiki",
+        "asCharacter": "Marukuru (voice) (as Ryûnosuke Kamiki)"
+      },
+      {
+        "id": "nm0410659",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Mitsunori Isaki",
+        "asCharacter": "Koshô (voice)"
+      },
+      {
+        "id": "nm1126978",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDZiYzI4MWEtYmE2OC00YzkzLThlNzctYmY4MjY1NGFlNTIzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Yô Ôizumi",
+        "asCharacter": "Kakashi no Kabu (voice)"
+      },
+      {
+        "id": "nm0960033",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Akio Ôtsuka",
+        "asCharacter": "Kokuô (voice)"
+      },
+      {
+        "id": "nm0361717",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Daijirô Harada",
+        "asCharacter": "Hin (voice)"
+      },
+      {
+        "id": "nm0441353",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2I3OWQxNDctMmY3Yi00MmMwLWI1ZGEtYmY4N2U3ZDMwNWE2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+        "name": "Haruko Katô",
+        "asCharacter": "Sariman (voice)"
+      },
+      {
+        "id": "nm0001739",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM3OTQ1ODk3N15BMl5BanBnXkFtZTYwMDk4MDM2._V1_Ratio0.7727_AL_.jpg",
+        "name": "Jean Simmons",
+        "asCharacter": "Grandma Sophie (voice)"
+      },
+      {
+        "id": "nm0000288",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Christian Bale",
+        "asCharacter": "Howl (voice)"
+      },
+      {
+        "id": "nm0000002",
+        "image": "https://m.media-amazon.com/images/M/MV5BODJmNDcwOGQtOTk5OC00MDA3LWFkNzMtOGVhYTgyZGQwNmZlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Lauren Bacall",
+        "asCharacter": "Witch of the Waste (voice)"
+      },
+      {
+        "id": "nm0001100",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAwMDkzNTAyODdeQTJeQWpwZ15BbWU3MDY5ODEzMjQ@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Blythe Danner",
+        "asCharacter": "Madame Suliman (voice)"
+      },
+      {
+        "id": "nm0607865",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM2NjIzMDg3NV5BMl5BanBnXkFtZTcwNDQ5MzczNA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Emily Mortimer",
+        "asCharacter": "Young Sophie (voice)"
+      },
+      {
+        "id": "nm1242688",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI4OTk0MjQ1OV5BMl5BanBnXkFtZTcwNTE3NjM3Mw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Josh Hutcherson",
+        "asCharacter": "Markl (voice)"
+      },
+      {
+        "id": "nm0000345",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MjA4MjM4NV5BMl5BanBnXkFtZTcwMzE0MjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Billy Crystal",
+        "asCharacter": "Calcifer (voice)"
+      },
+      {
+        "id": "nm0540441",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0NDM5OTE0N15BMl5BanBnXkFtZTcwMzMzNjM0Nw@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "Jena Malone",
+        "asCharacter": "Lettie (voice)"
+      },
+      {
+        "id": "nm0293342",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI1Mzg3Mzg0OV5BMl5BanBnXkFtZTcwNjEyNzQwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Crispin Freeman",
+        "asCharacter": "Prince Turnip (voice)"
+      },
+      {
+        "id": "nm0798944",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWMwMjM1YTctNzVlZi00ZDFmLTg4YWItYTNmNTg5YjdlNTM5XkEyXkFqcGdeQXVyODU5MTcxMw@@._V1_Ratio1.6818_AL_.jpg",
+        "name": "Mark Silverman",
+        "asCharacter": "King (voice)"
+      },
+      {
+        "id": "nm0015924",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2RiZGZiODItY2NlMy00Njg2LTgxMmMtZjE1ZDhmOTcwYzIxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Mari Devon",
+        "asCharacter": "Honey (voice)"
+      },
+      {
+        "id": "nm1137414",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDg1OWU1YjItMDE5ZS00ZWYwLThhMWYtMGI0ZTFhZmUxMjYyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Liliana Mumy",
+        "asCharacter": "Madge (voice)"
+      },
+      {
+        "id": "nm0016141",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQyMTk3MzIyOF5BMl5BanBnXkFtZTcwODA0MDk5Nw@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Carlos Alazraqui",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0018646",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTcxNDk3OF5BMl5BanBnXkFtZTgwMDc4NjU1NjE@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Newell Alexander",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0018715",
+        "image": "https://m.media-amazon.com/images/M/MV5BODc3MDAyOTg3OF5BMl5BanBnXkFtZTcwOTQ0MDMwOQ@@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Rosemary Alexander",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm1591185",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTFhMGE5NmUtZWE2OS00NTNkLWJlZmItMzhhOTBmYTNjMzFhXkEyXkFqcGdeQXVyMzg0MTE4MTQ@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Julia Barnett",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0086840",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc3NzkzMDIxNl5BMl5BanBnXkFtZTYwMDIwMDk1._V1_Ratio1.4545_AL_.jpg",
+        "name": "Susanne Blakeslee",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0139999",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmEzZTU1MmYtMWM1NS00ZWVmLTk5ODItNzY0MmNjNzI1MjRlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5909_AL_.jpg",
+        "name": "Leslie Carrara-Rudolph",
+        "asCharacter": "(voice) (as Leslie Carrara)"
+      },
+      {
+        "id": "nm0141831",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTQ2OTAwMV5BMl5BanBnXkFtZTgwMjM0NDA0MzE@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Mitch Carter",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0184748",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE5NTYxMzEzMV5BMl5BanBnXkFtZTcwMjU0MjIzMQ@@._V1_Ratio0.8182_AL_.jpg",
+        "name": "David Cowgill",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0233547",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDI0ZWZjY2MtN2JkZi00NTBmLTk5MWMtMWM0Y2FiMTcxNjhmXkEyXkFqcGdeQXVyODE4NTY3Mjc@._V1_Ratio1.1364_AL_.jpg",
+        "name": "Holly Dorff",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0237881",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWFhMDk2MWItMmEzZS00ZWQzLTkwNGItZmJiYmJkMjUyZGVhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Moosie Drier",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0252055",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzE1NDk1MjQ0MV5BMl5BanBnXkFtZTcwMDkxMDkwOA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Ike Eisenmann",
+        "asCharacter": "(voice) (as Iake Eissinmann)"
+      },
+      {
+        "id": "nm0295115",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWRhMjNmMWEtZDJmYS00ZWU1LWEwZmYtYjlhYzAyNzZhZjc5XkEyXkFqcGdeQXVyMTU0MDkzMzAx._V1_Ratio0.7727_AL_.jpg",
+        "name": "Will Friedle",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0033977",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmIwZTE0NmItMDE1Mi00NDY2LTlmMDQtOTRmYWYyOTlhY2I4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7727_AL_.jpg",
+        "name": "Bridget Hoffman",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0395777",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzM3NjAzMzk5MV5BMl5BanBnXkFtZTgwNzM0Njk1MDE@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Richard Steven Horvitz",
+        "asCharacter": "(voice) (as Richard Horvitz)"
+      },
+      {
+        "id": "nm0403564",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMyNDYyNDkzM15BMl5BanBnXkFtZTcwOTk0OTE5Ng@@._V1_Ratio1.5000_AL_.jpg",
+        "name": "Sherry Hursey",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0506439",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTcyODk0N2UtYTBkYS00YzZmLWJjZWQtMWE0OWU0ZTE5ZDg4XkEyXkFqcGdeQXVyMTk5MjU4NDQ@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Hope Levy",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0532309",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Christina MacGregor",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0566906",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjhmNWMxOWUtNDNmNS00NzA2LWE3MjItZDA5NTFhZjYwODY0XkEyXkFqcGdeQXVyMzY4MTcyMw@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Joel McCrary",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0592437",
+        "image": "https://m.media-amazon.com/images/M/MV5BODkxZDY0NTYtY2Y0ZC00OTEyLTg3ZTQtMjI1NTFkOGQzMzVmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Edie Mirman",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0719115",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Peter Renaday",
+        "asCharacter": "(voice) (as Pete Renaday)"
+      },
+      {
+        "id": "nm1780029",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU3NzIwMTQ1OV5BMl5BanBnXkFtZTcwMTU1OTcyMQ@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Kristen Rutherford",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0820298",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDBiZjY4YTctMWU5Ny00ODBlLWI5MDEtZmJhMzBkZjM1Njc1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Warren Sroka",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm0048389",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4MzkzMzk0MF5BMl5BanBnXkFtZTcwNDIwMjM4NA@@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Dee Bradley Baker",
+        "asCharacter": "Heen (voice)"
+      },
+      {
+        "id": "nm1333545",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGY5NTY2MmEtZjg4My00M2RiLWEzYzQtYjRlODdlYzY3MThhXkEyXkFqcGdeQXVyNTUzODkyOTk@._V1_Ratio0.7273_AL_.jpg",
+        "name": "São José Correia",
+        "asCharacter": "Madame Suliman (voice)"
+      },
+      {
+        "id": "nm2178537",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Cornelia Dahlgren",
+        "asCharacter": "Lettie (voice)"
+      },
+      {
+        "id": "nm0211901",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Rui de Sá",
+        "asCharacter": "Bruxa do Nada (voice)"
+      },
+      {
+        "id": "nm0256048",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0ZWU1ZDMtYmE5YS00ZDRmLTk0OTktMzBmMWVkZWNjN2ZlXkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio1.0455_AL_.jpg",
+        "name": "Victor Emanuel",
+        "asCharacter": "Calcifer (voice)"
+      },
+      {
+        "id": "nm1512998",
+        "image": "https://m.media-amazon.com/images/M/MV5BODcyNTE3MTQtMzdkMC00Y2Y3LWEzN2EtMWZkNWNiYzM2ZmZkXkEyXkFqcGdeQXVyMTU1ODM4MDgw._V1_Ratio0.7273_AL_.jpg",
+        "name": "Albano Jerónimo",
+        "asCharacter": "Howl (voice)"
+      },
+      {
+        "id": "nm1846916",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Yayoi Kazuki",
+        "asCharacter": "Lettie (voice) (as Kayako Tsuzuki)"
+      },
+      {
+        "id": "nm1211540",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTZlNWIxNzgtM2UwMi00ZDZiLTkxOTQtNjhiNWNjN2Y3YTc0XkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio0.8636_AL_.jpg",
+        "name": "Márcia Leal",
+        "asCharacter": "Sophie (voice)"
+      },
+      {
+        "id": "nm0563902",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjA1NDMyZmItZDZjZC00NzBmLWIxZTUtZWExZTUxY2IzMDdmXkEyXkFqcGdeQXVyNzg1MDkyMDc@._V1_Ratio1.0000_AL_.jpg",
+        "name": "Scott McAfee",
+        "asCharacter": "Student (voice)"
+      },
+      {
+        "id": "nm3179700",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Manabu Muraji",
+        "asCharacter": "(voice)"
+      },
+      {
+        "id": "nm2008578",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "João Secundino",
+        "asCharacter": "Markl (voice)"
+      },
+      {
+        "id": "nm0782751",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDk4MTgyZjEtMzdiNS00ZjQ5LWE2OTctNWIwZmUxMGI0YmY5XkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Joana Seixas",
+        "asCharacter": "Cabeça de Nabo (voice)"
+      },
+      {
+        "id": "nm1926657",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTkxMDYtMmIzNy00MGE4LTgxODMtZjY0MWQ2ZWM5NzE2XkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.3182_AL_.jpg",
+        "name": "Shigeyuki Totsugi",
+        "asCharacter": "(voice) (as Shigeyuki Sato)"
+      },
+      {
+        "id": "nm3740910",
+        "image": "https://imdb-api.com/images/original/nopicture.jpg",
+        "name": "Mayuno Yasokawa",
+        "asCharacter": "Honey (voice)"
+      },
+      {
+        "id": "nm1904410",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMDA2NDA5OF5BMl5BanBnXkFtZTgwNzA0NDE2MjE@._V1_Ratio1.7727_AL_.jpg",
+        "name": "Ken Yasuda",
+        "asCharacter": "Soldier (voice)"
+      },
+      {
+        "id": "nm0358460",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTEyMDI5NzgxODReQTJeQWpwZ15BbWU3MDY3MzY0MDg@._V1_Ratio0.7273_AL_.jpg",
+        "name": "Daran Norris",
+        "asCharacter": "(voice) (uncredited)"
+      }
+    ],
+    "others": [
+      {
+        "job": "Produced by",
+        "items": [
+          {
+            "id": "nm0218760",
+            "name": "Rick Dempsey",
+            "description": "producer"
+          },
+          {
+            "id": "nm2055761",
+            "name": "Tomohiko Ishii",
+            "description": "assistant producer"
+          },
+          {
+            "id": "nm0005124",
+            "name": "John Lasseter",
+            "description": "executive producer"
+          },
+          {
+            "id": "nm1566098",
+            "name": "Ned Lott",
+            "description": "producer"
+          },
+          {
+            "id": "nm0594503",
+            "name": "Hayao Miyazaki",
+            "description": "executive producer"
+          },
+          {
+            "id": "nm0840699",
+            "name": "Toshio Suzuki",
+            "description": "producer"
+          }
+        ]
+      },
+      {
+        "job": "Music by",
+        "items": [
+          {
+            "id": "nm0386749",
+            "name": "Joe Hisaishi",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Cinematography by",
+        "items": [
+          {
+            "id": "nm0645777",
+            "name": "Atsushi Okui",
+            "description": "director of photography"
+          }
+        ]
+      },
+      {
+        "job": "Editing by",
+        "items": [
+          {
+            "id": "nm0786707",
+            "name": "Takeshi Seyama",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Casting By",
+        "items": [
+          {
+            "id": "nm1566098",
+            "name": "Ned Lott",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Art Direction by",
+        "items": [
+          {
+            "id": "nm0847575",
+            "name": "Yôji Takeshige",
+            "description": ""
+          },
+          {
+            "id": "nm2001792",
+            "name": "Noboru Yoshida",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "job": "Production Management",
+        "items": [
+          {
+            "id": "nm10681409",
+            "name": "Pawel Araszkiewicz",
+            "description": "production associate (as Pawel Araszkewicz)"
+          },
+          {
+            "id": "nm0133762",
+            "name": "David Candiff",
+            "description": "post-production manager"
+          },
+          {
+            "id": "nm1749204",
+            "name": "Ryoichi Fukuyama",
+            "description": "executive production manager"
+          },
+          {
+            "id": "nm1222651",
+            "name": "Cory Hansen",
+            "description": "post-production supervisor"
+          },
+          {
+            "id": "nm1084385",
+            "name": "Seiji Okuda",
+            "description": "executive production manager"
+          },
+          {
+            "id": "nm0847182",
+            "name": "Nozomu Takahashi",
+            "description": "production manager"
+          },
+          {
+            "id": "nm2052050",
+            "name": "Hiroyuki Watanabe",
+            "description": "production manager"
+          }
+        ]
+      },
+      {
+        "job": "Second Unit Director or Assistant Director",
+        "items": [
+          {
+            "id": "nm1997502",
+            "name": "Ryosuke Kiyokawa",
+            "description": "assistant director"
+          },
+          {
+            "id": "nm2003200",
+            "name": "Yosuke Toba",
+            "description": "assistant director"
+          }
+        ]
+      },
+      {
+        "job": "Art Department",
+        "items": [
+          {
+            "id": "nm2025034",
+            "name": "Kôhei Endô",
+            "description": "color management system"
+          },
+          {
+            "id": "nm2053134",
+            "name": "Wataru Matsumoto",
+            "description": "color management system"
+          },
+          {
+            "id": "nm2053801",
+            "name": "Fumiko Numahata",
+            "description": "color key"
+          },
+          {
+            "id": "nm2054784",
+            "name": "Kanako Takayanagi",
+            "description": "color key"
+          },
+          {
+            "id": "nm1996743",
+            "name": "Kazuko Yamada",
+            "description": "color key"
+          },
+          {
+            "id": "nm2059235",
+            "name": "Tetsuya Yamai",
+            "description": "color management system"
+          },
+          {
+            "id": "nm1072230",
+            "name": "Michiyo Yasuda",
+            "description": "color designer"
+          }
+        ]
+      },
+      {
+        "job": "Sound Department",
+        "items": [
+          {
+            "id": "nm2002455",
+            "name": "Atsushi Aikawa",
+            "description": "DTS mastering"
+          },
+          {
+            "id": "nm5210673",
+            "name": "Panos Asimenios",
+            "description": "dubbing mixer"
+          },
+          {
+            "id": "nm0045344",
+            "name": "Petra Bach",
+            "description": "supervising adr editor: English version"
+          },
+          {
+            "id": "nm12030031",
+            "name": "Mariko Chikada",
+            "description": "DTS mastering"
+          },
+          {
+            "id": "nm1251024",
+            "name": "Randy Coppinger",
+            "description": "adr recordist: English version"
+          },
+          {
+            "id": "nm2033292",
+            "name": "Suminobu Hamada",
+            "description": "sound recording engineer"
+          },
+          {
+            "id": "nm0389935",
+            "name": "Yukio Hokari",
+            "description": "foley artist"
+          },
+          {
+            "id": "nm2025770",
+            "name": "Takeshi Imaizumi",
+            "description": "dialogue recordist"
+          },
+          {
+            "id": "nm2000289",
+            "name": "Kazumi Inaki",
+            "description": "post-production sound"
+          },
+          {
+            "id": "nm0409314",
+            "name": "Shuji Inoue",
+            "description": "sound"
+          },
+          {
+            "id": "nm2054510",
+            "name": "Mizuki Ito",
+            "description": "foley artist (as Mizuki Itou)"
+          },
+          {
+            "id": "nm2056627",
+            "name": "Michihiko Iwana",
+            "description": "dialogue recordist"
+          },
+          {
+            "id": "nm0423862",
+            "name": "Bobby Johanson",
+            "description": "adr recordist: English version"
+          },
+          {
+            "id": "nm2056349",
+            "name": "Tooru Kadokura",
+            "description": "dialogue recordist"
+          },
+          {
+            "id": "nm0437301",
+            "name": "Doc Kane",
+            "description": "sound: English version"
+          },
+          {
+            "id": "nm2054123",
+            "name": "Yuuichi Kaneko",
+            "description": "sound recordist: ABACO Creative Studio"
+          },
+          {
+            "id": "nm2051135",
+            "name": "Hiromi Kimura",
+            "description": "sound effects assistant"
+          },
+          {
+            "id": "nm1187795",
+            "name": "Masaya Kitada",
+            "description": "foley artist"
+          },
+          {
+            "id": "nm2032716",
+            "name": "Tamaki Kojo",
+            "description": "post-production sound"
+          },
+          {
+            "id": "nm0464539",
+            "name": "William Komar",
+            "description": "adr recordist: English version"
+          },
+          {
+            "id": "nm2050685",
+            "name": "Jirô Miyazawa",
+            "description": "dialogue recordist (as Jiro Miyazawa)"
+          },
+          {
+            "id": "nm2022604",
+            "name": "Kazuaki Narita",
+            "description": "sound effects assistant"
+          },
+          {
+            "id": "nm1072345",
+            "name": "Noboru Nishio",
+            "description": "digital optical recordist"
+          },
+          {
+            "id": "nm2025992",
+            "name": "Tôru Noguchi",
+            "description": "sound effects"
+          },
+          {
+            "id": "nm1187817",
+            "name": "Akihiko Okase",
+            "description": "foley artist"
+          },
+          {
+            "id": "nm0698367",
+            "name": "Brandon Proctor",
+            "description": "sound mix technician: English version"
+          },
+          {
+            "id": "nm1174486",
+            "name": "Gene Radzik",
+            "description": "stereo sound consultant: Dolby"
+          },
+          {
+            "id": "nm0745739",
+            "name": "Ronald G. Roumas",
+            "description": "sound re-recordist: English version"
+          },
+          {
+            "id": "nm0783713",
+            "name": "Michael Semanick",
+            "description": "re-recording mixer: English version"
+          },
+          {
+            "id": "nm2056570",
+            "name": "Mari Shinohara",
+            "description": "sound recordist: ABACO Creative Studio"
+          },
+          {
+            "id": "nm2060474",
+            "name": "Naoto Takeshima",
+            "description": "sound recordist: TOHO Sound Studio"
+          },
+          {
+            "id": "nm2032350",
+            "name": "Noriko Tsushi",
+            "description": "post-production sound"
+          },
+          {
+            "id": "nm4456699",
+            "name": "Futoshi Ueda",
+            "description": "optical sound recordist"
+          },
+          {
+            "id": "nm0906690",
+            "name": "Kazuhiro Wakabayashi",
+            "description": "sound director (as Kazuhiro Hayashi)"
+          },
+          {
+            "id": "nm2054436",
+            "name": "Nobue Yoshinaga",
+            "description": "sound production"
+          }
+        ]
+      },
+      {
+        "job": "Visual Effects by",
+        "items": [
+          {
+            "id": "nm2027109",
+            "name": "Masafumi Inoue",
+            "description": "cg engineer"
+          },
+          {
+            "id": "nm2058819",
+            "name": "Tatsuko Ishii",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2031670",
+            "name": "Masaru Karube",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2058623",
+            "name": "Susumu Masuuchi",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2055038",
+            "name": "Tomoka Matsumura",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2056410",
+            "name": "Norihiko Miyoshi",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm4471952",
+            "name": "Tsutomu Nomoto",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2025602",
+            "name": "Miki Satô",
+            "description": "digital animator (as Miki Sato)"
+          },
+          {
+            "id": "nm2024960",
+            "name": "Yôichi Senzui",
+            "description": "digital animator (as Yoichi Senzui)"
+          },
+          {
+            "id": "nm2059906",
+            "name": "Ichiro Uehara",
+            "description": "digital animator"
+          },
+          {
+            "id": "nm2025670",
+            "name": "Hiroki Yamada",
+            "description": "digital animator"
+          }
+        ]
+      },
+      {
+        "job": "Camera and Electrical Department",
+        "items": [
+          {
+            "id": "nm0605276",
+            "name": "Mikio Mori",
+            "description": "consultant: dolby film"
+          },
+          {
+            "id": "nm1070407",
+            "name": "Wataru Takahashi",
+            "description": "digital photographer"
+          },
+          {
+            "id": "nm0848770",
+            "name": "Atsushi Tamura",
+            "description": "digital photographer"
+          },
+          {
+            "id": "nm1070674",
+            "name": "Junji Yabuta",
+            "description": "digital photographer (as Junji Yubata)"
+          }
+        ]
+      },
+      {
+        "job": "Animation Department",
+        "items": [
+          {
+            "id": "nm1997996",
+            "name": "Akihiko Adachi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1522293",
+            "name": "Tsutomu Awata",
+            "description": "key animator"
+          },
+          {
+            "id": "nm0044458",
+            "name": "Seiko Azuma",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1765348",
+            "name": "Kaori Fujii",
+            "description": "assistant animation checker"
+          },
+          {
+            "id": "nm2000893",
+            "name": "Maya Fujimori",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2059731",
+            "name": "Youko Fujioka",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm2055668",
+            "name": "Yûko Fujita",
+            "description": "inbetween animator (as Yuuko Fujita)"
+          },
+          {
+            "id": "nm1069139",
+            "name": "Yoshikazu Fukutome",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2059834",
+            "name": "Daisuke Furuya",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0299400",
+            "name": "Makiko Futaki",
+            "description": "key animator"
+          },
+          {
+            "id": "nm0352351",
+            "name": "Kenji Hachizaki",
+            "description": "key animator (as Kenji Yazaki) / key animator"
+          },
+          {
+            "id": "nm0357364",
+            "name": "Hideki Hamasu",
+            "description": "key animator (as Hideki Hamazu)"
+          },
+          {
+            "id": "nm1089955",
+            "name": "Takashi Hashimoto",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1997939",
+            "name": "Yoshie Hayashi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1999170",
+            "name": "Sayaka Hirahara",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2058504",
+            "name": "Takeshi Hiramatsu",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2002336",
+            "name": "Shunsuke Hirota",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2059337",
+            "name": "Waka Hirota",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2031306",
+            "name": "Akira Hosogaya",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1999068",
+            "name": "Hiroshi Iijima",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm1072094",
+            "name": "Takeshi Imamura",
+            "description": "animation director"
+          },
+          {
+            "id": "nm2004259",
+            "name": "Junko Ina",
+            "description": "background artist"
+          },
+          {
+            "id": "nm1069373",
+            "name": "Ryôko Ina",
+            "description": "background artist (as Ryouko Ina)"
+          },
+          {
+            "id": "nm1998823",
+            "name": "Hiroaki Ishii",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm2033789",
+            "name": "Kunitoshi Ishii",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2026602",
+            "name": "Keiko Itogawa",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2056230",
+            "name": "Kaori Itou",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2024323",
+            "name": "Yoshitake Iwakami",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2057926",
+            "name": "Sumie Iwata",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1069391",
+            "name": "Emiko Iwayanagi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1030371",
+            "name": "Megumi Kagawa",
+            "description": "key animator (as Ai Kagawa)"
+          },
+          {
+            "id": "nm0434994",
+            "name": "Masatoshi Kai",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2001664",
+            "name": "Tsutomu Kaichi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2055995",
+            "name": "Yukiko Kakinuma",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1997249",
+            "name": "Junko Kanauchi",
+            "description": "digital ink and paint artist: Trace Studio M"
+          },
+          {
+            "id": "nm2056633",
+            "name": "Yukie Kaneko",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2057863",
+            "name": "Masashi Karino",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1069482",
+            "name": "Naomi Kasugai",
+            "description": "background artist"
+          },
+          {
+            "id": "nm0441956",
+            "name": "Mitsunori Katâma",
+            "description": "digital animation director"
+          },
+          {
+            "id": "nm1996806",
+            "name": "Fumie Kawamata",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm2022110",
+            "name": "Shigeru Kimishima",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1999753",
+            "name": "Haruna Kiryû",
+            "description": "digital ink and paint artist: T2 Studio (as Haruna Kiryu)"
+          },
+          {
+            "id": "nm1069535",
+            "name": "Yumiko Kitajima",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2051539",
+            "name": "Mayumi Kitamura",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2054089",
+            "name": "Yasuyuki Kitazawa",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0464891",
+            "name": "Katsuya Kondô",
+            "description": "animation supervisor / key animator"
+          },
+          {
+            "id": "nm6265561",
+            "name": "Rie Kondô",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1069565",
+            "name": "Ken'ichi Konishi",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2031924",
+            "name": "Fumie Konno",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0473560",
+            "name": "Masahiro Kubota",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2059631",
+            "name": "Akane Kumakura",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm0466901",
+            "name": "Kitarô Kôsaka",
+            "description": "animation director (as Kitaro Kosaka)"
+          },
+          {
+            "id": "nm2024656",
+            "name": "Daisuke Makino",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1069743",
+            "name": "Kiyoko Makita",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2052286",
+            "name": "Hirofumi Masuda",
+            "description": "key animator (as Hiroshi Masuda)"
+          },
+          {
+            "id": "nm0557926",
+            "name": "Toshihiko Masuda",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1997280",
+            "name": "Osamu Masuyama",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2059013",
+            "name": "Tetsuaki Matsuda",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0559612",
+            "name": "Mariko Matsuo",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1069783",
+            "name": "Masaru Matsuse",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2000648",
+            "name": "Atsuko Matsushita",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2056191",
+            "name": "Osamu Miwa",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2025296",
+            "name": "Tomoko Miyata",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1667926",
+            "name": "Ayako Mori",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1072143",
+            "name": "Naomi Mori",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm0619080",
+            "name": "Kazuo Nagai",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2633588",
+            "name": "Masako Nagata",
+            "description": "background artist"
+          },
+          {
+            "id": "nm1069918",
+            "name": "Rie Nakagome",
+            "description": "animation checker"
+          },
+          {
+            "id": "nm2021885",
+            "name": "Hiroaki Nakajima",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2051579",
+            "name": "Hideo Nakamura",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1069742",
+            "name": "Katsutoshi Nakamura",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1998312",
+            "name": "Masami Nakanishi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2026136",
+            "name": "Yôhei Nakano",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2002902",
+            "name": "Mai Nakazato",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2000640",
+            "name": "Kumi Nanjô",
+            "description": "digital ink and paint artist: T2 Studio (as Kumi Nanjo)"
+          },
+          {
+            "id": "nm0632667",
+            "name": "Sumie Nishido",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1448939",
+            "name": "Hiromi Nishikawa",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm6946867",
+            "name": "Yôichi Nishikawa",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2055970",
+            "name": "Mitsu Noguchi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0644470",
+            "name": "Kazuo Oga",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2025351",
+            "name": "Rie Okada",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm2026837",
+            "name": "Masashi Okumura",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1996962",
+            "name": "Fumino Okura",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm1069983",
+            "name": "Kazuyoshi Onoda",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2056365",
+            "name": "Makoto Oohara",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2022783",
+            "name": "Akihiro Oyama",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm1557341",
+            "name": "Kiyoko Saitô",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm1070210",
+            "name": "Masaya Saitô",
+            "description": "assistant animation checker"
+          },
+          {
+            "id": "nm2022148",
+            "name": "Saho Saitô",
+            "description": "inbetween animator (as Saho Saito)"
+          },
+          {
+            "id": "nm1454758",
+            "name": "Masako Sakano",
+            "description": "clean-up and inbetween artist"
+          },
+          {
+            "id": "nm2001078",
+            "name": "Chikako Sasagawa",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1999674",
+            "name": "Hiromi Sasaki",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2054236",
+            "name": "Yuuko Sasaki",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2028327",
+            "name": "Masako Sato",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2029766",
+            "name": "Tsutomu Shibutani",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1196422",
+            "name": "Atsushi Shigeta",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2003606",
+            "name": "Akiko Shimizu",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm2050661",
+            "name": "Masayuki Shimizu",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2000212",
+            "name": "Keisuke Shimohira",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1062938",
+            "name": "Masako Shinohara",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2058023",
+            "name": "Yumiko Suehiro",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1999718",
+            "name": "Takahiro Sugawara",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0837507",
+            "name": "Sachiko Sugino",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2054419",
+            "name": "Ayano Suzuki",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2001413",
+            "name": "Makiko Suzuki",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1072199",
+            "name": "Mariko Suzuki",
+            "description": "assistant animation checker"
+          },
+          {
+            "id": "nm2049552",
+            "name": "Masashi Suzuki",
+            "description": "digital animator: Gonzo Digitmation"
+          },
+          {
+            "id": "nm2003298",
+            "name": "Hiromi Takahashi",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm0847135",
+            "name": "Kanako Takahashi",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm5508737",
+            "name": "Kentarô Takahashi",
+            "description": "digital animator: T2 Studio"
+          },
+          {
+            "id": "nm2002855",
+            "name": "Moyo Takahashi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2002397",
+            "name": "Yôhei Takamatsu",
+            "description": "background artist (as Yohei Takamatsu)"
+          },
+          {
+            "id": "nm1913128",
+            "name": "Nobuyuki Takeuchi",
+            "description": "key animator"
+          },
+          {
+            "id": "nm0848770",
+            "name": "Atsushi Tamura",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2049766",
+            "name": "Setsuya Tanabe",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1453694",
+            "name": "Atsuko Tanaka",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1302681",
+            "name": "Naoya Tanaka",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2058373",
+            "name": "Yukie Tanaka",
+            "description": "digital ink and paint artist"
+          },
+          {
+            "id": "nm1121196",
+            "name": "Yûichi Tanaka",
+            "description": "key animator (as Yuichi Tanaka)"
+          },
+          {
+            "id": "nm1037149",
+            "name": "Jun'ichi Taniguchi",
+            "description": "background artist"
+          },
+          {
+            "id": "nm2002744",
+            "name": "Kumiko Tanihira",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0851223",
+            "name": "Hitomi Tateno",
+            "description": "animation checker"
+          },
+          {
+            "id": "nm2022109",
+            "name": "Kumiko Terada",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1072204",
+            "name": "Akiko Teshima",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2025906",
+            "name": "Akiko Toba",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0865749",
+            "name": "Yoyoi Toki",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2033628",
+            "name": "Kaori Tokunaga",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm0866756",
+            "name": "Keiko Tomizawa",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2058517",
+            "name": "Masashi Toriyama",
+            "description": "digital animator: T2 Studio"
+          },
+          {
+            "id": "nm1989315",
+            "name": "Jinko Tsuji",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2000711",
+            "name": "Ryûji Uchida",
+            "description": "digital ink and paint artist: T2 Studio (as Ryuji Uchida)"
+          },
+          {
+            "id": "nm2056663",
+            "name": "Kimitoshi Ueno",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2003271",
+            "name": "Yukari Umebayashi",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2059169",
+            "name": "Satoe Usui",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2054788",
+            "name": "Youichi Watanabe",
+            "description": "background artist"
+          },
+          {
+            "id": "nm1070599",
+            "name": "Alexandra Weihrauch",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm2000233",
+            "name": "Hisako Yaji",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1987267",
+            "name": "Katsuya Yamada",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1070647",
+            "name": "Ken'ichi Yamada",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1912920",
+            "name": "Shin'ichirô Yamada",
+            "description": "inbetween animator (as Shinichiro Yamada)"
+          },
+          {
+            "id": "nm2051090",
+            "name": "Yukinobu Yamada",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1249414",
+            "name": "Hirômi Yamakawa",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1913939",
+            "name": "Eiji Yamamori",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1997377",
+            "name": "Rie Yamamoto",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1091767",
+            "name": "Akihiko Yamashita",
+            "description": "animation director"
+          },
+          {
+            "id": "nm2049923",
+            "name": "Masakiyo Yamashita",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1070653",
+            "name": "Yukari Yamaura",
+            "description": "inbetween animator"
+          },
+          {
+            "id": "nm1999120",
+            "name": "Kikuyo Yano",
+            "description": "background artist"
+          },
+          {
+            "id": "nm1913160",
+            "name": "Masafumi Yokota",
+            "description": "key animator"
+          },
+          {
+            "id": "nm2023200",
+            "name": "Yuki Yokoyama",
+            "description": "digital ink and paint artist: T2 Studio"
+          },
+          {
+            "id": "nm0948488",
+            "name": "Hiromasa Yonebayashi",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1997860",
+            "name": "Mitsuo Yoshino",
+            "description": "background artist"
+          },
+          {
+            "id": "nm1070666",
+            "name": "Hideaki Yoshio",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1913537",
+            "name": "Minoru Ôhashi",
+            "description": "inbetween animator (as Minoru Ohashi)"
+          },
+          {
+            "id": "nm0648955",
+            "name": "Shin'ya Ôhira",
+            "description": "key animator"
+          },
+          {
+            "id": "nm1997416",
+            "name": "Takashi Ômori",
+            "description": "background artist (as Takashi Omori)"
+          },
+          {
+            "id": "nm1072155",
+            "name": "Mayumi Ômura",
+            "description": "inbetween animator (as Mayumi Ohmura)"
+          },
+          {
+            "id": "nm6296785",
+            "name": "Yoshihiro Ôsugi",
+            "description": "key animator (as Yoshihiro Oosugi)"
+          },
+          {
+            "id": "nm2000536",
+            "name": "Kumiko Ôta",
+            "description": "inbetween animator (as Kumiko Ohta)"
+          },
+          {
+            "id": "nm0652994",
+            "name": "Shinji Ôtsuka",
+            "description": "key animator (as Shinji Otsuka)"
+          },
+          {
+            "id": "nm2059794",
+            "name": "Hiroko Ôtsuki",
+            "description": "digital ink and paint artist: Trace Studio M (as Hiroko Otsuki)"
+          }
+        ]
+      },
+      {
+        "job": "Casting Department",
+        "items": [
+          {
+            "id": "nm2027908",
+            "name": "Motohiro Hatanaka",
+            "description": "casting coordinator"
+          },
+          {
+            "id": "nm2051306",
+            "name": "Ayumi Sato",
+            "description": "casting coordinator"
+          },
+          {
+            "id": "nm2033509",
+            "name": "Naomi Yasu",
+            "description": "casting coordinator"
+          }
+        ]
+      },
+      {
+        "job": "Editorial Department",
+        "items": [
+          {
+            "id": "nm1117867",
+            "name": "Chris DeLaGuardia",
+            "description": "color timer"
+          },
+          {
+            "id": "nm0386181",
+            "name": "Hiroaki Hirabayashi",
+            "description": "color timer"
+          },
+          {
+            "id": "nm10511340",
+            "name": "Takehisa Katsumata",
+            "description": "lab management"
+          },
+          {
+            "id": "nm1993748",
+            "name": "Kashiko Kimura",
+            "description": "assistant editor"
+          },
+          {
+            "id": "nm2054111",
+            "name": "Rie Matsubara",
+            "description": "assistant editor (as Rie Matsuhara)"
+          },
+          {
+            "id": "nm2034037",
+            "name": "Megumi Uchida",
+            "description": "assistant editor"
+          }
+        ]
+      },
+      {
+        "job": "Music Department",
+        "items": [
+          {
+            "id": "nm0386749",
+            "name": "Joe Hisaishi",
+            "description": "music arranger: \"Sekai no Yakusoku\""
+          },
+          {
+            "id": "nm1175835",
+            "name": "Yumi Kimura",
+            "description": "composer: theme song \"Sekai no Yakusoku\" (as Youmi Kimura)"
+          },
+          {
+            "id": "nm0722529",
+            "name": "Simon Rhodes",
+            "description": "music mixing: English version"
+          }
+        ]
+      },
+      {
+        "job": "Additional Crew",
+        "items": [
+          {
+            "id": "nm1297907",
+            "name": "Stephen Alpert",
+            "description": "overseas promotion"
+          },
+          {
+            "id": "nm10505328",
+            "name": "Kino Arai",
+            "description": "production committee: Disney Enterprises"
+          },
+          {
+            "id": "nm2029951",
+            "name": "Shokichi Arai",
+            "description": "production administration"
+          },
+          {
+            "id": "nm2003030",
+            "name": "Koichi Asano",
+            "description": "merchandising development"
+          },
+          {
+            "id": "nm1071978",
+            "name": "Naomi Atsuta",
+            "description": "merchandising development"
+          },
+          {
+            "id": "nm1244310",
+            "name": "Takehiko Chino",
+            "description": "production committee: Dentsu"
+          },
+          {
+            "id": "nm1248357",
+            "name": "Cindy Davis",
+            "description": "adaptation: English version (as Cindy Davis Hewitt)"
+          },
+          {
+            "id": "nm0218760",
+            "name": "Rick Dempsey",
+            "description": "dialogue director"
+          },
+          {
+            "id": "nm0230032",
+            "name": "Pete Docter",
+            "description": "dialogue director: English version"
+          },
+          {
+            "id": "nm2052937",
+            "name": "Masako Fujita",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2054306",
+            "name": "Eiko Fujitsu",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2023183",
+            "name": "Mieko Hara",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm1248358",
+            "name": "Donald H. Hewitt",
+            "description": "adaptation: English version"
+          },
+          {
+            "id": "nm0386181",
+            "name": "Hiroaki Hirabayashi",
+            "description": "film development"
+          },
+          {
+            "id": "nm3371996",
+            "name": "Fumihiro Hirai",
+            "description": "production committee: NTV"
+          },
+          {
+            "id": "nm9579398",
+            "name": "Mayumi Hirakata",
+            "description": "production committee: NTV"
+          },
+          {
+            "id": "nm1916093",
+            "name": "Kôji Hoshino",
+            "description": "production committee: BVHE"
+          },
+          {
+            "id": "nm2059508",
+            "name": "Akio Ichimura",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2022138",
+            "name": "Tomomi Imai",
+            "description": "merchandising development"
+          },
+          {
+            "id": "nm2002997",
+            "name": "Kenji Imura",
+            "description": "production assistant"
+          },
+          {
+            "id": "nm10505563",
+            "name": "Tôru Itabashi",
+            "description": "production committee: Disney Enterprises"
+          },
+          {
+            "id": "nm2027100",
+            "name": "Keiichi Itagaki",
+            "description": "film preview production"
+          },
+          {
+            "id": "nm2057251",
+            "name": "Kyohei Ito",
+            "description": "production assistant"
+          },
+          {
+            "id": "nm1996998",
+            "name": "Nozomu Ito",
+            "description": "public relations"
+          },
+          {
+            "id": "nm2060491",
+            "name": "Hisayo Itou",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2024842",
+            "name": "Rieko Izutsu",
+            "description": "overseas promotion"
+          },
+          {
+            "id": "nm3022345",
+            "name": "Daisuke Kadoya",
+            "description": "production committee: NTV"
+          },
+          {
+            "id": "nm10505331",
+            "name": "Emi Kagawa",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm1998070",
+            "name": "Atsushi Kamimura",
+            "description": "production desk"
+          },
+          {
+            "id": "nm2021753",
+            "name": "Yasushi Kanno",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm4104560",
+            "name": "Toshiyuki Kawabata",
+            "description": "production administration desk"
+          },
+          {
+            "id": "nm2057937",
+            "name": "Takehisa Kawamata",
+            "description": "laboratory manager"
+          },
+          {
+            "id": "nm2055738",
+            "name": "Noriyuki Kitakawachi",
+            "description": "systems manager"
+          },
+          {
+            "id": "nm2028043",
+            "name": "Michiyo Koyanagi",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm1566098",
+            "name": "Ned Lott",
+            "description": "Additional Voice Director"
+          },
+          {
+            "id": "nm2049748",
+            "name": "Kaoru Mano",
+            "description": "titles"
+          },
+          {
+            "id": "nm1910536",
+            "name": "Takeyoshi Matsushita",
+            "description": "production committee: Tokuma Shoten"
+          },
+          {
+            "id": "nm0585651",
+            "name": "David Midthunder",
+            "description": "voices"
+          },
+          {
+            "id": "nm1718094",
+            "name": "Sanae Mitsugi",
+            "description": "production committee: Tokuma Shoten"
+          },
+          {
+            "id": "nm2003175",
+            "name": "Yuichiro Mochizuki",
+            "description": "production desk"
+          },
+          {
+            "id": "nm2060089",
+            "name": "Nao Morisaki",
+            "description": "overseas promotion"
+          },
+          {
+            "id": "nm2023792",
+            "name": "Ai Nakanishi",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm2052679",
+            "name": "Yoshiaki Nishimura",
+            "description": "production administration"
+          },
+          {
+            "id": "nm2031234",
+            "name": "Junichi Nishioka",
+            "description": "public relations"
+          },
+          {
+            "id": "nm2057789",
+            "name": "Shinsuke Nonaka",
+            "description": "chief of production administration"
+          },
+          {
+            "id": "nm2053643",
+            "name": "Sueko Numazawa",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2026718",
+            "name": "Naoto Okamura",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm2033232",
+            "name": "Hiroyuki Orihara",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm1557337",
+            "name": "Kristy Ryan",
+            "description": "promotions manager: Australia"
+          },
+          {
+            "id": "nm2055432",
+            "name": "Jun'ya Saitô",
+            "description": "production assistant (as Junya Saito)"
+          },
+          {
+            "id": "nm7332968",
+            "name": "Vincenzo Sarno",
+            "description": "Promotion Manager related to the Original Novel: italy"
+          },
+          {
+            "id": "nm2055885",
+            "name": "Satomi Sasaki",
+            "description": "systems manager"
+          },
+          {
+            "id": "nm2996848",
+            "name": "Yûji Shimamoto",
+            "description": "production committee: Dentsu"
+          },
+          {
+            "id": "nm10511339",
+            "name": "Yûko Shimura",
+            "description": "laboratory coordinator"
+          },
+          {
+            "id": "nm2056922",
+            "name": "Nobuko Shiraki",
+            "description": "production administration"
+          },
+          {
+            "id": "nm2039360",
+            "name": "Satoshi Takabatake",
+            "description": "background layout assistant"
+          },
+          {
+            "id": "nm0847422",
+            "name": "Noriko Takaya",
+            "description": "harmony process"
+          },
+          {
+            "id": "nm2031193",
+            "name": "Mikiko Takeda",
+            "description": "overseas promotion"
+          },
+          {
+            "id": "nm2051471",
+            "name": "Chieko Tamura",
+            "description": "public relations"
+          },
+          {
+            "id": "nm2056719",
+            "name": "Chiyoshi Tanaka",
+            "description": "production desk"
+          },
+          {
+            "id": "nm2055284",
+            "name": "Eiichiro Tashiro",
+            "description": "production assistant"
+          },
+          {
+            "id": "nm0865823",
+            "name": "Masaya Tokuyama",
+            "description": "special media advisor"
+          },
+          {
+            "id": "nm2021942",
+            "name": "Masaru Tsuchiya",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm2056738",
+            "name": "Kiyoko Tsuge",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2055030",
+            "name": "Chihiro Tsukue",
+            "description": "public relations"
+          },
+          {
+            "id": "nm1576785",
+            "name": "Seiichirô Ujiie",
+            "description": "production committee: NTV"
+          },
+          {
+            "id": "nm2029408",
+            "name": "Yumiko Ukai",
+            "description": "public relations"
+          },
+          {
+            "id": "nm2034198",
+            "name": "Morikazu Wakizaka",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm3357138",
+            "name": "Mika Watanabe",
+            "description": "advertising: Major"
+          },
+          {
+            "id": "nm2053828",
+            "name": "Masaru Yabe",
+            "description": "special media advisor"
+          },
+          {
+            "id": "nm1070651",
+            "name": "Tamami Yamamoto",
+            "description": "production accountant"
+          },
+          {
+            "id": "nm2050000",
+            "name": "Mika Yasuda",
+            "description": "merchandising development"
+          },
+          {
+            "id": "nm1754696",
+            "name": "Shinjiro Yokoyama",
+            "description": "production committee: Dentsu"
+          },
+          {
+            "id": "nm5461140",
+            "name": "Masahiko Ôsawa",
+            "description": "production committee: NTV"
+          }
+        ]
+      }
+    ],
+    "errorMessage": ""
+  },
+  "genres": "Animation, Adventure, Family",
+  "genreList": [
+    {
+      "key": "Animation",
+      "value": "Animation"
+    },
+    {
+      "key": "Adventure",
+      "value": "Adventure"
+    },
+    {
+      "key": "Family",
+      "value": "Family"
+    }
+  ],
+  "companies": "Buena Vista Home Entertainment, DENTSU Music And Entertainment, Mitsubishi",
+  "companyList": [
+    {
+      "id": "co0049546",
+      "name": "Buena Vista Home Entertainment"
+    },
+    {
+      "id": "co0064941",
+      "name": "DENTSU Music And Entertainment"
+    },
+    {
+      "id": "co0148513",
+      "name": "Mitsubishi"
+    }
+  ],
+  "countries": "Japan",
+  "countryList": [
+    {
+      "key": "Japan",
+      "value": "Japan"
+    }
+  ],
+  "languages": "Japanese",
+  "languageList": [
+    {
+      "key": "Japanese",
+      "value": "Japanese"
+    }
+  ],
+  "contentRating": "PG",
+  "imDbRating": "8.2",
+  "imDbRatingVotes": "412632",
+  "metacriticRating": "82",
+  "ratings": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "imDb": "8.2",
+    "metacritic": "82",
+    "theMovieDb": "8.4",
+    "rottenTomatoes": "87",
+    "filmAffinity": "7.8",
+    "errorMessage": ""
+  },
+  "wikipedia": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "language": "en",
+    "titleInLanguage": "Howl's Moving Castle (film)",
+    "url": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)",
+    "plotShort": {
+      "plainText": "Howl's Moving Castle (Japanese: ハウルの動く城, Hepburn: Hauru no Ugoku Shiro) is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki. It is loosely based on the 1986 novel of the same name by British author Diana Wynne Jones. The film was produced by Toshio Suzuki, animated by Studio Ghibli and distributed by Toho. The Japanese voice cast featured Chieko Baisho and Takuya Kimura, while the English dub version starred Jean Simmons, Emily Mortimer, Lauren Bacall, Christian Bale, Josh Hutcherson and Billy Crystal. The film is set in a fictional kingdom where both magic and early twentieth-century technology are prevalent, against the backdrop of a war with another kingdom. It tells the story of Sophie, a young milliner who is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.\r\nInfluenced by Miyazaki's opposition to the United States' invasion of Iraq in 2003, the film contains strong anti-war themes. Miyazaki stated that he \"had a great deal of rage\" about the Iraq war, which led him to make a film which he felt would be poorly received in the United States. It also explores the theme of old age, depicting age positively as something which grants the protagonist freedom. The film contains feminist elements as well, and carries messages about the value of compassion. In 2013, Miyazaki said Howl's Moving Castle was his favorite creation, explaining, \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" The film is significantly thematically different from the novel; while the novel focuses on challenging class and gender norms, the film focuses on love, personal loyalty and the destructive effects of war.\r\nHowl's Moving Castle premiered at the 61st Venice International Film Festival on 5 September 2004, and was theatrically released in Japan on 20 November 2004. It went on to gross $190 million in Japan and $236 million worldwide, making it one of the most commercially successful Japanese films in history. The film received critical acclaim, with particular praise toward its visuals and Miyazaki's presentation of the themes. It was nominated for the Academy Award for Best Animated Feature at the 78th Academy Awards, but lost to Wallace & Gromit: The Curse of the Were-Rabbit, in 2006, and won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script.",
+      "html": "<p>Howl's Moving Castle (Japanese: ハウルの動く城, Hepburn: Hauru no Ugoku Shiro) is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki. It is loosely based on the 1986 novel of the same name by British author Diana Wynne Jones. The film was produced by Toshio Suzuki, animated by Studio Ghibli and distributed by Toho. The Japanese voice cast featured Chieko Baisho and Takuya Kimura, while the English dub version starred Jean Simmons, Emily Mortimer, Lauren Bacall, Christian Bale, Josh Hutcherson and Billy Crystal. The film is set in a fictional kingdom where both magic and early twentieth-century technology are prevalent, against the backdrop of a war with another kingdom. It tells the story of Sophie, a young milliner who is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.</p><p>Influenced by Miyazaki's opposition to the United States' invasion of Iraq in 2003, the film contains strong anti-war themes. Miyazaki stated that he \"had a great deal of rage\" about the Iraq war, which led him to make a film which he felt would be poorly received in the United States. It also explores the theme of old age, depicting age positively as something which grants the protagonist freedom. The film contains feminist elements as well, and carries messages about the value of compassion. In 2013, Miyazaki said Howl's Moving Castle was his favorite creation, explaining, \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" The film is significantly thematically different from the novel; while the novel focuses on challenging class and gender norms, the film focuses on love, personal loyalty and the destructive effects of war.</p><p>Howl's Moving Castle premiered at the 61st Venice International Film Festival on 5 September 2004, and was theatrically released in Japan on 20 November 2004. It went on to gross $190 million in Japan and $236 million worldwide, making it one of the most commercially successful Japanese films in history. The film received critical acclaim, with particular praise toward its visuals and Miyazaki's presentation of the themes. It was nominated for the Academy Award for Best Animated Feature at the 78th Academy Awards, but lost to Wallace & Gromit: The Curse of the Were-Rabbit, in 2006, and won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script.</p>"
+    },
+    "plotFull": {
+      "plainText": "Howl's Moving Castle (Japanese: ハウルの動く城, Hepburn: Hauru no Ugoku Shiro) is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki. It is loosely based on the 1986 novel of the same name by British author Diana Wynne Jones. The film was produced by Toshio Suzuki, animated by Studio Ghibli and distributed by Toho. The Japanese voice cast featured Chieko Baisho and Takuya Kimura, while the English dub version starred Jean Simmons, Emily Mortimer, Lauren Bacall, Christian Bale, Josh Hutcherson and Billy Crystal. The film is set in a fictional kingdom where both magic and early twentieth-century technology are prevalent, against the backdrop of a war with another kingdom. It tells the story of Sophie, a young milliner who is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.\r\nInfluenced by Miyazaki's opposition to the United States' invasion of Iraq in 2003, the film contains strong anti-war themes. Miyazaki stated that he \"had a great deal of rage\" about the Iraq war, which led him to make a film which he felt would be poorly received in the United States. It also explores the theme of old age, depicting age positively as something which grants the protagonist freedom. The film contains feminist elements as well, and carries messages about the value of compassion. In 2013, Miyazaki said Howl's Moving Castle was his favorite creation, explaining, \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" The film is significantly thematically different from the novel; while the novel focuses on challenging class and gender norms, the film focuses on love, personal loyalty and the destructive effects of war.\r\nHowl's Moving Castle premiered at the 61st Venice International Film Festival on 5 September 2004, and was theatrically released in Japan on 20 November 2004. It went on to gross $190 million in Japan and $236 million worldwide, making it one of the most commercially successful Japanese films in history. The film received critical acclaim, with particular praise toward its visuals and Miyazaki's presentation of the themes. It was nominated for the Academy Award for Best Animated Feature at the 78th Academy Awards, but lost to Wallace & Gromit: The Curse of the Were-Rabbit, in 2006, and won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script.\r\nPlot\r\nSophie, a young milliner and eldest of three sisters, encounters a wizard named Howl on her way to visit her sister Lettie. Upon returning home, she meets the Witch of the Waste, who transforms her into a 90-year-old woman. Seeking to break the curse, Sophie leaves home and sets off through the countryside. She meets a living scarecrow, whom she calls \"Turnip Head\". He leads her to Howl's moving castle where she enters without invitation. She subsequently meets Howl's young apprentice Markl and a fire demon named Calcifer, the source of the castle's magic and movement. Calcifer makes a deal with Sophie, agreeing to break her curse if she breaks his link with Howl. When Howl appears, Sophie announces that she has \"hired herself\" as a cleaning lady.\r\nMeanwhile, Sophie's nation is caught up in a war with a neighboring kingdom, which is searching for its missing prince. The King summons Howl to fight in the war. However, Howl decides to send Sophie to the King, under the pretense of being his mother, to tell him that Howl is too much of a coward to fight. Before leaving, he gives Sophie a charmed ring that leads her to Calcifer and guarantees her safety. Sophie meets Suliman, the king's head sorceress, and also the Witch of the Waste, whom Suliman punishes by draining all of her power and reverting her to her true age, that of a harmless old woman. Suliman warns Sophie that Howl will meet the same fate if he does not fight for the king. Howl then arrives to rescue Sophie. Suliman tries to trap him by turning him into a monster, but with Sophie's help he remembers himself and just barely avoids death. The duo escapes along with the former Witch of the Waste and Suliman's dog Heen. In the meantime, soldiers from each kingdom break into the homes of both Jenkins and Pendragon (Howl's aliases in those kingdoms). However, the men only find an empty courtyard and warehouse, as the castle's magic nature allows travel between four separate residences.\r\nSophie learns that Howl's life is somehow bound to Calcifer's and that Howl has been transforming into a bird-like creature to interfere with both sides in the war, but each transformation makes it more difficult for him to return to human form. Howl then has the castle magically linked to Sophie's home, parking the castle itself on the town's outskirts. A few days later, the town is bombed by enemy aircraft and Suliman's henchmen attack the house and Sophie's hat shop. Howl heads out to protect the group. Sophie then moves everyone out of the house and removes Calcifer from the fireplace, which collapses the castle. The Witch of the Waste realizes that Calcifer has Howl's heart and grabs the fire demon, setting herself on fire. Sophie panics and pours water onto the Witch, which douses Calcifer. The remainder of the castle then splits in two; Sophie falls down a chasm and is separated from the group.\r\nFollowing the charmed ring, Sophie wanders into a scene from the past, where she sees a young Howl catch a falling star – Calcifer – and gives him his heart. Sophie calls for them to find her in the future as she is teleported away. She returns to the present, finds Howl, and they reunite with the others. The Witch returns Howl's heart, and Sophie places it back inside Howl, reviving him and freeing Calcifer, though he decides to stay. Sophie's curse is broken, though her hair remains white. After she kisses Turnip Head on the cheek, he returns to human form revealing himself to be Justin, the missing prince from the enemy kingdom. He reveals that only his true love's kiss can break his curse. After seeing Sophie's affection lies with Howl, he promptly heads for home to cease the war, but promises he will see them again. Suliman, watching through a crystal globe, also decides to end the war. Sometime later, bombers fly under dark skies over a recovered and green countryside headed to another war, while Sophie, Howl, and the others travel in the opposite direction in a new flying castle.\r\nVoice cast\r\nThemes\r\nPacifism\r\nHowl's Moving Castle contains strong anti-war themes, influenced by Miyazaki's distaste for the 2003 Iraq War. When he received an Oscar for Spirited Away, he said that he \"had a great deal of rage about. So felt some hesitation about the award.\" Miyazaki identifies as a pacifist. On the eve of the Iraq War, Miyazaki decided to make a film that he felt would be poorly received in the United States. Despite the film's success in that country, literary scholar Dani Cavallaro stated that Miyazaki was able to \"create a film which ought, in principle, to have caused a certain unease among American audiences.\" In the movie, Madame Suliman appears to have only sadistic motivations for creating conflict, and despite being omniscient, is unable to recognize the idiocy of the war until the very end of the story. This reflects Miyazaki's desire to show real-world conflicts as also being somewhat arbitrary and fueled by the desires of capricious people. Cavallaro stated that the depiction of the war carried \"an unmistakable bitter taste.\" She also writes that the military presence and warfare was highlighted in the film. From the early concept sketches military elements were emphasized, and when the film shows the bustling commercial district the soldiers in uniforms stand out intentionally.\r\nThe universe of Howl's Moving Castle is depicted as not having clear-cut villains and heroes; instead, the characters are complex, and even those that are initially portrayed in a negative light, such as Howl, are shown as capable of change. Matt Kimmich has stated, however, that the simplistic message of the film is that \"war is bad.\" A scene where Sophie is standing in a beautiful field of flowers is interrupted by a war machine, \"a finger accusing empire as the destroyer of peace.\" This portrayal is in strong contrast to other Miyazaki films like Princess Mononoke, which criticizes military conflict in a more nuanced manner. Andrew Osmond stated that \"Howl's pure-hearted anti-war stance is presented as nihilism with no alternative as he fights forces from each side and becomes the worst terror of all,\" in the form of the monstrous bird. By transforming into the bird, Howl risks losing his own humanity; Calcifer comments at one point that he will soon not be able to return to human form. In contrast, Ashitaka in Princess Mononoke fights the demonic sickness with which he is afflicted, and tries to negotiate a peace between the two sides. Osmond states that both films also point out the limits of masculinity, as exemplified by Howl and Ashitaka.\r\nFlight and critique of modernity\r\nLike several other Miyazaki films, Howl's Moving Castle reflects the director's love of flying. Aircraft of inventive design appear in the film, and Howl frequently transforms into a bird. Miyazaki examines flight as a theme most directly in the later film The Wind Rises. Miyazaki stated that he was attracted to military aircraft as a child, but that he grew to detest them because of the destructive purpose for which they are created. Thus Howl's Moving Castle contains images both of aircraft shown as harmless and beautiful, and large military craft depicted as ugly and destructive. Cavallaro writes that Miyazaki wants to \"portray flight as an object of admiration and awe,\" but that he is not \" to its abuse by unscrupulous strategists and rulers.\"\r\nThe nuanced view of flight is part of Miyazaki's broader critique of modern society and technology. Margaret Talbot writes that in person, Miyazaki exhibits \"a profound dissatisfaction with modern life,\" particularly with the effects of technology and a disconnection from nature. Many of his films depict technological hubris as among the roots of evil. The battleships which are seen moving over the landscape are depicted as \"gleaming with modernity and parading righteousness,\" but are then shown to be highly destructive. In contrast, the semi-organic castle demonstrates \"Miyazaki’s Taoist presentation of industrialism needing to be aligned with nature\" according to Carl and Garrath Wilson. Anthony Lioi writes that Miyazaki often depicts beautiful scenes in contrast to those containing symbols of modernity, such as the scene where Sophie's reverie is interrupted by a war machine. This contrast is part of an ecological criticism of modernity, but Miyazaki also offers an alternative, in the form of beautiful natural scenery.\r\nOld age and compassion\r\nMiyazaki stated that an attractive aspect of the story of Howl's Moving Castle was the relatively positive light it shed on growing old. When Sophie becomes old as a result of the witch's spell, she also feels more able to speak her mind. According to Miyazaki, old women are only infrequently allowed to dominate the screen as in Howl's Moving Castle, which made it a risky concept. Elizabeth Parsons stated that the film disrupts the stereotype of \"aged unattractiveness,\" when the artificially aged Sophie manages to rescue two attractive men (who come to love her) and to unintentionally end the war in her country. Sophie's actions are those usually associated with grandmothers, such as being kind and nurturing to those around her, and engaging in housework; however, these actions are depicted as being powerful and heroic. Sophie is one of several strong female protagonists in Miyazaki's films. According to Parsons, this gives the film a feminist aspect as well. Additionally, even though Sophie manages to make her presence in the castle legitimate by claiming to be a cleaning lady, the film goes on to show that the housework is equitably distributed, strengthening its feminist aspect.\r\nIn 2013, Miyazaki stated that Howl's Moving Castle was his favorite creation, and explained his choice by saying \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" In the film, Sophie is shown to overcome extreme challenges by learning to put the well-being of those she cares about above her own self-interest, a quality which Miyazaki refers to as devotion. Several of the protagonists in Miyazaki's films, such as Ashitaka and San in Princess Mononoke and Sheeta and Pazu in Castle in the Sky learn to survive by learning the same lesson. Cavallaro states that Miyazaki spreads this moral through the entire film, to convey human beings' ability to be compassionate, such as when the scarecrow holds an umbrella over Sophie's head when it rains. Over the course of the film, Howl, its most vain and selfish character, also learns to put others before himself. When Madame Suliman returns the Witch of the Waste to her true form as a decrepit old woman, Sophie takes her in and cares for her, despite the witch being responsible for Sophie's curse, thus strongly demonstrating the idea of compassion. The witch then nearly destroys Howl through her selfish behavior, but also helps save the castle at the end. Parsons writes that \"In Miyazaki's balancing act, old women can be powerful and weak, positive and negative, nurturing and selfish, maligned and loved; in short, they can not be simply categorized or stereotyped, and they can not be dismissed as fantasy malefactors embodied by evil witches.\" They are also given a lot of space in the film as active characters, something not commonly found in western movies.\r\nProduction\r\nIn September 2001, Studio Ghibli announced the production of two films. The first would become The Cat Returns and the second was an adaptation of Diana Wynne Jones' novel, Howl's Moving Castle. A rumor persists that Miyazaki had an idea to do Howl's Moving Castle during a visit to Strasbourg Christmas market. Toshio Suzuki, who produced Howl's Moving Castle, stated that Miyazaki was inspired to make the film when he read Jones' novel, and was struck by the image of a castle moving around the countryside. The novel does not explain how the castle moved, and Miyazaki was interested in figuring out how the castle might move, which led to the image of a castle on chicken legs. The complex moving castle changes and rearranges itself several times throughout the movie in response to Howl's eccentricity and the various situations. The basic structure of the castle consists of more than 80 elements including turrets, a wagging tongue, cogwheels and chicken legs, that were rendered as digital objects.\r\nMamoru Hosoda of Toei Animation was originally selected to direct the film, but quit the project after Studio Ghibli's executives rejected many of his concept ideas. The film was shelved until Miyazaki took over. The project resumed with production in February 2003. It was scheduled to be completed in the spring of 2004, and released in the summer of that year.\r\nMiyazaki went to Colmar and Riquewihr in Alsace, France, to study the architecture and the surroundings for the setting of the film. Additional inspiration came from the concepts of future technology in Albert Robida's work. Commentators have stated that Miyazaki's imagery was influenced by his fondness for the \"illusion art\" of 19th century Europe. Suzuki stated that unlike many Western films, in which the imagery went \"from the general the specific,\" Miyazaki employed a uniquely Japanese approach, frequently beginning with a very specific image and moving from there. However, Howl's Moving Castle, and Miyazaki films in general, have a focus on realistic imagery in a way that other anime films do not.\r\nThe film was produced digitally, but the original backgrounds were drawn by hand and painted prior to being digitized, and the characters were also drawn by hand prior to scanning them into the computer. The 1400 storyboard cuts for the film were completed on 16 January 2004. On 25 June the in-between animation was completed and checking was completed on 26 June. Studio Ghibli used digital technology to run many copies of the still portions of a scene, a process which avoids inconsistencies between various still frames, but can create an impression of artificiality. Therefore, the studio chose to manually retouch the digitally altered images, recreating the \"feel\" of a hand-drawn image.\r\nLike with the other Studio Ghibli movies, the film was co-produced with other companies, which were Tokuma Shoten, the Nippon Television Network, Dentsu, Buena Vista Home Entertainment, Mitsubishi and Toho.\r\nComparisons between film and novel\r\nThe film has several differences from the novel, partly due to the different requirements of the two media. Diana Wynne Jones' novel has a very large cast of characters, and several plot threads that were too complex to be transferred into the film. As a result, characters such as Sophie's second sister Martha are left out, as is the plot thread involving Markl (who is called Michael in the novel, and depicted as an adolescent, rather than as a young boy) courting her. Jones discussed the film with Studio Ghibli representatives, but did not have any input or involvement in the production of the film. Miyazaki traveled to England in the summer of 2004 to give Jones a private viewing of the finished film. She has been quoted as saying \"It's fantastic. No, I have no input—I write books, not films. Yes, it will be different from the book—in fact it's likely to be very different, but that's as it should be. It will still be a fantastic film.\"\r\nThe novel depicts Howl's castle as a tall, dark and sinister wizard's tower, very different from the complex image in the film. The film's castle may be seen as a parody of the machines seen in the movie, driven both by steam-engines and by magic. In the film, it is a \"rotund collage of chimneys, roofs, steam pipes, and other odd appendages, borne along on mechanized bird legs\" that is similar to Baba Yaga's hut in the popular fairy tale. It is vaguely organic, and almost depicted as a life-form. Similarly, Calcifer is a demonic figure in the book, as compared to the \"endearing\" persona and image that he has in the film. Both film and novel try to render fantastic elements as mundane and ordinary things. Although they are set in a fantasy universe, the characters are often shown performing routine tasks, like cooking breakfast or washing up, in contrast to the heroic actions typical of a fantasy universe. In the novel, Jones disrupts the fantasy-world setting by including scenes in which the characters travel to the real-world Wales. The movie, however, avoids this digression, and maintains a constant setting.\r\nMiyazaki's biggest addition to the plot of the book was the use of the war as a large part of the plot. In the book, the war is only tangentially referred to; the king orders Howl to find the king's missing brother Justin, because Justin's military skills are needed for a forthcoming war. Howl's frequent disappearances are because of his womanizing habits, which makes Sophie see him as a superficial and cowardly person. In the film, however, Howl disappears in order to transform into a giant bird and disrupt the battle plans of both armies.\r\nThe roles of several characters also differ between novel and film due to this plot change. The Witch of the Waste is the chief antagonist of the book, whereas in the film she is reduced by Madame Suliman's magic to an ultimately harmless old woman who evokes sympathy in the audience and in Sophie. In contrast, the film conflates the novel's two characters of Mrs. Penstemmon and the wizard Suliman into Madame Suliman. Although Suliman comes closest to being a traditional villain in the film, she is shown as having ambiguous motivations, and reviewers have stated that the real villain is war itself. Howl loses the \"rakish\" womanizing aspect that was a significant part of his character in the novel. In contrast, Sophie becomes a more conventional figure in the film; she is less grumpy and outspoken, and demonstrates her love for Howl earlier and more explicitly. The storyline in the novel of Sophie being a powerful sorceress in her own right is muted in the film, although she is still shown to have control over her curse.\r\nThe thematic focus of the story also differs between the novel and the film. Reviewer Antonia Levi wrote that the experience of watching the film was similar to reading high quality fan fiction; although the characters and the setting were the same, the story was different. Although in both cases the story begins with Sophie being a prisoner of her circumstances and of social norms, the challenges she faces are slightly different. Levi said that \"Jones uses Sophie, Howl, and Calcifer in a fairytale format to tell a story about challenging class and gender expectations, Miyazaki uses the same characters to tell a story about personal loyalty, love, and war.\"\r\nMusic\r\nThe score was composed and conducted by Joe Hisaishi, and performed by the New Japan Philharmonic. The soundtrack CD was first released on 19 November 2004 by Tokuma Japan Communications. Hisaishi also composed and conducted a Howl's Moving Castle: Symphony Suite, an album published on 21 January 2004 which includes ten re-arranged pieces from the original soundtrack. He and Youmi Kimura also composed Howl's Moving Castle CD Maxi-Single, a CD single published on 27 October 2004 which includes the film's theme song, sung by Chieko Baisho (the Japanese voice actor for Sophie), its karaoke version, and a piano version of the film's main theme, \"The Merry-Go-Round of Life\".\r\nRelease and reception\r\nBox office\r\nThe film opened at the 61st Venice Film Festival in 2004, and was released in Japan on 20 November 2004. The film grossed $14.5 million in its first week of release in Japan alone. The film was distributed in Japan by Toho, and made $190,000,000 in that country. It was distributed internationally by various companies, and made approximately an additional $45,000,000 outside Japan, for a worldwide total of $235,184,110. The film was later dubbed into English under the supervision of Pete Docter of Pixar, and released in the United States by Walt Disney Pictures on 10 June 2005. It was one of the most commercially successful Japanese films ever made. Soon after its release, it became the third most financially successful film in Japan, behind Titanic and Spirited Away.\r\nHome media\r\nOn home video, Howl's Moving Castle sold 2.7 million DVD units in Japan as of May 2007, and grossed over $18 million from Blu-ray and DVD sales in the United States as of April 2022. It was released in the United States on DVD on 7 March 2006 and on Blu-ray by Walt Disney Studios Home Entertainment on 21 May 2013. GKIDS re-released the film on Blu-ray and DVD on 17 October 2017.\r\nIn the United Kingdom, the film's Studio Ghibli anniversary release was 2015's eighth best-selling foreign language film on home video, and fifth best-selling Japanese film (below four other Studio Ghibli anime films). It was later 2018's fourth best-selling foreign language film in the UK (below the Japanese films My Neighbor Totoro, Your Name and Blade of the Immortal).\r\nCritical response\r\nThe review aggregator website Rotten Tomatoes reports an 87% approval rating based on 181 reviews, with an average rating of 7.47/10. The website's critical consensus reads, \"Exquisitely illustrated by master animator Miyazaki, Howl's Moving Castle will delight children with its fantastical story and touch the hearts and minds of older viewers as well.\" The film also holds an 80/100 average on Metacritic, based on 40 reviews, indicating \"generally favorable reviews\".\r\nUSA Today critic Claudia Puig gave the film a positive review, praising it for its ability to blend \"a childlike sense of wonder with sophisticated emotions and motives\". Helen McCarthy in 500 Essential Anime Movies said that the natural world was \"beautifully represented\", with \"some absolutely breathtaking mountains and lakeside landscapes\". She also praised the design of the castle and added that Miyazaki added his own themes to the film: \"man's relationship to nature, the futility of war, and the joy of flight\". Joe Morgenstern of The Wall Street Journal called the film \"a moveable feast of delights\". Richard Corliss of Time wrote, \"Palaces and shimmering lakes, warplanes and fire sprites all come to life at the breath of Miyazaki's graphic genius.\" Writing for The Boston Globe, Ty Burr said, \"At its best, 'Howl's Moving Castle' offers a rich fantasy of adolescent escape, of romance in the old and epic sense. At its worst, it's the most amazing 12-course meal you can't bring yourself to finish.\" A.O. Scott of The New York Times wrote, \"Admirers of work, which is wildly imaginative, emotionally intense and surpassingly gentle, will find much to appreciate in this film because it demonstrates, once again, his visual ingenuity and his sensitivity as a storyteller. For newcomers to his world, \"Howl's Moving Castle\" is a fitting introduction to one of modern cinema's great enchanters.\"\r\nConversely, Roger Ebert of the Chicago Sun-Times gave the film two and a half out of four stars, and called it a \"disappointment\" compared to Miyazaki's other recent movies. Jonathan Trout of the BBC said, \"Youngsters and Miyazaki fans will coo at the world's depth and rich surreality, but opaque plotting, and a tendency to mope with Sophie whilst Howl is off affecting events let the momentum of the first act vanish into thin air.\" Writing for Salon, Stephanie Zacharek said, \"the plot of Howl's Moving Castle meanders so listlessly that its details become less and less charming. Miyazaki's storytelling style resembles that of a breathless young tot who's fearlessly exercising his newfound powers of expression.\" Stephen Hunter from The Washington Post criticized the plot of the film, saying \"There is no story, or rather, there's no force to the story, which meanders almost casually this way and that for no apparent reason.\" However, he said that the movie also empowered young women, and was \"beautiful beyond telling.\" David Rooney, writing in Variety, stated that \"the narrative motor roars ahead in the opening hour and is more erratic thereafter,\" and suggested that better translation would help. Literary scholar Matt Kimmich stated that the film came across as \"uneasy compromise between two plots and two imaginations,\" referring to Jones' original story and Miyazaki's style of animation and storytelling. However, he stated that those scenes which were not dependent either on Jones' original plot or Miyazaki's added plot threads found \"a visual humor that recalls the verbal wit and lightness of Jones's novel,\" and that the \"animation manages to free itself from the demands of the two plots—and flies.\"\r\nTop ten lists\r\nThere's a word for the kind of comic, dramatic, romantic, transporting visions Miyazaki achieves in Howl's: bliss.\r\n—Peter Travers, Rolling Stone\r\nThe film appeared on many critics' top ten lists of the best films of 2005.\r\n2nd – Ella Taylor, LA Weekly (tie)\r\n4th – Kenneth Turan, Los Angeles Times\r\n5th – Tasha Robinson, The A.V. Club\r\n6th – Lawrence Toppman, The Charlotte Observer\r\n6th – Jonathan Rosenbaum, The Chicago Reader (tie)\r\n8th – Michael Sragow, The Baltimore Sun\r\n8th – Michael Wilmington, The Chicago Tribune\r\nNA – Peter Rainer, The Christian Science Monitor (listed alphabetically)\r\nAccolades",
+      "html": "<p>Howl's Moving Castle (Japanese: ハウルの動く城, Hepburn: Hauru no Ugoku Shiro) is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki. It is loosely based on the 1986 novel of the same name by British author Diana Wynne Jones. The film was produced by Toshio Suzuki, animated by Studio Ghibli and distributed by Toho. The Japanese voice cast featured Chieko Baisho and Takuya Kimura, while the English dub version starred Jean Simmons, Emily Mortimer, Lauren Bacall, Christian Bale, Josh Hutcherson and Billy Crystal. The film is set in a fictional kingdom where both magic and early twentieth-century technology are prevalent, against the backdrop of a war with another kingdom. It tells the story of Sophie, a young milliner who is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.</p><p>Influenced by Miyazaki's opposition to the United States' invasion of Iraq in 2003, the film contains strong anti-war themes. Miyazaki stated that he \"had a great deal of rage\" about the Iraq war, which led him to make a film which he felt would be poorly received in the United States. It also explores the theme of old age, depicting age positively as something which grants the protagonist freedom. The film contains feminist elements as well, and carries messages about the value of compassion. In 2013, Miyazaki said Howl's Moving Castle was his favorite creation, explaining, \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" The film is significantly thematically different from the novel; while the novel focuses on challenging class and gender norms, the film focuses on love, personal loyalty and the destructive effects of war.</p><p>Howl's Moving Castle premiered at the 61st Venice International Film Festival on 5 September 2004, and was theatrically released in Japan on 20 November 2004. It went on to gross $190 million in Japan and $236 million worldwide, making it one of the most commercially successful Japanese films in history. The film received critical acclaim, with particular praise toward its visuals and Miyazaki's presentation of the themes. It was nominated for the Academy Award for Best Animated Feature at the 78th Academy Awards, but lost to Wallace & Gromit: The Curse of the Were-Rabbit, in 2006, and won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script.</p><br/><h3>Plot</h3><p>Sophie, a young milliner and eldest of three sisters, encounters a wizard named Howl on her way to visit her sister Lettie. Upon returning home, she meets the Witch of the Waste, who transforms her into a 90-year-old woman. Seeking to break the curse, Sophie leaves home and sets off through the countryside. She meets a living scarecrow, whom she calls \"Turnip Head\". He leads her to Howl's moving castle where she enters without invitation. She subsequently meets Howl's young apprentice Markl and a fire demon named Calcifer, the source of the castle's magic and movement. Calcifer makes a deal with Sophie, agreeing to break her curse if she breaks his link with Howl. When Howl appears, Sophie announces that she has \"hired herself\" as a cleaning lady.</p><p>Meanwhile, Sophie's nation is caught up in a war with a neighboring kingdom, which is searching for its missing prince. The King summons Howl to fight in the war. However, Howl decides to send Sophie to the King, under the pretense of being his mother, to tell him that Howl is too much of a coward to fight. Before leaving, he gives Sophie a charmed ring that leads her to Calcifer and guarantees her safety. Sophie meets Suliman, the king's head sorceress, and also the Witch of the Waste, whom Suliman punishes by draining all of her power and reverting her to her true age, that of a harmless old woman. Suliman warns Sophie that Howl will meet the same fate if he does not fight for the king. Howl then arrives to rescue Sophie. Suliman tries to trap him by turning him into a monster, but with Sophie's help he remembers himself and just barely avoids death. The duo escapes along with the former Witch of the Waste and Suliman's dog Heen. In the meantime, soldiers from each kingdom break into the homes of both Jenkins and Pendragon (Howl's aliases in those kingdoms). However, the men only find an empty courtyard and warehouse, as the castle's magic nature allows travel between four separate residences.</p><p>Sophie learns that Howl's life is somehow bound to Calcifer's and that Howl has been transforming into a bird-like creature to interfere with both sides in the war, but each transformation makes it more difficult for him to return to human form. Howl then has the castle magically linked to Sophie's home, parking the castle itself on the town's outskirts. A few days later, the town is bombed by enemy aircraft and Suliman's henchmen attack the house and Sophie's hat shop. Howl heads out to protect the group. Sophie then moves everyone out of the house and removes Calcifer from the fireplace, which collapses the castle. The Witch of the Waste realizes that Calcifer has Howl's heart and grabs the fire demon, setting herself on fire. Sophie panics and pours water onto the Witch, which douses Calcifer. The remainder of the castle then splits in two; Sophie falls down a chasm and is separated from the group.</p><p>Following the charmed ring, Sophie wanders into a scene from the past, where she sees a young Howl catch a falling star – Calcifer – and gives him his heart. Sophie calls for them to find her in the future as she is teleported away. She returns to the present, finds Howl, and they reunite with the others. The Witch returns Howl's heart, and Sophie places it back inside Howl, reviving him and freeing Calcifer, though he decides to stay. Sophie's curse is broken, though her hair remains white. After she kisses Turnip Head on the cheek, he returns to human form revealing himself to be Justin, the missing prince from the enemy kingdom. He reveals that only his true love's kiss can break his curse. After seeing Sophie's affection lies with Howl, he promptly heads for home to cease the war, but promises he will see them again. Suliman, watching through a crystal globe, also decides to end the war. Sometime later, bombers fly under dark skies over a recovered and green countryside headed to another war, while Sophie, Howl, and the others travel in the opposite direction in a new flying castle.</p><br/><h3>Voice cast</h3><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Character</th><th><span class=\"nowrap\">Japanese voice actor</span></th><th><span class=\"nowrap\">English dubbing actor</span></th></tr><tr><td>Sophie Hatter<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">ソフィー・ハッター</span></span>, <span><i lang=\"ja-Latn\">Sofī Hattā</i></span>)</span></td><td><span>Chieko Baisho</span></td><td><span>Emily Mortimer</span> <span style=\"font-size:85%;\">(young)</span><br><span>Jean Simmons</span> <span style=\"font-size:85%;\">(old)</span></td></tr><tr><td>Howl<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">ハウル</span></span>, <span><i lang=\"ja-Latn\">Hauru</i></span>)</span></td><td><span>Takuya Kimura</span></td><td><span>Christian Bale</span></td></tr><tr><td>Witch of the Waste<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">荒地の魔女</span></span>, <span><i lang=\"ja-Latn\">Arechi no Majo</i></span>)</span></td><td><span>Akihiro Miwa</span></td><td><span>Lauren Bacall</span></td></tr><tr><td>Calcifer<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">カルシファー</span></span>, <span><i lang=\"ja-Latn\">Karushifā</i></span>)</span></td><td>Tatsuya Gashuin</td><td><span>Billy Crystal</span></td></tr><tr><td>Markl<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">マルクル</span></span>, <span><i lang=\"ja-Latn\">Marukuru</i></span>)</span></td><td><span class=\"mw-redirect\">Ryūnosuke Kamiki</span></td><td><span>Josh Hutcherson</span></td></tr><tr><td>Suliman<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">サリマン</span></span>, <span><i lang=\"ja-Latn\">Sariman</i></span>)</span></td><td><span>Haruko Kato</span></td><td><span>Blythe Danner</span></td></tr><tr><td>Lettie<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">レティー</span></span>, <span><i lang=\"ja-Latn\">Retī</i></span>)</span></td><td>Yayoi Kazuki</td><td><span>Jena Malone</span></td></tr><tr><td>Honey<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">ハニー</span></span>, <span><i lang=\"ja-Latn\">Hanī</i></span>)</span></td><td>Mayuno Yasokawa</td><td><span>Mari Devon</span></td></tr><tr><td>Prince Justin / Turnip Head<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">カブ</span></span>, <span><i lang=\"ja-Latn\">Kabu</i></span>)</span></td><td><span class=\"mw-redirect\">Yō Ōizumi</span></td><td><span>Crispin Freeman</span></td></tr><tr><td>King of Ingary<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">国王</span></span>, <span><i lang=\"ja-Latn\">Kokuō</i></span>)</span></td><td><span class=\"mw-redirect\">Akio Ōtsuka</span></td><td>Mark Silverman</td></tr><tr><td>Heen<span style=\"font-weight: normal\"> (<span><span lang=\"ja\">ヒン</span></span>, <span><i lang=\"ja-Latn\">Hin</i></span>)</span></td><td>Daijiro Harada</td><td><span>Dee Bradley Baker</span><br>(uncredited)</td></tr></tbody></table><br/><h3>Themes</h3><h4>Pacifism</h4><p>Howl's Moving Castle contains strong anti-war themes, influenced by Miyazaki's distaste for the 2003 Iraq War. When he received an Oscar for Spirited Away, he said that he \"had a great deal of rage about. So felt some hesitation about the award.\" Miyazaki identifies as a pacifist. On the eve of the Iraq War, Miyazaki decided to make a film that he felt would be poorly received in the United States. Despite the film's success in that country, literary scholar Dani Cavallaro stated that Miyazaki was able to \"create a film which ought, in principle, to have caused a certain unease among American audiences.\" In the movie, Madame Suliman appears to have only sadistic motivations for creating conflict, and despite being omniscient, is unable to recognize the idiocy of the war until the very end of the story. This reflects Miyazaki's desire to show real-world conflicts as also being somewhat arbitrary and fueled by the desires of capricious people. Cavallaro stated that the depiction of the war carried \"an unmistakable bitter taste.\" She also writes that the military presence and warfare was highlighted in the film. From the early concept sketches military elements were emphasized, and when the film shows the bustling commercial district the soldiers in uniforms stand out intentionally.</p><p>The universe of Howl's Moving Castle is depicted as not having clear-cut villains and heroes; instead, the characters are complex, and even those that are initially portrayed in a negative light, such as Howl, are shown as capable of change. Matt Kimmich has stated, however, that the simplistic message of the film is that \"war is bad.\" A scene where Sophie is standing in a beautiful field of flowers is interrupted by a war machine, \"a finger accusing empire as the destroyer of peace.\" This portrayal is in strong contrast to other Miyazaki films like Princess Mononoke, which criticizes military conflict in a more nuanced manner. Andrew Osmond stated that \"Howl's pure-hearted anti-war stance is presented as nihilism with no alternative as he fights forces from each side and becomes the worst terror of all,\" in the form of the monstrous bird. By transforming into the bird, Howl risks losing his own humanity; Calcifer comments at one point that he will soon not be able to return to human form. In contrast, Ashitaka in Princess Mononoke fights the demonic sickness with which he is afflicted, and tries to negotiate a peace between the two sides. Osmond states that both films also point out the limits of masculinity, as exemplified by Howl and Ashitaka.</p><h4>Flight and critique of modernity</h4><p>Like several other Miyazaki films, Howl's Moving Castle reflects the director's love of flying. Aircraft of inventive design appear in the film, and Howl frequently transforms into a bird. Miyazaki examines flight as a theme most directly in the later film The Wind Rises. Miyazaki stated that he was attracted to military aircraft as a child, but that he grew to detest them because of the destructive purpose for which they are created. Thus Howl's Moving Castle contains images both of aircraft shown as harmless and beautiful, and large military craft depicted as ugly and destructive. Cavallaro writes that Miyazaki wants to \"portray flight as an object of admiration and awe,\" but that he is not \" to its abuse by unscrupulous strategists and rulers.\"</p><p>The nuanced view of flight is part of Miyazaki's broader critique of modern society and technology. Margaret Talbot writes that in person, Miyazaki exhibits \"a profound dissatisfaction with modern life,\" particularly with the effects of technology and a disconnection from nature. Many of his films depict technological hubris as among the roots of evil. The battleships which are seen moving over the landscape are depicted as \"gleaming with modernity and parading righteousness,\" but are then shown to be highly destructive. In contrast, the semi-organic castle demonstrates \"Miyazaki’s Taoist presentation of industrialism needing to be aligned with nature\" according to Carl and Garrath Wilson. Anthony Lioi writes that Miyazaki often depicts beautiful scenes in contrast to those containing symbols of modernity, such as the scene where Sophie's reverie is interrupted by a war machine. This contrast is part of an ecological criticism of modernity, but Miyazaki also offers an alternative, in the form of beautiful natural scenery.</p><h4>Old age and compassion</h4><p>Miyazaki stated that an attractive aspect of the story of Howl's Moving Castle was the relatively positive light it shed on growing old. When Sophie becomes old as a result of the witch's spell, she also feels more able to speak her mind. According to Miyazaki, old women are only infrequently allowed to dominate the screen as in Howl's Moving Castle, which made it a risky concept. Elizabeth Parsons stated that the film disrupts the stereotype of \"aged unattractiveness,\" when the artificially aged Sophie manages to rescue two attractive men (who come to love her) and to unintentionally end the war in her country. Sophie's actions are those usually associated with grandmothers, such as being kind and nurturing to those around her, and engaging in housework; however, these actions are depicted as being powerful and heroic. Sophie is one of several strong female protagonists in Miyazaki's films. According to Parsons, this gives the film a feminist aspect as well. Additionally, even though Sophie manages to make her presence in the castle legitimate by claiming to be a cleaning lady, the film goes on to show that the housework is equitably distributed, strengthening its feminist aspect.</p><p>In 2013, Miyazaki stated that Howl's Moving Castle was his favorite creation, and explained his choice by saying \"I wanted to convey the message that life is worth living, and I don't think that's changed.\" In the film, Sophie is shown to overcome extreme challenges by learning to put the well-being of those she cares about above her own self-interest, a quality which Miyazaki refers to as devotion. Several of the protagonists in Miyazaki's films, such as Ashitaka and San in Princess Mononoke and Sheeta and Pazu in Castle in the Sky learn to survive by learning the same lesson. Cavallaro states that Miyazaki spreads this moral through the entire film, to convey human beings' ability to be compassionate, such as when the scarecrow holds an umbrella over Sophie's head when it rains. Over the course of the film, Howl, its most vain and selfish character, also learns to put others before himself. When Madame Suliman returns the Witch of the Waste to her true form as a decrepit old woman, Sophie takes her in and cares for her, despite the witch being responsible for Sophie's curse, thus strongly demonstrating the idea of compassion. The witch then nearly destroys Howl through her selfish behavior, but also helps save the castle at the end. Parsons writes that \"In Miyazaki's balancing act, old women can be powerful and weak, positive and negative, nurturing and selfish, maligned and loved; in short, they can not be simply categorized or stereotyped, and they can not be dismissed as fantasy malefactors embodied by evil witches.\" They are also given a lot of space in the film as active characters, something not commonly found in western movies.</p><br/><h3>Production</h3><p>In September 2001, Studio Ghibli announced the production of two films. The first would become The Cat Returns and the second was an adaptation of Diana Wynne Jones' novel, Howl's Moving Castle. A rumor persists that Miyazaki had an idea to do Howl's Moving Castle during a visit to Strasbourg Christmas market. Toshio Suzuki, who produced Howl's Moving Castle, stated that Miyazaki was inspired to make the film when he read Jones' novel, and was struck by the image of a castle moving around the countryside. The novel does not explain how the castle moved, and Miyazaki was interested in figuring out how the castle might move, which led to the image of a castle on chicken legs. The complex moving castle changes and rearranges itself several times throughout the movie in response to Howl's eccentricity and the various situations. The basic structure of the castle consists of more than 80 elements including turrets, a wagging tongue, cogwheels and chicken legs, that were rendered as digital objects.</p><p>Mamoru Hosoda of Toei Animation was originally selected to direct the film, but quit the project after Studio Ghibli's executives rejected many of his concept ideas. The film was shelved until Miyazaki took over. The project resumed with production in February 2003. It was scheduled to be completed in the spring of 2004, and released in the summer of that year.</p><p>Miyazaki went to Colmar and Riquewihr in Alsace, France, to study the architecture and the surroundings for the setting of the film. Additional inspiration came from the concepts of future technology in Albert Robida's work. Commentators have stated that Miyazaki's imagery was influenced by his fondness for the \"illusion art\" of 19th century Europe. Suzuki stated that unlike many Western films, in which the imagery went \"from the general the specific,\" Miyazaki employed a uniquely Japanese approach, frequently beginning with a very specific image and moving from there. However, Howl's Moving Castle, and Miyazaki films in general, have a focus on realistic imagery in a way that other anime films do not.</p><p>The film was produced digitally, but the original backgrounds were drawn by hand and painted prior to being digitized, and the characters were also drawn by hand prior to scanning them into the computer. The 1400 storyboard cuts for the film were completed on 16 January 2004. On 25 June the in-between animation was completed and checking was completed on 26 June. Studio Ghibli used digital technology to run many copies of the still portions of a scene, a process which avoids inconsistencies between various still frames, but can create an impression of artificiality. Therefore, the studio chose to manually retouch the digitally altered images, recreating the \"feel\" of a hand-drawn image.</p><p>Like with the other Studio Ghibli movies, the film was co-produced with other companies, which were Tokuma Shoten, the Nippon Television Network, Dentsu, Buena Vista Home Entertainment, Mitsubishi and Toho.</p><br/><h3>Comparisons between film and novel</h3><p>The film has several differences from the novel, partly due to the different requirements of the two media. Diana Wynne Jones' novel has a very large cast of characters, and several plot threads that were too complex to be transferred into the film. As a result, characters such as Sophie's second sister Martha are left out, as is the plot thread involving Markl (who is called Michael in the novel, and depicted as an adolescent, rather than as a young boy) courting her. Jones discussed the film with Studio Ghibli representatives, but did not have any input or involvement in the production of the film. Miyazaki traveled to England in the summer of 2004 to give Jones a private viewing of the finished film. She has been quoted as saying \"It's fantastic. No, I have no input—I write books, not films. Yes, it will be different from the book—in fact it's likely to be very different, but that's as it should be. It will still be a fantastic film.\"</p><p>The novel depicts Howl's castle as a tall, dark and sinister wizard's tower, very different from the complex image in the film. The film's castle may be seen as a parody of the machines seen in the movie, driven both by steam-engines and by magic. In the film, it is a \"rotund collage of chimneys, roofs, steam pipes, and other odd appendages, borne along on mechanized bird legs\" that is similar to Baba Yaga's hut in the popular fairy tale. It is vaguely organic, and almost depicted as a life-form. Similarly, Calcifer is a demonic figure in the book, as compared to the \"endearing\" persona and image that he has in the film. Both film and novel try to render fantastic elements as mundane and ordinary things. Although they are set in a fantasy universe, the characters are often shown performing routine tasks, like cooking breakfast or washing up, in contrast to the heroic actions typical of a fantasy universe. In the novel, Jones disrupts the fantasy-world setting by including scenes in which the characters travel to the real-world Wales. The movie, however, avoids this digression, and maintains a constant setting.</p><p>Miyazaki's biggest addition to the plot of the book was the use of the war as a large part of the plot. In the book, the war is only tangentially referred to; the king orders Howl to find the king's missing brother Justin, because Justin's military skills are needed for a forthcoming war. Howl's frequent disappearances are because of his womanizing habits, which makes Sophie see him as a superficial and cowardly person. In the film, however, Howl disappears in order to transform into a giant bird and disrupt the battle plans of both armies.</p><p>The roles of several characters also differ between novel and film due to this plot change. The Witch of the Waste is the chief antagonist of the book, whereas in the film she is reduced by Madame Suliman's magic to an ultimately harmless old woman who evokes sympathy in the audience and in Sophie. In contrast, the film conflates the novel's two characters of Mrs. Penstemmon and the wizard Suliman into Madame Suliman. Although Suliman comes closest to being a traditional villain in the film, she is shown as having ambiguous motivations, and reviewers have stated that the real villain is war itself. Howl loses the \"rakish\" womanizing aspect that was a significant part of his character in the novel. In contrast, Sophie becomes a more conventional figure in the film; she is less grumpy and outspoken, and demonstrates her love for Howl earlier and more explicitly. The storyline in the novel of Sophie being a powerful sorceress in her own right is muted in the film, although she is still shown to have control over her curse.</p><p>The thematic focus of the story also differs between the novel and the film. Reviewer Antonia Levi wrote that the experience of watching the film was similar to reading high quality fan fiction; although the characters and the setting were the same, the story was different. Although in both cases the story begins with Sophie being a prisoner of her circumstances and of social norms, the challenges she faces are slightly different. Levi said that \"Jones uses Sophie, Howl, and Calcifer in a fairytale format to tell a story about challenging class and gender expectations, Miyazaki uses the same characters to tell a story about personal loyalty, love, and war.\"</p><br/><h3>Music</h3><p>The score was composed and conducted by Joe Hisaishi, and performed by the New Japan Philharmonic. The soundtrack CD was first released on 19 November 2004 by Tokuma Japan Communications. Hisaishi also composed and conducted a Howl's Moving Castle: Symphony Suite, an album published on 21 January 2004 which includes ten re-arranged pieces from the original soundtrack. He and Youmi Kimura also composed Howl's Moving Castle CD Maxi-Single, a CD single published on 27 October 2004 which includes the film's theme song, sung by Chieko Baisho (the Japanese voice actor for Sophie), its karaoke version, and a piano version of the film's main theme, \"The Merry-Go-Round of Life\".</p><br/><h3>Release and reception</h3><h4>Box office</h4><p>The film opened at the 61st Venice Film Festival in 2004, and was released in Japan on 20 November 2004. The film grossed $14.5 million in its first week of release in Japan alone. The film was distributed in Japan by Toho, and made $190,000,000 in that country. It was distributed internationally by various companies, and made approximately an additional $45,000,000 outside Japan, for a worldwide total of $235,184,110. The film was later dubbed into English under the supervision of Pete Docter of Pixar, and released in the United States by Walt Disney Pictures on 10 June 2005. It was one of the most commercially successful Japanese films ever made. Soon after its release, it became the third most financially successful film in Japan, behind Titanic and Spirited Away.</p><h4>Home media</h4><p>On home video, Howl's Moving Castle sold 2.7 million DVD units in Japan as of May 2007, and grossed over $18 million from Blu-ray and DVD sales in the United States as of April 2022. It was released in the United States on DVD on 7 March 2006 and on Blu-ray by Walt Disney Studios Home Entertainment on 21 May 2013. GKIDS re-released the film on Blu-ray and DVD on 17 October 2017.</p><p>In the United Kingdom, the film's Studio Ghibli anniversary release was 2015's eighth best-selling foreign language film on home video, and fifth best-selling Japanese film (below four other Studio Ghibli anime films). It was later 2018's fourth best-selling foreign language film in the UK (below the Japanese films My Neighbor Totoro, Your Name and Blade of the Immortal).</p><h4>Critical response</h4><p>The review aggregator website Rotten Tomatoes reports an 87% approval rating based on 181 reviews, with an average rating of 7.47/10. The website's critical consensus reads, \"Exquisitely illustrated by master animator Miyazaki, Howl's Moving Castle will delight children with its fantastical story and touch the hearts and minds of older viewers as well.\" The film also holds an 80/100 average on Metacritic, based on 40 reviews, indicating \"generally favorable reviews\".</p><p>USA Today critic Claudia Puig gave the film a positive review, praising it for its ability to blend \"a childlike sense of wonder with sophisticated emotions and motives\". Helen McCarthy in 500 Essential Anime Movies said that the natural world was \"beautifully represented\", with \"some absolutely breathtaking mountains and lakeside landscapes\". She also praised the design of the castle and added that Miyazaki added his own themes to the film: \"man's relationship to nature, the futility of war, and the joy of flight\". Joe Morgenstern of The Wall Street Journal called the film \"a moveable feast of delights\". Richard Corliss of Time wrote, \"Palaces and shimmering lakes, warplanes and fire sprites all come to life at the breath of Miyazaki's graphic genius.\" Writing for The Boston Globe, Ty Burr said, \"At its best, 'Howl's Moving Castle' offers a rich fantasy of adolescent escape, of romance in the old and epic sense. At its worst, it's the most amazing 12-course meal you can't bring yourself to finish.\" A.O. Scott of The New York Times wrote, \"Admirers of work, which is wildly imaginative, emotionally intense and surpassingly gentle, will find much to appreciate in this film because it demonstrates, once again, his visual ingenuity and his sensitivity as a storyteller. For newcomers to his world, \"Howl's Moving Castle\" is a fitting introduction to one of modern cinema's great enchanters.\"</p><p>Conversely, Roger Ebert of the Chicago Sun-Times gave the film two and a half out of four stars, and called it a \"disappointment\" compared to Miyazaki's other recent movies. Jonathan Trout of the BBC said, \"Youngsters and Miyazaki fans will coo at the world's depth and rich surreality, but opaque plotting, and a tendency to mope with Sophie whilst Howl is off affecting events let the momentum of the first act vanish into thin air.\" Writing for Salon, Stephanie Zacharek said, \"the plot of Howl's Moving Castle meanders so listlessly that its details become less and less charming. Miyazaki's storytelling style resembles that of a breathless young tot who's fearlessly exercising his newfound powers of expression.\" Stephen Hunter from The Washington Post criticized the plot of the film, saying \"There is no story, or rather, there's no force to the story, which meanders almost casually this way and that for no apparent reason.\" However, he said that the movie also empowered young women, and was \"beautiful beyond telling.\" David Rooney, writing in Variety, stated that \"the narrative motor roars ahead in the opening hour and is more erratic thereafter,\" and suggested that better translation would help. Literary scholar Matt Kimmich stated that the film came across as \"uneasy compromise between two plots and two imaginations,\" referring to Jones' original story and Miyazaki's style of animation and storytelling. However, he stated that those scenes which were not dependent either on Jones' original plot or Miyazaki's added plot threads found \"a visual humor that recalls the verbal wit and lightness of Jones's novel,\" and that the \"animation manages to free itself from the demands of the two plots—and flies.\"</p><h4>Top ten lists</h4><blockquote>There's a word for the kind of comic, dramatic, romantic, transporting visions Miyazaki achieves in Howl's: bliss.</blockquote><p>—Peter Travers, Rolling Stone</p><p>The film appeared on many critics' top ten lists of the best films of 2005.</p><ul><li>2nd – Ella Taylor, LA Weekly (tie)</li><li>4th – Kenneth Turan, Los Angeles Times</li><li>5th – Tasha Robinson, The A.V. Club</li><li>6th – Lawrence Toppman, The Charlotte Observer</li><li>6th – Jonathan Rosenbaum, The Chicago Reader (tie)</li><li>8th – Michael Sragow, The Baltimore Sun</li><li>8th – Michael Wilmington, The Chicago Tribune</li><li>NA – Peter Rainer, The Christian Science Monitor (listed alphabetically)</li></ul><h4>Accolades</h4><table class=\"table table-responsive table-bordered table-hover w-100\"><tbody><tr><th>Year</th><th>Award</th><th>Category</th><th>Result</th><th>Recipient</th><th>Reference</th></tr><tr><td rowspan=\"3\">2004</td><td>61st <span>Venice Film Festival</span></td><td>Osella Awards for Technical Achievement</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td><span>Mainichi Film Awards</span></td><td>Best Japanese Movie Overall <br> (Readers' Choice Award)</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td><span>Japan Media Arts Festival</span></td><td>Excellence Prize, Animation</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td rowspan=\"6\">2005</td><td rowspan=\"4\"><span>Tokyo Anime Award</span></td><td>Animation of the Year</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td>Howl's Moving Castle</td><td></td></tr><tr><td>Best Director</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td>Hayao Miyazaki</td><td></td></tr><tr><td>Best Voice Actor/Actress</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td>Chieko Baisho</td><td></td></tr><tr><td>Best Music</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td>Joe Hisaishi</td><td></td></tr><tr><td>Maui Film Festival</td><td>Audience Award</td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td>Seattle International Film Festival</td><td>Golden Space Needle Award</td><td style=\"background:#CDE; vertical-align:middle; text-align:center;\" class=\"table-draw\">1st Runner-up</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td rowspan=\"2\">2006</td><td><span>78th Academy Awards</span></td><td><span>Best Animated Feature</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td>Hayao Miyazaki</td><td></td></tr><tr><td><span>Saturn Awards</span></td><td><span>Best Animated Film</span></td><td style=\"background: #FFE3E3; color: black; vertical-align: middle; text-align: center;\" class=\"no table-no2 notheme\">Nominated</td><td><i>Howl's Moving Castle</i></td><td></td></tr><tr><td>2007</td><td><span>Nebula Award</span></td><td><span>Best Script</span></td><td style=\"background: #9EFF9E; color: #000; vertical-align: middle; text-align: center;\" class=\"yes table-yes2 notheme\">Won</td><td>Hayao Miyazaki (script), <br>Cindy Davis Hewitt, and Donald H. Hewitt <br>(English translation)</td><td></td></tr></tbody></table><br/>"
+    },
+    "errorMessage": ""
+  },
+  "posters": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "posters": [],
+    "backdrops": [],
+    "errorMessage": ""
+  },
+  "images": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "items": [
+      {
+        "title": "Chieko Baishô and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDQwNDk1ODkzMl5BMl5BanBnXkFtZTcwMDk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM4MTg2MjAzN15BMl5BanBnXkFtZTcwMTk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Chieko Baishô, Takuya Kimura, Emily Mortimer, and Albano Jerónimo in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM3NzI5MTg2Nl5BMl5BanBnXkFtZTcwMjk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Ryunosuke Kamiki and Josh Hutcherson in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU1NTE5NjQ0OF5BMl5BanBnXkFtZTcwMzk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Takuya Kimura, and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUzMjgxNjYyOV5BMl5BanBnXkFtZTcwNDk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons and Chieko Baishô in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkyNTExOTM2OV5BMl5BanBnXkFtZTcwNTk1NzEyNw@@._V1_Ratio1.9000_AL_.jpg"
+      },
+      {
+        "title": "Chieko Baishô and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMyNTg1Mzc1NV5BMl5BanBnXkFtZTcwNjk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg2MTkwMDcxNF5BMl5BanBnXkFtZTcwNzk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons, Chieko Baishô, Ryunosuke Kamiki, and Josh Hutcherson in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM3OTMzNzgzNl5BMl5BanBnXkFtZTcwODk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDE1NDI2OV5BMl5BanBnXkFtZTcwOTk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Billy Crystal, Victor Emanuel, and Tatsuya Gashûin in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyNDA0MzQyMV5BMl5BanBnXkFtZTcwMDA2NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjczNjI2NTIwMV5BMl5BanBnXkFtZTcwMTA2NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTU2MjM3Ml5BMl5BanBnXkFtZTYwODg4MDQ3._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons and Chieko Baishô in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwMjg2NjA0NF5BMl5BanBnXkFtZTYwMDk4MDQ3._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA1ODEwNTIxMDFeQTJeQWpwZ15BbWU2MDU5ODA0Nw@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA3MTQ1MTM4OF5BMl5BanBnXkFtZTYwNzk4MDQ3._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjc4Njg5OF5BMl5BanBnXkFtZTYwOTk4MDQ3._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Jean Simmons, and Takuya Kimura in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAyMDM5MDY5M15BMl5BanBnXkFtZTYwMTA5MDQ3._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Billy Crystal, Victor Emanuel, and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjEyMTk5Mzg1OF5BMl5BanBnXkFtZTYwNDA5MDQ3._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDI1NzM5OF5BMl5BanBnXkFtZTYwMDE5MDQ3._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY0Mjc4MDA0OF5BMl5BanBnXkFtZTYwNjg4MDQ3._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Jean Simmons, and Takuya Kimura in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWM1ZGI3NGQtZWRiZC00MWJiLWFkNGQtYzZhODJkYjRiYTk3XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons, Ryunosuke Kamiki, and Josh Hutcherson in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzBjZTZjZDYtOTM4MS00NWM0LThlMGEtYzBlMzllMjc4NzU4XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Takuya Kimura, Emily Mortimer, Ryunosuke Kamiki, and Josh Hutcherson in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2M2NjdjNDctNzQ1Ny00MWE0LTk2NDItYWExZjM5MzE0MTY0XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons and Chieko Baishô in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE0NTI2ODgyNl5BMl5BanBnXkFtZTcwNDA4ODE3OQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Jean Simmons, Chieko Baishô, and Takuya Kimura in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Jean Simmons, Chieko Baishô, and Takuya Kimura in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI2NDMyMjg2NF5BMl5BanBnXkFtZTcwOTk4MTI2MQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NzQ0NzY0NV5BMl5BanBnXkFtZTcwNzc3MzE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Jean Simmons and Chieko Baishô in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQxMDgxODUwNl5BMl5BanBnXkFtZTcwNzE2MzE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Christian Bale, Chieko Baishô, Takuya Kimura, Emily Mortimer, Ryunosuke Kamiki, and Josh Hutcherson in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwNTkxMjczMl5BMl5BanBnXkFtZTcwMzUwMDIzMQ@@._V1_Ratio1.0000_AL_.jpg"
+      },
+      {
+        "title": "Can you guess which film this castle appeared in? See the next image to find out!",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDNmYjMyNmEtMjlmNC00MGY3LTkzOGUtOTU2MmZjM2I2MGJiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Chieko Baishô in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmFlZTFmNjMtNDdhYS00MjdiLTk3ODktNTczNDdiNGUwNGNiXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzk4Mzc2NjctYzgwYi00NDQzLTllMzctMmU5ZTljOTkzYzc1XkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Chieko Baishô and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BODQ5OWRlZTgtODBlOS00NDVhLTk3N2UtMjYwNGMyOTExOGI5XkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8600_AL_.jpg"
+      },
+      {
+        "title": "Chieko Baishô and Emily Mortimer in Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGI5OTc2ODQtMDM4Yi00NWEzLTk5MjYtNDMzMjZlNDlkOWIwXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8600_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDMxNThlZDMtMWRlMi00ODFkLWJjYTUtOGY5MWNkNmMzOGQ2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTk4NTQ2ODAtOTJjNC00MGRjLWJmNGMtZWI5NWE3MjdiZDNjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDRkZGFlYzktMzU0MS00N2QzLWIxZmUtNzY4NjU2NThkMzU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWMzOTI3NzItYTlhNy00N2E5LWJhZDQtMWM3ZmU0ZmRhNjg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWYwZjBjNTEtY2RkNC00N2IwLWIyNjAtYzc2OTg1Y2NiYTAwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGI2MTkzZGYtNDViOC00MWM5LTgxNmMtN2FmNzNlZmU4OWYzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTA4YmNmZjYtNjczZS00YTkzLTgzMzYtZjJhODJmMGE0YTI1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM1MGUyMTctMGIwMC00YTU3LWI0MGEtZDdhZGM0OTAxMTM4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWVkNTFiMWEtMTliYS00YjIyLTllOGMtNmQzODE4NGY3ZTQ0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGNlMjlmZTktYTU1MS00YWI2LWE4MTgtYTFkMzA0YjExYjNlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmRhMzk2ZjQtZjdiZS00MzAxLWI3ZGUtODg3MDU1YmZmN2NiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjliMGYtY2UzNC00YTc5LThlZDMtNDQxNTEzMTkyNTE4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      },
+      {
+        "title": "Howl's Moving Castle (2004)",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzY1MTFiOTktZmQ1Mi00NTg3LWI0MjgtNmJkOGJkMTUzNDgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+      }
+    ],
+    "errorMessage": ""
+  },
+  "trailer": {
+    "imDbId": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "videoId": "vi3502817561",
+    "videoTitle": "Official Trailer",
+    "videoDescription": "",
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2YwMDUwOTQtOGViMS00NDRiLTk4YWQtMzdjNzk0MTQyY2M4XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+    "uploadDate": "11/18/2020 13:26:53",
+    "link": "https://www.imdb.com/video/vi3502817561",
+    "linkEmbed": "https://www.imdb.com/video/imdb/vi3502817561/imdb/embed",
+    "errorMessage": ""
+  },
+  "boxOffice": {
+    "budget": "$24,000,000 (estimated)",
+    "openingWeekendUSA": "$427,987",
+    "grossUSA": "$6,789,268",
+    "cumulativeWorldwideGross": "$237,536,126"
+  },
+  "tagline": null,
+  "keywords": "studio ghibli,castle,witch,wizard,steampunk",
+  "keywordList": [
+    "studio ghibli",
+    "castle",
+    "witch",
+    "wizard",
+    "steampunk"
+  ],
+  "similars": [
+    {
+      "id": "tt0245429",
+      "title": "Spirited Away",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.6"
+    },
+    {
+      "id": "tt0096283",
+      "title": "My Neighbor Totoro",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7150_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0876563",
+      "title": "Ponyo",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "7.6"
+    },
+    {
+      "id": "tt0097814",
+      "title": "Kiki's Delivery Service",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ1ZTM1ZTgtN2Q2Ny00YjFkLTliNjEtN2I1ZmY5ZTY1OTEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "7.8"
+    },
+    {
+      "id": "tt0092067",
+      "title": "Castle in the Sky",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFhZmY2NTgtMzljYy00MTlhLTgyMjItNTEwZWJkYThhYzkyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.0"
+    },
+    {
+      "id": "tt1568921",
+      "title": "The Secret World of Arrietty",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "7.6"
+    },
+    {
+      "id": "tt0910970",
+      "title": "WALL·E",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.4"
+    },
+    {
+      "id": "tt1049413",
+      "title": "Up",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.3"
+    },
+    {
+      "id": "tt2096673",
+      "title": "Inside Out",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0113824",
+      "title": "Whisper of the Heart",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "7.8"
+    },
+    {
+      "id": "tt0382932",
+      "title": "Ratatouille",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    },
+    {
+      "id": "tt0198781",
+      "title": "Monsters, Inc.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_Ratio0.6763_AL_.jpg",
+      "imDbRating": "8.1"
+    }
+  ],
+  "tvSeriesInfo": null,
+  "tvEpisodeInfo": null,
+  "errorMessage": ""
+}

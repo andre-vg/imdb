@@ -1,0 +1,1230 @@
+{
+  "imDbId": "tt0077416",
+  "title": "The Deer Hunter",
+  "fullTitle": "The Deer Hunter (1978)",
+  "type": "Movie",
+  "year": "1978",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001047",
+        "name": "Michael Cimino",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0001047",
+        "name": "Michael Cimino",
+        "description": "(story) &"
+      },
+      {
+        "id": "nm0913346",
+        "name": "Deric Washburn",
+        "description": "(story) and"
+      },
+      {
+        "id": "nm0307311",
+        "name": "Louis Garfinkle",
+        "description": "(story) &"
+      },
+      {
+        "id": "nm0714793",
+        "name": "Quinn K. Redeker",
+        "description": "(story)"
+      },
+      {
+        "id": "nm0913346",
+        "name": "Deric Washburn",
+        "description": "(screenplay)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000134",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert De Niro",
+      "asCharacter": "Michael"
+    },
+    {
+      "id": "nm0001030",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzMTM1MjI5NV5BMl5BanBnXkFtZTcwMTM5NTM1Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Cazale",
+      "asCharacter": "Stan"
+    },
+    {
+      "id": "nm0001698",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM1YzA1MGEtYjEyYi00Y2Y5LWJlYjQtZmUxYjk0NTNhM2ZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Savage",
+      "asCharacter": "Steven"
+    },
+    {
+      "id": "nm0000686",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA4ODUyNDQ2NV5BMl5BanBnXkFtZTYwODk2MTYz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christopher Walken",
+      "asCharacter": "Nick"
+    },
+    {
+      "id": "nm0000658",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Meryl Streep",
+      "asCharacter": "Linda"
+    },
+    {
+      "id": "nm0001169",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTgxNjkzMV5BMl5BanBnXkFtZTcwOTI0NDgwMw@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "George Dzundza",
+      "asCharacter": "John"
+    },
+    {
+      "id": "nm0039625",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQzNDdmM2YtYmFiOC00YmMwLThiZTYtNWQ2NjllYWU0Y2EzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Chuck Aspegren",
+      "asCharacter": "Axel"
+    },
+    {
+      "id": "nm0831471",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTdmOTFmNzgtYzZmZS00ZDNhLWJlNTEtMjMwMWJlNmZkNmFiXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Shirley Stoler",
+      "asCharacter": "Steven's Mother"
+    },
+    {
+      "id": "nm0017377",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQyMWZjYjctNDRiYS00YTJjLThjMmMtZjZkNDFmOGRmOWNiXkEyXkFqcGdeQXVyOTM4OTM1MQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Rutanya Alda",
+      "asCharacter": "Angela"
+    },
+    {
+      "id": "nm0782132",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pierre Segui",
+      "asCharacter": "Julien"
+    },
+    {
+      "id": "nm0438306",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWEzNzgxZjEtOWUxYy00OTBkLTgyNGMtODY1YjEwZTQwMDY5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.1364_AL_.jpg",
+      "name": "Mady Kaplan",
+      "asCharacter": "Axel's Girl"
+    },
+    {
+      "id": "nm0942195",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5NzE5NzgzMl5BMl5BanBnXkFtZTcwNzExMTkwMw@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Amy Wright",
+      "asCharacter": "Bridesmaid"
+    },
+    {
+      "id": "nm0353024",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTBjMTE2ZDUtOGUwYi00YWNmLWI1ZTgtNmUxN2EyYmIwNzcyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Mary Ann Haenel",
+      "asCharacter": "Stan's Girl"
+    },
+    {
+      "id": "nm0476369",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNjY2I0NTItOWY5ZC00MjhlLWIxNjctNGE0NjZmMWU5YzZkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Richard Kuss",
+      "asCharacter": "Linda's Father"
+    },
+    {
+      "id": "nm0341055",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIyODA3MTg1M15BMl5BanBnXkFtZTYwOTk3ODAz._V1_Ratio0.7727_AL_.jpg",
+      "name": "Joe Grifasi",
+      "asCharacter": "Bandleader"
+    },
+    {
+      "id": "nm0173012",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christopher Colombi Jr.",
+      "asCharacter": "Wedding Man"
+    },
+    {
+      "id": "nm0439785",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victoria Karnafel",
+      "asCharacter": "Sad Looking Girl"
+    },
+    {
+      "id": "nm0769137",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Scardino",
+      "asCharacter": "Cold Old Man"
+    },
+    {
+      "id": "nm0834671",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Strnad",
+      "asCharacter": "Bingo Caller"
+    },
+    {
+      "id": "nm0866784",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helen Tomko",
+      "asCharacter": "Helen"
+    },
+    {
+      "id": "nm0195063",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhkMTUxYWEtNGM3My00YjRiLWE3NzMtYmNlODg0NmU0MGU2XkEyXkFqcGdeQXVyMDU3NjIyNg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul D'Amato",
+      "asCharacter": "Sergeant"
+    },
+    {
+      "id": "nm0914456",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dennis Watlington",
+      "asCharacter": "Cab Driver"
+    },
+    {
+      "id": "nm0201678",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charlene Darrow",
+      "asCharacter": "Red Head"
+    },
+    {
+      "id": "nm0228365",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jane-Colette Disko",
+      "asCharacter": "Girl Checker"
+    },
+    {
+      "id": "nm0938580",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Wollet",
+      "asCharacter": "Stock Boy"
+    },
+    {
+      "id": "nm0063932",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Beard",
+      "asCharacter": "World War Veteran"
+    },
+    {
+      "id": "nm0246229",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Dzizmba",
+      "asCharacter": "World War Veteran"
+    },
+    {
+      "id": "nm0465766",
+      "image": "https://m.media-amazon.com/images/M/MV5BODlmNWFlMDAtNTM3Ny00NWExLTkwYmItMDEzMzlhMDZmYTVkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Stephen Kopestonsky",
+      "asCharacter": "Priest (as Father Stephen Kopestonsky)"
+    },
+    {
+      "id": "nm0118236",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John F. Buchmelter III",
+      "asCharacter": "Bar Patron"
+    },
+    {
+      "id": "nm0222903",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Devore",
+      "asCharacter": "Barman"
+    },
+    {
+      "id": "nm0065603",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Becker",
+      "asCharacter": "Doctor"
+    },
+    {
+      "id": "nm0465077",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lynn Kongkham",
+      "asCharacter": "Nurse"
+    },
+    {
+      "id": "nm0863813",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nongnuj Timruang",
+      "asCharacter": "Bar Girl"
+    },
+    {
+      "id": "nm0659971",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Po Pao Pee",
+      "asCharacter": "Chinese Referee"
+    },
+    {
+      "id": "nm0123189",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dale Burroughs",
+      "asCharacter": "Embassy Guard"
+    },
+    {
+      "id": "nm0382930",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Parris Hicks",
+      "asCharacter": "Sergeant"
+    },
+    {
+      "id": "nm0610795",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Samui Muang-Intata",
+      "asCharacter": "Chinese Bodyguard"
+    },
+    {
+      "id": "nm0171555",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sapox Colisium",
+      "asCharacter": "Chinese Man"
+    },
+    {
+      "id": "nm0936113",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vitoon Winwitoon",
+      "asCharacter": "NVA Officer"
+    },
+    {
+      "id": "nm0784299",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Somsak Sengvilai",
+      "asCharacter": "V.C. Referee"
+    },
+    {
+      "id": "nm0638289",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charan Nusvanon",
+      "asCharacter": "Chinese Boss"
+    },
+    {
+      "id": "nm0327325",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jiam Gongtongsmoot",
+      "asCharacter": "Chinese Man At Door"
+    },
+    {
+      "id": "nm0678946",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chai Peyawan",
+      "asCharacter": "South Vietnamese Prisoner"
+    },
+    {
+      "id": "nm0360586",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mana Hansa",
+      "asCharacter": "South Vietnamese Prisoner"
+    },
+    {
+      "id": "nm0432414",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sombot Jumpanoi",
+      "asCharacter": "South Vietnamese Prisoner"
+    },
+    {
+      "id": "nm0541935",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Phip Manee",
+      "asCharacter": "Woman In Village"
+    },
+    {
+      "id": "nm0764041",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ding Santos",
+      "asCharacter": "V.C. Guard"
+    },
+    {
+      "id": "nm0149771",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Krieng Chaiyapuk",
+      "asCharacter": "V.C. Guard"
+    },
+    {
+      "id": "nm0657377",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ot Palapoo",
+      "asCharacter": "V.C. Guard"
+    },
+    {
+      "id": "nm0536787",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chok Chai Mahasoke",
+      "asCharacter": "V.C. Guard"
+    },
+    {
+      "id": "nm13468471",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robin Blair-Crawford",
+      "asCharacter": "Soldier (uncredited)"
+    },
+    {
+      "id": "nm0113712",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTg4ODEzNjAtYjAwMC00OWRjLTgxYjYtZDBjZmY4ZTAzYzZjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Hilary Brown",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm1755956",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU3MTU4YTQtZjgxNC00MzdjLWE3NDUtNWQ5MjQ0N2M0OTI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joe Cummings",
+      "asCharacter": "US Embassy Guard (uncredited)"
+    },
+    {
+      "id": "nm4688815",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGU0MzkwYmMtYzgxNS00OGRlLWFlYzAtNDE4M2ZiZDMyY2FlXkEyXkFqcGdeQXVyMTIzMjM2MTQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gary Jones",
+      "asCharacter": "Hospital Orderly (uncredited)"
+    },
+    {
+      "id": "nm0534648",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Madden",
+      "asCharacter": "Steelworker (uncredited)"
+    },
+    {
+      "id": "nm0434560",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmEyNWNjZjUtNDc1Zi00NmM5LTg1NzItNDZjZGY5MmM3MGUzXkEyXkFqcGdeQXVyMzA4ODEzNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Antone Pagán",
+      "asCharacter": "Steel Worker (uncredited)"
+    },
+    {
+      "id": "nm0763614",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Santiago",
+      "asCharacter": "Steel Worker (uncredited)"
+    },
+    {
+      "id": "nm4113112",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joel Thingvall",
+      "asCharacter": "Steel Worker (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0136806",
+          "name": "Joann Carelli",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0001047",
+          "name": "Michael Cimino",
+          "description": "producer"
+        },
+        {
+          "id": "nm0214303",
+          "name": "Michael Deeley",
+          "description": "producer"
+        },
+        {
+          "id": "nm0678911",
+          "name": "John Peverall",
+          "description": "producer"
+        },
+        {
+          "id": "nm0742274",
+          "name": "Marion Rosenberg",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0818731",
+          "name": "Barry Spikings",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0004368",
+          "name": "Stanley Myers",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005936",
+          "name": "Vilmos Zsigmond",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0957038",
+          "name": "Peter Zinner",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0180015",
+          "name": "Cis Corman",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0387628",
+          "name": "Ron Hobbs",
+          "description": ""
+        },
+        {
+          "id": "nm0841421",
+          "name": "Kim Swados",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0009686",
+          "name": "Del Acevedo",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0125329",
+          "name": "Edwin Butterworth",
+          "description": "makeup artist (as Ed Butterworth)"
+        },
+        {
+          "id": "nm0444191",
+          "name": "Mary Keats",
+          "description": "hair stylist"
+        },
+        {
+          "id": "nm0004615",
+          "name": "Dick Smith",
+          "description": "special makeup: Thailand"
+        },
+        {
+          "id": "nm0834475",
+          "name": "Daniel C. Striepeke",
+          "description": "special makeup: Thailand (as Daniel Striepeke)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0026585",
+          "name": "David C. Anderson",
+          "description": "production supervisor: Thailand (as David Anderson)"
+        },
+        {
+          "id": "nm0083124",
+          "name": "Claude Binyon Jr.",
+          "description": "production manager: U.S.A."
+        },
+        {
+          "id": "nm0519734",
+          "name": "Ira Loonstein",
+          "description": "unit production manager: Thailand"
+        },
+        {
+          "id": "nm0525562",
+          "name": "Bill Lukather",
+          "description": "unit production manager: U.S.A."
+        },
+        {
+          "id": "nm0650007",
+          "name": "Michael Orlando",
+          "description": "production supervisor: Thailand"
+        },
+        {
+          "id": "nm0771335",
+          "name": "Elliot Schick",
+          "description": "executive in charge of production"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0342045",
+          "name": "Michael Grillo",
+          "description": "second assistant director (as Mike Grillo)"
+        },
+        {
+          "id": "nm0645795",
+          "name": "Charles Okun",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0627880",
+          "name": "Chase Newhart",
+          "description": "trainee assistant director (uncredited)"
+        },
+        {
+          "id": "nm0839318",
+          "name": "Charlie Sungkawess",
+          "description": "set pa (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0060332",
+          "name": "Gus Basso",
+          "description": "greensman"
+        },
+        {
+          "id": "nm0088357",
+          "name": "John Blezard",
+          "description": "assistant: Ron Hobbs, Thailand"
+        },
+        {
+          "id": "nm1056565",
+          "name": "Ron Galloway",
+          "description": "prop man: Thailand"
+        },
+        {
+          "id": "nm0323829",
+          "name": "Richard C. Goddard",
+          "description": "set decorator: U.S.A. (as Dick Goddard)"
+        },
+        {
+          "id": "nm0382792",
+          "name": "Alan Hicks",
+          "description": "set decorator: Thailand"
+        },
+        {
+          "id": "nm0513720",
+          "name": "Art Lipschultz",
+          "description": "prop man: U.S.A."
+        },
+        {
+          "id": "nm1154114",
+          "name": "Harold McConnell",
+          "description": "leadman: Thailand"
+        },
+        {
+          "id": "nm0670502",
+          "name": "Bud Peifer Jr.",
+          "description": "prop man: U.S.A. (as Bud Peifer)"
+        },
+        {
+          "id": "nm0831344",
+          "name": "George Stokes",
+          "description": "construction coordinator: U.S.A."
+        },
+        {
+          "id": "nm0940639",
+          "name": "James T. Woods",
+          "description": "painter: Thailand (as Jimmy Woods)"
+        },
+        {
+          "id": "nm0940720",
+          "name": "Mickey Woods",
+          "description": "construction coordinator: Thailand"
+        },
+        {
+          "id": "nm0027369",
+          "name": "Robert M. Anderson",
+          "description": "property master: Thailand (uncredited)"
+        },
+        {
+          "id": "nm2200560",
+          "name": "Tom Jung",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm0638047",
+          "name": "Donald B. Nunley",
+          "description": "property master (uncredited)"
+        },
+        {
+          "id": "nm4863536",
+          "name": "James Ragan",
+          "description": "consultant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0092938",
+          "name": "Donald A. Bolger",
+          "description": "boom man (as Don Bolger)"
+        },
+        {
+          "id": "nm0233782",
+          "name": "Teri E. Dorman",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0295930",
+          "name": "James Fritch",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm8492705",
+          "name": "Michael Galloway",
+          "description": "sound"
+        },
+        {
+          "id": "nm0441858",
+          "name": "Stephen Katz",
+          "description": "sound consultant: Dolby (as Steve Katz)"
+        },
+        {
+          "id": "nm0459763",
+          "name": "James J. Klinger",
+          "description": "supervising sound effects editor"
+        },
+        {
+          "id": "nm0460828",
+          "name": "C. Darin Knight",
+          "description": "sound mixer (as Darrin Knight)"
+        },
+        {
+          "id": "nm0476023",
+          "name": "Bobbe Kurtz",
+          "description": "looping editor"
+        },
+        {
+          "id": "nm0565477",
+          "name": "William L. McCaughey",
+          "description": "re-recording mixer (as William McCaughey)"
+        },
+        {
+          "id": "nm0692446",
+          "name": "Richard Portman",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0714036",
+          "name": "Frank M. Reale",
+          "description": "re-recording mixer (as Frank Reale)"
+        },
+        {
+          "id": "nm0734099",
+          "name": "Aaron Rochin",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0998750",
+          "name": "Robert Davenport",
+          "description": "uncredited"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0186149",
+          "name": "Fred Cramer",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0255401",
+          "name": "Garry Elmendorf",
+          "description": "assistant special effects (as Gary Elmendorf)"
+        },
+        {
+          "id": "nm0454826",
+          "name": "Jay King",
+          "description": "assistant special effects: Thailand"
+        },
+        {
+          "id": "nm0616652",
+          "name": "Bob Myers",
+          "description": "special effects crew (uncredited)"
+        },
+        {
+          "id": "nm0935071",
+          "name": "Ian Wingrove",
+          "description": "pyro supervisor (uncredited)"
+        },
+        {
+          "id": "nm7799883",
+          "name": "James Yasotorn",
+          "description": "special effects crew: Thailand (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0049590",
+          "name": "Max Balchowsky",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0116779",
+          "name": "Jerry Brutsche",
+          "description": "stuntman (as Jerry Bruthsche)"
+        },
+        {
+          "id": "nm0193349",
+          "name": "Howard Curtis",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0242117",
+          "name": "Ted Duncan",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0364483",
+          "name": "Bob Harris",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0517444",
+          "name": "Carey Loftin",
+          "description": "stunt coordinator: US"
+        },
+        {
+          "id": "nm0578415",
+          "name": "Troy Melton",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0887174",
+          "name": "Buddy Van Horn",
+          "description": "stunt coordinator: Thailand"
+        },
+        {
+          "id": "nm0893674",
+          "name": "Jack Verbois",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0914048",
+          "name": "Chuck Waters",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0164418",
+          "name": "Rip Clark",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0454826",
+          "name": "Jay King",
+          "description": "stunt performer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0106070",
+          "name": "Enrique Bravo",
+          "description": "camera operator (as Ricky Bravo)"
+        },
+        {
+          "id": "nm1055206",
+          "name": "Greer Cavagnaro",
+          "description": "still photographer: U.S.A."
+        },
+        {
+          "id": "nm1055453",
+          "name": "Katrina Franken",
+          "description": "still photographer: Thailand"
+        },
+        {
+          "id": "nm0314840",
+          "name": "Michael Gershman",
+          "description": "assistant cameraman (as Mike Gershman)"
+        },
+        {
+          "id": "nm1055523",
+          "name": "Philip Jones Griffiths",
+          "description": "special still photographer"
+        },
+        {
+          "id": "nm0358515",
+          "name": "Wynn Hammer",
+          "description": "still photographer: U.S.A."
+        },
+        {
+          "id": "nm0429901",
+          "name": "Daniel R. Jordan",
+          "description": "grip (as Danny Jordan)"
+        },
+        {
+          "id": "nm0447022",
+          "name": "Keith Kelsay",
+          "description": "assistant cameraman"
+        },
+        {
+          "id": "nm0456481",
+          "name": "Jack Kirk",
+          "description": "electrician"
+        },
+        {
+          "id": "nm1055775",
+          "name": "Dieter Ludwig",
+          "description": "still photographer: Thailand (as Deiter Ludwig)"
+        },
+        {
+          "id": "nm0551712",
+          "name": "Rick Martens",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0555843",
+          "name": "Danny Marzolo",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0572622",
+          "name": "Nick McLean",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0600958",
+          "name": "Robert Moore",
+          "description": "key grip (as Bob Moore)"
+        },
+        {
+          "id": "nm0612650",
+          "name": "Fred Muncey",
+          "description": "best boy electrician"
+        },
+        {
+          "id": "nm0636584",
+          "name": "Lou Noto",
+          "description": "assistant cameraman"
+        },
+        {
+          "id": "nm0005865",
+          "name": "Fred Schuler",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0924186",
+          "name": "Don Whipple",
+          "description": "best boy grip"
+        },
+        {
+          "id": "nm0925705",
+          "name": "Larry Whitehead",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0314838",
+          "name": "Jeff Gershman",
+          "description": "second assistant camera: California unit (uncredited)"
+        },
+        {
+          "id": "nm0752880",
+          "name": "Tim Ryan",
+          "description": "dolly grip (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm1056617",
+          "name": "Michael Denison",
+          "description": "assistant: Cis Corman, Thailand"
+        },
+        {
+          "id": "nm1057422",
+          "name": "Beth Donohue",
+          "description": "assistant: Cis Corman, Thailand"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0075300",
+          "name": "Sandy Berke Jordan",
+          "description": "costumer: women (as Sandy Berke)"
+        },
+        {
+          "id": "nm0727108",
+          "name": "Laurie Riley",
+          "description": "costumer: men"
+        },
+        {
+          "id": "nm0781581",
+          "name": "Eric Seelig",
+          "description": "costume supervisor"
+        },
+        {
+          "id": "nm0814320",
+          "name": "Mutita Na Songkla",
+          "description": "wardrobe assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0043169",
+          "name": "Thomas K. Avildsen",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0789915",
+          "name": "Penelope Shaw",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0873123",
+          "name": "George Trirogoff",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0932030",
+          "name": "Florence Williamson",
+          "description": "assistant editor (as Flo Williamson)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0259692",
+          "name": "Frank Ernst",
+          "description": "location manager: Thailand"
+        },
+        {
+          "id": "nm1055140",
+          "name": "M.R. Boonyalak Sukawasdi",
+          "description": "location manager: Thailand"
+        },
+        {
+          "id": "nm0399150",
+          "name": "Charles Hubbard",
+          "description": "location manager: Thailand (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0764760",
+          "name": "William Saracino",
+          "description": "supervising music editor"
+        },
+        {
+          "id": "nm0930932",
+          "name": "John Williams",
+          "description": "performer: main title theme"
+        },
+        {
+          "id": "nm0573522",
+          "name": "Malcolm McNab",
+          "description": "trumpet soloist (uncredited)"
+        },
+        {
+          "id": "nm5948860",
+          "name": "Ethmer Roten",
+          "description": "musician: flute (uncredited)"
+        },
+        {
+          "id": "nm0853770",
+          "name": "Tommy Tedesco",
+          "description": "musician: guitar (uncredited)"
+        },
+        {
+          "id": "nm1320320",
+          "name": "Louise Di Tullio",
+          "description": "musician: flute (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0760310",
+          "name": "June Samson",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0050920",
+          "name": "Frank 'Cat' Ballou",
+          "description": "transportation coordinator: U.S.A."
+        },
+        {
+          "id": "nm0242822",
+          "name": "Arthur Dunne",
+          "description": "transportation coordinator: Thailand (as Arthur Dunn)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm1064155",
+          "name": "Barry Butler",
+          "description": "production assistant: Thailand"
+        },
+        {
+          "id": "nm0136806",
+          "name": "Joann Carelli",
+          "description": "production consultant"
+        },
+        {
+          "id": "nm0206122",
+          "name": "Eleanor Dawson",
+          "description": "advisor: Vietnamese"
+        },
+        {
+          "id": "nm0227886",
+          "name": "Richard Dioguardi",
+          "description": "technical advisor: military"
+        },
+        {
+          "id": "nm0244074",
+          "name": "Exa Durham",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0280408",
+          "name": "Wayne Fitzgerald",
+          "description": "title designer"
+        },
+        {
+          "id": "nm0283560",
+          "name": "Michael Flynn",
+          "description": "production assistant: Thailand (as Mike Flynn)"
+        },
+        {
+          "id": "nm1057436",
+          "name": "Patrick Gauvain",
+          "description": "production assistant: Thailand"
+        },
+        {
+          "id": "nm0621198",
+          "name": "Ralph Naradini",
+          "description": "marine engineer"
+        },
+        {
+          "id": "nm0625654",
+          "name": "Patty Nelson",
+          "description": "secretary: Mr. Cimino"
+        },
+        {
+          "id": "nm0797047",
+          "name": "Nanette Siegert",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm0921252",
+          "name": "Robert Werden",
+          "description": "unit publicist (as Bob Werden)"
+        },
+        {
+          "id": "nm13468471",
+          "name": "Robin Blair-Crawford",
+          "description": "production staff (uncredited)"
+        },
+        {
+          "id": "nm1414726",
+          "name": "John Chambers",
+          "description": "finance executive (uncredited)"
+        },
+        {
+          "id": "nm0217858",
+          "name": "Dick Delson",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm1010416",
+          "name": "David Hakim",
+          "description": "publicity writer (uncredited)"
+        },
+        {
+          "id": "nm0452191",
+          "name": "Madeleine Klein",
+          "description": "animal trainer (uncredited)"
+        },
+        {
+          "id": "nm0763418",
+          "name": "Dominic Santarone",
+          "description": "caterer (uncredited)"
+        },
+        {
+          "id": "nm0763419",
+          "name": "Ruth Santarone",
+          "description": "caterer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0113712",
+          "name": "Hilary Brown",
+          "description": "grateful acknowledgement: The ABC Evening News (as Hillary Brown)"
+        },
+        {
+          "id": "nm0342401",
+          "name": "Sherman Grinberg",
+          "description": "grateful acknowledgement: The ABC Evening News"
+        },
+        {
+          "id": "nm0465766",
+          "name": "Stephen Kopestonsky",
+          "description": "grateful acknowledgement: St. Theodosius Cathedral (as Reverend T. Stephen Kopestonsky)"
+        },
+        {
+          "id": "nm1323330",
+          "name": "Ken Kovach",
+          "description": "grateful acknowledgement: choir director, St. Theodosius Cathedral"
+        },
+        {
+          "id": "nm0962983",
+          "name": "Michelle Kuhar",
+          "description": "grateful acknowledgement: The Ohio Film Bureau"
+        },
+        {
+          "id": "nm1057542",
+          "name": "Tim Potts",
+          "description": "grateful acknowledgement: The Office of Film Promotion, Pennsylvania Department of Commerce"
+        },
+        {
+          "id": "nm0734221",
+          "name": "John D. Rockefeller III",
+          "description": "grateful acknowledgment (as Governor John D. Rockefeller III)"
+        },
+        {
+          "id": "nm1057579",
+          "name": "Mr. Thompson",
+          "description": "grateful acknowledgement: liason and technical advisor, Thailand"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

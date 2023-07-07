@@ -1,0 +1,560 @@
+{
+  "imDbId": "tt0036775",
+  "title": "Double Indemnity",
+  "fullTitle": "Double Indemnity (1944)",
+  "type": "Movie",
+  "year": "1944",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000697",
+        "name": "Billy Wilder",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000697",
+        "name": "Billy Wilder",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0151452",
+        "name": "Raymond Chandler",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0128906",
+        "name": "James M. Cain",
+        "description": "(from the novel by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0534045",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwMTIyODQ4Nl5BMl5BanBnXkFtZTYwOTk1MTI2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fred MacMurray",
+      "asCharacter": "Walter Neff"
+    },
+    {
+      "id": "nm0001766",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmMyY2QzNWMtZDBmZi00OWRjLWJjNzEtYzNkOGU3OGIwNTMyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Barbara Stanwyck",
+      "asCharacter": "Phyllis Dietrichson"
+    },
+    {
+      "id": "nm0000064",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0NzcwMzU5Nl5BMl5BanBnXkFtZTYwNTkwMjI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edward G. Robinson",
+      "asCharacter": "Barton Keyes"
+    },
+    {
+      "id": "nm0356004",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxOTQ4YTktN2YxNS00NjJmLWFlZWItOTBlMjEzZmM3MzdjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Porter Hall",
+      "asCharacter": "Mr. Jackson"
+    },
+    {
+      "id": "nm0372742",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTZjZGViNTUtMDI5My00NWRkLWJhYzAtNDYzYjU5NDNmNTA4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Jean Heather",
+      "asCharacter": "Lola Dietrichson"
+    },
+    {
+      "id": "nm0694631",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTg1MjMwOGQtODNkZS00NmRkLTkzZTYtMTc4MTUxZjM4Y2E2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Tom Powers",
+      "asCharacter": "Mr. Dietrichson"
+    },
+    {
+      "id": "nm0056477",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMDM1MDY3OF5BMl5BanBnXkFtZTcwNTc0NzcyMQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Byron Barr",
+      "asCharacter": "Nino Zachetti"
+    },
+    {
+      "id": "nm0301348",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGEzZTIyMWYtNDcxNy00MzI0LWI2YzEtNTlkM2Q4MzgzMWQzXkEyXkFqcGdeQXVyNTEzNDY5MjM@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Richard Gaines",
+      "asCharacter": "Mr. Norton"
+    },
+    {
+      "id": "nm0093769",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzNlMWE1ZDgtZDc4Yi00MzUwLWI1YTktMjJiODA4ODA1ZjVkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Fortunio Bonanova",
+      "asCharacter": "Sam Gorlopis"
+    },
+    {
+      "id": "nm0680139",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Philliber",
+      "asCharacter": "Joe Pete"
+    },
+    {
+      "id": "nm7369756",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lev Abramov",
+      "asCharacter": "Stage Hand (uncredited)"
+    },
+    {
+      "id": "nm0011490",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Adamson",
+      "asCharacter": "Pullman Porter (uncredited)"
+    },
+    {
+      "id": "nm0077587",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Berry",
+      "asCharacter": "Bit Part (uncredited)"
+    },
+    {
+      "id": "nm0151452",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQwNDI5ODctZGU3MC00NzIwLWE3ZmQtYjQxYWE5NTlmMjE0XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio1.1364_AL_.jpg",
+      "name": "Raymond Chandler",
+      "asCharacter": "Man Reading Magazine Outside Keyes' Office (uncredited)"
+    },
+    {
+      "id": "nm0167760",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdmYzAyYjQtMGU3YS00MGY3LWI4Y2YtMWZhZTk0ZDhhYmZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Edmund Cobb",
+      "asCharacter": "Train Conductor (uncredited)"
+    },
+    {
+      "id": "nm0187914",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzRjNWYwNDEtMTk2Mi00ZjhhLWJkNjItY2MyNzU0YzdiNTgzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Kernan Cripps",
+      "asCharacter": "Conductor (uncredited)"
+    },
+    {
+      "id": "nm0268426",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Betty Farrington",
+      "asCharacter": "Nettie - Dietrichsons' Maid (uncredited)"
+    },
+    {
+      "id": "nm0283170",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdkZTUwOGYtOGY4Ni00MjY4LTkxOTEtYzk2M2I4NmIxYjg0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bess Flowers",
+      "asCharacter": "Norton's Secretary (uncredited)"
+    },
+    {
+      "id": "nm0293530",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFhYTRjZTktYjY5NC00ZjQ5LTgwODUtY2FmZDA0YTRhYjgxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mona Freeman",
+      "asCharacter": "Secretary (uncredited)"
+    },
+    {
+      "id": "nm0308420",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harold Garrison",
+      "asCharacter": "Redcap (uncredited)"
+    },
+    {
+      "id": "nm0355538",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4MjEyNjQ0Nl5BMl5BanBnXkFtZTYwMzE5ODky._V1_Ratio0.7727_AL_.jpg",
+      "name": "Eddie Hall",
+      "asCharacter": "Man in Drug Store (uncredited)"
+    },
+    {
+      "id": "nm0317050",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhiMTA0ODMtMGJmNy00NmI3LWFkNzgtNmI1ODc0OTYyN2QzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Teala Loring",
+      "asCharacter": "Pacific All-Risk Telephone Operator (uncredited)"
+    },
+    {
+      "id": "nm0536499",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQyNTRmZjAtNGJjMS00YzU3LTg5NjMtYjMyOTk4MDBkNjI4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.9545_AL_.jpg",
+      "name": "George Magrill",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0567434",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJjYjM0MTItNjdmMi00OTVjLWE5NzMtYTlmMmFlZDNmYzEzXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Sam McDaniel",
+      "asCharacter": "Charlie - Garage Attendant (uncredited)"
+    },
+    {
+      "id": "nm0593161",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billy Mitchell",
+      "asCharacter": "Pullman Porter (uncredited)"
+    },
+    {
+      "id": "nm0615617",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzODU0NTEwN15BMl5BanBnXkFtZTcwNTExNDQzOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Clarence Muse",
+      "asCharacter": "Man (uncredited)"
+    },
+    {
+      "id": "nm0291505",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTAwZmFlNDEtMDMyNy00NjI4LWI4ODgtY2ZkZTY0MGNlMmM5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Miriam Nelson",
+      "asCharacter": "Keyes' Secretary (uncredited)"
+    },
+    {
+      "id": "nm0700822",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Constance Purdy",
+      "asCharacter": "Shopper in Market (uncredited)"
+    },
+    {
+      "id": "nm0750660",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dick Rush",
+      "asCharacter": "Pullman Conductor (uncredited)"
+    },
+    {
+      "id": "nm0787107",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Floyd Shackelford",
+      "asCharacter": "Pullman Porter (uncredited)"
+    },
+    {
+      "id": "nm0809490",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oscar Smith",
+      "asCharacter": "Pullman Porter (uncredited)"
+    },
+    {
+      "id": "nm0817930",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGRmYzQyOGMtMjkxMi00ZjI5LThlNTUtY2IwZTZlOGRmMjU0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Douglas Spencer",
+      "asCharacter": "Lou Schwartz (uncredited)"
+    },
+    {
+      "id": "nm0926985",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGFjMTFkZmUtNDFmYi00OWM4LTgwYTgtOWZhNmQ5NzMxYTRjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Florence Wix",
+      "asCharacter": "Train Passenger at Station (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0221865",
+          "name": "Buddy G. DeSylva",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm0803161",
+          "name": "Joseph Sistrom",
+          "description": "producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0000067",
+          "name": "Miklós Rózsa",
+          "description": "(as Miklos Rozsa) (music score)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005870",
+          "name": "John F. Seitz",
+          "description": "director of photography (as John Seitz)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0166429",
+          "name": "Harvey Clermont",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0355465",
+          "name": "David S. Hall",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0237417",
+          "name": "Hans Dreier",
+          "description": ""
+        },
+        {
+          "id": "nm0673134",
+          "name": "Hal Pereira",
+          "description": ""
+        },
+        {
+          "id": "nm0355465",
+          "name": "David S. Hall",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0335032",
+          "name": "Bertram C. Granger",
+          "description": "(as Bertram Granger)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0372128",
+          "name": "Edith Head",
+          "description": "(costumes)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0922885",
+          "name": "Wally Westmore",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0055624",
+          "name": "Hollis Barnes",
+          "description": "hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0263997",
+          "name": "Robert Ewing",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0312599",
+          "name": "Charles Gemora",
+          "description": "makeup artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm2138857",
+          "name": "Al Trosin",
+          "description": "assistant production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0170973",
+          "name": "Charles C. Coleman",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm4457839",
+          "name": "Bill Sheehan",
+          "description": "second assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0183165",
+          "name": "Jim Cottrell",
+          "description": "props (uncredited)"
+        },
+        {
+          "id": "nm0170390",
+          "name": "Jack Golconda",
+          "description": "props (uncredited)"
+        },
+        {
+          "id": "nm2141042",
+          "name": "Paul Tranz",
+          "description": "engineer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0177623",
+          "name": "Stanley Cooley",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0643363",
+          "name": "Walter Oberst",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm4554334",
+          "name": "Jack Duffy",
+          "description": "cableman (uncredited)"
+        },
+        {
+          "id": "nm4632368",
+          "name": "H.O. Kinsey",
+          "description": "recordist (uncredited)"
+        },
+        {
+          "id": "nm0753122",
+          "name": "Loren L. Ryder",
+          "description": "sound recordist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0249643",
+          "name": "Farciot Edouart",
+          "description": "process photography"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0376417",
+          "name": "Ed Henderson",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0572877",
+          "name": "Walter McLeod",
+          "description": "key grip (uncredited)"
+        },
+        {
+          "id": "nm0682436",
+          "name": "Otto Pierce",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm4456551",
+          "name": "Bill Pillar",
+          "description": "mike grip (uncredited)"
+        },
+        {
+          "id": "nm1340024",
+          "name": "Chet Stafford",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm2138500",
+          "name": "Harlow Stengel",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm2141042",
+          "name": "Paul Tranz",
+          "description": "dolly grip (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm1024015",
+          "name": "Neva Bourne",
+          "description": "wardrobe (uncredited)"
+        },
+        {
+          "id": "nm1287577",
+          "name": "Eugene Joseff",
+          "description": "costume jeweller (uncredited)"
+        },
+        {
+          "id": "nm1062831",
+          "name": "Bill Rabb",
+          "description": "wardrobe (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0365561",
+          "name": "Doane Harrison",
+          "description": "editorial supervisor"
+        },
+        {
+          "id": "nm2138292",
+          "name": "Lee Hall",
+          "description": "assistant editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0951746",
+          "name": "Eugene Zador",
+          "description": "orchestrator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm2144530",
+          "name": "Nancy Lee",
+          "description": "script clerk (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0300818",
+          "name": "Jack Gage",
+          "description": "dialogue director (uncredited)"
+        },
+        {
+          "id": "nm0823819",
+          "name": "Dorothy Staton",
+          "description": "stand-in: Ms. Stanwyck (uncredited)"
+        },
+        {
+          "id": "nm0941187",
+          "name": "John R. Woolfenden",
+          "description": "publicist (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,2039 @@
+{
+  "imDbId": "tt0363163",
+  "title": "Downfall",
+  "fullTitle": "Downfall (2004)",
+  "type": "Movie",
+  "year": "2004",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0386570",
+        "name": "Oliver Hirschbiegel",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0251536",
+        "name": "Bernd Eichinger",
+        "description": "(written by)"
+      },
+      {
+        "id": "nm0275264",
+        "name": "Joachim Fest",
+        "description": "(based on the book \"Der Untergang: Hitler und das Ende des Dritten Reiches\" by)"
+      },
+      {
+        "id": "nm0432622",
+        "name": "Traudl Junge",
+        "description": "(based on the book \"Bis zur letzten Stunde\" by) and"
+      },
+      {
+        "id": "nm0612199",
+        "name": "Melissa Müller",
+        "description": "(based on the book \"Bis zur letzten Stunde\" by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0004486",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjkzYjU2NzAtMmEyZC00YTg2LWJmYTMtOGM1YTMwOTYwZTJjXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bruno Ganz",
+      "asCharacter": "Adolf Hitler"
+    },
+    {
+      "id": "nm0487884",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzMDQ5ODM4OV5BMl5BanBnXkFtZTcwNjMzODI3MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alexandra Maria Lara",
+      "asCharacter": "Traudl Junge"
+    },
+    {
+      "id": "nm0362896",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDMxMDNmMDMtMzc2Ni00NTcxLWFkNDEtOThlMmJiOTBiMGUzXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Corinna Harfouch",
+      "asCharacter": "Magda Goebbels"
+    },
+    {
+      "id": "nm0559890",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzNjU0NDcxNV5BMl5BanBnXkFtZTYwMzQ3NTEz._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ulrich Matthes",
+      "asCharacter": "Joseph Goebbels"
+    },
+    {
+      "id": "nm0477810",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTc3NTI5MzMwMl5BMl5BanBnXkFtZTcwNDcwMDkyMg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Juliane Köhler",
+      "asCharacter": "Eva Braun"
+    },
+    {
+      "id": "nm0272224",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMjUwNzI5M15BMl5BanBnXkFtZTcwMzk4NDUyNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Heino Ferch",
+      "asCharacter": "Albert Speer"
+    },
+    {
+      "id": "nm0075321",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MDIzOTcwMV5BMl5BanBnXkFtZTcwNzkwNzAyMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christian Berkel",
+      "asCharacter": "Prof. Ernst-Günther Schenck"
+    },
+    {
+      "id": "nm0352278",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWJiZjdjOGItMjlhMi00NTQwLTg4NTgtYmMzNWY1ZGJiZjhjXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Matthias Habich",
+      "asCharacter": "Prof. Werner Haase"
+    },
+    {
+      "id": "nm0470981",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1Njc5MzE1OF5BMl5BanBnXkFtZTcwMTc1NDM4Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Thomas Kretschmann",
+      "asCharacter": "Hermann Fegelein"
+    },
+    {
+      "id": "nm0579159",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMjI5OTI5Ml5BMl5BanBnXkFtZTgwNTU1OTgyNDM@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Michael Mendl",
+      "asCharacter": "General Weidling"
+    },
+    {
+      "id": "nm0377333",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxZDRmZTAtNmJhMS00ZDU1LWEzYTgtN2JjMDZmYmI1YTRjXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_Ratio1.5000_AL_.jpg",
+      "name": "André Hennicke",
+      "asCharacter": "General Mohnke"
+    },
+    {
+      "id": "nm0633947",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU0Njg4OTMwMl5BMl5BanBnXkFtZTcwMDAzNjg1OQ@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Ulrich Noethen",
+      "asCharacter": "Heinrich Himmler"
+    },
+    {
+      "id": "nm0591352",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTI1Njg2NF5BMl5BanBnXkFtZTcwNjIxNTgyMg@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Birgit Minichmayr",
+      "asCharacter": "Gerda Christian"
+    },
+    {
+      "id": "nm0437708",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWFmNDI5YWEtMjRkYi00MTRhLTk5YjMtYTEwNTgyMWQ2ODk4XkEyXkFqcGdeQXVyNDM4NDA1Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rolf Kanies",
+      "asCharacter": "General Hans Krebs"
+    },
+    {
+      "id": "nm0230649",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTE0MWVhN2ItYjA1Mi00YWI4LTk2N2ItMDkwYjA5YjUxMWE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Justus von Dohnányi",
+      "asCharacter": "General Wilhelm Burgdorf (as Justus von Dohnanyi)"
+    },
+    {
+      "id": "nm0542721",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dieter Mann",
+      "asCharacter": "Feldmarschall Wilhelm Keitel"
+    },
+    {
+      "id": "nm0714943",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NzU0OTA3M15BMl5BanBnXkFtZTcwNjgxNzEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christian Redl",
+      "asCharacter": "General Alfred Jodl"
+    },
+    {
+      "id": "nm0653248",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJjZWRmMDQtNmRmYS00ZDk1LTllNTItNmUyODdjYjI1NGYzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Götz Otto",
+      "asCharacter": "Otto Günsche"
+    },
+    {
+      "id": "nm0510832",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Limpinsel",
+      "asCharacter": "Heinz Linge"
+    },
+    {
+      "id": "nm0857998",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Thieme",
+      "asCharacter": "Martin Bormann"
+    },
+    {
+      "id": "nm0374901",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2YTVjYjEtNzlmZi00N2E3LWE0YjgtYWE1MDhkMzVjODNhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alexander Held",
+      "asCharacter": "Walter Hewel"
+    },
+    {
+      "id": "nm1702520",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Donevan Gunia",
+      "asCharacter": "Peter Kranz"
+    },
+    {
+      "id": "nm0714958",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bettina Redlich",
+      "asCharacter": "Frl. Constanze Manziarly"
+    },
+    {
+      "id": "nm0773340",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Heinrich Schmieder",
+      "asCharacter": "Rochus Misch"
+    },
+    {
+      "id": "nm0856917",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBjNDdiZjItYzI1NS00ZWIxLWE0MTctMTE2ZmU1ZTE5NjhjXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Anna Thalbach",
+      "asCharacter": "Hanna Reitsch"
+    },
+    {
+      "id": "nm0391105",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTQ5N2VkYWMtOTgwMC00Yzk3LTgyMzAtMjNiNWQ2MTQxNjQxXkEyXkFqcGdeQXVyODEyMTAwMDI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dietrich Hollinderbäumer",
+      "asCharacter": "Ritter Robert von Greim"
+    },
+    {
+      "id": "nm0472701",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgxZmFkYjUtMmY5MS00OThjLTg3Y2ItMWU3MzZjN2IxNGI0XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ulrike Krumbiegel",
+      "asCharacter": "Dorothee Kranz"
+    },
+    {
+      "id": "nm0469843",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karl Kranzkowski",
+      "asCharacter": "Wilhelm Kranz"
+    },
+    {
+      "id": "nm1483293",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thorsten Krohn",
+      "asCharacter": "Dr. Stumpfegger"
+    },
+    {
+      "id": "nm0867341",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jürgen Tonkel",
+      "asCharacter": "Erich Kempka"
+    },
+    {
+      "id": "nm0834479",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3MzkzOTkyMF5BMl5BanBnXkFtZTYwNTgzNzI3._V1_Ratio1.5000_AL_.jpg",
+      "name": "Devid Striesow",
+      "asCharacter": "Feldwebel Tornow"
+    },
+    {
+      "id": "nm0123974",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2QzNmJiNTgtZWQ4YS00NjM2LWJhMDMtNzBjYWViZGVjYzJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Fabian Busch",
+      "asCharacter": "Obersturmbannführer Stehr"
+    },
+    {
+      "id": "nm0388522",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christian Hoening",
+      "asCharacter": "Reichsarzt SS Grawitz"
+    },
+    {
+      "id": "nm0805307",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWVkNzA2NWUtNzQyZS00ODNlLWFjYWItZGUwMzY4MGM0N2Q4XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Aleksandr Slastin",
+      "asCharacter": "General Tschuikow (as Alexander Slastin)"
+    },
+    {
+      "id": "nm1321119",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alina Sokar",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm1748617",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Amelie Menges",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm1751502",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjA5Mzg2ZjEtYmM4OC00MjhmLTkxOGMtNDQ0ZDQ3MjJiM2FiXkEyXkFqcGdeQXVyMTYwMjIxMzU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charlotte Stoiber",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm1750672",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gregory Borlein",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm0061868",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Julia Bauer",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm1748304",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Laura Borlein",
+      "asCharacter": "Die Goebbels Kinder"
+    },
+    {
+      "id": "nm1886946",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andrey Blagoslovenski",
+      "asCharacter": "Soldat / Ruinenkeller"
+    },
+    {
+      "id": "nm0096011",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjY5ZjMwZjEtMTYwYi00YTBkLWEwMDktZmZlYTIwMDJiYzUwXkEyXkFqcGdeQXVyNTYxOTAyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dirk Borchardt",
+      "asCharacter": "Panzerkommandant (as Dirk Borchard)"
+    },
+    {
+      "id": "nm1799184",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwNDY3NTM3N15BMl5BanBnXkFtZTcwNjYwNDQ3MQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Elizaveta Boyarskaya",
+      "asCharacter": "Schwester Erna (as Lisa Boyarskaya)"
+    },
+    {
+      "id": "nm0104710",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBhNTkxZDYtOWYxMy00YjU5LWFlODYtZWQ4OTM4MWIxMzkzXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Brandner",
+      "asCharacter": "H. Fritzsche"
+    },
+    {
+      "id": "nm1702345",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "I. Bubenchikov",
+      "asCharacter": "Schädle (as Igor Bubenchikov)"
+    },
+    {
+      "id": "nm1885515",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leopold von Buttlar",
+      "asCharacter": "Sohn Grawitz"
+    },
+    {
+      "id": "nm1320617",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Martin Butzke",
+      "asCharacter": "SS-Soldat 1"
+    },
+    {
+      "id": "nm1455618",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyMjVhYjItNmY5Yy00YjUwLWI4YjQtYWJjYjBhNjY3MTQ0XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Dmitriy Bykovskiy-Romashov",
+      "asCharacter": "Soldat 2 (as Dimitry Bykovsky)"
+    },
+    {
+      "id": "nm1703025",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sergey Evseev",
+      "asCharacter": "Adjutant 2 von General Mohnke (as Sergej Evseyev)"
+    },
+    {
+      "id": "nm0323526",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mathias Gnädinger",
+      "asCharacter": "Hermann Göring (as Mathias Gnädiger)"
+    },
+    {
+      "id": "nm0333512",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ExMmVlYTItZjAzYS00ODU3LTgyYWItNGM4NGQ5NWMyZDY1XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bohdan Graczyk",
+      "asCharacter": "Oberst Clausen (as Boghdan Graczyk)"
+    },
+    {
+      "id": "nm1881003",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFkZjczMWItMDhlNS00ZjEzLWFlMjMtNTg3MGIzNzdlOGM5XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sergey Rublev",
+      "asCharacter": "SS-Adjutant (as Sergei Halturin)"
+    },
+    {
+      "id": "nm0373078",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Norbert Heckner",
+      "asCharacter": "Standesbeamter Wagner"
+    },
+    {
+      "id": "nm0381556",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhlMmUxNDktYmFiNS00NmI5LWFmZGQtZmRmMDQ5ZWNiMDU5XkEyXkFqcGdeQXVyMTQ1NTA2NzU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Enno Hesse",
+      "asCharacter": "Oberleutnant"
+    },
+    {
+      "id": "nm0407894",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Evgeniy Ilovayskiy",
+      "asCharacter": "Älterer Zivilist 1 (as Eugene Ilovaisky)"
+    },
+    {
+      "id": "nm0421799",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc1OTEyNjQ3MF5BMl5BanBnXkFtZTcwMTE5NDUxNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Julia Jentsch",
+      "asCharacter": "Hanna Potrowski"
+    },
+    {
+      "id": "nm1885997",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oleg Khoroshilov",
+      "asCharacter": "Henker"
+    },
+    {
+      "id": "nm0454235",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmE4MGRjNDctMDdmZC00YTNjLWIzYzQtNmZmZDEzNjJmYjc4XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Kind",
+      "asCharacter": "SA-Mann / Ruinenkeller"
+    },
+    {
+      "id": "nm0902552",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGVjM2ViYjYtYjczMi00Y2NjLTkyMTQtNzg4ZTIzNWM3NmMzXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Elisabeth von Koch",
+      "asCharacter": "Margarete Lorenz"
+    },
+    {
+      "id": "nm1885569",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI3N2QzZTgtZjBmYi00ZWEzLTkxMTEtYzA4ZWU5MmI5MTc2XkEyXkFqcGdeQXVyMjgyODk5NzY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tara Marie Linke",
+      "asCharacter": "Hedwig Brandt (as Marie Sarah Linke)"
+    },
+    {
+      "id": "nm1106994",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Lippold",
+      "asCharacter": "Junger Offizier 1"
+    },
+    {
+      "id": "nm0525546",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Konstantin Lukashov",
+      "asCharacter": "Älterer Soldat (as Konstantin Lukashev)"
+    },
+    {
+      "id": "nm1280417",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stefan Mehren",
+      "asCharacter": "Verwundeter Soldat"
+    },
+    {
+      "id": "nm1887961",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ilya Mozgovoy",
+      "asCharacter": "Soldat 1 (as Ilya Mozgovoi)"
+    },
+    {
+      "id": "nm1883634",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Silke Nikowski",
+      "asCharacter": "Frau Grawitz"
+    },
+    {
+      "id": "nm1885748",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alexei Oleinikov",
+      "asCharacter": "SS-Offizier Brauerei"
+    },
+    {
+      "id": "nm1884231",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oleg Piminov",
+      "asCharacter": "Adjutant von General Mohnke"
+    },
+    {
+      "id": "nm1882245",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Katerina Poladjan",
+      "asCharacter": "Russische Arzthelferin"
+    },
+    {
+      "id": "nm8556335",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2YzMTc2ZTAtYjcxYS00MzA4LTg0MjAtZjI5ZGE5NDEzYjY2XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Oleg Popov",
+      "asCharacter": "Adjutant von General Weidling"
+    },
+    {
+      "id": "nm1416667",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Silke Popp",
+      "asCharacter": "Ursula Puttkamer"
+    },
+    {
+      "id": "nm1399987",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTAwMjYxODctYjUzNy00ZjY4LWE4OGEtOGYyODZjYjBhOGUxXkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Vasiliy Reutov",
+      "asCharacter": "Adjutant von General Krebs (as Vasily Reutov)"
+    },
+    {
+      "id": "nm0739000",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTZlODc2YzktMzdhMi00ODhkLWFmMGMtOTc1MWZlYzk3YWVhXkEyXkFqcGdeQXVyMTYzMTk3NTU3._V1_Ratio0.7273_AL_.jpg",
+      "name": "Igor Romanov",
+      "asCharacter": "SS-Offizier Högel"
+    },
+    {
+      "id": "nm1091178",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tanja Schleiff",
+      "asCharacter": "Russische Ärztin (as Tanya Schleiff)"
+    },
+    {
+      "id": "nm0772872",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christian Schmidt",
+      "asCharacter": "SS-Mann Greifkommando"
+    },
+    {
+      "id": "nm0773590",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "August Schmölzer",
+      "asCharacter": "Baur"
+    },
+    {
+      "id": "nm0775052",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jurij Schrader",
+      "asCharacter": "Dolmetscher"
+    },
+    {
+      "id": "nm1884193",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Boris Schwarzmann",
+      "asCharacter": "Matwej Blanter"
+    },
+    {
+      "id": "nm4672995",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mariya Semyonova",
+      "asCharacter": "Rothaarige Frau"
+    },
+    {
+      "id": "nm0785104",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Igor Sergeev",
+      "asCharacter": "Russischer Soldat (as Igor Sergeyev)"
+    },
+    {
+      "id": "nm1885745",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Valeri Slavinski",
+      "asCharacter": "Mann"
+    },
+    {
+      "id": "nm1885280",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Valeriy Salomakhin",
+      "asCharacter": "Älterer Zivilist 2 (as Valeri Solomakhin)"
+    },
+    {
+      "id": "nm0825758",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hans H. Steinberg",
+      "asCharacter": "General Koller"
+    },
+    {
+      "id": "nm0826169",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Klaus-Jürgen Steinmann",
+      "asCharacter": "Offizier 1 (as Klaus Jürgen Steinmann)"
+    },
+    {
+      "id": "nm0834640",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWNhNjk4N2EtMjYwYS00YjdjLWFjM2QtNGNkNDYxYzBjMGVhXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Oliver Stritzel",
+      "asCharacter": "Maschinist Hentschel"
+    },
+    {
+      "id": "nm0836748",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Veit Stübner",
+      "asCharacter": "Obergruppenführer Tellermann"
+    },
+    {
+      "id": "nm0874485",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mikhail Tryasorukov",
+      "asCharacter": "Adjutant Müller"
+    },
+    {
+      "id": "nm1734976",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vsevolod Tsurilo",
+      "asCharacter": "Russischer Adjutant"
+    },
+    {
+      "id": "nm0937828",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Klaus B. Wolf",
+      "asCharacter": "Junger Marinesoldat"
+    },
+    {
+      "id": "nm1886651",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Elena Dreyden",
+      "asCharacter": "Inge Dombrowski (as Yelena Zelenskaya)"
+    },
+    {
+      "id": "nm0955904",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tatyana Zhuravlyova",
+      "asCharacter": "Alte Frau"
+    },
+    {
+      "id": "nm2223437",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Brandes",
+      "asCharacter": "Adjutant Bernd Freytag von Loringhoven (uncredited)"
+    },
+    {
+      "id": "nm2063952",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Franke",
+      "asCharacter": "Wachsoldat vor der Wolfsschanze (uncredited)"
+    },
+    {
+      "id": "nm0432622",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4NDQwMzYzMl5BMl5BanBnXkFtZTYwMTc4ODQ3._V1_Ratio1.4545_AL_.jpg",
+      "name": "Traudl Junge",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm2051606",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Martin Kessler",
+      "asCharacter": "Nazi Officer (uncredited)"
+    },
+    {
+      "id": "nm0670700",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Henning Peker",
+      "asCharacter": "Wachsoldat vor der Wolfsschanze (uncredited)"
+    },
+    {
+      "id": "nm0750469",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRmZWVhZDItMGJlNi00YTRhLWE4MzMtZGExYjRkMGE3Njg2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dieter Rupp",
+      "asCharacter": "Mohnke's Adjutant im Bunker (uncredited)"
+    },
+    {
+      "id": "nm4536117",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzlhM2JkOGEtYzI1MC00ZGFjLWEwMWEtNjA3ODZkYmZjZTBiXkEyXkFqcGdeQXVyMTYzMTk3NTU3._V1_Ratio0.7273_AL_.jpg",
+      "name": "Aleksandr Styopin",
+      "asCharacter": "HJ Führer (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0117670",
+          "name": "Wolf-Dietrich Brücker",
+          "description": "co-producer: WDR"
+        },
+        {
+          "id": "nm0251536",
+          "name": "Bernd Eichinger",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0374598",
+          "name": "Doris J. Heinze",
+          "description": "co-producer: NDR"
+        },
+        {
+          "id": "nm0458212",
+          "name": "Jörn Klamroth",
+          "description": "co-producer: Degeto Film"
+        },
+        {
+          "id": "nm0745110",
+          "name": "Christine Rothe",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0866151",
+          "name": "Silvia Tollmann",
+          "description": "line producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0951598",
+          "name": "Stephan Zacharias",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0458430",
+          "name": "Rainer Klausmann",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0298600",
+          "name": "Hans Funck",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0104125",
+          "name": "An Dorthe Braker",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0503254",
+          "name": "Bernd Lepel",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0090462",
+          "name": "Claudia Bobsin",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0099697",
+          "name": "Peter Bour",
+          "description": "makeup artist: Berlin unit"
+        },
+        {
+          "id": "nm0293137",
+          "name": "Tamara Frid",
+          "description": "makeup artist: St. Petersburg unit"
+        },
+        {
+          "id": "nm0353987",
+          "name": "Gabriele Hahn-Laue",
+          "description": "makeup artist: Berlin unit (as Gaby Hahn-Laue)"
+        },
+        {
+          "id": "nm1880791",
+          "name": "Francis Jadoul",
+          "description": "makeup artist: Munich unit"
+        },
+        {
+          "id": "nm0962797",
+          "name": "Anette Keiser",
+          "description": "makeup artist: Munich unit"
+        },
+        {
+          "id": "nm1918306",
+          "name": "Lola Khourranova",
+          "description": "assistant makeup artist: St. Petersburg unit (as Lola Khourramova) / makeup artist: Berlin unit"
+        },
+        {
+          "id": "nm0559302",
+          "name": "Tomasz Matraszek",
+          "description": "makeup artist: St. Petersburg unit"
+        },
+        {
+          "id": "nm0625941",
+          "name": "Gerhard Nemetz",
+          "description": "makeup artist: Munich unit"
+        },
+        {
+          "id": "nm0626904",
+          "name": "Eberhard Neufink",
+          "description": "makeup artist: Berlin unit"
+        },
+        {
+          "id": "nm0626905",
+          "name": "Margrit Neufink",
+          "description": "key makeup artist"
+        },
+        {
+          "id": "nm0688718",
+          "name": "Waldemar Pokromski",
+          "description": "key makeup artist"
+        },
+        {
+          "id": "nm0996254",
+          "name": "Helmut Rühl",
+          "description": "makeup artist: Berlin unit"
+        },
+        {
+          "id": "nm1768934",
+          "name": "Julia Sémerenko",
+          "description": "assistant makeup artist: St. Petersburg unit (as Julia Semerenko)"
+        },
+        {
+          "id": "nm1888681",
+          "name": "Katya Zheleikina",
+          "description": "assistant makeup artist: St. Petersburg unit"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0023682",
+          "name": "Philipp Alzmann",
+          "description": "unit manager: Munich unit"
+        },
+        {
+          "id": "nm1523330",
+          "name": "Dirk Gornickel",
+          "description": "set production manager"
+        },
+        {
+          "id": "nm0415683",
+          "name": "Christine Jahn",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm0807079",
+          "name": "Natalya Smirnova",
+          "description": "production manager: St. Petersburg unit (as Natasha Smirnova)"
+        },
+        {
+          "id": "nm0866151",
+          "name": "Silvia Tollmann",
+          "description": "unit production manager"
+        },
+        {
+          "id": "nm0880379",
+          "name": "Peter Ulbrich",
+          "description": "unit manager: St. Petersburg unit"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0333512",
+          "name": "Bohdan Graczyk",
+          "description": "second assistant director: St. Petersburg (as Bogdan Graczyk)"
+        },
+        {
+          "id": "nm1526132",
+          "name": "Tobin Ober",
+          "description": "third assistant director: St. Petersburg"
+        },
+        {
+          "id": "nm0656404",
+          "name": "Tatjana Pagels",
+          "description": "second assistant director: Berlin"
+        },
+        {
+          "id": "nm0688791",
+          "name": "Hanus Polak Jr.",
+          "description": "first assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0044663",
+          "name": "Martin Baar",
+          "description": "set dresser: Munich"
+        },
+        {
+          "id": "nm0076610",
+          "name": "Marcus Berndt",
+          "description": "prop buyer"
+        },
+        {
+          "id": "nm1884612",
+          "name": "Valery Bokovenko",
+          "description": "set construction: St. Petersburg / stand-by carpenter: St. Petersburg"
+        },
+        {
+          "id": "nm1882431",
+          "name": "Stefan Burischek",
+          "description": "set dresser: Munich"
+        },
+        {
+          "id": "nm1124199",
+          "name": "Michael Däumler",
+          "description": "set construction: Munich"
+        },
+        {
+          "id": "nm1883418",
+          "name": "Aleksey Filatov",
+          "description": "assistant art director: St. Petersburg"
+        },
+        {
+          "id": "nm1888326",
+          "name": "Sergey Fukalov",
+          "description": "assistant art director: St. Petersburg"
+        },
+        {
+          "id": "nm0373522",
+          "name": "Gregor Hees",
+          "description": "assistant set decorator: St. Petersburg"
+        },
+        {
+          "id": "nm1048707",
+          "name": "Oliver Hoese",
+          "description": "assistant production designer: Munich"
+        },
+        {
+          "id": "nm1885090",
+          "name": "Stefanie Hüther",
+          "description": "assistant property master: Munich (as Stefanie Knobel)"
+        },
+        {
+          "id": "nm0449148",
+          "name": "Joachim Keppler",
+          "description": "stand-by props"
+        },
+        {
+          "id": "nm1037142",
+          "name": "Gregor Mager",
+          "description": "assistant set decorator: St. Petersburg"
+        },
+        {
+          "id": "nm1459454",
+          "name": "Irina Melnikova",
+          "description": "property master: St. Petersburg"
+        },
+        {
+          "id": "nm0648283",
+          "name": "Ekaterina Omakhanova",
+          "description": "property master: St. Petersburg (as Katya Omakhanova)"
+        },
+        {
+          "id": "nm1460094",
+          "name": "Aleksei Savvateyev",
+          "description": "set dresser: St. Petersburg (as Alexei Savvateev)"
+        },
+        {
+          "id": "nm1754904",
+          "name": "Maythe Stavermann",
+          "description": "art department trainee: Munich"
+        },
+        {
+          "id": "nm1887035",
+          "name": "Georgi Vasilevsky",
+          "description": "assistant property master: St. Petersburg"
+        },
+        {
+          "id": "nm0928357",
+          "name": "Johannes Wild",
+          "description": "prop buyer"
+        },
+        {
+          "id": "nm1461341",
+          "name": "Vladimir Yegorov",
+          "description": "set dresser: St. Petersburg (as Vladimir Egorov)"
+        },
+        {
+          "id": "nm1884865",
+          "name": "Galina Zaigraeva",
+          "description": "property master: St. Petersburg"
+        },
+        {
+          "id": "nm0955792",
+          "name": "Elena Zhukova",
+          "description": "art director: St. Petersburg"
+        },
+        {
+          "id": "nm3009372",
+          "name": "Jan Hülpüsch",
+          "description": "graphic artist: Schein Berlin (uncredited)"
+        },
+        {
+          "id": "nm2932661",
+          "name": "Daniel Porsdorf",
+          "description": "graphic artist: Schein Berlin (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0124012",
+          "name": "Stefan Busch",
+          "description": "supervising sound designer"
+        },
+        {
+          "id": "nm0311686",
+          "name": "Lisa Geffcken-Reinhard",
+          "description": "sound effects editor (as Lisa Geffcken)"
+        },
+        {
+          "id": "nm0330881",
+          "name": "Frank Gorgas",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0350349",
+          "name": "Johannes Gwisdek",
+          "description": "sound intern: Munich / sound trainee: Munich"
+        },
+        {
+          "id": "nm0469832",
+          "name": "Michael Kranz",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm0470539",
+          "name": "Nico Krebs",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0575799",
+          "name": "Kai Medinger",
+          "description": "adr mixer"
+        },
+        {
+          "id": "nm0688176",
+          "name": "Jörn Poetzl",
+          "description": "foley artist (as Joern Poetzl)"
+        },
+        {
+          "id": "nm0725297",
+          "name": "Carsten Richter",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0738288",
+          "name": "Nina Roll",
+          "description": "dialog supervisor"
+        },
+        {
+          "id": "nm1222543",
+          "name": "Benjamin A. Rosenkind",
+          "description": "assistant re-recording mixer"
+        },
+        {
+          "id": "nm1144289",
+          "name": "Fabian Schmidt",
+          "description": "adr editor / dialogue editor"
+        },
+        {
+          "id": "nm0773691",
+          "name": "Abi Schneider",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm1017082",
+          "name": "Philipp Sellier",
+          "description": "foley mixer"
+        },
+        {
+          "id": "nm0935145",
+          "name": "Roland Winke",
+          "description": "production sound mixer"
+        },
+        {
+          "id": "nm1222557",
+          "name": "Norbert Zich",
+          "description": "stereo sound consultant: Dolby"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm1884155",
+          "name": "Michael Alekseev",
+          "description": "special effects assistant: St. Petersburg unit"
+        },
+        {
+          "id": "nm1724849",
+          "name": "Daniel Alexandru",
+          "description": "modeler: Germania, St. Petersburg unit"
+        },
+        {
+          "id": "nm0090620",
+          "name": "Karl-Heinz Bochnig",
+          "description": "special effects technician: St. Petersburg unit"
+        },
+        {
+          "id": "nm0333428",
+          "name": "Natasha Grachova",
+          "description": "special effects coordinator: St. Petersburg unit"
+        },
+        {
+          "id": "nm1185387",
+          "name": "Maurice Koester",
+          "description": "special effects technician: St. Petersburg unit (as Maurice Köster)"
+        },
+        {
+          "id": "nm0486105",
+          "name": "Dirk Lange",
+          "description": "special effects: Munich unit"
+        },
+        {
+          "id": "nm1888843",
+          "name": "Sergey Lisitsin",
+          "description": "modeler: toy vehicles, St. Petersburg unit"
+        },
+        {
+          "id": "nm1723474",
+          "name": "Liviu Marcu",
+          "description": "modeler: Germania, St. Petersburg unit (as Liviu Gheorge Marcu)"
+        },
+        {
+          "id": "nm1724876",
+          "name": "Dan Munteanu",
+          "description": "modeler: Germania, St. Petersburg unit"
+        },
+        {
+          "id": "nm0773093",
+          "name": "Marcus Preussing",
+          "description": "special effects technician: St. Petersburg unit (as Marcus Schmidt)"
+        },
+        {
+          "id": "nm0712194",
+          "name": "Bernd Rautenberg",
+          "description": "special effects technician: St. Petersburg unit"
+        },
+        {
+          "id": "nm0857946",
+          "name": "Thomas Thiele",
+          "description": "special effects technician: St. Petersburg unit"
+        },
+        {
+          "id": "nm1814844",
+          "name": "Aleksandr Yakovlev",
+          "description": "special effects assistant: St. Petersburg unit (as Alexander Yakovlev)"
+        },
+        {
+          "id": "nm0624338",
+          "name": "Uli Nefzer",
+          "description": "special effects supervisor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm1145069",
+          "name": "Alessandro Cioffi",
+          "description": "compositing artist"
+        },
+        {
+          "id": "nm1673441",
+          "name": "Gabriel Dedic",
+          "description": "digital color timer"
+        },
+        {
+          "id": "nm1673443",
+          "name": "Damian Doennig",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1598683",
+          "name": "Moritz Eiche",
+          "description": "digital compositor: CA Scanline Production GmbH"
+        },
+        {
+          "id": "nm1714567",
+          "name": "Michael Hirsch",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm0472801",
+          "name": "Jan Krupp",
+          "description": "digital effects supervisor"
+        },
+        {
+          "id": "nm1673460",
+          "name": "Melissa Lippisch",
+          "description": "digital cleanup"
+        },
+        {
+          "id": "nm1718708",
+          "name": "Tobias Ludwig",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1673462",
+          "name": "Helene Marinoff",
+          "description": "visual effects production manager: CA Scanline Production GmbH"
+        },
+        {
+          "id": "nm1677432",
+          "name": "Michael Ralla",
+          "description": "compositing artist"
+        },
+        {
+          "id": "nm1720986",
+          "name": "Benjamin Roß",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1583578",
+          "name": "Norbert Ruf",
+          "description": "compositing artist"
+        },
+        {
+          "id": "nm1673486",
+          "name": "Alexander Seefelder",
+          "description": "compositing artist"
+        },
+        {
+          "id": "nm0821666",
+          "name": "Stefanie Stalf",
+          "description": "visual effects producer"
+        },
+        {
+          "id": "nm1677438",
+          "name": "Sebastian Stanek",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1718723",
+          "name": "Dietrich Stoll",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1673492",
+          "name": "Heiko Sülberg",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm1176756",
+          "name": "Stephan Trojansky",
+          "description": "visual effects consultant"
+        },
+        {
+          "id": "nm1718728",
+          "name": "Zoltán von Gáti",
+          "description": "digital effects artist"
+        },
+        {
+          "id": "nm0952062",
+          "name": "Ismat Zaidi",
+          "description": "visual effects production manager: scan&record35"
+        },
+        {
+          "id": "nm0953715",
+          "name": "Thomas Zauner",
+          "description": "visual effects supervisor"
+        },
+        {
+          "id": "nm0958966",
+          "name": "Martin Zwanzger",
+          "description": "compositing artist"
+        },
+        {
+          "id": "nm1677434",
+          "name": "Michael Scheffler",
+          "description": "systems admistrator: scan&record 35 GmbH (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0466291",
+          "name": "Oleg Korytin",
+          "description": "stunt coordinator: St. Petersburg unit"
+        },
+        {
+          "id": "nm0326660",
+          "name": "Sergey Golovkin",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1762378",
+          "name": "Timo Andert",
+          "description": "video operator: Munich"
+        },
+        {
+          "id": "nm1880508",
+          "name": "Kirill Azriel",
+          "description": "lighting technician: St. Petersburg"
+        },
+        {
+          "id": "nm1884700",
+          "name": "Maxim Belousov",
+          "description": "grip: St. Petersburg"
+        },
+        {
+          "id": "nm1590055",
+          "name": "Yannick Bonica",
+          "description": "lighting technician: Berlin"
+        },
+        {
+          "id": "nm1681504",
+          "name": "Carol Burandt von Kameke",
+          "description": "second assistant camera"
+        },
+        {
+          "id": "nm0127349",
+          "name": "Tilman Büttner",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm0248015",
+          "name": "Sven Ebenhardt",
+          "description": "grip"
+        },
+        {
+          "id": "nm0251548",
+          "name": "Dirk Eichler",
+          "description": "lighting technician: Berlin"
+        },
+        {
+          "id": "nm0469722",
+          "name": "Peter Fritscher",
+          "description": "gaffer (as Peter Krammer)"
+        },
+        {
+          "id": "nm0363683",
+          "name": "Klaus Harnisch",
+          "description": "best boy: St. Petersburg"
+        },
+        {
+          "id": "nm1889120",
+          "name": "Yuri Kachan",
+          "description": "electrician: St. Petersburg / lighting technician: St. Petersburg"
+        },
+        {
+          "id": "nm0467465",
+          "name": "Konstantin Kostin",
+          "description": "gaffer: St. Petersburg"
+        },
+        {
+          "id": "nm0537450",
+          "name": "Maike Maier",
+          "description": "grip"
+        },
+        {
+          "id": "nm0582900",
+          "name": "Sebastian Meuschel",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm0585690",
+          "name": "Astrid Miegel",
+          "description": "first assistant camera"
+        },
+        {
+          "id": "nm9304402",
+          "name": "Vladimir Mihaylov",
+          "description": "lighting technician: St. Petersburg (as Vladimir Mikhailov)"
+        },
+        {
+          "id": "nm1887610",
+          "name": "Vladimir Mikhaylov",
+          "description": "electrician: St. Petersburg"
+        },
+        {
+          "id": "nm0646061",
+          "name": "Jürgen Olczyk",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm1883180",
+          "name": "Dimitri Opekine",
+          "description": "second assistant camera: St. Petersburg"
+        },
+        {
+          "id": "nm0688389",
+          "name": "Marcus Pohlus",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm1479596",
+          "name": "Christian Richter",
+          "description": "best boy: Berlin"
+        },
+        {
+          "id": "nm0772706",
+          "name": "Ludwig Schmid",
+          "description": "lighting: Munich"
+        },
+        {
+          "id": "nm1888651",
+          "name": "Dima Sniatovsky",
+          "description": "grip: St. Petersburg"
+        },
+        {
+          "id": "nm1186310",
+          "name": "Aleksey Solodov",
+          "description": "third assistant camera: St. Petersburg (as Alexei Solodov)"
+        },
+        {
+          "id": "nm0857931",
+          "name": "Jürgen Thiele",
+          "description": "lighting: Munich"
+        },
+        {
+          "id": "nm1880635",
+          "name": "Sebastian Utz",
+          "description": "assistant grip: Munich"
+        },
+        {
+          "id": "nm1887872",
+          "name": "Isabelle Zampiero",
+          "description": "video operator: St. Petersburg"
+        },
+        {
+          "id": "nm3452298",
+          "name": "Nicolas Hüther",
+          "description": "2.unit cinematography (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm1039576",
+          "name": "Uwe Bünker",
+          "description": "casting: children"
+        },
+        {
+          "id": "nm1819053",
+          "name": "Tatyana Chistova",
+          "description": "casting assistant: St. Petersburg"
+        },
+        {
+          "id": "nm0298445",
+          "name": "Hellmut Fulss",
+          "description": "extras casting: Munich (as Helmut Fulss)"
+        },
+        {
+          "id": "nm1883088",
+          "name": "Yuri Kazakov",
+          "description": "casting assistant: St. Petersburg"
+        },
+        {
+          "id": "nm1880043",
+          "name": "Victoria Ogneva",
+          "description": "assistant extras casting: St. Petersburg"
+        },
+        {
+          "id": "nm0647337",
+          "name": "Mechthild Olliges",
+          "description": "extras casting: Berlin"
+        },
+        {
+          "id": "nm1540776",
+          "name": "Alla Petelina",
+          "description": "assistant extras casting: St. Petersburg"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm1888869",
+          "name": "Annette Bätz",
+          "description": "assistant costume designer"
+        },
+        {
+          "id": "nm0412131",
+          "name": "Natasha Ivanova",
+          "description": "assistant costume designer: St. Petersburg"
+        },
+        {
+          "id": "nm1882908",
+          "name": "Maxim Kardashov",
+          "description": "assistant costume designer: St. Petersburg"
+        },
+        {
+          "id": "nm1050041",
+          "name": "Reinhard Klebeck",
+          "description": "assistant costume designer: Munich"
+        },
+        {
+          "id": "nm1885391",
+          "name": "Wolfgang Klebeck",
+          "description": "wardrober: Munich"
+        },
+        {
+          "id": "nm0464615",
+          "name": "Larisa Komchenko",
+          "description": "wardrober: St. Petersburg (as Larisa Khomchenko)"
+        },
+        {
+          "id": "nm1883468",
+          "name": "Heinrich Krebs",
+          "description": "wardrober: Munich"
+        },
+        {
+          "id": "nm1888843",
+          "name": "Sergey Lisitsin",
+          "description": "car dresser: St. Petersburg"
+        },
+        {
+          "id": "nm1804897",
+          "name": "Grigori Minaev",
+          "description": "assistant costume designer: St. Petersburg (as Gregorii Minaev)"
+        },
+        {
+          "id": "nm0597081",
+          "name": "Andrew Mollo",
+          "description": "consultant: military wardrobe"
+        },
+        {
+          "id": "nm1886124",
+          "name": "Tatyana Pliatskovskaya",
+          "description": "wardrober: St. Petersburg"
+        },
+        {
+          "id": "nm1885886",
+          "name": "Astrid Pohland",
+          "description": "wardrober: Berlin"
+        },
+        {
+          "id": "nm0821002",
+          "name": "Svetlana Stachenko",
+          "description": "assistant costume designer: St. Petersburg (as Svetlana Statsenko)"
+        },
+        {
+          "id": "nm1883243",
+          "name": "Claudia Stadler",
+          "description": "wardrober: Munich"
+        },
+        {
+          "id": "nm0952497",
+          "name": "Natalya Zamakhina",
+          "description": "costume supervisor: St. Petersburg (as Natalia Zamakhina)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm2226317",
+          "name": "Lee Bennett",
+          "description": "digital colorist"
+        },
+        {
+          "id": "nm1072842",
+          "name": "Andschana Eschenbach",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm1885069",
+          "name": "Biserka Kirr",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm1487689",
+          "name": "Traudl Nicholson",
+          "description": "color timer"
+        },
+        {
+          "id": "nm0797072",
+          "name": "Renate Siegl",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm1103647",
+          "name": "Sandra Stier",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm1744881",
+          "name": "Andrea Voggenauer",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm6799319",
+          "name": "Alexander Mair",
+          "description": "color correction (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0329926",
+          "name": "Yakov Gordin",
+          "description": "location manager: St. Petersburg unit"
+        },
+        {
+          "id": "nm1886174",
+          "name": "Svetlana Lukash",
+          "description": "location manager: St. Petersburg unit"
+        },
+        {
+          "id": "nm1886512",
+          "name": "Vladislav Mayevsky",
+          "description": "location manager: St. Petersburg unit"
+        },
+        {
+          "id": "nm0687294",
+          "name": "Vladimir Plyatskovsky",
+          "description": "location manager: St. Petersburg unit (as Vladimir Plyatskovski)"
+        },
+        {
+          "id": "nm1888497",
+          "name": "Oksana Rusalinova",
+          "description": "location manager: St. Petersburg unit"
+        },
+        {
+          "id": "nm0901671",
+          "name": "Maxim Volodin",
+          "description": "location manager: St. Petersburg unit"
+        },
+        {
+          "id": "nm0958913",
+          "name": "Aleksei Zveryov",
+          "description": "location manager: St. Petersburg unit (as Alexey Zverev)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm1849382",
+          "name": "Karsten Baumgarten",
+          "description": "music scoring mixer"
+        },
+        {
+          "id": "nm0621604",
+          "name": "Georg Naschke",
+          "description": "music coordinator (as George Naschke)"
+        },
+        {
+          "id": "nm1884998",
+          "name": "Stefan Pintev",
+          "description": "concert master / orchestra leader"
+        },
+        {
+          "id": "nm0951598",
+          "name": "Stephan Zacharias",
+          "description": "music arranger / music producer"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0383152",
+          "name": "Michaela Hiefler",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm1885269",
+          "name": "Tobias Art",
+          "description": "production driver: Munich"
+        },
+        {
+          "id": "nm1888288",
+          "name": "Stefan Backes",
+          "description": "production driver: Munich"
+        },
+        {
+          "id": "nm0350349",
+          "name": "Johannes Gwisdek",
+          "description": "production driver: Berlin"
+        },
+        {
+          "id": "nm1678222",
+          "name": "Philipp Krause",
+          "description": "production driver: Munich"
+        },
+        {
+          "id": "nm1266670",
+          "name": "Bernd Oberueber",
+          "description": "production driver driver: Munich"
+        },
+        {
+          "id": "nm1882550",
+          "name": "Dirk Schumann",
+          "description": "production driver: Berlin"
+        },
+        {
+          "id": "nm1882278",
+          "name": "Stefan Schumann",
+          "description": "production driver: Berlin"
+        },
+        {
+          "id": "nm2201369",
+          "name": "Nina Ruhkala",
+          "description": "driver: trailer, St. Petersburg (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0023648",
+          "name": "Olga Alymova",
+          "description": "production coordinator: St. Petersburg unit"
+        },
+        {
+          "id": "nm1886799",
+          "name": "Dietmar Arnold",
+          "description": "consultant: bunker site"
+        },
+        {
+          "id": "nm1265196",
+          "name": "Bettina Bartl",
+          "description": "release publicist"
+        },
+        {
+          "id": "nm1231576",
+          "name": "Yana Bezhanskaya",
+          "description": "producer: St. Petersburg"
+        },
+        {
+          "id": "nm1348605",
+          "name": "Kerstin Biermann",
+          "description": "assistant: Christine Rothe"
+        },
+        {
+          "id": "nm0126981",
+          "name": "Kerstin Böck",
+          "description": "release publicist"
+        },
+        {
+          "id": "nm1884305",
+          "name": "Anke Diez",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0251536",
+          "name": "Bernd Eichinger",
+          "description": "presenter"
+        },
+        {
+          "id": "nm0295073",
+          "name": "Thomas Peter Friedl",
+          "description": "marketing (as Thomas Friedl)"
+        },
+        {
+          "id": "nm1889178",
+          "name": "Sasha Golubtsova",
+          "description": "additional caterer: St. Petersburg"
+        },
+        {
+          "id": "nm1889350",
+          "name": "Anna Gordeichik",
+          "description": "interpreter: St. Petersburg / translator: St. Petersburg"
+        },
+        {
+          "id": "nm1884641",
+          "name": "Christian Hartmann",
+          "description": "military consultant (as Dr. Christian Hartmann)"
+        },
+        {
+          "id": "nm0406187",
+          "name": "Ilona Hüttersen",
+          "description": "production press (as Illona Hüttersen)"
+        },
+        {
+          "id": "nm1888372",
+          "name": "Madelaine Jakwert",
+          "description": "production trainee: Munich"
+        },
+        {
+          "id": "nm1885776",
+          "name": "Sasha Kiriluk",
+          "description": "interpreter: St. Petersburg"
+        },
+        {
+          "id": "nm1926380",
+          "name": "Sasha Kiriluk",
+          "description": "translator: St. Petersburg (as Sasha Kirluk)"
+        },
+        {
+          "id": "nm1266225",
+          "name": "Torsten Koch",
+          "description": "assistant: distribution/marketing conception"
+        },
+        {
+          "id": "nm1880618",
+          "name": "Mila Koudriashova",
+          "description": "publicist: Globus Film, St. Petersburg"
+        },
+        {
+          "id": "nm1881852",
+          "name": "Elena Kozyrenko",
+          "description": "production assistant: St. Petersburg"
+        },
+        {
+          "id": "nm1882549",
+          "name": "Veronika Leidescher",
+          "description": "assistant: distribution/marketing conception"
+        },
+        {
+          "id": "nm0501368",
+          "name": "Lutz Lemke",
+          "description": "title designer"
+        },
+        {
+          "id": "nm1883903",
+          "name": "Anna Litvinenko",
+          "description": "translator: St. Petersburg"
+        },
+        {
+          "id": "nm1888132",
+          "name": "Peter Mayerhofer",
+          "description": "weapons master: Munich"
+        },
+        {
+          "id": "nm1885795",
+          "name": "Svetlana Miasoedova",
+          "description": "assistant caterer: St. Petersburg"
+        },
+        {
+          "id": "nm1888041",
+          "name": "Jürgen Müller",
+          "description": "consultant: concrete shelter"
+        },
+        {
+          "id": "nm1881624",
+          "name": "Margot Neschitsch",
+          "description": "assistant: distribution/marketing conception"
+        },
+        {
+          "id": "nm1919383",
+          "name": "Elena Ogneva",
+          "description": "accountant: St. Petersburg"
+        },
+        {
+          "id": "nm1882860",
+          "name": "Elena Ogneva",
+          "description": "payroll: St. Petersburg (as Elena Ognieva)"
+        },
+        {
+          "id": "nm1883220",
+          "name": "Olga Pankratova",
+          "description": "assistant caterer: St. Petersburg"
+        },
+        {
+          "id": "nm1746193",
+          "name": "Cornelia Popp",
+          "description": "production secretary: Munich"
+        },
+        {
+          "id": "nm0718403",
+          "name": "Gottfried Reisecker",
+          "description": "consultant: film laboratory"
+        },
+        {
+          "id": "nm1439685",
+          "name": "Daniel Rosness",
+          "description": "production secretary: Munich (as Danny Rosness)"
+        },
+        {
+          "id": "nm1880441",
+          "name": "Anna Ruchii",
+          "description": "translator: St. Petersburg"
+        },
+        {
+          "id": "nm1882393",
+          "name": "Svetlana Sapunova",
+          "description": "accountant: St. Petersburg / payroll: St. Petersburg"
+        },
+        {
+          "id": "nm1888452",
+          "name": "Alisa Schavinskaya",
+          "description": "translator: St. Petersburg"
+        },
+        {
+          "id": "nm0775052",
+          "name": "Jurij Schrader",
+          "description": "assistant: Bernd Lepel, St. Petersburg"
+        },
+        {
+          "id": "nm1266993",
+          "name": "Tanja Schwoch",
+          "description": "assistant: Bernd Eichinger"
+        },
+        {
+          "id": "nm1925419",
+          "name": "Valentina Selezinova",
+          "description": "additional catering: St. Petersburg"
+        },
+        {
+          "id": "nm1887947",
+          "name": "Valentina Selezniova",
+          "description": "additional caterer: St. Petersburg"
+        },
+        {
+          "id": "nm1883687",
+          "name": "Dimitri Simanovskiy",
+          "description": "translator: St. Petersburg"
+        },
+        {
+          "id": "nm0801835",
+          "name": "Kira Sinelshikova",
+          "description": "production assistant: St. Petersburg (as Kira Sinelschikova)"
+        },
+        {
+          "id": "nm1234409",
+          "name": "Galina Smirnova",
+          "description": "douane coordinator: St. Petersburg"
+        },
+        {
+          "id": "nm0817409",
+          "name": "Dorothee Specht",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm1239120",
+          "name": "Nonna Velikaya",
+          "description": "translator: St. Petersburg"
+        },
+        {
+          "id": "nm1554200",
+          "name": "Mirjam Weber",
+          "description": "production assistant: St. Petersburg"
+        },
+        {
+          "id": "nm0937974",
+          "name": "Fabian Wolfart",
+          "description": "on-line promotion"
+        },
+        {
+          "id": "nm1883996",
+          "name": "Zidana Zhdanova",
+          "description": "production assistant: St. Petersburg"
+        },
+        {
+          "id": "nm1926138",
+          "name": "Zinaida Zhdanova",
+          "description": "production assistant: St. Petersburg"
+        },
+        {
+          "id": "nm1439685",
+          "name": "Daniel Rosness",
+          "description": "production coordinator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm3766192",
+          "name": "Josef Brandmaier",
+          "description": "thanks"
+        },
+        {
+          "id": "nm1919618",
+          "name": "Ben Brumfield",
+          "description": "thanks"
+        },
+        {
+          "id": "nm3846341",
+          "name": "Manfred Burger",
+          "description": "thanks"
+        },
+        {
+          "id": "nm1747496",
+          "name": "Ulrich Deppendorf",
+          "description": "thanks"
+        },
+        {
+          "id": "nm1926416",
+          "name": "Joseph Dietl",
+          "description": "thanks (as Oberstleutnant a.D. der Luftwaffe Joseph Dietl)"
+        },
+        {
+          "id": "nm0294681",
+          "name": "Bernd Freytag von Loringhoven",
+          "description": "thanks"
+        },
+        {
+          "id": "nm0377041",
+          "name": "Gebhard Henke",
+          "description": "thanks"
+        },
+        {
+          "id": "nm0386944",
+          "name": "Adolf Hitler",
+          "description": "acknowledgment"
+        },
+        {
+          "id": "nm1018255",
+          "name": "Jürgen Kellermeier",
+          "description": "thanks (as Dr. Jürgen Kellermeier)"
+        },
+        {
+          "id": "nm1921239",
+          "name": "Jan Mojto",
+          "description": "thanks"
+        },
+        {
+          "id": "nm1921829",
+          "name": "David Müller-Meerkatz",
+          "description": "thanks"
+        },
+        {
+          "id": "nm0753912",
+          "name": "Oskar Roehler",
+          "description": "thanks"
+        },
+        {
+          "id": "nm0772905",
+          "name": "Eckhart Schmidt",
+          "description": "thanks"
+        },
+        {
+          "id": "nm1919985",
+          "name": "Günter Struwe",
+          "description": "thanks (as Dr. Günter Struwe)"
+        },
+        {
+          "id": "nm0878756",
+          "name": "Tom Tykwer",
+          "description": "thanks"
+        },
+        {
+          "id": "nm0903030",
+          "name": "Hubert von Spreti",
+          "description": "thanks"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

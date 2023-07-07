@@ -1,0 +1,1078 @@
+{
+  "imDbId": "tt0060196",
+  "title": "The Good, the Bad and the Ugly",
+  "fullTitle": "The Good, the Bad and the Ugly (1966)",
+  "type": "Movie",
+  "year": "1966",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0898812",
+        "name": "Luciano Vincenzoni",
+        "description": "(story) &"
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": "(story)"
+      },
+      {
+        "id": "nm0408488",
+        "name": "Agenore Incrocci",
+        "description": "(screenplay) (as Age) &"
+      },
+      {
+        "id": "nm0769249",
+        "name": "Furio Scarpelli",
+        "description": "(screenplay) (as Scarpelli) &"
+      },
+      {
+        "id": "nm0898812",
+        "name": "Luciano Vincenzoni",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "description": "(screenplay)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0908919",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk1NzcyZTItMjZkOC00MjM2LThiYWUtZDE5NGZlZDliYmViXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eli Wallach",
+      "asCharacter": "Tuco"
+    },
+    {
+      "id": "nm0000142",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3MDc0MjY0OV5BMl5BanBnXkFtZTcwNzU1MDAxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Clint Eastwood",
+      "asCharacter": "Blondie"
+    },
+    {
+      "id": "nm0001812",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0ODU1NjY5N15BMl5BanBnXkFtZTcwNTI0NzEyMw@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Lee Van Cleef",
+      "asCharacter": "Sentenza / Angel Eyes"
+    },
+    {
+      "id": "nm0321294",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBhYjI5NmEtMjc4OS00YTM4LWE2NTEtOGEwYzNmOGNmOGI0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Aldo Giuffrè",
+      "asCharacter": "Alcoholic Union Captain (as Aldo Giuffre')"
+    },
+    {
+      "id": "nm0685559",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MzM4MDI5OV5BMl5BanBnXkFtZTcwNjU2NzEyMw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Luigi Pistilli",
+      "asCharacter": "Father Pablo Ramirez"
+    },
+    {
+      "id": "nm0711502",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmE5NzEwOGUtNGIzNy00NDk5LWFkOGUtZjJhNzc2MjYzODEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Rada Rassimov",
+      "asCharacter": "Maria"
+    },
+    {
+      "id": "nm0677654",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Enzo Petito",
+      "asCharacter": "Storekeeper"
+    },
+    {
+      "id": "nm0769116",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claudio Scarchilli",
+      "asCharacter": "Mexican Peon"
+    },
+    {
+      "id": "nm0058384",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzlhZWQwZTktYmM4MS00NThjLWE0NjktODNhNDU2Yzc2ZGM5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.8636_AL_.jpg",
+      "name": "John Bartha",
+      "asCharacter": "Sheriff (as John Bartho)"
+    },
+    {
+      "id": "nm0520859",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Livio Lorenzon",
+      "asCharacter": "Baker"
+    },
+    {
+      "id": "nm0142804",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2U3MmM1NDQtMjU4OC00YTQ1LThjZjUtMjFlN2Q5MmVkZDIwXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_Ratio1.7273_AL_.jpg",
+      "name": "Antonio Casale",
+      "asCharacter": "Jackson / Bill Carson"
+    },
+    {
+      "id": "nm0769118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sandro Scarchilli",
+      "asCharacter": "Mexican Peon"
+    },
+    {
+      "id": "nm0824934",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTIzNjY5MWUtOTJlMC00MTA0LTkyOGYtNTIwMTcwMWI3YTU4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Benito Stefanelli",
+      "asCharacter": "Member of Angel Eyes' Gang"
+    },
+    {
+      "id": "nm0637064",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angelo Novi",
+      "asCharacter": "Monk"
+    },
+    {
+      "id": "nm0143030",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ4NDJmNWUtYzgwZS00YTU1LWE4ZDAtNzJiZGFhZDUzNjg2XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Antonio Casas",
+      "asCharacter": "Stevens"
+    },
+    {
+      "id": "nm0759757",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxNjY0NTQzMV5BMl5BanBnXkFtZTYwODEwMjI0._V1_Ratio0.8182_AL_.jpg",
+      "name": "Aldo Sambrell",
+      "asCharacter": "Member of Angel Eyes' Gang"
+    },
+    {
+      "id": "nm0612468",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Al Mulock",
+      "asCharacter": "One-Armed Bounty Hunter (as Al Mulloch)"
+    },
+    {
+      "id": "nm0579155",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sergio Mendizábal",
+      "asCharacter": "Blonde Bounty Hunter (as Sergio Mendizabal)"
+    },
+    {
+      "id": "nm0590158",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2JjZGU3YTEtM2I4NS00ZGQyLWE1OGYtODU2MzU5ZWJiY2Q2XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Antonio Molino Rojo",
+      "asCharacter": "Capt. Harper (as Molino Rocho)"
+    },
+    {
+      "id": "nm0696468",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lorenzo Robledo",
+      "asCharacter": "Clem"
+    },
+    {
+      "id": "nm0103828",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNzE2MDI1MV5BMl5BanBnXkFtZTcwNjQ2NzEyMw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Mario Brega",
+      "asCharacter": "Cpl. Wallace"
+    },
+    {
+      "id": "nm8042532",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Alagich",
+      "asCharacter": "Soldato Unione all'Arresto (uncredited)"
+    },
+    {
+      "id": "nm0022154",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyNzExMDE3MF5BMl5BanBnXkFtZTcwMzY2NzEyMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Chelo Alonso",
+      "asCharacter": "Stevens' Wife (uncredited)"
+    },
+    {
+      "id": "nm0028186",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fortunato Arena",
+      "asCharacter": "1st Sombrero Onlooker at Tuco's 1st Hanging (uncredited)"
+    },
+    {
+      "id": "nm0034978",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Román Ariznavarreta",
+      "asCharacter": "Bounty Hunter (uncredited)"
+    },
+    {
+      "id": "nm0045265",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Silvana Bacci",
+      "asCharacter": "Messicana con Biondo (uncredited)"
+    },
+    {
+      "id": "nm7994173",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Bradley",
+      "asCharacter": "Old Soldier (uncredited)"
+    },
+    {
+      "id": "nm0106394",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjkxMTMzMGYtOGJhOS00MmQ4LTk0YzItZWQ1NTMwZTRjMTNlXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Frank Braña",
+      "asCharacter": "Bounty Hunter #2 (uncredited)"
+    },
+    {
+      "id": "nm0145428",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Amerigo Castrighella",
+      "asCharacter": "2nd Sombrero Onlooker at Tuco's 1st Hanging (uncredited)"
+    },
+    {
+      "id": "nm0148755",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2NiYjY2MjQtOWRmYS00N2EyLTliZDctZDE0YTliNjc0MzM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Saturno Cerra",
+      "asCharacter": "Bounty Hunter (uncredited)"
+    },
+    {
+      "id": "nm0161918",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luigi Ciavarro",
+      "asCharacter": "Member of Angel Eyes' Gang (uncredited)"
+    },
+    {
+      "id": "nm1871826",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Conroy",
+      "asCharacter": "Confederate Soldier (uncredited)"
+    },
+    {
+      "id": "nm9516834",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Antonio Contreras",
+      "asCharacter": "Violinista al Campo (uncredited)"
+    },
+    {
+      "id": "nm5079578",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Domingo Contreras",
+      "asCharacter": "Extra (uncredited)"
+    },
+    {
+      "id": "nm0201482",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Axel Darna",
+      "asCharacter": "Soldato Confederato Morente (uncredited)"
+    },
+    {
+      "id": "nm0224105",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tony Di Mitri",
+      "asCharacter": "Deputy (uncredited)"
+    },
+    {
+      "id": "nm0224302",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gianni Di Segni",
+      "asCharacter": "Deputy at 1st Hanging (uncredited)"
+    },
+    {
+      "id": "nm0991629",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alberigo Donadeo",
+      "asCharacter": "Spettatore Prima Impiccagione (uncredited)"
+    },
+    {
+      "id": "nm0234581",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjFjNDMyZmEtYmRkNi00ODkzLWFkYTktY2YzZGI1ZWIxZTcxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Attilio Dottesio",
+      "asCharacter": "3rd Sombrero Onlooker at Tuco's 1st Hanging (uncredited)"
+    },
+    {
+      "id": "nm0273033",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NzkzNDI4NF5BMl5BanBnXkFtZTYwMDE2Nzgy._V1_Ratio0.8636_AL_.jpg",
+      "name": "Peter Fernandez",
+      "asCharacter": "Baker (uncredited)"
+    },
+    {
+      "id": "nm4766300",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luis Fernández de Eribe",
+      "asCharacter": "Soldier Coat (uncredited)"
+    },
+    {
+      "id": "nm0312764",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Veriano Ginesi",
+      "asCharacter": "Bald Onlooker at Tuco's 1st Hanging (uncredited)"
+    },
+    {
+      "id": "nm0350065",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQyM2Q2NjgtMWExMy00OTUwLTg3MzItN2FjNTYxMDMwYjJmXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jesús Guzmán",
+      "asCharacter": "Pardue the Hotel Owner (uncredited)"
+    },
+    {
+      "id": "nm0411486",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2QzNGE5ODYtMTE2NC00NjRlLWFlYmMtMWVmOThjODMxNDlhXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Víctor Israel",
+      "asCharacter": "Sergeant at Confederate Fort (uncredited)"
+    },
+    {
+      "id": "nm0622095",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nazzareno Natale",
+      "asCharacter": "Mexican Bounty Hunter (uncredited)"
+    },
+    {
+      "id": "nm0529890",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Q3OTQ1ZWYtYmJkMi00NTU0LTk1ZGYtNzRhZDIxYjdkZmQyXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Ricardo Palacios",
+      "asCharacter": "Barista a Socorro (uncredited)"
+    },
+    {
+      "id": "nm0658705",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Antonio Palombi",
+      "asCharacter": "Vecchio Sergente (uncredited)"
+    },
+    {
+      "id": "nm8713354",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Julio Martínez Piernavieja",
+      "asCharacter": "Corista al Campo (uncredited)"
+    },
+    {
+      "id": "nm4566327",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jesús Porras",
+      "asCharacter": "Suonatore Armonica al Campo (uncredited)"
+    },
+    {
+      "id": "nm0057269",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWExNWM3OGMtYTlhYy00MWI2LTk5OWYtMDJkNTExZTliMDAyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Romano Puppo",
+      "asCharacter": "Member of Angel Eyes' Gang (uncredited)"
+    },
+    {
+      "id": "nm1433541",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Antoñito Ruiz",
+      "asCharacter": "Stevens' Youngest Son (uncredited)"
+    },
+    {
+      "id": "nm0241757",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM0NmMwYzEtMzkxMS00ZjRlLTkyZjMtN2NlZDUzZGIzOGQ4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.4091_AL_.jpg",
+      "name": "Aysanoa Runachagua",
+      "asCharacter": "Pistolero Recruited by Tuco in the Cave (uncredited)"
+    },
+    {
+      "id": "nm1056132",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Enrique Santiago",
+      "asCharacter": "Mexican Bounty Hunter (uncredited)"
+    },
+    {
+      "id": "nm1056271",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "José Terrón",
+      "asCharacter": "Thomas 'Shorty' Larson (uncredited)"
+    },
+    {
+      "id": "nm0865041",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE3YTY4NTUtMTViZC00MzJlLTliZDYtMGEzNzM4NjBmZWQwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Franco Tocci",
+      "asCharacter": "Soldato Unione con Sigaro (uncredited)"
+    },
+    {
+      "id": "nm12130262",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfonso Veady",
+      "asCharacter": "Half-soldier (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0342090",
+          "name": "Alberto Grimaldi",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0001553",
+          "name": "Ennio Morricone",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005686",
+          "name": "Tonino Delli Colli",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0015760",
+          "name": "Eugenio Alabiso",
+          "description": ""
+        },
+        {
+          "id": "nm0052849",
+          "name": "Nino Baragli",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0799495",
+          "name": "Carlo Simi",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0799495",
+          "name": "Carlo Simi",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0136210",
+          "name": "Rino Carboni",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0865329",
+          "name": "Rino Todero",
+          "description": "hairdresser"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0162489",
+          "name": "Fernando Cinquini",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0690135",
+          "name": "Aldo Pomilia",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm0701932",
+          "name": "J.A. Pérez Giner",
+          "description": "production manager (as José Antonio Pérez Giner)"
+        },
+        {
+          "id": "nm0292875",
+          "name": "Gray Frederickson",
+          "description": "production manager: USA (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0316259",
+          "name": "Fabrizio Gianni",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0763513",
+          "name": "Giancarlo Santi",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0505115",
+          "name": "Carlo Leva",
+          "description": "assistant art director"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm3111654",
+          "name": "James Alfaro",
+          "description": "second engineer (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0059891",
+          "name": "Sergio Basili",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0162570",
+          "name": "Aldo Ciorba",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0211643",
+          "name": "Vittorio De Sisti",
+          "description": "sound engineer"
+        },
+        {
+          "id": "nm0480087",
+          "name": "Bob Lacivita",
+          "description": "re-recording sound mixer (2003 extended English-language version)"
+        },
+        {
+          "id": "nm2528748",
+          "name": "Preston Martin",
+          "description": "second engineer (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0655193",
+          "name": "Elio Pacella",
+          "description": "sound engineer"
+        },
+        {
+          "id": "nm0692572",
+          "name": "Alan Porzio",
+          "description": "adr editing (2003 extended English-language version) / adr recording (2003 extended English-language version)"
+        },
+        {
+          "id": "nm2163696",
+          "name": "Nathan Scruggs",
+          "description": "second engineer (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0789015",
+          "name": "Burton Sharp",
+          "description": "ADR voice casting (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0025831",
+          "name": "Fausto Ancillai",
+          "description": "sound mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0045271",
+          "name": "Eros Bacciucchi",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0995841",
+          "name": "Antonio Baquero",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm0180935",
+          "name": "Giovanni Corridori",
+          "description": "special effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0034978",
+          "name": "Román Ariznavarreta",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0161918",
+          "name": "Luigi Ciavarro",
+          "description": "stunt actor (uncredited)"
+        },
+        {
+          "id": "nm0199422",
+          "name": "Alfredo Danesi",
+          "description": "stunt double: Eli Wallach (uncredited)"
+        },
+        {
+          "id": "nm0000484",
+          "name": "John Landis",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm2841206",
+          "name": "Valentino Pelizzi",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0057269",
+          "name": "Romano Puppo",
+          "description": "stunt actor (uncredited)"
+        },
+        {
+          "id": "nm0824934",
+          "name": "Benito Stefanelli",
+          "description": "stunt coordinator (uncredited) / stunts (uncredited)"
+        },
+        {
+          "id": "nm0601377",
+          "name": "Fabio Testi",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0223862",
+          "name": "Franco Di Giacomo",
+          "description": "cameraman"
+        },
+        {
+          "id": "nm8338116",
+          "name": "Domenico Parrello",
+          "description": "grip"
+        },
+        {
+          "id": "nm0759331",
+          "name": "Sergio Salvati",
+          "description": "assistant cameraman"
+        },
+        {
+          "id": "nm0637064",
+          "name": "Angelo Novi",
+          "description": "still photographer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm2449876",
+          "name": "Vrej Allahverdian",
+          "description": "negative cutter (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0195549",
+          "name": "Joe D'Augustine",
+          "description": "additional editor (2003 extended English-language version)"
+        },
+        {
+          "id": "nm1906255",
+          "name": "Sharol Olson",
+          "description": "color timer (2003 extended English-language version) (as Sharol Olsen)"
+        },
+        {
+          "id": "nm0006872",
+          "name": "Sergio Donati",
+          "description": "additional dialogue (uncredited)"
+        },
+        {
+          "id": "nm0626217",
+          "name": "Nazzareno Neri",
+          "description": "final colorist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm1370302",
+          "name": "Cantori Moderni Di Alessandroni",
+          "description": "choirs (as 'I Cantori Moderni' of Alessandroni) / chorus (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm3839922",
+          "name": "Franco Cosacchi",
+          "description": "singer (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm3836683",
+          "name": "Nino Dei",
+          "description": "singer (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm1397767",
+          "name": "Edda Dell'Orso",
+          "description": "singer (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm3841148",
+          "name": "Enzo Gioieni",
+          "description": "singer (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm0557863",
+          "name": "Giuseppe Mastroianni",
+          "description": "recording by"
+        },
+        {
+          "id": "nm0006214",
+          "name": "Bruno Nicolai",
+          "description": "musical director"
+        },
+        {
+          "id": "nm3840949",
+          "name": "Gianna Spagnolo",
+          "description": "singer (as 'I Cantori Moderni' of Alessandroni)"
+        },
+        {
+          "id": "nm0018145",
+          "name": "Alessandro Alessandroni",
+          "description": "music arranger: choral (uncredited) / musician: electric guitar (uncredited) / musician: guitar solos (uncredited) / musician: lead guitar (uncredited) / musician: whistler (uncredited)"
+        },
+        {
+          "id": "nm1858548",
+          "name": "Bruno Battisti D'Amario",
+          "description": "musician: guitar (uncredited)"
+        },
+        {
+          "id": "nm3841231",
+          "name": "Italo Cammarota",
+          "description": "musician: ocarina (uncredited)"
+        },
+        {
+          "id": "nm3836860",
+          "name": "Francesco Catania",
+          "description": "musician: trumpet (uncredited)"
+        },
+        {
+          "id": "nm0208551",
+          "name": "Franco De Gemini",
+          "description": "musician: harmonica (uncredited)"
+        },
+        {
+          "id": "nm3836900",
+          "name": "E. Wolf Ferrari",
+          "description": "musician: English horn (uncredited)"
+        },
+        {
+          "id": "nm0479898",
+          "name": "Michele Lacerenza",
+          "description": "musician: trumpet (uncredited)"
+        },
+        {
+          "id": "nm3839647",
+          "name": "John O'Neill",
+          "description": "musician: whistler (uncredited)"
+        },
+        {
+          "id": "nm3840412",
+          "name": "Vincenzo Restuccia",
+          "description": "musician: percussions (uncredited)"
+        },
+        {
+          "id": "nm0759640",
+          "name": "Nicola Samale",
+          "description": "musician: flute (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0133916",
+          "name": "Serena Canevari",
+          "description": "script girl"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0059023",
+          "name": "Carlo Bartolini",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0179264",
+          "name": "Luigi Corbo",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0216739",
+          "name": "Jack DeLeon",
+          "description": "adr talent (2003 extended English-language version) (as Christopher Weeks)"
+        },
+        {
+          "id": "nm0444832",
+          "name": "Matt Keeslar",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0488044",
+          "name": "Igino Lardani",
+          "description": "titles (as Lardani)"
+        },
+        {
+          "id": "nm1993775",
+          "name": "Tony Munroe",
+          "description": "film laboratory services: Triage Motion Picture Services, Los Angeles (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0658705",
+          "name": "Antonio Palombi",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0660407",
+          "name": "Paul Pape",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0410579",
+          "name": "Simon Prescott",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0751876",
+          "name": "Paul Rutan Jr.",
+          "description": "film laboratory services: Triage Motion Picture Services, Los Angeles (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0765101",
+          "name": "David Sargent",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0789015",
+          "name": "Burton Sharp",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0812220",
+          "name": "André Sogliuzzo",
+          "description": "adr talent (2003 extended English-language version) (as Andre Sogliuzzo) (extended English-language version)"
+        },
+        {
+          "id": "nm0865520",
+          "name": "Federico Tofi",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0489834",
+          "name": "Tom Wyner",
+          "description": "adr talent (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0046671",
+          "name": "Gino Baghetti",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0053569",
+          "name": "Cesare Barbetti",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm1106808",
+          "name": "Gianfranco Bellini",
+          "description": "voice dubbing: Angelo Novi (uncredited)"
+        },
+        {
+          "id": "nm0124375",
+          "name": "Manlio Busoni",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm1410217",
+          "name": "Rosetta Calavetta",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0134993",
+          "name": "Giorgio Capecchi",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0162242",
+          "name": "Emilio Cigoli",
+          "description": "voice dubbing: Lee Van Cleef (uncredited)"
+        },
+        {
+          "id": "nm0206993",
+          "name": "Luciano De Ambrosis",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0224078",
+          "name": "Maria Pia Di Meo",
+          "description": "voice dubbing: Chelo Alonso (uncredited)"
+        },
+        {
+          "id": "nm0266949",
+          "name": "Sergio Fantoni",
+          "description": "voice dubbing: Jesús Guzmán (uncredited)"
+        },
+        {
+          "id": "nm0287530",
+          "name": "Massimo Foschi",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0311165",
+          "name": "Lauro Gazzolo",
+          "description": "voice dubbing: Enzo Petito (uncredited)"
+        },
+        {
+          "id": "nm0311168",
+          "name": "Nando Gazzolo",
+          "description": "voice dubbing: Luigi Pistilli (uncredited)"
+        },
+        {
+          "id": "nm6561258",
+          "name": "Joyce Gordon",
+          "description": "voice dubbing: Rada Rassimov (English version) (uncredited)"
+        },
+        {
+          "id": "nm0335274",
+          "name": "Bernie Grant",
+          "description": "voice dubbing: Aldo Giuffrè (English version) (uncredited)"
+        },
+        {
+          "id": "nm0461658",
+          "name": "Mickey Knox",
+          "description": "dubbing director (english language version) (uncredited)"
+        },
+        {
+          "id": "nm0513353",
+          "name": "Oreste Lionello",
+          "description": "voice dubbing: Joseph Bradley (uncredited)"
+        },
+        {
+          "id": "nm0516619",
+          "name": "Pino Locchi",
+          "description": "voice dubbing: Aldo Giuffrè (uncredited) / voice dubbing: Antonio Casale (uncredited)"
+        },
+        {
+          "id": "nm0592716",
+          "name": "Anna Miserocchi",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0648852",
+          "name": "Glauco Onorato",
+          "description": "voice dubbing: Al Mulock (uncredited)"
+        },
+        {
+          "id": "nm0667611",
+          "name": "Luigi Pavese",
+          "description": "voice dubbing: Antonio Casas (uncredited)"
+        },
+        {
+          "id": "nm0667613",
+          "name": "Nino Pavese",
+          "description": "voice dubbing: John Bartha (uncredited)"
+        },
+        {
+          "id": "nm1403175",
+          "name": "Bruno Persa",
+          "description": "voice dubbing: Victor Israel (uncredited)"
+        },
+        {
+          "id": "nm0681330",
+          "name": "Giorgio Piazza",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0685609",
+          "name": "Mario Pisu",
+          "description": "voice dubbing: Livio Lorenzon (uncredited)"
+        },
+        {
+          "id": "nm0727367",
+          "name": "Giuseppe Rinaldi",
+          "description": "voice dubbing: Antonio Molino Rojo (uncredited)"
+        },
+        {
+          "id": "nm0738856",
+          "name": "Carlo Romano",
+          "description": "voice dubbing: Eli Wallach (uncredited)"
+        },
+        {
+          "id": "nm0758066",
+          "name": "Enrico Maria Salerno",
+          "description": "voice dubbing: Clint Eastwood (uncredited)"
+        },
+        {
+          "id": "nm0767411",
+          "name": "Rita Savagnone",
+          "description": "voice dubbing: Rada Rassimov (uncredited)"
+        },
+        {
+          "id": "nm0796222",
+          "name": "Stefano Sibaldi",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0812163",
+          "name": "Vinicio Sofia",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm1225093",
+          "name": "Sergio Tedesco",
+          "description": "voice dubbing: Nazzareno Natale (uncredited)"
+        },
+        {
+          "id": "nm0876938",
+          "name": "Massimo Turci",
+          "description": "voice dubbing (uncredited)"
+        },
+        {
+          "id": "nm0877093",
+          "name": "Renato Turi",
+          "description": "voice dubbing: Mario Brega (uncredited) / voice dubbing: Román Ariznavarreta (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0000142",
+          "name": "Clint Eastwood",
+          "description": "special thanks (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0342090",
+          "name": "Alberto Grimaldi",
+          "description": "special thanks (2003 extended English-language version)"
+        },
+        {
+          "id": "nm0908919",
+          "name": "Eli Wallach",
+          "description": "special thanks (2003 extended English-language version)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,1645 @@
+{
+  "imDbId": "tt7678620",
+  "title": "Bluey",
+  "fullTitle": "Bluey (TV Series 2018– )",
+  "type": "TVSeries",
+  "year": "2018",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm2787978",
+        "name": "Richard Jeffery",
+        "description": "(99 episodes, 2020-2023)"
+      },
+      {
+        "id": "nm1068768",
+        "name": "Joe Brumm",
+        "description": "(52 episodes, 2018-2019)"
+      },
+      {
+        "id": "nm2961764",
+        "name": "Beth Harvey",
+        "description": "(2 episodes, 2019)"
+      },
+      {
+        "id": "nm4420318",
+        "name": "Claire Renton",
+        "description": "(1 episode, 2019)"
+      },
+      {
+        "id": "nm4449656",
+        "name": "Tony Walsh",
+        "description": "(1 episode, 2022)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm1068768",
+        "name": "Joe Brumm",
+        "description": "(written by) (152 episodes, 2018-2023)"
+      },
+      {
+        "id": "nm1068768",
+        "name": "Joe Brumm",
+        "description": "(creator) (30 episodes, 2018-2020)"
+      },
+      {
+        "id": "nm1068768",
+        "name": "Joe Brumm",
+        "description": "(created by) (6 episodes, 2020-2023)"
+      },
+      {
+        "id": "nm5239865",
+        "name": "Michael Griffin",
+        "description": "(from an idea by) (6 episodes, 2020-2021)"
+      },
+      {
+        "id": "nm4420318",
+        "name": "Claire Renton",
+        "description": "(written by) (2 episodes, 2019-2023)"
+      },
+      {
+        "id": "nm4816635",
+        "name": "Francis Stanton",
+        "description": "(written by) (2 episodes, 2020-2022)"
+      },
+      {
+        "id": "nm2155991",
+        "name": "Tim Bain",
+        "description": "(written by) (1 episode, 2019)"
+      },
+      {
+        "id": "nm1479281",
+        "name": "Lorin Clarke",
+        "description": "(story by) (1 episode, 2019)"
+      },
+      {
+        "id": "nm2961764",
+        "name": "Beth Harvey",
+        "description": "(written by) (1 episode, 2019)"
+      },
+      {
+        "id": "nm6066077",
+        "name": "John McGeachin",
+        "description": "(written by) (1 episode, 2019)"
+      },
+      {
+        "id": "nm8591930",
+        "name": "Chris Bennett",
+        "description": "(written by) (1 episode, 2020)"
+      },
+      {
+        "id": "nm6441309",
+        "name": "Dan Brumm",
+        "description": "(written by) (1 episode, 2020)"
+      },
+      {
+        "id": "nm12909008",
+        "name": "Dave Lowe",
+        "description": "(written by) (1 episode, 2020)"
+      },
+      {
+        "id": "nm12985405",
+        "name": "Mark Paterson",
+        "description": "(written by) (1 episode, 2020)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm1256136",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFhZGIwNzQtMDRiMy00YmYzLWI1NjItZDZkZmRjZTUyYTEzXkEyXkFqcGdeQXVyOTY5MDI1ODg@._V1_Ratio0.8636_AL_.jpg",
+      "name": "David McCormack",
+      "asCharacter": "Dad 134 episodes, 2018-2023"
+    },
+    {
+      "id": "nm3148372",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDhjNDQ0MWQtOTE2ZC00ZTQzLTkyM2UtNDkzZmMwNzllNGQ1XkEyXkFqcGdeQXVyMjI3MjY2ODQ@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Melanie Zanetti",
+      "asCharacter": "Mum 124 episodes, 2018-2023"
+    },
+    {
+      "id": "nm12544653",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ninthe van Schie",
+      "asCharacter": "Indy (Dutch) 23 episodes, 2018"
+    },
+    {
+      "id": "nm10406223",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brad Elliott",
+      "asCharacter": "Lucky's Dad 18 episodes, 2018-2023"
+    },
+    {
+      "id": "nm6441309",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dan Brumm",
+      "asCharacter": "Uncle Stripe 16 episodes, 2018-2023"
+    },
+    {
+      "id": "nm1877169",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Myf Warhurst",
+      "asCharacter": "Aunt Trixie / ... 11 episodes, 2018-2021"
+    },
+    {
+      "id": "nm3556828",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA5N2NlOTEtZjQ4MS00OGY0LWE0ZDEtYzRlNDgzODUzNGIxXkEyXkFqcGdeQXVyMTM0NTc1MDc5._V1_Ratio0.7273_AL_.jpg",
+      "name": "Meg Washington",
+      "asCharacter": "Calypso 10 episodes, 2018-2023"
+    },
+    {
+      "id": "nm10451765",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chris Brumm",
+      "asCharacter": "Nana 7 episodes, 2019-2021"
+    },
+    {
+      "id": "nm2587184",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjBiOTc1NjMtNTgyZS00ZTMwLWE4OTgtNWIzZTcyODliZWQ0XkEyXkFqcGdeQXVyMTE1NTYzMDE4._V1_Ratio0.9091_AL_.jpg",
+      "name": "Daley Pearson",
+      "asCharacter": "Rocko / ... 5 episodes, 2018-2021"
+    },
+    {
+      "id": "nm5806988",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frederique Sims",
+      "asCharacter": "Coco 4 episodes, 2018-2021"
+    },
+    {
+      "id": "nm1324400",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY1MDg4ZTMtYTNiYS00YTFjLWE0ZjQtYzZhOTgyYmI4YjZjXkEyXkFqcGdeQXVyMzcyNDg4NA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Emily Taheny",
+      "asCharacter": "Wendy 4 episodes, 2021-2022"
+    },
+    {
+      "id": "nm2787978",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Jeffery",
+      "asCharacter": "Mackenzie's Dad 4 episodes, 2018-2022"
+    },
+    {
+      "id": "nm4113906",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leigh Sales",
+      "asCharacter": "Coco's Mum / ... 4 episodes, 2020-2022"
+    },
+    {
+      "id": "nm7479413",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Simmons",
+      "asCharacter": "Mackenzie 4 episodes, 2018-2020"
+    },
+    {
+      "id": "nm7265373",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Samson Hyland",
+      "asCharacter": "Snickers 3 episodes, 2018-2020"
+    },
+    {
+      "id": "nm4816635",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Francis Stanton",
+      "asCharacter": "Chloe's Dad 3 episodes, 2018-2020"
+    },
+    {
+      "id": "nm0125007",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kelly Butler",
+      "asCharacter": "Doreen 3 episodes, 2020-2022"
+    },
+    {
+      "id": "nm1591283",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hamish Blake",
+      "asCharacter": "Jack's Dad / ... 3 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0275888",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjUyYmYyMzUtYTc1Ni00MDk1LWJmNzktNmY0ZjY5NzljZmU5XkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Anthony Field",
+      "asCharacter": "Rusty's Dad / ... 3 episodes, 2020-2023"
+    },
+    {
+      "id": "nm2289859",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGEyOTAyMTItN2ZlMy00YWNhLTkwOGYtNTA3MzM5MjRmZmQzXkEyXkFqcGdeQXVyMTUyODY5MTI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Joff Bush",
+      "asCharacter": "Busker / ... 3 episodes, 2018-2020"
+    },
+    {
+      "id": "nm1442896",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hsiao Ling Tang",
+      "asCharacter": "Chloe's Mum / ... 2 episodes, 2018"
+    },
+    {
+      "id": "nm12896975",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Laurie Newman",
+      "asCharacter": "Grandad 2 episodes, 2020-2021"
+    },
+    {
+      "id": "nm2643476",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eliot Fish",
+      "asCharacter": "Fido 2 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0355690",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jane Hall",
+      "asCharacter": "Rusty's Mum 2 episodes, 2021-2023"
+    },
+    {
+      "id": "nm13186376",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shauna Corrigan",
+      "asCharacter": "Sat Nav 2 episodes, 2021-2023"
+    },
+    {
+      "id": "nm1669772",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWY0NDBiNWUtMzhkNy00MGEwLWFlZmUtYzU0NzMzOTkzMDkwXkEyXkFqcGdeQXVyNDI0MDI5MTk@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Patrick Brammall",
+      "asCharacter": "Uncle Rad 2 episodes, 2020"
+    },
+    {
+      "id": "nm8468282",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Zoë Foster Blake",
+      "asCharacter": "Checkout Dog / ... 2 episodes, 2020"
+    },
+    {
+      "id": "nm1787506",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE3N2I4Y2MtY2ZmNC00YzJlLTg4ZGYtMDc2MmNiNDdmMzk2XkEyXkFqcGdeQXVyODMzMTM1MDc@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Charlotte Nicdao",
+      "asCharacter": "Checkout Lady / ... 2 episodes, 2019"
+    },
+    {
+      "id": "nm10191525",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beth Durack",
+      "asCharacter": "Judo's Mum / ... 2 episodes, 2020"
+    },
+    {
+      "id": "nm4337141",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anna Daniels",
+      "asCharacter": "Lucky's Mum 2 episodes, 2021-2022"
+    },
+    {
+      "id": "nm5307166",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAwNzEzNDQ0MTZeQTJeQWpwZ15BbWU4MDAwNDU4OTcx._V1_Ratio1.5000_AL_.jpg",
+      "name": "Claudia O'Doherty",
+      "asCharacter": "Aunt Frisky / ... 2 episodes, 2020"
+    },
+    {
+      "id": "nm1589784",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sean Choolburra",
+      "asCharacter": "Maynard 2 episodes, 2020-2021"
+    },
+    {
+      "id": "nm0214661",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTNiZjJlZDMtNzM2OC00ZjRmLTgwZTctZjJiZjljN2RiNDUzXkEyXkFqcGdeQXVyNzQ2NTI2NA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Rupert Degas",
+      "asCharacter": "Movie Voices / ... 2 episodes, 2020"
+    },
+    {
+      "id": "nm1068768",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Brumm",
+      "asCharacter": "Customer / ... 2 episodes, 2018-2019"
+    },
+    {
+      "id": "nm2077827",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sam Moor",
+      "asCharacter": "Honey's Mum 2 episodes, 2018"
+    },
+    {
+      "id": "nm1045593",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEwYzQ5ZmItZDc4OC00ZTViLWIzNjQtMTczYWZkNTYzYzE1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Loren Taylor",
+      "asCharacter": "Mackenzie's Mum 2 episodes, 2021-2022"
+    },
+    {
+      "id": "nm0592135",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0MDM2Mzg0OV5BMl5BanBnXkFtZTgwMjA1MDE2MDI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lin-Manuel Miranda",
+      "asCharacter": "Major Tom 1 episode, 2022"
+    },
+    {
+      "id": "nm2262964",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2VlZjY0NWYtNjM5Ny00YjRkLTkxN2QtYzhhYzkyM2ZiNDM4XkEyXkFqcGdeQXVyMzQxNDg5MzY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Cotton",
+      "asCharacter": "Chippy 1 episode, 2022"
+    },
+    {
+      "id": "nm3872555",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTk3MzA0Mzc0OV5BMl5BanBnXkFtZTcwNjUwNTM4Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Miranda Tapsell",
+      "asCharacter": "Dougie's Mum 1 episode, 2022"
+    },
+    {
+      "id": "nm2369818",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carrie Bickmore",
+      "asCharacter": "Terriers' Mum 1 episode, 2023"
+    },
+    {
+      "id": "nm1226909",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Layne Beachley",
+      "asCharacter": "Surfer 1 episode, 2018"
+    },
+    {
+      "id": "nm10191536",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jasmine Moody",
+      "asCharacter": "Takeaway Lady 1 episode, 2018"
+    },
+    {
+      "id": "nm10234026",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ann Kerr",
+      "asCharacter": "Mrs. Retriever 1 episode, 2018"
+    },
+    {
+      "id": "nm5239865",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Griffin",
+      "asCharacter": "Docket Boy 1 episode, 2019"
+    },
+    {
+      "id": "nm3618719",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stephanie Bendixsen",
+      "asCharacter": "Vet Corgi 1 episode, 2019"
+    },
+    {
+      "id": "nm4420318",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claire Renton",
+      "asCharacter": "Doctor 1 episode, 2019"
+    },
+    {
+      "id": "nm2377394",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA3MTgwNjQ0NF5BMl5BanBnXkFtZTgwNDE2OTA0NjM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Clarence Irwin",
+      "asCharacter": "Alfie 1 episode, 2020"
+    },
+    {
+      "id": "nm5495358",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bishanyia Vincent",
+      "asCharacter": "Hospital Kid's Mum 1 episode, 2020"
+    },
+    {
+      "id": "nm3037456",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Suzy Brumm",
+      "asCharacter": "Pom Pom's Mum 1 episode, 2020"
+    },
+    {
+      "id": "nm12882153",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Brumm",
+      "asCharacter": "Grey Nomad 1 episode, 2020"
+    },
+    {
+      "id": "nm0000204",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU0ZGRhZWItMGJlNy00YzlkLWIzOWYtNDA2NzlhMDg3YjMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Natalie Portman",
+      "asCharacter": "Whale Doco Narrator 1 episode, 2021"
+    },
+    {
+      "id": "nm0578949",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0MDQwMDI4NF5BMl5BanBnXkFtZTcwMjc1OTU1NA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eva Mendes",
+      "asCharacter": "Yoga Instructor 1 episode, 2021"
+    },
+    {
+      "id": "nm3699696",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jess Harris",
+      "asCharacter": "Lila's Mum 1 episode, 2021"
+    },
+    {
+      "id": "nm13189075",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Matt Brown",
+      "asCharacter": "Ziggy 1 episode, 2021"
+    },
+    {
+      "id": "nm13153837",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mary Bolling",
+      "asCharacter": "Librarian 1 episode, 2021"
+    },
+    {
+      "id": "nm0126284",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0MDA2Njc0OF5BMl5BanBnXkFtZTcwNzc3NDU3Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rose Byrne",
+      "asCharacter": "Brandy 1 episode, 2022"
+    },
+    {
+      "id": "nm0597124",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5MTY4OTQ2M15BMl5BanBnXkFtZTYwOTk1NTc2._V1_Ratio1.4091_AL_.jpg",
+      "name": "Mick Molloy",
+      "asCharacter": "Sparky 1 episode, 2022"
+    },
+    {
+      "id": "nm0998928",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEwMTI4N2UtZjNkZi00NjRlLWEzZGYtYzFlNzgzOTA0Nzc1XkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Adam Hills",
+      "asCharacter": "Cricket Commentator 1 episode, 2023"
+    },
+    {
+      "id": "nm2561970",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTNkNjhiMmItMjAyMC00ZTdiLTg5NmItNTE4MjIxYWU0MDg4XkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kate Miller-Heidke",
+      "asCharacter": "Chilli's Mum 1 episode, 2023"
+    },
+    {
+      "id": "nm0278154",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzE2ZmFkYjEtZDQ5Ny00YzE4LWJhODEtNDY3NmYzNTk2Mzk3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Neil Finn",
+      "asCharacter": "Doctor 1 episode, 2023"
+    },
+    {
+      "id": "nm8455604",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2VlZDFmZWMtMjhhZS00ZDc5LTliMzktMmU1MGNmYjQ2NzY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Meg O'Connell",
+      "asCharacter": "Pony Lady 1 episode, 2018"
+    },
+    {
+      "id": "nm0568726",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ian McFadyen",
+      "asCharacter": "Bob 1 episode, 2019"
+    },
+    {
+      "id": "nm3023739",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTk3NzRmYTMtNjdkMS00ZjQ3LWFmMjYtNjhjODc5MjUwNWYzXkEyXkFqcGdeQXVyMjA3Nzk4ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Caitlin Hill",
+      "asCharacter": "Alfie's Mum 1 episode, 2020"
+    },
+    {
+      "id": "nm12883540",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Judy Newman",
+      "asCharacter": "Grey Nomad 1 episode, 2020"
+    },
+    {
+      "id": "nm3065900",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MDI5OTk3NV5BMl5BanBnXkFtZTgwNjI2MTY3OTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sam Simmons",
+      "asCharacter": "Bob 1 episode, 2021"
+    },
+    {
+      "id": "nm5249764",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Darren Hanlon",
+      "asCharacter": "Alt Energy Dog 1 episode, 2021"
+    },
+    {
+      "id": "nm13153838",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kate McMahon",
+      "asCharacter": "Library Dog 1 episode, 2021"
+    },
+    {
+      "id": "nm13160167",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Julie Baster",
+      "asCharacter": "Bus Stop Lady 1 episode, 2021"
+    },
+    {
+      "id": "nm0461006",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margot Knight",
+      "asCharacter": "Old Pug 1 episode, 2022"
+    },
+    {
+      "id": "nm2150114",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mick Fanning",
+      "asCharacter": "Surfer 1 episode, 2023"
+    },
+    {
+      "id": "nm1667131",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marc Fennell",
+      "asCharacter": "Alfie's Boss 1 episode, 2020"
+    },
+    {
+      "id": "nm12906537",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stephen Lee",
+      "asCharacter": "Customer 1 episode, 2020"
+    },
+    {
+      "id": "nm9418008",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nani Thomann",
+      "asCharacter": "Backpacker 1 episode, 2021"
+    },
+    {
+      "id": "nm13771252",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Murry",
+      "asCharacter": "Shopper 1 episode, 2022"
+    },
+    {
+      "id": "nm1818795",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charlie Aspinwall",
+      "asCharacter": "Honey's Dad 1 episode, 2018"
+    },
+    {
+      "id": "nm10125260",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jake Bresanello",
+      "asCharacter": "Toffee Apple Dog 1 episode, 2018"
+    },
+    {
+      "id": "nm6607093",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vikki Ong",
+      "asCharacter": "Snicker's Mum 1 episode, 2020"
+    },
+    {
+      "id": "nm12044543",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anne Pearson",
+      "asCharacter": "Shop Assistant 1 episode, 2020"
+    },
+    {
+      "id": "nm3802774",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Adele Vuko",
+      "asCharacter": "Jasper's Mum 1 episode, 2021"
+    },
+    {
+      "id": "nm13186377",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brice Pennetair",
+      "asCharacter": "Backpacker 1 episode, 2021"
+    },
+    {
+      "id": "nm2750360",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ray Warren",
+      "asCharacter": "Commentator 1 episode, 2022"
+    },
+    {
+      "id": "nm0839181",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Grant Sundin",
+      "asCharacter": "Doctor 1 episode, 2020"
+    },
+    {
+      "id": "nm3544288",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Greta Lee Jackson",
+      "asCharacter": "Buddy's Mum 1 episode, 2021"
+    },
+    {
+      "id": "nm6046267",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnathan Thurston",
+      "asCharacter": "Commentator 1 episode, 2022"
+    },
+    {
+      "id": "nm10965155",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gordon Bray",
+      "asCharacter": "Commentator 1 episode, 2022"
+    },
+    {
+      "id": "nm10191527",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Liana Wright",
+      "asCharacter": "Juice Dog 1 episode, 2018"
+    },
+    {
+      "id": "nm12014904",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZjMjdlZWUtZWIxOS00MTA0LWJhOTUtYTAwMzZkYTdhMWRmXkEyXkFqcGdeQXVyMTI3MDI5OTU5._V1_Ratio0.7273_AL_.jpg",
+      "name": "Finn Treacy",
+      "asCharacter": "Chubbles 1 episode, 2020"
+    },
+    {
+      "id": "nm6752942",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDY2OGQ1NDMtYjM0OC00ZTNjLWFhNTYtMmM5ZDFmNWIxYzkyXkEyXkFqcGdeQXVyNTUxMzE3NDc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charlotte Stent",
+      "asCharacter": "Chloe (uncredited) 10 episodes, 2018-2022"
+    }
+  ],
+  "others": [
+    {
+      "job": "Series Produced by",
+      "items": [
+        {
+          "id": "nm1818795",
+          "name": "Charlie Aspinwall",
+          "description": "executive producer (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm6292756",
+          "name": "Henrietta Hurford-Jones",
+          "description": "executive producer: BBC / executive producer: BBC Studios (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm2077827",
+          "name": "Sam Moor",
+          "description": "producer / line producer (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm2587184",
+          "name": "Daley Pearson",
+          "description": "executive producer (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm3561885",
+          "name": "Libbie Doherty",
+          "description": "executive producer: ABC (99 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm6020239",
+          "name": "Chloe Hume",
+          "description": "assistant producer (69 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm2079112",
+          "name": "Michael Carrington",
+          "description": "executive producer: ABC (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm4402517",
+          "name": "Nathan Waddington",
+          "description": "associate producer BBC (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm5835238",
+          "name": "Jessica Magro",
+          "description": "assistant producer (47 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm13754248",
+          "name": "Sasha Folker",
+          "description": "assistant producer (21 episodes, 2022-2023)"
+        }
+      ]
+    },
+    {
+      "job": "Series Music by",
+      "items": [
+        {
+          "id": "nm2289859",
+          "name": "Joff Bush",
+          "description": "(151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm3768591",
+          "name": "David Barber",
+          "description": "(20 episodes, 2018-2021)"
+        },
+        {
+          "id": "nm1067822",
+          "name": "Steve Peach",
+          "description": "(19 episodes, 2018-2022)"
+        },
+        {
+          "id": "nm5067014",
+          "name": "Joseph Twist",
+          "description": "(16 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10213877",
+          "name": "Lachlan Nicolson",
+          "description": "(14 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm7509662",
+          "name": "Jazz D'Arcy",
+          "description": "(7 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm4423086",
+          "name": "Daniel O'Brien",
+          "description": "(6 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm3871771",
+          "name": "Ack Kinmonth",
+          "description": "(3 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm5377012",
+          "name": "Amy Bastow",
+          "description": "(1 episode, 2018)"
+        },
+        {
+          "id": "nm9881802",
+          "name": "Emily Harrison",
+          "description": "(1 episode, 2018)"
+        },
+        {
+          "id": "nm10191534",
+          "name": "Marly Lüske",
+          "description": "(1 episode, 2018)"
+        },
+        {
+          "id": "nm2671920",
+          "name": "Russell Thornton",
+          "description": "(1 episode, 2018)"
+        },
+        {
+          "id": "nm4407607",
+          "name": "Helena Czajka",
+          "description": "(1 episode, 2019)"
+        },
+        {
+          "id": "nm12990895",
+          "name": "Emma Dean",
+          "description": "(1 episode, 2019)"
+        },
+        {
+          "id": "nm1862068",
+          "name": "Jason Smith",
+          "description": "(1 episode, 2019)"
+        },
+        {
+          "id": "nm8830007",
+          "name": "Brandon Fiechter",
+          "description": "(1 episode, 2020)"
+        },
+        {
+          "id": "nm5608940",
+          "name": "Derek Fiechter",
+          "description": "(1 episode, 2020)"
+        },
+        {
+          "id": "nm11419258",
+          "name": "Isy Lauf",
+          "description": "(1 episode, 2021)"
+        },
+        {
+          "id": "nm9455223",
+          "name": "Luna Pan",
+          "description": "(1 episode, 2021)"
+        },
+        {
+          "id": "nm3462130",
+          "name": "Ida Jazayeri",
+          "description": "(1 episode, 2022)"
+        }
+      ]
+    },
+    {
+      "job": "Series Cinematography by",
+      "items": [
+        {
+          "id": "nm4306396",
+          "name": "Brian Loewe",
+          "description": "(1 episode, 2022)"
+        }
+      ]
+    },
+    {
+      "job": "Series Editing by",
+      "items": [
+        {
+          "id": "nm5239865",
+          "name": "Michael Griffin",
+          "description": "(52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm6168499",
+          "name": "Josef Switak",
+          "description": "(47 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm8698454",
+          "name": "Courtney Teixera",
+          "description": "(45 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm4768232",
+          "name": "David Peterson",
+          "description": "(11 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm8593095",
+          "name": "Siobhan Finniss",
+          "description": "(8 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm12896976",
+          "name": "Anthony Pham",
+          "description": "(2 episodes, 2021-2023)"
+        }
+      ]
+    },
+    {
+      "job": "Series Art Direction by",
+      "items": [
+        {
+          "id": "nm9357383",
+          "name": "Costa Kassab",
+          "description": "lead art director / art director (139 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10205005",
+          "name": "Trudi Monteath",
+          "description": "(87 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm11789105",
+          "name": "Rafferty Amor",
+          "description": "(71 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm9357381",
+          "name": "Catriona Drummond",
+          "description": "(57 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10191530",
+          "name": "Faith Chen",
+          "description": "(33 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm3416026",
+          "name": "Alice Walsh",
+          "description": "(29 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm10191531",
+          "name": "Aivy Nguyen",
+          "description": "(12 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm12566684",
+          "name": "Delaney Januzzi",
+          "description": "(2 episodes, 2022-2023)"
+        }
+      ]
+    },
+    {
+      "job": "Series Production Management",
+      "items": [
+        {
+          "id": "nm5301205",
+          "name": "Lauren Brown",
+          "description": "production manager (99 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm8455604",
+          "name": "Meg O'Connell",
+          "description": "development manager (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm1378039",
+          "name": "Andi Spark",
+          "description": "production manager (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm6427032",
+          "name": "Rhiannon Steffensen",
+          "description": "production manager (47 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm6607093",
+          "name": "Vikki Ong",
+          "description": "production manager (42 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm2236885",
+          "name": "Laura DiMaio",
+          "description": "development production manager (27 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10191527",
+          "name": "Liana Wright",
+          "description": "production manager (12 episodes, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Sound Department",
+      "items": [
+        {
+          "id": "nm6441309",
+          "name": "Dan Brumm",
+          "description": "sound designer / sound mixer (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm3729037",
+          "name": "David Champion",
+          "description": "recording engineer / dialogue sound editor (61 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm8097988",
+          "name": "Tania Vlassova",
+          "description": "recording engineer (49 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm7722887",
+          "name": "Samuel Pankhurst",
+          "description": "dialogue sound editor / recording engineer (17 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm8375502",
+          "name": "Julian Wessels",
+          "description": "recording engineer (12 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10406224",
+          "name": "Liam Gould",
+          "description": "recording engineer (8 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm4471025",
+          "name": "Joe Hoonhout",
+          "description": "recording engineer (6 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm0534405",
+          "name": "Ian MacWilliams",
+          "description": "recording engineer (5 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm12926683",
+          "name": "Phil Rohr",
+          "description": "recording engineer (2 episodes, 2020)"
+        },
+        {
+          "id": "nm0936715",
+          "name": "Steve Witherow",
+          "description": "recording engineer (1 episode, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Visual Effects by",
+      "items": [
+        {
+          "id": "nm4816635",
+          "name": "Francis Stanton",
+          "description": "visual effects artist / lead visual effects artist (132 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm12883543",
+          "name": "Daniel Sun",
+          "description": "visual effects artist (92 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm12883542",
+          "name": "Methavee Markwell",
+          "description": "visual effects artist (54 episodes, 2019-2021)"
+        },
+        {
+          "id": "nm10191544",
+          "name": "Jacob McCann",
+          "description": "visual effects artist (45 episodes, 2018-2021)"
+        },
+        {
+          "id": "nm9418009",
+          "name": "Nicole Clowes",
+          "description": "visual effects artist (42 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm5620741",
+          "name": "Chris Voigt",
+          "description": "visual effects artist (17 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10191523",
+          "name": "Kathleen Hirst",
+          "description": "visual effects artist (5 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm9357381",
+          "name": "Catriona Drummond",
+          "description": "visual effects artist (5 episodes, 2019-2020)"
+        },
+        {
+          "id": "nm12890894",
+          "name": "Sarah Rackemann",
+          "description": "visual effects artist (4 episodes, 2020)"
+        },
+        {
+          "id": "nm0677520",
+          "name": "Marvin Petilla",
+          "description": "visual effects artist (3 episodes, 2021)"
+        },
+        {
+          "id": "nm12885557",
+          "name": "Claire Brooks",
+          "description": "visual effects artist (2 episodes, 2019)"
+        },
+        {
+          "id": "nm9373285",
+          "name": "Ben Oren",
+          "description": "visual effects artist (2 episodes, 2019)"
+        },
+        {
+          "id": "nm3073393",
+          "name": "Benjamin Zaugg",
+          "description": "visual effects artist (2 episodes, 2022)"
+        },
+        {
+          "id": "nm10205004",
+          "name": "Connor Johnston",
+          "description": "visual effects artist (1 episode, 2018)"
+        },
+        {
+          "id": "nm10305769",
+          "name": "Loko Lui",
+          "description": "visual effects artist (1 episode, 2018)"
+        },
+        {
+          "id": "nm10305940",
+          "name": "Amy Mack",
+          "description": "visual effects artist (1 episode, 2018)"
+        },
+        {
+          "id": "nm3037456",
+          "name": "Suzy Brumm",
+          "description": "visual effects artist (1 episode, 2019)"
+        }
+      ]
+    },
+    {
+      "job": "Series Animation Department",
+      "items": [
+        {
+          "id": "nm7786017",
+          "name": "Owain Emanuel",
+          "description": "lead designer / designer (129 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm6020064",
+          "name": "Nick Rees",
+          "description": "background artist / lead background artist (124 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10205003",
+          "name": "Daniela Hammer",
+          "description": "background artist (115 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191528",
+          "name": "Rob Corless",
+          "description": "background artist (105 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10125260",
+          "name": "Jake Bresanello",
+          "description": "designer (84 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191530",
+          "name": "Faith Chen",
+          "description": "background artist (77 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10396607",
+          "name": "Rob Smyth",
+          "description": "lead designer / designer / layout artist (77 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm2303906",
+          "name": "Tim Delaney",
+          "description": "designer / storyboard artist (75 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm7350633",
+          "name": "Alice Holmes",
+          "description": "layout artist / designer (75 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm2961764",
+          "name": "Beth Harvey",
+          "description": "animation director / lead animator / storyboard artist / animator (70 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm4420318",
+          "name": "Claire Renton",
+          "description": "animation director / lead animator / storyboard artist (67 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm12985405",
+          "name": "Mark Paterson",
+          "description": "animator (61 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm2787978",
+          "name": "Richard Jeffery",
+          "description": "animation director (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10191527",
+          "name": "Liana Wright",
+          "description": "layout artist (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm12160124",
+          "name": "Genevieve Tree",
+          "description": "layout artist (47 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm10191536",
+          "name": "Jasmine Moody",
+          "description": "storyboard artist / background artist (46 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm8591930",
+          "name": "Chris Bennett",
+          "description": "animator (45 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191525",
+          "name": "Beth Durack",
+          "description": "animator / lead animator (44 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191523",
+          "name": "Kathleen Hirst",
+          "description": "animator (44 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191521",
+          "name": "Eric Lin",
+          "description": "animator (44 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm5087886",
+          "name": "Lisa Hack",
+          "description": "lead animator / animator (43 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191518",
+          "name": "Naomi Scutts",
+          "description": "animator / lead animator (43 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191520",
+          "name": "Dan Smith",
+          "description": "animator (43 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191519",
+          "name": "Gerard Bishop",
+          "description": "animator (42 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191522",
+          "name": "Charmay Yule",
+          "description": "animator (42 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm10191517",
+          "name": "Liam Stewart",
+          "description": "lead animator / animator (41 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm5863649",
+          "name": "Jemma Bayley",
+          "description": "background artist (39 episodes, 2019-2023)"
+        },
+        {
+          "id": "nm5620741",
+          "name": "Chris Voigt",
+          "description": "storyboard artist (36 episodes, 2018-2022)"
+        },
+        {
+          "id": "nm9404483",
+          "name": "Seb Powell",
+          "description": "lead animator / animator (35 episodes, 2019-2023)"
+        },
+        {
+          "id": "nm10205004",
+          "name": "Connor Johnston",
+          "description": "background artist / animator / designer (34 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10191524",
+          "name": "Juné Du Plessis",
+          "description": "animator (32 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10191526",
+          "name": "Richard Sewell",
+          "description": "animator / lead animator (31 episodes, 2019-2023)"
+        },
+        {
+          "id": "nm9418008",
+          "name": "Nani Thomann",
+          "description": "animator (30 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10305940",
+          "name": "Amy Mack",
+          "description": "animator / layout artist (28 episodes, 2018-2021)"
+        },
+        {
+          "id": "nm10205005",
+          "name": "Trudi Monteath",
+          "description": "designer (28 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm4893943",
+          "name": "Kate Derrick",
+          "description": "animator (27 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm12890894",
+          "name": "Sarah Rackemann",
+          "description": "storyboard artist (24 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm10191535",
+          "name": "Jane Osborne",
+          "description": "background artist (24 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm12991044",
+          "name": "Caitlin O'Brien",
+          "description": "animator (24 episodes, 2019-2023)"
+        },
+        {
+          "id": "nm12890866",
+          "name": "Danika Catchpole",
+          "description": "animator (23 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm12883541",
+          "name": "Kiara Hankinson",
+          "description": "animator (23 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm13146459",
+          "name": "Max Gibson",
+          "description": "animator (22 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm10305769",
+          "name": "Loko Lui",
+          "description": "animator / designer (20 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10191529",
+          "name": "Josh Hall",
+          "description": "background artist (17 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm4145952",
+          "name": "Mark Nute",
+          "description": "lead animator / animator (16 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10191544",
+          "name": "Jacob McCann",
+          "description": "animator (16 episodes, 2020-2022)"
+        },
+        {
+          "id": "nm13146460",
+          "name": "Salem Jacobin",
+          "description": "background artist (16 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm10533608",
+          "name": "Damien Steele",
+          "description": "background artist (15 episodes, 2020-2021)"
+        },
+        {
+          "id": "nm12885382",
+          "name": "Ash O'Brien",
+          "description": "animator (14 episodes, 2020)"
+        },
+        {
+          "id": "nm0154598",
+          "name": "Mike Chavez",
+          "description": "storyboard artist (13 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm8155182",
+          "name": "Simon Besseny",
+          "description": "animator (13 episodes, 2020)"
+        },
+        {
+          "id": "nm5656699",
+          "name": "Chad Molyneux",
+          "description": "animator (12 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm9656801",
+          "name": "Madeleine Parker-Hill",
+          "description": "animator (12 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm13165224",
+          "name": "Laila Schmidinger",
+          "description": "animator (12 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm13153839",
+          "name": "Grace Burden",
+          "description": "animator (11 episodes, 2021-2023)"
+        },
+        {
+          "id": "nm3037456",
+          "name": "Suzy Brumm",
+          "description": "storyboard artist / layout artist (8 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm0634290",
+          "name": "Jim Nolan",
+          "description": "designer (8 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm10191537",
+          "name": "Ellie Goggin",
+          "description": "storyboard artist (4 episodes, 2019-2020)"
+        },
+        {
+          "id": "nm12924722",
+          "name": "Tom Ward",
+          "description": "storyboard artist (4 episodes, 2020)"
+        },
+        {
+          "id": "nm9357383",
+          "name": "Costa Kassab",
+          "description": "background artist (3 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm2785781",
+          "name": "Jim Byrt",
+          "description": "storyboard artist (2 episodes, 2019-2020)"
+        },
+        {
+          "id": "nm11188305",
+          "name": "Anna Pan",
+          "description": "storyboard artist (2 episodes, 2020)"
+        },
+        {
+          "id": "nm5094507",
+          "name": "Jamie Dunbar",
+          "description": "designer (2 episodes, 2021)"
+        },
+        {
+          "id": "nm10191538",
+          "name": "Paul Kassab",
+          "description": "storyboard artist (1 episode, 2019)"
+        },
+        {
+          "id": "nm10780445",
+          "name": "Olivia Rea",
+          "description": "background artist (1 episode, 2019)"
+        },
+        {
+          "id": "nm10111164",
+          "name": "Egan Wesener",
+          "description": "designer (1 episode, 2021)"
+        },
+        {
+          "id": "nm13767684",
+          "name": "Skye Matheson",
+          "description": "animator (1 episode, 2022)"
+        },
+        {
+          "id": "nm13235318",
+          "name": "Samuel Wilkinson",
+          "description": "animator (1 episode, 2022)"
+        },
+        {
+          "id": "nm13438318",
+          "name": "Nathanael Moore",
+          "description": "animation intern (uncredited) (3 episodes, 2020)"
+        }
+      ]
+    },
+    {
+      "job": "Series Editorial Department",
+      "items": [
+        {
+          "id": "nm2278072",
+          "name": "Michael Mier",
+          "description": "post production producer: Chop Shop / post production producer: Chop Shop Post (84 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm0839181",
+          "name": "Grant Sundin",
+          "description": "online post production / on-line editor (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm12896976",
+          "name": "Anthony Pham",
+          "description": "edit assistant / assistant editor (97 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm10191535",
+          "name": "Jane Osborne",
+          "description": "colorist (uncredited) (4 episodes, 2018)"
+        }
+      ]
+    },
+    {
+      "job": "Series Music Department",
+      "items": [
+        {
+          "id": "nm8791549",
+          "name": "Nicholas Baxter",
+          "description": "music publisher (160 episodes, 2018-2022)"
+        },
+        {
+          "id": "nm7509662",
+          "name": "Jazz D'Arcy",
+          "description": "composer assistant / musician (117 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm4236038",
+          "name": "Youka Snell",
+          "description": "musician (39 episodes, 2018-2020)"
+        },
+        {
+          "id": "nm6368018",
+          "name": "Joseph Roberts",
+          "description": "musician (39 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm10191542",
+          "name": "Rowan Hamwood",
+          "description": "musician (2 episodes, 2018)"
+        },
+        {
+          "id": "nm3768591",
+          "name": "David Barber",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm1171892",
+          "name": "Damian De Boos-Smith",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm8819240",
+          "name": "Justine Garcia de Heer",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm3871771",
+          "name": "Ack Kinmonth",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm7868560",
+          "name": "Christopher Pearson",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm10205007",
+          "name": "Andrew Scriven",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm3556828",
+          "name": "Meg Washington",
+          "description": "musician (1 episode, 2018)"
+        },
+        {
+          "id": "nm0187049",
+          "name": "Jonathan Crayford",
+          "description": "musician (1 episode, 2019)"
+        },
+        {
+          "id": "nm10508677",
+          "name": "Sara Glynn",
+          "description": "musician (1 episode, 2019)"
+        },
+        {
+          "id": "nm4299962",
+          "name": "Pru Montin",
+          "description": "musician (1 episode, 2019)"
+        },
+        {
+          "id": "nm10508689",
+          "name": "Adam Sait",
+          "description": "musician (1 episode, 2019)"
+        },
+        {
+          "id": "nm5837894",
+          "name": "Alexius Tschallener",
+          "description": "musician (uncredited) (1 episode, 2018)"
+        }
+      ]
+    },
+    {
+      "job": "Series Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm1317421",
+          "name": "Reezy Miller",
+          "description": "post production scripts (99 episodes, 2020-2023)"
+        },
+        {
+          "id": "nm1038803",
+          "name": "Sam Carroll",
+          "description": "script editor (21 episodes, 2018-2019)"
+        }
+      ]
+    },
+    {
+      "job": "Series Additional Crew",
+      "items": [
+        {
+          "id": "nm5681842",
+          "name": "Stephanie Filiadi",
+          "description": "dubbing voice: Chilli (160 episodes, 2018-2022)"
+        },
+        {
+          "id": "nm0087972",
+          "name": "Andy Blazdell",
+          "description": "technical advisor (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm0975037",
+          "name": "Jenny Lalor",
+          "description": "production lawyer (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm0513556",
+          "name": "Simon Lipowicz",
+          "description": "technical advisor (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm2193515",
+          "name": "Daniel Schultz",
+          "description": "production accountant / cricket consultant (151 episodes, 2018-2023)"
+        },
+        {
+          "id": "nm0800939",
+          "name": "Christian Simpson",
+          "description": "audio description (140 episodes, 2018-2021)"
+        },
+        {
+          "id": "nm5301205",
+          "name": "Lauren Brown",
+          "description": "production coordinator (52 episodes, 2018-2019)"
+        },
+        {
+          "id": "nm4256325",
+          "name": "Heather Maltman",
+          "description": "assistant to producers (52 episodes, 2020)"
+        },
+        {
+          "id": "nm6020239",
+          "name": "Chloe Hume",
+          "description": "production assistant (30 episodes, 2020)"
+        },
+        {
+          "id": "nm3141801",
+          "name": "Andrew Dillon",
+          "description": "development investment manager: Screen Australia (22 episodes, 2018)"
+        },
+        {
+          "id": "nm5835238",
+          "name": "Jessica Magro",
+          "description": "production assistant (4 episodes, 2020)"
+        },
+        {
+          "id": "nm11655315",
+          "name": "Sarah Macpherson",
+          "description": "production assistant (uncredited) (26 episodes, 2018)"
+        }
+      ]
+    },
+    {
+      "job": "Series Thanks",
+      "items": [
+        {
+          "id": "nm2052175",
+          "name": "The Wiggles",
+          "description": "with thanks to (1 episode, 2021)"
+        },
+        {
+          "id": "nm1872044",
+          "name": "Ken Done",
+          "description": "with thanks to (1 episode, 2022)"
+        },
+        {
+          "id": "nm3687362",
+          "name": "Alan W. Watts",
+          "description": "with thanks to the words of (1 episode, 2022)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

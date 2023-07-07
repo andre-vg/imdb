@@ -1,0 +1,1150 @@
+{
+  "imDbId": "tt0066921",
+  "title": "A Clockwork Orange",
+  "fullTitle": "A Clockwork Orange (1971)",
+  "type": "Movie",
+  "year": "1971",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000040",
+        "name": "Stanley Kubrick",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0121256",
+        "name": "Anthony Burgess",
+        "description": "(novel)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000532",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcxMjQxNzczM15BMl5BanBnXkFtZTcwMTg3MTMwNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Malcolm McDowell",
+      "asCharacter": "Alex"
+    },
+    {
+      "id": "nm0535861",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTRhMzg2N2UtN2E5ZC00MDI2LTljNDMtZTFlNWJiZGQyOWNiXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Patrick Magee",
+      "asCharacter": "Mr Alexander"
+    },
+    {
+      "id": "nm0060988",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM5NDk3MDIxNF5BMl5BanBnXkFtZTcwNjc1Mzk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Bates",
+      "asCharacter": "Chief Guard"
+    },
+    {
+      "id": "nm0165049",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1Mjc1MDAxM15BMl5BanBnXkFtZTcwMzYzMDgwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Warren Clarke",
+      "asCharacter": "Dim"
+    },
+    {
+      "id": "nm0166979",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGRmZmQxMjUtYmZlMS00MjllLTk5Y2ItMzZjMTU1OGY2OWEyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Clive",
+      "asCharacter": "Stage Actor"
+    },
+    {
+      "id": "nm0180920",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5MDc0MjkxNl5BMl5BanBnXkFtZTcwMTg3MDgwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Adrienne Corri",
+      "asCharacter": "Mrs. Alexander"
+    },
+    {
+      "id": "nm0240268",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWI0ZTY5OWItZDE2OS00NzZkLWEwZjQtOTc3YmM0OThlZWI4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Carl Duering",
+      "asCharacter": "Dr. Brodsky"
+    },
+    {
+      "id": "nm0268306",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Farrell",
+      "asCharacter": "Tramp"
+    },
+    {
+      "id": "nm0290117",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NDU2OTg4NF5BMl5BanBnXkFtZTgwNzM5ODEyMjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Clive Francis",
+      "asCharacter": "Lodger"
+    },
+    {
+      "id": "nm0332842",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Gover",
+      "asCharacter": "Prison Governor"
+    },
+    {
+      "id": "nm0439507",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmE0NTZhNDYtY2YzMS00ZmUyLWFhMjUtNjZhYTk3YzdjM2E1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Miriam Karlin",
+      "asCharacter": "Catlady"
+    },
+    {
+      "id": "nm0546118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Marcus",
+      "asCharacter": "Georgie"
+    },
+    {
+      "id": "nm0606368",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzQ4MjkxOF5BMl5BanBnXkFtZTYwMzk2NTky._V1_Ratio0.8182_AL_.jpg",
+      "name": "Aubrey Morris",
+      "asCharacter": "Deltoid"
+    },
+    {
+      "id": "nm0703501",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQ1ZDE1NjEtMjc3Ni00NDIxLTk1MWYtZTVjNzdlMzBhNmQ5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Godfrey Quigley",
+      "asCharacter": "Prison Chaplain"
+    },
+    {
+      "id": "nm0713520",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDBkYjA1NGYtOWFhNy00ZGQ2LTkyMzAtNGM0Njc3MzZiNDc5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Sheila Raynor",
+      "asCharacter": "Mum"
+    },
+    {
+      "id": "nm0752686",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDhlMGEyNDgtMmI1YS00MjgwLWFmMzYtODIxODdjOTE3ZWJiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Madge Ryan",
+      "asCharacter": "Dr. Branom"
+    },
+    {
+      "id": "nm0767644",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjcyMWZmYmQtYTNmZC00OGZjLWEyZGItOGZiYTJkOWEyOTE4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "John Savident",
+      "asCharacter": "Conspirator"
+    },
+    {
+      "id": "nm0789001",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQwMjgxODMtMzkxZS00MzVlLWI1ZTUtOTFhNWE2OTIzMjBmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Anthony Sharp",
+      "asCharacter": "Minister"
+    },
+    {
+      "id": "nm0832104",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWNlNTFiMDAtOWI5OC00YmVjLTlkMjgtZTg3NzM1MGUyM2E0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Philip Stone",
+      "asCharacter": "Dad"
+    },
+    {
+      "id": "nm0852996",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pauline Taylor",
+      "asCharacter": "Psychiatrist"
+    },
+    {
+      "id": "nm0879239",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0NTAzMzkzOV5BMl5BanBnXkFtZTcwMDMwNjIyMw@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Margaret Tyzack",
+      "asCharacter": "Conspirator"
+    },
+    {
+      "id": "nm0000925",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM3NjM1OTQ5M15BMl5BanBnXkFtZTcwNDA4ODgwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Steven Berkoff",
+      "asCharacter": "Det. Const. Tom"
+    },
+    {
+      "id": "nm0132669",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lindsay Campbell",
+      "asCharacter": "Police Inspector"
+    },
+    {
+      "id": "nm0850533",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNjQ5MDM5NF5BMl5BanBnXkFtZTcwMjE4NzMyNQ@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Michael Tarn",
+      "asCharacter": "Pete"
+    },
+    {
+      "id": "nm0001190",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEyODc0MTUzODBeQTJeQWpwZ15BbWU4MDUyMjc3OTAx._V1_Ratio0.7273_AL_.jpg",
+      "name": "David Prowse",
+      "asCharacter": "Julian"
+    },
+    {
+      "id": "nm0177537",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barrie Cookson",
+      "asCharacter": "Dr. Alcott, Ludovico Center check-in"
+    },
+    {
+      "id": "nm0010439",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jan Adair",
+      "asCharacter": "Handmaiden in Bible Fantasy"
+    },
+    {
+      "id": "nm0113605",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWQyZWY2OTEtMTBmYi00ZWE1LWIxODYtMzcyMjhjYmJjNDg2XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Gaye Brown",
+      "asCharacter": "Sophisto"
+    },
+    {
+      "id": "nm0078252",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEyMzYwODE1Ml5BMl5BanBnXkFtZTYwMDY4MzEz._V1_Ratio0.8182_AL_.jpg",
+      "name": "Peter Burton",
+      "asCharacter": "Junior Minister - Minister Frederick's Aid"
+    },
+    {
+      "id": "nm0138810",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI5MDRmMTgtYTllZS00ZDFhLTkwMjUtYjhlNzgyOGM1MTliXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "John J. Carney",
+      "asCharacter": "Detective sergeant"
+    },
+    {
+      "id": "nm0151302",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vivienne Chandler",
+      "asCharacter": "Handmaiden in Bible Fantasy"
+    },
+    {
+      "id": "nm0174928",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjg0OWQyMzAtNWFhMC00NGEwLTkwN2YtMjA4ZWM2ZGM1OTM1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Richard Connaught",
+      "asCharacter": "Billyboy"
+    },
+    {
+      "id": "nm0236675",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU1NzE2N2YtMTdiOS00YjEzLThlNDQtMzFmYmM1OGU1MjJjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Prudence Drage",
+      "asCharacter": "Handmaiden in Bible fantasy"
+    },
+    {
+      "id": "nm0237958",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxMzc3MzUzM15BMl5BanBnXkFtZTcwMTc4NTgwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Carol Drinkwater",
+      "asCharacter": "Nurse Feeley"
+    },
+    {
+      "id": "nm0289115",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Fox",
+      "asCharacter": "Desk Sergeant"
+    },
+    {
+      "id": "nm0344647",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cheryl Grunwald",
+      "asCharacter": "Victim of Billyboy's Gang"
+    },
+    {
+      "id": "nm0385122",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc4YTNkOGMtYTlkMC00NmM1LWIxOWQtNjM2NjBhNjk3MWEyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Gillian Hills",
+      "asCharacter": "Sonietta"
+    },
+    {
+      "id": "nm0402768",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzVlNWU5ODUtNzNmNy00NTYzLWFkNTQtOThkZDk3ZGUwYTI0XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Craig Hunter",
+      "asCharacter": "Doctor"
+    },
+    {
+      "id": "nm0414639",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shirley Jaffe",
+      "asCharacter": "Nurse"
+    },
+    {
+      "id": "nm0923145",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Virginia Wetherell",
+      "asCharacter": "Stage Actress"
+    },
+    {
+      "id": "nm0933906",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1Njc3MjU2NF5BMl5BanBnXkFtZTgwMTI4ODUyMjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Neil Wilson",
+      "asCharacter": "Prison Check-in Officer"
+    },
+    {
+      "id": "nm0943669",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Katya Wyeth",
+      "asCharacter": "Girl in Ascot Fantasy"
+    },
+    {
+      "id": "nm1812170",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frankie Abbott",
+      "asCharacter": "Rex - Police Landrover Driver / 1st Policeman at Duke of York (uncredited)"
+    },
+    {
+      "id": "nm0037393",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Arrow",
+      "asCharacter": "Mustachioed Ludovico Technician (uncredited)"
+    },
+    {
+      "id": "nm6432257",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Bartlett",
+      "asCharacter": "Smiley Prisoner Next to Kissy Faced Prisoner (uncredited)"
+    },
+    {
+      "id": "nm0065271",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roy Beck",
+      "asCharacter": "Prison Officer in Chapel (uncredited)"
+    },
+    {
+      "id": "nm0115570",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Bruce",
+      "asCharacter": "Milkbar Bouncer (uncredited)"
+    },
+    {
+      "id": "nm0124173",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Maurice Bush",
+      "asCharacter": "Charlie - Security Guard Outside Alex's Ludovico Room (uncredited)"
+    },
+    {
+      "id": "nm4334611",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Steadman Clark",
+      "asCharacter": "3rd Milkbar Bouncer (uncredited)"
+    },
+    {
+      "id": "nm0183459",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjVkY2YwYWQtYTM5Yi00MmJiLWIzNTItMmI0MzhiZDUzOGQ3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "George Coulouris",
+      "asCharacter": "Professor (uncredited)"
+    },
+    {
+      "id": "nm2467208",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeremy Curry",
+      "asCharacter": "Jesus Christ (uncredited)"
+    },
+    {
+      "id": "nm4336489",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "David Dawkins",
+      "asCharacter": "Humming Technician (uncredited)"
+    },
+    {
+      "id": "nm0219069",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barbie Denham",
+      "asCharacter": "Bar Customer (uncredited)"
+    },
+    {
+      "id": "nm0242861",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Dunne",
+      "asCharacter": "Gang Member (uncredited)"
+    },
+    {
+      "id": "nm0258265",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andros Epaminondas",
+      "asCharacter": "Bearded Man in Record Shop (uncredited)"
+    },
+    {
+      "id": "nm0285676",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helen Ford",
+      "asCharacter": "Old Lady at Duke of York (uncredited)"
+    },
+    {
+      "id": "nm2727804",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNiZGU5ZWEtMTNkZi00ZWFlLTllNTMtYmY0OTA3MWZiODlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Norman Gay",
+      "asCharacter": "BBC Producer (uncredited)"
+    },
+    {
+      "id": "nm4336693",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dr. Gundry",
+      "asCharacter": "Dr. Lidlock (uncredited)"
+    },
+    {
+      "id": "nm3069677",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Hannon",
+      "asCharacter": "2nd Policeman at Duke of York (uncredited)"
+    },
+    {
+      "id": "nm1348696",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Aidan Harrington",
+      "asCharacter": "Observer (uncredited)"
+    },
+    {
+      "id": "nm0364402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExMWM5ODQtYTZhYi00N2RhLTkxYjUtZjlkMTA3ODdhMTU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Alan Harris",
+      "asCharacter": "Prison Guard (uncredited)"
+    },
+    {
+      "id": "nm0372223",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margaret Heald",
+      "asCharacter": "Nurse Braindrain (who comes in with psychiatrist) (uncredited)"
+    },
+    {
+      "id": "nm0384545",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nicholas Hill",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm0385441",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2ZTlhYWQtNTdhNC00N2U5LTllZjktNWU1ZTY5NWRlOGI4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Heinrich Himmler",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm0386944",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwMmI5NTUtMWFiZi00YjI5LWJhZDQtMTA5MzhkNWNjMmFkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Adolf Hitler",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm0400411",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fred Hugh",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm0404342",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Hutchinson",
+      "asCharacter": "Tramp Beating Up Alex (uncredited)"
+    },
+    {
+      "id": "nm0426996",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWJhZDMwNTEtM2VhMS00NDVmLTkxZjQtNmQ1NTBhOGE2NWJjXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Alf Joint",
+      "asCharacter": "Gang Member (uncredited)"
+    },
+    {
+      "id": "nm0473585",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNkOTBiNmEtOTMzNi00NjkxLTg5ZTctZmY4YTI0YjYxZTU0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Katharina Kubrick",
+      "asCharacter": "Girl Passing Alex in Record Store (uncredited)"
+    },
+    {
+      "id": "nm0527619",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Viktor Lutze",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm0580293",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Olive Mercer",
+      "asCharacter": "Old Lady at Duke of York (uncredited)"
+    },
+    {
+      "id": "nm4243493",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lou Morgan",
+      "asCharacter": "Prison Guard (uncredited)"
+    },
+    {
+      "id": "nm1615643",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leslie Nye",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm0639573",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Glenys O'Brien",
+      "asCharacter": "Brunette Girl (uncredited)"
+    },
+    {
+      "id": "nm0641066",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George O'Gorman",
+      "asCharacter": "Record Bootik Clerk (uncredited)"
+    },
+    {
+      "id": "nm1617083",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nat Pearn",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm9769365",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chalmers Peddie",
+      "asCharacter": "Tramp beating up Alex (uncredited)"
+    },
+    {
+      "id": "nm0711164",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rex Rashley",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm1648374",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fred Real",
+      "asCharacter": "Prison Check-In (uncredited)"
+    },
+    {
+      "id": "nm0730053",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDQ5MzRlNmUtOWVlOC00YWVjLWE5ZTAtNTQwYWI4ZGI5ZmZmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Pat Roach",
+      "asCharacter": "Milkbar Bouncer (uncredited)"
+    },
+    {
+      "id": "nm4529192",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Henry Robert",
+      "asCharacter": "Desk Policeman (uncredited)"
+    },
+    {
+      "id": "nm0751029",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Billy Russell",
+      "asCharacter": "Professor Attacked by Alex & Droogs in Library (uncredited)"
+    },
+    {
+      "id": "nm0754754",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Winifred Sabine",
+      "asCharacter": "Old Lady at Duke of York (uncredited)"
+    },
+    {
+      "id": "nm1717229",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Len Saunders",
+      "asCharacter": "Tramp (uncredited)"
+    },
+    {
+      "id": "nm1026217",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shane Shelton",
+      "asCharacter": "Burbling Boy (uncredited)"
+    },
+    {
+      "id": "nm0817765",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Spence",
+      "asCharacter": "Tramp Beating Up Alex (uncredited)"
+    },
+    {
+      "id": "nm0822042",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzODc1NWEtMDhhNC00NTFiLWE4ZDctYTZjNTg4ZjAxZTg3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Guy Standeven",
+      "asCharacter": "Man with Flowers in Hospital (uncredited)"
+    },
+    {
+      "id": "nm0836315",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Sturgeon",
+      "asCharacter": "Inmate (uncredited)"
+    },
+    {
+      "id": "nm0843020",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom Sye",
+      "asCharacter": "Biblio Oldie / Drunk Tramp (uncredited)"
+    },
+    {
+      "id": "nm0851261",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arthur Tatler",
+      "asCharacter": "Convict Pianist (uncredited)"
+    },
+    {
+      "id": "nm2564457",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert van Kaphengst",
+      "asCharacter": "Inmate (uncredited)"
+    },
+    {
+      "id": "nm1438881",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alec Wallis",
+      "asCharacter": "Conspirator D.B. Da Silva (uncredited)"
+    },
+    {
+      "id": "nm4335946",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sister Watkins",
+      "asCharacter": "Dr. Lidlock's Assistant (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "producer"
+        },
+        {
+          "id": "nm0514843",
+          "name": "Si Litvinoff",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0704629",
+          "name": "Max L. Raab",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0930089",
+          "name": "Bernard Williams",
+          "description": "associate producer"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005633",
+          "name": "John Alcott",
+          "description": "(lighting cameraman)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0124833",
+          "name": "Bill Butler",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0509896",
+          "name": "James Liggat",
+          "description": "(as Jimmy Liggat)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0058045",
+          "name": "John Barry",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0353569",
+          "name": "Russell Hagg",
+          "description": ""
+        },
+        {
+          "id": "nm0793242",
+          "name": "Peter Sheilds",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0134382",
+          "name": "Milena Canonero",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0029586",
+          "name": "Olga Angelinetta",
+          "description": "hairdresser"
+        },
+        {
+          "id": "nm0198412",
+          "name": "Barbara Daly",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0663993",
+          "name": "George Partleton",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0932031",
+          "name": "Freddie Williamson",
+          "description": "makeup artist (as Fred Williamson)"
+        },
+        {
+          "id": "nm0318948",
+          "name": "Jim Gillespie",
+          "description": "makeup artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0386878",
+          "name": "Paul Hitchcock",
+          "description": "executive in charge of production (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0185633",
+          "name": "Derek Cracknell",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0843361",
+          "name": "Dusty Symonds",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0065665",
+          "name": "Raymond Becket",
+          "description": "third assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0116767",
+          "name": "Frank Bruton",
+          "description": "prop master"
+        },
+        {
+          "id": "nm0170403",
+          "name": "Dave Coldham",
+          "description": "lead plaster foreman"
+        },
+        {
+          "id": "nm0359414",
+          "name": "Peter Hancock",
+          "description": "prop man"
+        },
+        {
+          "id": "nm0406479",
+          "name": "Tommy Ibbetson",
+          "description": "prop man"
+        },
+        {
+          "id": "nm0473583",
+          "name": "Christiane Kubrick",
+          "description": "special paintings and sculpture"
+        },
+        {
+          "id": "nm0538657",
+          "name": "Cornelius Makkink",
+          "description": "special paintings and sculpture"
+        },
+        {
+          "id": "nm0538658",
+          "name": "Herman Makkink",
+          "description": "special paintings and sculpture"
+        },
+        {
+          "id": "nm0601518",
+          "name": "Liz Moore",
+          "description": "special paintings and sculpture"
+        },
+        {
+          "id": "nm1201469",
+          "name": "John Oliver",
+          "description": "prop man"
+        },
+        {
+          "id": "nm0919513",
+          "name": "Bill Welch",
+          "description": "construction manager"
+        },
+        {
+          "id": "nm5589863",
+          "name": "Bill Gold",
+          "description": "poster designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0086899",
+          "name": "Brian Blamey",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm4279933",
+          "name": "André Dias",
+          "description": "dialogue recordist (international versions) / dubbing editor (international versions)"
+        },
+        {
+          "id": "nm0323049",
+          "name": "Peter Glossop",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0387667",
+          "name": "Eddie Haben",
+          "description": "dubbing mixer"
+        },
+        {
+          "id": "nm1044498",
+          "name": "John Jordan",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0746477",
+          "name": "Bill Rowe",
+          "description": "dubbing mixer"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0217437",
+          "name": "Sandy DellaMarie",
+          "description": "digital production coordinator: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0294491",
+          "name": "Mark Freund",
+          "description": "visual effects supervisor: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0315055",
+          "name": "George Gervan",
+          "description": "digital paint artist: Pacific itle & Art Studio: re-release"
+        },
+        {
+          "id": "nm0315056",
+          "name": "Richard Gervan",
+          "description": "digital paint artist: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0355877",
+          "name": "Martin Hall",
+          "description": "digital paint artist: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0372357",
+          "name": "Maureen Healy",
+          "description": "digital paint artist: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0398370",
+          "name": "Heather Hoyland",
+          "description": "lead digital compositor: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0453881",
+          "name": "Greg Kimble",
+          "description": "digital compositor: Pacific Title & Art Studio: re-release"
+        },
+        {
+          "id": "nm0189674",
+          "name": "Chris Crowell",
+          "description": "digital compositor (restored version) (uncredited)"
+        },
+        {
+          "id": "nm2199808",
+          "name": "Martyn Hall",
+          "description": "Assistant Optical Cameraman: Filmfex Animation Services (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0768882",
+          "name": "Roy Scammell",
+          "description": "stunt arranger"
+        },
+        {
+          "id": "nm1263450",
+          "name": "Eddie Frewin",
+          "description": "stunt driver (uncredited)"
+        },
+        {
+          "id": "nm0853092",
+          "name": "Rocky Taylor",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0091927",
+          "name": "Lou Bogue",
+          "description": "electrician (as Louis Bogue)"
+        },
+        {
+          "id": "nm3137874",
+          "name": "Don Budge",
+          "description": "grip"
+        },
+        {
+          "id": "nm0187819",
+          "name": "Tony Cridlin",
+          "description": "grip"
+        },
+        {
+          "id": "nm0005680",
+          "name": "Ernest Day",
+          "description": "camera operator (as Ernie Day)"
+        },
+        {
+          "id": "nm1202502",
+          "name": "Ron Drinkwater",
+          "description": "focus puller"
+        },
+        {
+          "id": "nm0296531",
+          "name": "Laurie Frost",
+          "description": "camera assistant"
+        },
+        {
+          "id": "nm0309840",
+          "name": "Derek Gatrell",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0501881",
+          "name": "David Lenham",
+          "description": "camera assistant"
+        },
+        {
+          "id": "nm0597125",
+          "name": "Mike Molloy",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0911948",
+          "name": "Frank Wardale",
+          "description": "supervising electrician"
+        },
+        {
+          "id": "nm0107105",
+          "name": "Bob Bremner",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0000040",
+          "name": "Stanley Kubrick",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0005801",
+          "name": "Douglas Milsome",
+          "description": "focus puller (uncredited)"
+        },
+        {
+          "id": "nm0941613",
+          "name": "Ken Worringham",
+          "description": "camera operator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0065268",
+          "name": "Ron Beck",
+          "description": "wardrobe supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0066577",
+          "name": "David Beesley",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0121335",
+          "name": "Peter Burgess",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0791780",
+          "name": "Gary Shepherd",
+          "description": "assistant editor"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0165961",
+          "name": "Terence A. Clegg",
+          "description": "location manager (as Terence Clegg)"
+        },
+        {
+          "id": "nm0604482",
+          "name": "Arthur Morgan",
+          "description": "location liaison"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0137793",
+          "name": "Wendy Carlos",
+          "description": "electronic music composed and realised by (as Walter Carlos)"
+        },
+        {
+          "id": "nm3923290",
+          "name": "Erika Eigen",
+          "description": "composer: additional music (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0709625",
+          "name": "June Randall",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0055398",
+          "name": "Len Barnard",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0083646",
+          "name": "Andy Birmingham",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm5900990",
+          "name": "Mercedes de Dunewic",
+          "description": "runner"
+        },
+        {
+          "id": "nm0258265",
+          "name": "Andros Epaminondas",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0363214",
+          "name": "Jan Harlan",
+          "description": "assistant to producer"
+        },
+        {
+          "id": "nm1201601",
+          "name": "Kay Johnson",
+          "description": "director's secretary"
+        },
+        {
+          "id": "nm0438332",
+          "name": "Mike Kaplan",
+          "description": "promotion coordinator"
+        },
+        {
+          "id": "nm1114656",
+          "name": "Jonathan Marshall",
+          "description": "technical advisor (as Jon Marshall)"
+        },
+        {
+          "id": "nm0649508",
+          "name": "Loretta Ordewer",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0011176",
+          "name": "Margaret Adams",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0274998",
+          "name": "Pablo Ferro",
+          "description": "title designer (uncredited)"
+        },
+        {
+          "id": "nm0294522",
+          "name": "Anthony Frewin",
+          "description": "assistant: Stanley Kubrick (uncredited)"
+        },
+        {
+          "id": "nm0370829",
+          "name": "Dick Haydon",
+          "description": "stand-in: male (uncredited)"
+        },
+        {
+          "id": "nm1355486",
+          "name": "John Ketteringham",
+          "description": "stand-in: Malcolm McDowell (uncredited)"
+        },
+        {
+          "id": "nm0550970",
+          "name": "John Marshall",
+          "description": "subtitle script and timing (uncredited)"
+        },
+        {
+          "id": "nm1648374",
+          "name": "Fred Real",
+          "description": "stand-in: Michael Bates (uncredited)"
+        },
+        {
+          "id": "nm1036021",
+          "name": "Julian Senior",
+          "description": "publicity director (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

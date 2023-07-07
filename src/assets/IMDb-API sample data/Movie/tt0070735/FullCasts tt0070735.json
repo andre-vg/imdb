@@ -1,0 +1,966 @@
+{
+  "imDbId": "tt0070735",
+  "title": "The Sting",
+  "fullTitle": "The Sting (1973)",
+  "type": "Movie",
+  "year": "1973",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001351",
+        "name": "George Roy Hill",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0911486",
+        "name": "David S. Ward",
+        "description": "(written by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000056",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWY2MDlmNTAtYWQ3Mi00YTU0LWEzZDYtYmEyM2UzYTY2YTM1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul Newman",
+      "asCharacter": "Henry Gondorff"
+    },
+    {
+      "id": "nm0000602",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Redford",
+      "asCharacter": "Johnny Hooker"
+    },
+    {
+      "id": "nm0001727",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NzI3NTU2MF5BMl5BanBnXkFtZTcwNTUzMjkyOA@@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Robert Shaw",
+      "asCharacter": "Doyle Lonnegan"
+    },
+    {
+      "id": "nm0001164",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMDk1NTU1OV5BMl5BanBnXkFtZTYwMDA2MjM0._V1_Ratio0.8636_AL_.jpg",
+      "name": "Charles Durning",
+      "asCharacter": "Lt. Wm. Snyder"
+    },
+    {
+      "id": "nm0001827",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIwMzIzNzAxM15BMl5BanBnXkFtZTYwNzg5NTM2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ray Walston",
+      "asCharacter": "J.J. Singleton"
+    },
+    {
+      "id": "nm0107281",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxODQ5MDAxM15BMl5BanBnXkFtZTcwNzkzMDYwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eileen Brennan",
+      "asCharacter": "Billie"
+    },
+    {
+      "id": "nm0332390",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyOTIyNzMwMF5BMl5BanBnXkFtZTcwOTM0Njg4Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harold Gould",
+      "asCharacter": "Kid Twist"
+    },
+    {
+      "id": "nm0373570",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Heffernan",
+      "asCharacter": "Eddie Niles"
+    },
+    {
+      "id": "nm0253020",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU5NjkwMzc4Nl5BMl5BanBnXkFtZTcwNTY1MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dana Elcar",
+      "asCharacter": "F.B.I. Agent Polk"
+    },
+    {
+      "id": "nm0444955",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDA1N2MzNDYtMDdjZi00N2YzLThkOTAtMWJkZjkwODdhMDJlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Kehoe",
+      "asCharacter": "Erie Kid"
+    },
+    {
+      "id": "nm0035195",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2UzOGJiNzgtM2Y1YS00NDkzLTk3MzktYTgwNzZjNGI3YWIyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Dimitra Arliss",
+      "asCharacter": "Loretta"
+    },
+    {
+      "id": "nm0429149",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDc0OWYtNjdhMy00NzU2LWEwMmMtZjAzNTkwZTZmMGI3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Robert Earl Jones",
+      "asCharacter": "Luther Coleman (as Robertearl Jones)"
+    },
+    {
+      "id": "nm0806277",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIzNjE0NDIxOF5BMl5BanBnXkFtZTcwODQ0NDkxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Sloyan",
+      "asCharacter": "Mottola (as James J. Sloyan)"
+    },
+    {
+      "id": "nm0225741",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjJlODBjZTAtYmQzYy00ZjEwLTk0MzUtYjQ0ZjRhMjkzMzg2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Charles Dierkop",
+      "asCharacter": "Floyd (Bodyguard)"
+    },
+    {
+      "id": "nm0666901",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDNkMTk4MjAtODQ2OS00NTJkLTg4MDAtNjliY2ZmMWU1YzA3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Lee Paul",
+      "asCharacter": "Bodyguard"
+    },
+    {
+      "id": "nm0000476",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDQ5MDEyNF5BMl5BanBnXkFtZTgwNzg4NTcxNzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sally Kirkland",
+      "asCharacter": "Crystal"
+    },
+    {
+      "id": "nm0518880",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk5MTY0NzMyMF5BMl5BanBnXkFtZTgwNzA3MzY2MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Avon Long",
+      "asCharacter": "Benny Garfield"
+    },
+    {
+      "id": "nm0424516",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmMxYzhlYWQtZDExOS00MWNmLTk2MTUtZGM5ZWE4NWU3YzNiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Arch Johnson",
+      "asCharacter": "Combs"
+    },
+    {
+      "id": "nm0049056",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ed Bakey",
+      "asCharacter": "Granger"
+    },
+    {
+      "id": "nm0837976",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjkwMDQxNzMtZWJmYi00ODQwLTk2YWQtMzU4ZTc2MmJjOGQ5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Brad Sullivan",
+      "asCharacter": "Cole"
+    },
+    {
+      "id": "nm0702723",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5MjQ4OV5BMl5BanBnXkFtZTgwMjg2NjIwMjE@._V1_Ratio0.8182_AL_.jpg",
+      "name": "John Quade",
+      "asCharacter": "Riley"
+    },
+    {
+      "id": "nm0542847",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjFiZTRiNDQtNDljNC00MDY3LThjOGMtZjU3MjhjMTIyZGQwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Larry D. Mann",
+      "asCharacter": "Train Conductor"
+    },
+    {
+      "id": "nm0056536",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leonard Barr",
+      "asCharacter": "Burlesque House Comedian"
+    },
+    {
+      "id": "nm0583314",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM5MDYyMTQ0Ml5BMl5BanBnXkFtZTgwMjk1NTM2MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Paulene Myers",
+      "asCharacter": "Alva Coleman"
+    },
+    {
+      "id": "nm0868149",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjNlMWYyZTctMTUwNC00NzFmLTk4NmEtZjk0NTFlZTdmMmJiXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Joe Tornatore",
+      "asCharacter": "Black Gloved Gunman"
+    },
+    {
+      "id": "nm0172355",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NjY2ODg2NV5BMl5BanBnXkFtZTgwNjM4MDgzMjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Jack Collins",
+      "asCharacter": "Duke Boudreau"
+    },
+    {
+      "id": "nm0819582",
+      "image": "https://m.media-amazon.com/images/M/MV5BODg3NTA5NTctNGVlZi00YWVjLWEzZTAtMDk1MmMxMTE3Zjk4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tom Spratley",
+      "asCharacter": "Curly Jackson"
+    },
+    {
+      "id": "nm0639650",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kenneth O'Brien",
+      "asCharacter": "Greer"
+    },
+    {
+      "id": "nm0763052",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ken Sansom",
+      "asCharacter": "Western Union Executive"
+    },
+    {
+      "id": "nm0845814",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ta-Tanisha",
+      "asCharacter": "Louise Coleman"
+    },
+    {
+      "id": "nm0070827",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjYyNzVmZGItMWFlYi00ZmI0LWExN2MtM2FhNmM3YmM4NzA1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "William 'Billy' Benedict",
+      "asCharacter": "Roulette Dealer (as William Benedict)"
+    },
+    {
+      "id": "nm1950268",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Berle",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0096470",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nick Borgani",
+      "asCharacter": "Tailor (uncredited)"
+    },
+    {
+      "id": "nm0105513",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Patricia Bratcher",
+      "asCharacter": "Manicurist (uncredited)"
+    },
+    {
+      "id": "nm0115393",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmNkYmE3OTMtZGI0ZS00YjI2LTg2Y2YtMTQ1MDA0OWEyODViXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Robert Brubaker",
+      "asCharacter": "Bill Clayton from Pittsburgh (uncredited)"
+    },
+    {
+      "id": "nm0118504",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Buckingham",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0247665",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Eastman",
+      "asCharacter": "Poker Player (uncredited)"
+    },
+    {
+      "id": "nm0255454",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Elmore",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0284289",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Folkerson",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0293466",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5NDM1NTQ1MV5BMl5BanBnXkFtZTcwNTEzMzkwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Kathleen Freeman",
+      "asCharacter": "Kid Twist's Wife (uncredited)"
+    },
+    {
+      "id": "nm0294215",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDQzNjgxNV5BMl5BanBnXkFtZTgwOTEzMTM0MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Susan French",
+      "asCharacter": "Landlady (uncredited)"
+    },
+    {
+      "id": "nm0296234",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sig Frohlich",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0303732",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ralph Gambina",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0330095",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Clarke Gordon",
+      "asCharacter": "Mr. Lombard (uncredited)"
+    },
+    {
+      "id": "nm0337846",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Green",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0341218",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmEzNzE2ZDMtMzNlNy00MWM1LWE0NmItZTk2ZjczYTlmMzI1XkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio1.9091_AL_.jpg",
+      "name": "Jack Griffin",
+      "asCharacter": "Cabbie (uncredited)"
+    },
+    {
+      "id": "nm0363193",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIxZTU3NDUtODllOC00OGE0LWE2OTItOGIzMGZkYjgwMDRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bob Harks",
+      "asCharacter": "Pedestrian (uncredited)"
+    },
+    {
+      "id": "nm0391833",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDBkZDQzNDYtZTAzOS00NzVhLTgzZGItYTJhM2Y2OGNiMTc0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "George Holmes",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0437437",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sid Kane",
+      "asCharacter": "Cashier #2 (uncredited)"
+    },
+    {
+      "id": "nm0299457",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWIxYjkzMWYtYjE3My00OGY3LWFhNTEtZWJlMDI5YmMzODFhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Bruce Kimball",
+      "asCharacter": "Lacey the Bouncer (uncredited)"
+    },
+    {
+      "id": "nm0482474",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mike Lally",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0516948",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alexander Lockwood",
+      "asCharacter": "Landlord (uncredited)"
+    },
+    {
+      "id": "nm0568195",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom McDonough",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm5581311",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jim Michael",
+      "asCharacter": "Bartender (uncredited)"
+    },
+    {
+      "id": "nm0606249",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chuck Morrell",
+      "asCharacter": "F.B.I. Agent Chuck (uncredited)"
+    },
+    {
+      "id": "nm0607465",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWM3YWM2ZDktMmM3OC00OTJjLTgwY2EtNThiMDE1ZWM4Y2VjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Byron Morrow",
+      "asCharacter": "Mr. Jameson from Chicago (uncredited)"
+    },
+    {
+      "id": "nm0630683",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Niehaus",
+      "asCharacter": "Train Passenger (uncredited)"
+    },
+    {
+      "id": "nm0707149",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jessica Rains",
+      "asCharacter": "Secretary (uncredited)"
+    },
+    {
+      "id": "nm0730804",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Al Roberts",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0734021",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjVlNjM3MWItODE2YS00ZDgzLTlkOTAtZDE2ZDIzNDM0OTkzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Edwin Rochelle",
+      "asCharacter": "Gambler (uncredited)"
+    },
+    {
+      "id": "nm0743315",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Clark Ross",
+      "asCharacter": "Man at Bar (uncredited)"
+    },
+    {
+      "id": "nm0790401",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pearl Shear",
+      "asCharacter": "Lady in Phone Booth (uncredited)"
+    },
+    {
+      "id": "nm0869863",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arthur Tovey",
+      "asCharacter": "Bank Officer (uncredited)"
+    },
+    {
+      "id": "nm0915429",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWYzZWUwNWMtYzc3Ny00MzllLTgxODAtZDM3OTBkNDkwM2IyXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Guy Way",
+      "asCharacter": "Gambling Den Boss (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0082300",
+          "name": "Tony Bill",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0113360",
+          "name": "David Brown",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm0186683",
+          "name": "Robert Crawford Jr.",
+          "description": "associate producer (as Robert L. Crawford)"
+        },
+        {
+          "id": "nm0680539",
+          "name": "Julia Phillips",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0680635",
+          "name": "Michael Phillips",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0790901",
+          "name": "Sid Sheinberg",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm0005573",
+          "name": "Richard D. Zanuck",
+          "description": "executive producer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005892",
+          "name": "Robert Surtees",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0722000",
+          "name": "William Reynolds",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0061205",
+          "name": "William Batliner",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0489434",
+          "name": "Robert J. LaSanka",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0120317",
+          "name": "Henry Bumstead",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0475689",
+          "name": "Emile Kuri",
+          "description": "(as Emilie Kuri)"
+        },
+        {
+          "id": "nm0668349",
+          "name": "James W. Payne",
+          "description": "(as James Payne)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0372128",
+          "name": "Edith Head",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0318948",
+          "name": "Jim Gillespie",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0509188",
+          "name": "Gary Liddiard",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0629557",
+          "name": "Connie Nichols",
+          "description": "hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0715764",
+          "name": "Mark Reedall",
+          "description": "key makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0789140",
+          "name": "Rick Sharp",
+          "description": "makeup artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0917589",
+          "name": "Ernest B. Wehmeyer",
+          "description": "production manager"
+        },
+        {
+          "id": "nm0166069",
+          "name": "Charles Clement",
+          "description": "post production operations head (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0228380",
+          "name": "Charles Dismukes",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0331527",
+          "name": "Ray Gosnell Jr.",
+          "description": "first assistant director (as Ray Gosnell)"
+        },
+        {
+          "id": "nm2099313",
+          "name": "Sergio Emmanuele Anastasio",
+          "description": "trainee assistant director (uncredited)"
+        },
+        {
+          "id": "nm0806192",
+          "name": "John Slosser",
+          "description": "dga trainee (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm8117024",
+          "name": "Richard Amsel",
+          "description": "poster artist (uncredited)"
+        },
+        {
+          "id": "nm5589863",
+          "name": "Bill Gold",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm0358293",
+          "name": "Walter Hamlin",
+          "description": "stand-by painter (uncredited)"
+        },
+        {
+          "id": "nm5113604",
+          "name": "Walter Hamlin",
+          "description": "stand-by painter (uncredited)"
+        },
+        {
+          "id": "nm0394427",
+          "name": "Richard Hopper",
+          "description": "illustrator (uncredited)"
+        },
+        {
+          "id": "nm0488607",
+          "name": "Henry Larrecq",
+          "description": "assistant art director (uncredited)"
+        },
+        {
+          "id": "nm4041785",
+          "name": "Buzz Newhouse",
+          "description": "construction coordinator (uncredited)"
+        },
+        {
+          "id": "nm0678149",
+          "name": "William A. Petrotta",
+          "description": "props (uncredited)"
+        },
+        {
+          "id": "nm0742632",
+          "name": "Julius Rosenkrantz",
+          "description": "property master (uncredited)"
+        },
+        {
+          "id": "nm0747438",
+          "name": "Thomas L. Roysden",
+          "description": "leadman (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0078418",
+          "name": "Robert R. Bertrand",
+          "description": "sound (as Robert Bertrand)"
+        },
+        {
+          "id": "nm0682463",
+          "name": "Ronald Pierce",
+          "description": "sound"
+        },
+        {
+          "id": "nm0075440",
+          "name": "Peter Berkos",
+          "description": "sound effects editor (uncredited)"
+        },
+        {
+          "id": "nm0757800",
+          "name": "Dennis C. Salcedo",
+          "description": "transfer room operator (uncredited)"
+        },
+        {
+          "id": "nm0813817",
+          "name": "Edwin J. Somers Jr.",
+          "description": "boom operator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0912407",
+          "name": "Bob Warner",
+          "description": "special effects manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0926087",
+          "name": "Albert Whitlock",
+          "description": "special photographic effects"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0284289",
+          "name": "Bob Folkerson",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0318176",
+          "name": "Mickey Gilbert",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm1998143",
+          "name": "Scott Gourlay",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0596156",
+          "name": "John Moio",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0698675",
+          "name": "Joe Pronto",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0807911",
+          "name": "Dean Smith",
+          "description": "stunt double (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm2577517",
+          "name": "Marion Ball Jr.",
+          "description": "grip"
+        },
+        {
+          "id": "nm0058564",
+          "name": "Richard Barth",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0175934",
+          "name": "Marie Cosindas",
+          "description": "special photographer (uncredited) / still photographer (uncredited)"
+        },
+        {
+          "id": "nm4664851",
+          "name": "Joe Cucci",
+          "description": "company grip (uncredited)"
+        },
+        {
+          "id": "nm5014928",
+          "name": "Howard Evans",
+          "description": "lamp operator (uncredited)"
+        },
+        {
+          "id": "nm8725140",
+          "name": "Arthur W. Frantz",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0333925",
+          "name": "Ben O. Graham",
+          "description": "lamp operator (uncredited)"
+        },
+        {
+          "id": "nm0450283",
+          "name": "Tom Kessenich",
+          "description": "second key grip (uncredited)"
+        },
+        {
+          "id": "nm0483119",
+          "name": "Don Lambert",
+          "description": "key grip (uncredited)"
+        },
+        {
+          "id": "nm4704586",
+          "name": "Everett Lehman",
+          "description": "gaffer (uncredited)"
+        },
+        {
+          "id": "nm0560949",
+          "name": "Fred Maupin",
+          "description": "lamp operator (uncredited)"
+        },
+        {
+          "id": "nm5014949",
+          "name": "Chuck Raffington",
+          "description": "lamp operator (uncredited)"
+        },
+        {
+          "id": "nm0777965",
+          "name": "Ted Schwimer",
+          "description": "lamp operator (uncredited)"
+        },
+        {
+          "id": "nm0795033",
+          "name": "Charles W. Short",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0795624",
+          "name": "Frank Shugrue",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm4664842",
+          "name": "Edward Thompson",
+          "description": "dolly grip (uncredited)"
+        },
+        {
+          "id": "nm0905519",
+          "name": "Timothy E. Wade",
+          "description": "assistant camera (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0689360",
+          "name": "Bernie Pollack",
+          "description": "costumer: men (uncredited)"
+        },
+        {
+          "id": "nm0757903",
+          "name": "Peter V. Saldutti",
+          "description": "costumer: men (uncredited)"
+        },
+        {
+          "id": "nm0915811",
+          "name": "Andrea E. Weaver",
+          "description": "costumer: women (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0461773",
+          "name": "Frederic L. Knudtson",
+          "description": "assistant editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0006121",
+          "name": "Marvin Hamlisch",
+          "description": "music adaptor"
+        },
+        {
+          "id": "nm0429771",
+          "name": "Scott Joplin",
+          "description": "composer: piano rags"
+        },
+        {
+          "id": "nm0125792",
+          "name": "Billy Byers",
+          "description": "music arranger (uncredited)"
+        },
+        {
+          "id": "nm0352611",
+          "name": "Ami Hadani",
+          "description": "music engineer (uncredited) / music mixer (uncredited)"
+        },
+        {
+          "id": "nm0006121",
+          "name": "Marvin Hamlisch",
+          "description": "music arranger (uncredited) / music producer (uncredited) / musical director (uncredited)"
+        },
+        {
+          "id": "nm0776051",
+          "name": "Gunther Schuller",
+          "description": "music arranger (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0117067",
+          "name": "Charlsie Bryant",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm4041956",
+          "name": "Jack Lloyd",
+          "description": "transportation captain (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0311397",
+          "name": "Jaroslav Gebr",
+          "description": "title artwork"
+        },
+        {
+          "id": "nm0769211",
+          "name": "John Scarne",
+          "description": "technical consultant"
+        },
+        {
+          "id": "nm5015234",
+          "name": "Billy Joe Andrus",
+          "description": "craft service (uncredited)"
+        },
+        {
+          "id": "nm0186683",
+          "name": "Robert Crawford Jr.",
+          "description": "assistant: George Roy Hill (uncredited)"
+        },
+        {
+          "id": "nm0217858",
+          "name": "Dick Delson",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm0338936",
+          "name": "Tom Greene",
+          "description": "assistant: Albert Whitlock (uncredited)"
+        },
+        {
+          "id": "nm0519290",
+          "name": "John Longenecker",
+          "description": "intern: AFI (uncredited)"
+        },
+        {
+          "id": "nm0660101",
+          "name": "Donald Paonessa",
+          "description": "intern: AFI (uncredited)"
+        },
+        {
+          "id": "nm0677132",
+          "name": "Eileen Peterson",
+          "description": "unit publicist (uncredited)"
+        },
+        {
+          "id": "nm0769211",
+          "name": "John Scarne",
+          "description": "card dealer double: Paul Newman's hands close-ups (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

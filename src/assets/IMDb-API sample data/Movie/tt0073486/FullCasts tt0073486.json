@@ -1,0 +1,737 @@
+{
+  "imDbId": "tt0073486",
+  "title": "One Flew Over the Cuckoo's Nest",
+  "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
+  "type": "Movie",
+  "year": "1975",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001232",
+        "name": "Milos Forman",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0369142",
+        "name": "Lawrence Hauben",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0325743",
+        "name": "Bo Goldman",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0450181",
+        "name": "Ken Kesey",
+        "description": "(based on the novel by)"
+      },
+      {
+        "id": "nm0913670",
+        "name": "Dale Wasserman",
+        "description": "(the play version: \"One Flew Over the Cuckoo's Nest\" by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0077720",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTA0MTAwM15BMl5BanBnXkFtZTcwOTQ3MDQ4NA@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Michael Berryman",
+      "asCharacter": "Ellis"
+    },
+    {
+      "id": "nm0110480",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzZkZGMyM2UtNDFlMS00OWQ5LTgxMWMtOGYxODM2NmQ0YjE2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Peter Brocco",
+      "asCharacter": "Col. Matterson"
+    },
+    {
+      "id": "nm0111954",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dean R. Brooks",
+      "asCharacter": "Dr. Spivey"
+    },
+    {
+      "id": "nm0113000",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alonzo Brown",
+      "asCharacter": "Miller"
+    },
+    {
+      "id": "nm0001079",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Scatman Crothers",
+      "asCharacter": "Turkle"
+    },
+    {
+      "id": "nm0191784",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTkwMTg4NV5BMl5BanBnXkFtZTcwMDg4OTEzNA@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Mwako Cumbuka",
+      "asCharacter": "Warren"
+    },
+    {
+      "id": "nm0000362",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTE5MjM5MzM3M15BMl5BanBnXkFtZTYwOTEzOTY0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Danny DeVito",
+      "asCharacter": "Martini"
+    },
+    {
+      "id": "nm0240239",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William Duell",
+      "asCharacter": "Sefelt"
+    },
+    {
+      "id": "nm0253574",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDcxNmNhMDktNGViNi00NWMyLTkwNDEtYzc4YTZhMjRjMTY5XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio1.1364_AL_.jpg",
+      "name": "Josip Elic",
+      "asCharacter": "Bancini"
+    },
+    {
+      "id": "nm0271753",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lan Fendors",
+      "asCharacter": "Nurse Itsu"
+    },
+    {
+      "id": "nm0001221",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIzOTcwNzYzMl5BMl5BanBnXkFtZTYwMjQ3MTI0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Louise Fletcher",
+      "asCharacter": "Nurse Ratched"
+    },
+    {
+      "id": "nm0313554",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZkZjFhYjgtZDk1Ny00NWUxLWIwNzItYjkyYzYwNmIzM2QxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Nathan George",
+      "asCharacter": "Washington"
+    },
+    {
+      "id": "nm0448590",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ken Kenny",
+      "asCharacter": "Beans Garfield"
+    },
+    {
+      "id": "nm0483256",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mel Lambert",
+      "asCharacter": "Harbor Master"
+    },
+    {
+      "id": "nm0489861",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2ODY2OTkwM15BMl5BanBnXkFtZTcwODI3MzYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sydney Lassick",
+      "asCharacter": "Cheswick"
+    },
+    {
+      "id": "nm0497656",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kay Lee",
+      "asCharacter": "Night Supervisor"
+    },
+    {
+      "id": "nm0000502",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzQ0ODgxOV5BMl5BanBnXkFtZTcwMTAxMDY0Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Christopher Lloyd",
+      "asCharacter": "Taber"
+    },
+    {
+      "id": "nm0546555",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dwight Marfield",
+      "asCharacter": "Ellsworth"
+    },
+    {
+      "id": "nm0548524",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYyNDVlOWEtMDk3NS00YmJhLWE1ZDQtMWU2NmFjNzYxODBlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ted Markland",
+      "asCharacter": "Hap Arlich"
+    },
+    {
+      "id": "nm0605770",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxMzQyMzE4MV5BMl5BanBnXkFtZTgwNDY0NzAzNzM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Louisa Moritz",
+      "asCharacter": "Rose"
+    },
+    {
+      "id": "nm0000197",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jack Nicholson",
+      "asCharacter": "R.P. McMurphy"
+    },
+    {
+      "id": "nm0714835",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY3MjMzZjctMGUzOS00ODIzLWJiODktNTE3M2Q2OGM4ODQ4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "William Redfield",
+      "asCharacter": "Harding"
+    },
+    {
+      "id": "nm0744981",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Philip Roth",
+      "asCharacter": "Woolsey (as Phil Roth)"
+    },
+    {
+      "id": "nm0760225",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzMzA4NjcyMl5BMl5BanBnXkFtZTcwMTAyNTUyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Will Sampson",
+      "asCharacter": "Chief Bromden"
+    },
+    {
+      "id": "nm0765299",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mimi Sarkisian",
+      "asCharacter": "Nurse Pilbow"
+    },
+    {
+      "id": "nm0001704",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MzA5OTY2M15BMl5BanBnXkFtZTYwODMwMjk1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Vincent Schiavelli",
+      "asCharacter": "Fredrickson"
+    },
+    {
+      "id": "nm0806500",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxMzMzNDYyMl5BMl5BanBnXkFtZTYwNjUwMjgy._V1_Ratio0.9545_AL_.jpg",
+      "name": "Mews Small",
+      "asCharacter": "Candy (as Marya Small)"
+    },
+    {
+      "id": "nm0807158",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Delos V. Smith Jr.",
+      "asCharacter": "Scanlon"
+    },
+    {
+      "id": "nm0919668",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tin Welch",
+      "asCharacter": "Ruckley"
+    },
+    {
+      "id": "nm0000374",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brad Dourif",
+      "asCharacter": "Billy Bibbit"
+    },
+    {
+      "id": "nm0167467",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU3NDQ2MDYzOF5BMl5BanBnXkFtZTcwNzI5OTgwOA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Aurore Clément",
+      "asCharacter": "Lady on Pier (uncredited)"
+    },
+    {
+      "id": "nm0182250",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmYxOWFiOTAtNjBhNi00OWNhLTg5YmYtOGFiYjA4Zjg2ZWUyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mary Costa",
+      "asCharacter": "Mrs. Johnson (uncredited)"
+    },
+    {
+      "id": "nm0336029",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Gratton",
+      "asCharacter": "Security Guard (uncredited)"
+    },
+    {
+      "id": "nm0001378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAzNTE1MTAyNDReQTJeQWpwZ15BbWU3MDk5NDI0Mjc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anjelica Huston",
+      "asCharacter": "Woman in Crowd on Pier (uncredited)"
+    },
+    {
+      "id": "nm0458003",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDI5MGUwOTctMDE0Yi00Y2FiLTg3NmMtMTc5NWM1Mzk0ZDUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Ingeborg Kjeldsen",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0484626",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI5MDIxMDMwN15BMl5BanBnXkFtZTgwNTMzNzMwMzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Audrey Landers",
+      "asCharacter": "Actress on TV Screen (uncredited)"
+    },
+    {
+      "id": "nm1034143",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tom McCall",
+      "asCharacter": "News Commentator (uncredited)"
+    },
+    {
+      "id": "nm2070674",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Prasanna K. Pati",
+      "asCharacter": "Dr. Songee (uncredited)"
+    },
+    {
+      "id": "nm2048736",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James V. Shore",
+      "asCharacter": "Doctor (uncredited)"
+    },
+    {
+      "id": "nm0951763",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg2NjE3NTc3Nl5BMl5BanBnXkFtZTgwODk4Njk4MDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Saul Zaentz",
+      "asCharacter": "Captain on Shore (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000140",
+          "name": "Michael Douglas",
+          "description": "producer"
+        },
+        {
+          "id": "nm0277840",
+          "name": "Martin Fink",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0951763",
+          "name": "Saul Zaentz",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0006217",
+          "name": "Jack Nitzsche",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005549",
+          "name": "Haskell Wexler",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0434922",
+          "name": "Sheldon Kahn",
+          "description": ""
+        },
+        {
+          "id": "nm0459806",
+          "name": "Lynzee Klingman",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0270670",
+          "name": "Jane Feinberg",
+          "description": ""
+        },
+        {
+          "id": "nm0272067",
+          "name": "Mike Fenton",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0843128",
+          "name": "Paul Sylbert",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0640898",
+          "name": "Edwin O'Donovan",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0345888",
+          "name": "Aggie Guerard Rodgers",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0498784",
+          "name": "Gerry Leetch",
+          "description": "hairdresser"
+        },
+        {
+          "id": "nm0680403",
+          "name": "Fred B. Phillips",
+          "description": "makeup artist (as Fred Phillips)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0235119",
+          "name": "Joel Douglas",
+          "description": "unit production manager"
+        },
+        {
+          "id": "nm0764770",
+          "name": "Irving Saraf",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm0155926",
+          "name": "Joel Chernoff",
+          "description": "executive in charge of production (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0756636",
+          "name": "William Saint John",
+          "description": "second assistant director (as William St. John)"
+        },
+        {
+          "id": "nm0808511",
+          "name": "Irby Smith",
+          "description": "first assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0010138",
+          "name": "Joe Acord",
+          "description": "construction coordinator"
+        },
+        {
+          "id": "nm0058653",
+          "name": "Tom Bartholomew",
+          "description": "production painter"
+        },
+        {
+          "id": "nm0507809",
+          "name": "Terry E. Lewis",
+          "description": "props (as Terry Lewis)"
+        },
+        {
+          "id": "nm0713785",
+          "name": "Rudy Reachi",
+          "description": "assistant property master (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0074281",
+          "name": "Mark Berger",
+          "description": "post-production sound director"
+        },
+        {
+          "id": "nm0413913",
+          "name": "Pat Jackson",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0430928",
+          "name": "Larry Jost",
+          "description": "sound recordist (as Lawrence Jost)"
+        },
+        {
+          "id": "nm0569457",
+          "name": "Mary McGlone",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0752091",
+          "name": "Robert R. Rutledge",
+          "description": "sound editor (as Robert Rutledge)"
+        },
+        {
+          "id": "nm0776022",
+          "name": "Kirk Schuler",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0783593",
+          "name": "Veronica Selver",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0074281",
+          "name": "Mark Berger",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0638340",
+          "name": "John Nutt",
+          "description": "sound restoration (uncredited)"
+        },
+        {
+          "id": "nm1174486",
+          "name": "Gene Radzik",
+          "description": "Dolby consultant: 2001 5.1 remix (uncredited)"
+        },
+        {
+          "id": "nm0737129",
+          "name": "Philip Rogers",
+          "description": "sound restoration (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0316617",
+          "name": "Alan Gibbs",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0124832",
+          "name": "Bill Butler",
+          "description": "additional photography"
+        },
+        {
+          "id": "nm0170853",
+          "name": "Dick Colean",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0005710",
+          "name": "William A. Fraker",
+          "description": "additional photography (as William Fraker)"
+        },
+        {
+          "id": "nm0300940",
+          "name": "Hugh K. Gagnier",
+          "description": "camera operator (as Hugh Gagnier)"
+        },
+        {
+          "id": "nm0384270",
+          "name": "George Hill",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0392428",
+          "name": "Gary Holt",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0548810",
+          "name": "Dennis Marks",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0629756",
+          "name": "Walter Nichols",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0814809",
+          "name": "Peter Sorel",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0828731",
+          "name": "Robert M. Stevens",
+          "description": "camera operator (as Robert Stevens)"
+        },
+        {
+          "id": "nm0855136",
+          "name": "Bill Tenny",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0859446",
+          "name": "Robert C. Thomas",
+          "description": "camera operator (as Robert Thomas)"
+        },
+        {
+          "id": "nm0932317",
+          "name": "Doug Willis",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0249184",
+          "name": "Richard J. Edesa",
+          "description": "first assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0532046",
+          "name": "Kyle T. MacDowell",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm8358812",
+          "name": "Ronald L. Vargas Jr.",
+          "description": "first assistant camera: \"b\" camera (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0345888",
+          "name": "Aggie Guerard Rodgers",
+          "description": "costumer (as Agnes Rodgers)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0156816",
+          "name": "Richard Chew",
+          "description": "supervising film editor"
+        },
+        {
+          "id": "nm0167986",
+          "name": "Arthur Coburn",
+          "description": "assistant film editor (as Art Coburn)"
+        },
+        {
+          "id": "nm0275909",
+          "name": "Constance Field",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0462732",
+          "name": "Bonnie Koehler",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0591969",
+          "name": "Jay Miracle",
+          "description": "assistant film editor"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0634718",
+          "name": "Frank Noonan",
+          "description": "location auditor"
+        },
+        {
+          "id": "nm0775330",
+          "name": "Denise Schreiter",
+          "description": "location coordinator"
+        },
+        {
+          "id": "nm0949695",
+          "name": "Jim Young",
+          "description": "location auditor"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0925961",
+          "name": "Ted Whitfield",
+          "description": "music editor"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0236622",
+          "name": "Natalie Drache",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0859593",
+          "name": "Tom F. Thomas",
+          "description": "transportation captain (as Tom Thomas)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0280408",
+          "name": "Wayne Fitzgerald",
+          "description": "title"
+        },
+        {
+          "id": "nm0469647",
+          "name": "Rhonda Kramer",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0513855",
+          "name": "Leonard Lipton",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0111954",
+          "name": "Dean R. Brooks",
+          "description": "technical advisor (uncredited)"
+        },
+        {
+          "id": "nm0933687",
+          "name": "Katherine Wilson",
+          "description": "production associate (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

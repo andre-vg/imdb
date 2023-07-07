@@ -1,0 +1,966 @@
+{
+  "imDbId": "tt0079470",
+  "title": "Life of Brian",
+  "fullTitle": "Life of Brian (1979)",
+  "type": "Movie",
+  "year": "1979",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001402",
+        "name": "Terry Jones",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0001037",
+        "name": "Graham Chapman",
+        "description": "(written by) &"
+      },
+      {
+        "id": "nm0000092",
+        "name": "John Cleese",
+        "description": "(written by) &"
+      },
+      {
+        "id": "nm0000416",
+        "name": "Terry Gilliam",
+        "description": "(written by) &"
+      },
+      {
+        "id": "nm0001385",
+        "name": "Eric Idle",
+        "description": "(written by) &"
+      },
+      {
+        "id": "nm0001402",
+        "name": "Terry Jones",
+        "description": "(written by) &"
+      },
+      {
+        "id": "nm0001589",
+        "name": "Michael Palin",
+        "description": "(written by)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0001037",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzODAyODc4NF5BMl5BanBnXkFtZTcwODY5MzAxMw@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Graham Chapman",
+      "asCharacter": "Wise Man #2 / Brian Cohen / Biggus Dickus"
+    },
+    {
+      "id": "nm0000092",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MTIzMzM1MF5BMl5BanBnXkFtZTYwNjQ3ODI1._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Cleese",
+      "asCharacter": "Wise Man #1 / Reg / Jewish Official / First Centurion / Deadly Dirk / Arthur"
+    },
+    {
+      "id": "nm0000416",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAyMDM0NjEwOF5BMl5BanBnXkFtZTcwMTUyMDY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Terry Gilliam",
+      "asCharacter": "Man Even Further Forward / Revolutionary / Jailer / Blood & Thunder Prophet / Frank / Audience Member / Crucifee"
+    },
+    {
+      "id": "nm0001385",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY4NTQwNDA4M15BMl5BanBnXkFtZTYwNTg5Njcz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eric Idle",
+      "asCharacter": "Mr. Cheeky / Stan aka Loretta / Harry the Haggler / Culprit Woman / Warris / Intensely Dull Youth / Jailer's Assistant / Otto / Lead Singer Crucifee"
+    },
+    {
+      "id": "nm0001402",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdjODRlMDQtNjEzNS00MDI4LWFjMWItZDdmZWYzMzJkM2I4XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Terry Jones",
+      "asCharacter": "Mandy Cohen / Colin / Simon the Holy Man / Bob Hoskins / Saintly Passer-by / Alarmed Crucifixion Assistant"
+    },
+    {
+      "id": "nm0001589",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTQ5OTMyMzQ2MF5BMl5BanBnXkFtZTcwMTk5MzAxMw@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Michael Palin",
+      "asCharacter": "Wise Man #3 / Mr. Big Nose / Francis / Mrs. A / Ex-Leper / Announcer / Ben / Pontius Pilate / Boring Prophet / Eddie / Shoe Follower / Nisus Wettus"
+    },
+    {
+      "id": "nm0063027",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNDM5MjE1NF5BMl5BanBnXkFtZTcwNzEyNTM0OA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Terence Bayler",
+      "asCharacter": "Gregory"
+    },
+    {
+      "id": "nm0166470",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDg2MzU2MzgyOV5BMl5BanBnXkFtZTcwMTkwMTIyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Carol Cleveland",
+      "asCharacter": "Mrs. Gregory"
+    },
+    {
+      "id": "nm0171829",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGM1NGE1NDMtYjdhYy00YTliLWFiOTAtN2ZkNTBhZmFjOTViXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Kenneth Colley",
+      "asCharacter": "Jesus"
+    },
+    {
+      "id": "nm0409183",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkYTUwMjktNjQyYi00ODk1LTgxMzQtODZmMjY1MTdhYWUzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Neil Innes",
+      "asCharacter": "A Weedy Samaritan"
+    },
+    {
+      "id": "nm0571650",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc3ZjA1NzItNzAxMi00ZGJlLWIxNjktODU0N2MwZTA0MzMzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charles McKeown",
+      "asCharacter": "False Prophet / Blind Man / Giggling Guard / Stig"
+    },
+    {
+      "id": "nm0949707",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2JhMjkyZTEtYzA3NC00NGNmLWJlZmItMjM0NjNkMWI4ZjdmXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.8182_AL_.jpg",
+      "name": "John Young",
+      "asCharacter": "Matthias, Son of Deuteronomy of Gath"
+    },
+    {
+      "id": "nm0852438",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE0NDM1NTQ3OF5BMl5BanBnXkFtZTcwMzgwNjAyOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Gwen Taylor",
+      "asCharacter": "Mrs. Big Nose"
+    },
+    {
+      "id": "nm0429495",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sue Jones-Davies",
+      "asCharacter": "Judith"
+    },
+    {
+      "id": "nm0107968",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Brett",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0143223",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Case",
+      "asCharacter": "Pilate's Wife"
+    },
+    {
+      "id": "nm0486413",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4MTYyMTExM15BMl5BanBnXkFtZTcwNTg1ODExOA@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Chris Langham",
+      "asCharacter": "Alfonso / Giggling Guard"
+    },
+    {
+      "id": "nm0533665",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjRhOWVhYjEtYzgxNi00MjM3LWI2NGEtNGI1MGI2NmFlNjZkXkEyXkFqcGdeQXVyMTI3NTkxNw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Andrew MacLachlan",
+      "asCharacter": "Another Official Stoners Helper / Giggling Guard"
+    },
+    {
+      "id": "nm0571334",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bernard McKenna",
+      "asCharacter": "Parvus / Official Stoners Helper / Giggling Guard"
+    },
+    {
+      "id": "nm0589711",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzIwMzc3Mjk2MV5BMl5BanBnXkFtZTcwNDQwNDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Spike Milligan",
+      "asCharacter": "Spike"
+    },
+    {
+      "id": "nm8291680",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Randy Feelgood",
+      "asCharacter": "Man / Woman (uncredited)"
+    },
+    {
+      "id": "nm0365600",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNjE0NzAzMl5BMl5BanBnXkFtZTYwMjQzMzU3._V1_Ratio0.8636_AL_.jpg",
+      "name": "George Harrison",
+      "asCharacter": "Mr. Papadopolous (uncredited)"
+    },
+    {
+      "id": "nm0461262",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Knode",
+      "asCharacter": "Passer-by (uncredited)"
+    },
+    {
+      "id": "nm7758679",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Monty Python",
+      "asCharacter": "Themselves (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0069893",
+          "name": "Tarak Ben Ammar",
+          "description": "executive producer: Tunisia"
+        },
+        {
+          "id": "nm0326364",
+          "name": "John Goldstone",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0359060",
+          "name": "Tim Hampton",
+          "description": "associate producer"
+        },
+        {
+          "id": "nm0365600",
+          "name": "George Harrison",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0639510",
+          "name": "Denis O'Brien",
+          "description": "executive producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0121431",
+          "name": "Geoffrey Burgon",
+          "description": "(music composed by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0084695",
+          "name": "Peter Biziou",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0236405",
+          "name": "Julian Doyle",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0000416",
+          "name": "Terry Gilliam",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0002337",
+          "name": "Roger Christian",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0461262",
+          "name": "Charles Knode",
+          "description": ""
+        },
+        {
+          "id": "nm0677499",
+          "name": "Hazel Pethig",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0109489",
+          "name": "Kenteas Brine",
+          "description": "hair stylist / makeup artist"
+        },
+        {
+          "id": "nm0136865",
+          "name": "Elaine Carew",
+          "description": "hairdressing / makeup"
+        },
+        {
+          "id": "nm0159399",
+          "name": "Faouzia Choura",
+          "description": "hair stylist / makeup artist"
+        },
+        {
+          "id": "nm0292669",
+          "name": "Sue Ignatius",
+          "description": "hair stylist (as Susan Frear) / makeup artist (as Susan Frear)"
+        },
+        {
+          "id": "nm0419794",
+          "name": "Fatma Jaziri",
+          "description": "hair stylist / makeup artist"
+        },
+        {
+          "id": "nm0513247",
+          "name": "Ken Lintott",
+          "description": "wigs: beards etc. (as Kenneth Lintott)"
+        },
+        {
+          "id": "nm0916365",
+          "name": "Diana Webber",
+          "description": "hair stylist / makeup artist"
+        },
+        {
+          "id": "nm1461907",
+          "name": "Maggie Weston",
+          "description": "hairdressing / makeup"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0072542",
+          "name": "Jonathan Benson",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0083087",
+          "name": "Matthew Binns",
+          "description": "third assistant director"
+        },
+        {
+          "id": "nm1240802",
+          "name": "Benamar Hamida",
+          "description": "assistant director: Tunisia (as Hmida Ben Ammar)"
+        },
+        {
+          "id": "nm0511245",
+          "name": "Melvin Lind",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0617217",
+          "name": "Slim Mzali",
+          "description": "assistant director: Tunisia"
+        },
+        {
+          "id": "nm1242386",
+          "name": "Lotfi Thabet",
+          "description": "assistant director: Tunisia"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0044397",
+          "name": "Mohammed Azounadhea",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0063905",
+          "name": "John Beard",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0120150",
+          "name": "Graham Bullock",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm1241075",
+          "name": "Patricia Christian",
+          "description": "art dept. secretary"
+        },
+        {
+          "id": "nm0164332",
+          "name": "Nobby Clark",
+          "description": "construction crew (as Roy Clarke)"
+        },
+        {
+          "id": "nm0242468",
+          "name": "Peter Dunlop",
+          "description": "production buyer"
+        },
+        {
+          "id": "nm0000416",
+          "name": "Terry Gilliam",
+          "description": "design"
+        },
+        {
+          "id": "nm0335605",
+          "name": "Peter Grant",
+          "description": "props department"
+        },
+        {
+          "id": "nm0365557",
+          "name": "Dennis Harrison",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0366955",
+          "name": "Geoffrey Hartman",
+          "description": "props department"
+        },
+        {
+          "id": "nm0384983",
+          "name": "Craig Hillier",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0412760",
+          "name": "Gordon Izod",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0429104",
+          "name": "Richard Jones",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0493592",
+          "name": "Lotfi Layouni",
+          "description": "construction manager (as Lotfi Layourni)"
+        },
+        {
+          "id": "nm0546662",
+          "name": "John Margetts",
+          "description": "props department"
+        },
+        {
+          "id": "nm0556927",
+          "name": "Robert Mason",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0577706",
+          "name": "Michael Melia",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0621715",
+          "name": "Eric Nash",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0665483",
+          "name": "Darryl Paterson",
+          "description": "props department (as Daryll Patterson)"
+        },
+        {
+          "id": "nm0665502",
+          "name": "John Paterson",
+          "description": "construction manager"
+        },
+        {
+          "id": "nm0680428",
+          "name": "Gordon Phillips",
+          "description": "props department"
+        },
+        {
+          "id": "nm0780407",
+          "name": "Alan Seabrook",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0815755",
+          "name": "Hassen Soufi",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm0815756",
+          "name": "Hassine Soufi",
+          "description": "production buyer"
+        },
+        {
+          "id": "nm0816060",
+          "name": "Bunny Southall",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm1119731",
+          "name": "John Spottiswood",
+          "description": "scenic artist (as John Spotswood)"
+        },
+        {
+          "id": "nm1222420",
+          "name": "Peter Verard",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0926979",
+          "name": "Arthur Wicks",
+          "description": "props department"
+        },
+        {
+          "id": "nm1240542",
+          "name": "David Wiggins",
+          "description": "construction crew"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm1240720",
+          "name": "Simon Bailey",
+          "description": "asst. dubbing editor"
+        },
+        {
+          "id": "nm0160946",
+          "name": "Philip Chubb",
+          "description": "assistant sound engineer (as Phil Chubb)"
+        },
+        {
+          "id": "nm0287892",
+          "name": "John Foster",
+          "description": "dubbing editor"
+        },
+        {
+          "id": "nm0408528",
+          "name": "Dushko Indjic",
+          "description": "assistant sound engineer"
+        },
+        {
+          "id": "nm0550888",
+          "name": "Garth Marshall",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0651373",
+          "name": "Tony Orton",
+          "description": "effects editor"
+        },
+        {
+          "id": "nm0833162",
+          "name": "Hugh Strain",
+          "description": "dubbing mixer"
+        },
+        {
+          "id": "nm0915127",
+          "name": "David Watts",
+          "description": "sound consultant: Dolby"
+        },
+        {
+          "id": "nm0919527",
+          "name": "Christopher T. Welch",
+          "description": "asst. dubbing editor (as Chris Welch)"
+        },
+        {
+          "id": "nm1642532",
+          "name": "Steve Hancock",
+          "description": "dubbing projectionist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0028883",
+          "name": "Tony Andrews",
+          "description": "animation and model department"
+        },
+        {
+          "id": "nm1240830",
+          "name": "Rupert Ashmore",
+          "description": "animation and model department"
+        },
+        {
+          "id": "nm0063916",
+          "name": "Michael Beard",
+          "description": "animation and model department"
+        },
+        {
+          "id": "nm0153313",
+          "name": "Valerie Charlton",
+          "description": "animation and model department (as Val Charlton)"
+        },
+        {
+          "id": "nm0208703",
+          "name": "Dennis De Groot",
+          "description": "animation and model department (as Dennis DeGroot)"
+        },
+        {
+          "id": "nm0378346",
+          "name": "Kate Hepburn",
+          "description": "animation and model department"
+        },
+        {
+          "id": "nm0396854",
+          "name": "Kent Houston",
+          "description": "optical effects: Peerless Camera Co."
+        },
+        {
+          "id": "nm0647364",
+          "name": "Tim Ollive",
+          "description": "animation and model department (as Tim Olive)"
+        },
+        {
+          "id": "nm0695536",
+          "name": "Roger Pratt",
+          "description": "animation and model department"
+        },
+        {
+          "id": "nm0795077",
+          "name": "Keith Short",
+          "description": "modeller"
+        },
+        {
+          "id": "nm0924335",
+          "name": "Paul Whitbread",
+          "description": "optical effects: Peerless Camera Co."
+        },
+        {
+          "id": "nm0191235",
+          "name": "Bob Cuff",
+          "description": "matte painter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1240803",
+          "name": "Sadok Ben Amor",
+          "description": "camera grip"
+        },
+        {
+          "id": "nm0030274",
+          "name": "Alan Annand",
+          "description": "loader"
+        },
+        {
+          "id": "nm1171084",
+          "name": "David Appleby",
+          "description": "stills photographer"
+        },
+        {
+          "id": "nm0061264",
+          "name": "Frank Batt",
+          "description": "camera grip"
+        },
+        {
+          "id": "nm0108293",
+          "name": "Mike Brewster",
+          "description": "focus (as Michael Brewster)"
+        },
+        {
+          "id": "nm1241070",
+          "name": "Hichem Cherif",
+          "description": "loader (as Hechim Cherif)"
+        },
+        {
+          "id": "nm0277400",
+          "name": "Chuck Finch",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm1248472",
+          "name": "Kamel Kardous",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm1285781",
+          "name": "Don Matton",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm0663898",
+          "name": "Reg Parsons",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm0734797",
+          "name": "Les Rodhouse",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm0734798",
+          "name": "Roy Rodhouse",
+          "description": "chief electrician"
+        },
+        {
+          "id": "nm1285834",
+          "name": "Mohamed Sahli",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm0807521",
+          "name": "Brian Smith",
+          "description": "electrical department"
+        },
+        {
+          "id": "nm0822285",
+          "name": "John Stanier",
+          "description": "camera operator"
+        }
+      ]
+    },
+    {
+      "job": "Animation Department",
+      "items": [
+        {
+          "id": "nm0000416",
+          "name": "Terry Gilliam",
+          "description": "animation"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0127652",
+          "name": "Sue Cable",
+          "description": "costume department"
+        },
+        {
+          "id": "nm0248927",
+          "name": "Nic Ede",
+          "description": "costume department (as Nick Ede)"
+        },
+        {
+          "id": "nm0443910",
+          "name": "Zoulfikha Keari",
+          "description": "costume department"
+        },
+        {
+          "id": "nm0682497",
+          "name": "William Pierce",
+          "description": "costume department (as Bill Pierce)"
+        },
+        {
+          "id": "nm0877194",
+          "name": "Leila Turki",
+          "description": "costume department"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0004398",
+          "name": "Rodney Glenn",
+          "description": "first assistant editor"
+        },
+        {
+          "id": "nm0592961",
+          "name": "John Mister",
+          "description": "second assistant editor"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm1240927",
+          "name": "Christina Biziou",
+          "description": "location assistant"
+        },
+        {
+          "id": "nm1241433",
+          "name": "Sallie Hampton",
+          "description": "location assistant"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm8585044",
+          "name": "Eric Crees",
+          "description": "musician: trombone"
+        },
+        {
+          "id": "nm0230269",
+          "name": "Marcus Dods",
+          "description": "conductor"
+        },
+        {
+          "id": "nm0335499",
+          "name": "Keith Grant",
+          "description": "music mixer"
+        },
+        {
+          "id": "nm0415114",
+          "name": "André Jacquemin",
+          "description": "music mixer (as Andre Jacquemin)"
+        },
+        {
+          "id": "nm1240726",
+          "name": "Steve James",
+          "description": "music mixer"
+        },
+        {
+          "id": "nm0429265",
+          "name": "Sonia Jones",
+          "description": "performer"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0516362",
+          "name": "Brenda Loader",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm1240589",
+          "name": "Ahmed Attia",
+          "description": "production department: Tunisia"
+        },
+        {
+          "id": "nm1241000",
+          "name": "Patricia Burgess",
+          "description": "representative: HandMade"
+        },
+        {
+          "id": "nm0149236",
+          "name": "Habib Chaari",
+          "description": "production department: Tunisia"
+        },
+        {
+          "id": "nm0155820",
+          "name": "Mohamed Ali Cherif",
+          "description": "production department: Tunisia (as Ali Cherif)"
+        },
+        {
+          "id": "nm0188590",
+          "name": "Hazel Crombie",
+          "description": "asst. accountant"
+        },
+        {
+          "id": "nm1243137",
+          "name": "Carey Fitzgerald",
+          "description": "contact: London"
+        },
+        {
+          "id": "nm1246993",
+          "name": "Claude Guillene",
+          "description": "production department: Tunisia"
+        },
+        {
+          "id": "nm0361918",
+          "name": "Tarak Harbi",
+          "description": "production department: Tunisia"
+        },
+        {
+          "id": "nm1241464",
+          "name": "Anne Henshaw",
+          "description": "business manager"
+        },
+        {
+          "id": "nm1243923",
+          "name": "Abderrazek Jazi",
+          "description": "production department: Tunisia (as Jazzi Abderrazak)"
+        },
+        {
+          "id": "nm0050456",
+          "name": "Sally Jones",
+          "description": "contact: London (as Sally Ball)"
+        },
+        {
+          "id": "nm1241633",
+          "name": "Mouldi Kriden",
+          "description": "production department: Tunisia"
+        },
+        {
+          "id": "nm1243819",
+          "name": "Christine Miller",
+          "description": "bibliography assistant"
+        },
+        {
+          "id": "nm1245457",
+          "name": "Hafida Ouertani",
+          "description": "accounts secretary"
+        },
+        {
+          "id": "nm0706516",
+          "name": "Jennie Raglan",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm1242191",
+          "name": "Hilary Sandison",
+          "description": "producer's assistant"
+        },
+        {
+          "id": "nm0815706",
+          "name": "Nicole Souchal",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm1242356",
+          "name": "Betty Swinburne",
+          "description": "contact: London"
+        },
+        {
+          "id": "nm0842681",
+          "name": "Ron Swinburne",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0860595",
+          "name": "Peter Thompson",
+          "description": "public relations"
+        },
+        {
+          "id": "nm0877195",
+          "name": "Ridha Turki",
+          "description": "accountant: Tunisia"
+        },
+        {
+          "id": "nm0875968",
+          "name": "Paul Tucker",
+          "description": "assistant production accountant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0007127",
+          "name": "Keith Moon",
+          "description": "published edition of the screenplay dedicated to"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,753 @@
+{
+  "imDbId": "tt4158110",
+  "title": "Mr. Robot",
+  "fullTitle": "Mr. Robot (TV Series 2015–2019)",
+  "type": "TVSeries",
+  "year": "2015",
+  "description": "21 wins & 86 nominations",
+  "items": [
+    {
+      "eventTitle": "Primetime Emmy Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2020 Winner Primetime Emmy",
+          "for": "Outstanding Interactive Extension of a Linear Program",
+          "description": "Roxanne Paredes (producer) - Jeff McKibben (writer) (For \"Season_4.0 ARG\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNjdhNjM2ZjAtNzkzNi00NTZjLWExYWItNTc0OTQ1YjFjYjQxXkEyXkFqcGdeQXVyMzY3NzQ5OTM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Primetime Emmy",
+          "for": "Outstanding Special Visual Effects in a Supporting Role",
+          "description": "Ariel Altman (VFX supervisor) - Lauren Montuori (VFX producer) - Joe Gunn (CG supervisor) - John T. Miller (on set visual effects supervisor) - Brian Kubovcik (VFX on set supervisor) - Luciano DiGeronimo (compositing supervisor) - Lindsay Seguin (managing producer) - Greg Anderson (senior VFX supervisor) - John-Michael Buban (lead vfx artist) (For episode \"eps3.4_runtime-err0r.r00\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BOWViNGQ0MTAtYzcxNS00ZDRiLWE1NjItOTRlZTE0YTZkMTA4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Primetime Emmy",
+          "for": "Outstanding Sound Mixing for a Comedy or Drama Series (One Hour)",
+          "description": "John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) (as Bill Freesh) - Paul Drenning (ADR mixer) - Joe White (production mixer) (For episode \"eps3.4_runtime-err0r.r00\".)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Primetime Emmy",
+          "for": "Outstanding Guest Actor in a Drama Series",
+          "description": "BD Wong (For playing: \"Whiterose\". For episode: \"eps2.3_logic-b0mb.hc\".)"
+        },
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2017 Nominee Primetime Emmy",
+          "for": "Outstanding Sound Mixing for a Comedy or Drama Series (One Hour)",
+          "description": "John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) - William Sarokin (production mixer) - Paul Drenning (ADR mixer) (For episode \"eps2.8_h1dden-pr0cess.axx\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "American Cinema Editors, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYzc1MWE0MGUtZTk1Yy00MmVkLWE3NjktNjc0NGYzZjdkYmJlXkEyXkFqcGdeQXVyNDU2NDUyMA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2021 Nominee Eddie",
+          "for": "Best Edited Drama Series for Commercial Television",
+          "description": "Rosanne Tan (Episode: \"405 Method Not Allowed (2019)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYzc1MWE0MGUtZTk1Yy00MmVkLWE3NjktNjc0NGYzZjdkYmJlXkEyXkFqcGdeQXVyNDU2NDUyMA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Eddie",
+          "for": "Best Edited Drama Series for Commercial Television",
+          "description": "Rosanne Tan (Episode: \"401 Unauthorized (2019)\")"
+        },
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2017 Nominee Eddie",
+          "for": "Best Edited One-Hour Series for Commercial Television",
+          "description": "Philip Harrison (Episode: \"eps2.4_m4ster-s1ave.aes (2016)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Globes, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Television Series - Drama",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",
+          "description": "Christian Slater"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Television Series - Drama",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television",
+          "description": "Christian Slater"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Winner Golden Globe",
+          "for": "Best Television Series - Drama",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Writers Guild of America, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee WGA Award (TV)",
+          "for": "Episodic Drama",
+          "description": "Sam Esmail (For episode \"407 Proxy Authentication Required\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMDgzZDM2ZTctM2FlYi00YTM2LWFjNjYtNGEzZmMyODkzMTIyXkEyXkFqcGdeQXVyMTQwMjI1NTc4._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee WGA Award (TV)",
+          "for": "Drama Series",
+          "description": "Kyle Bradstreet - Kate Erickson - Sam Esmail - David Iserson - Randolph Leon - Adam Penn - Matt Pyken"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMDgzZDM2ZTctM2FlYi00YTM2LWFjNjYtNGEzZmMyODkzMTIyXkEyXkFqcGdeQXVyMTQwMjI1NTc4._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner WGA Award (TV)",
+          "for": "New Series",
+          "description": "Kyle Bradstreet - Kate Erickson - Sam Esmail - David Iserson - Randolph Leon - Adam Penn - Matt Pyken"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Motion Picture Sound Editors, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYTYxN2RhOTctZTMyMi00Yzc4LWEzNTMtOTc2ZWI0Y2Q2OWViXkEyXkFqcGdeQXVyMTQxNTU2OTA1._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Golden Reel Award",
+          "for": "Outstanding Achievement in Sound Editing - Music Score and Musical for Episodic Short Form Broadcast Media",
+          "description": "Ben Zales (music editor) (Episode: \"405 Method Not Allowed (2019)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BY2YwOWI1N2EtNjcwNC00NTNiLWE2NjEtOTI1NzEyYWRhMDBlXkEyXkFqcGdeQXVyMzExMjI3MjY@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Golden Reel Award",
+          "for": "Outstanding Achievement in Sound Editing - Sound Effects and Foley for Episodic Short Form Broadcast Media",
+          "description": "Kevin W. Buchholz (supervising sound editor) - Brett Hinton (supervising sound editor) - Dan Kremer (sound designer) - Davis Fossum (sound effects editor) - Daniel Colman (sound effects editor) - Patrick O'Sullivan (sound effects editor) - Dominique Decaudain (foley artist) - Pamela Kahn (foley artist) - Nancy Parker (foley artist) - Randall Guth (foley editor) - Mike Marino (foley editor) (Episode: \"405 Method Not Allowed (2019)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYTYxN2RhOTctZTMyMi00Yzc4LWEzNTMtOTc2ZWI0Y2Q2OWViXkEyXkFqcGdeQXVyMTQxNTU2OTA1._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Golden Reel Award",
+          "for": "Outstanding Achievement in Sound Editing - Music Score and Musical for Episodic Short Form Broadcast Media",
+          "description": "Ben Zales (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BY2YwOWI1N2EtNjcwNC00NTNiLWE2NjEtOTI1NzEyYWRhMDBlXkEyXkFqcGdeQXVyMzExMjI3MjY@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Golden Reel Award",
+          "for": "Outstanding Achievement in Sound Editing - Sound Effects and Foley for Episodic Short Form Broadcast Media",
+          "description": "Kevin W. Buchholz (supervising sound editor) - Dan Kremer (sound effects editor) - Randall Guth (foley editor) - Alex Knickerbocker (foley editor) - Mike Marino (foley editor) - Andrew Morgado (sound editor) - Adam DeCoster (sound editor) - Rene Garcia (sound editor) - Dominique Decaudain (foley artist) - Nancy Parker (foley artist) (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYTYxN2RhOTctZTMyMi00Yzc4LWEzNTMtOTc2ZWI0Y2Q2OWViXkEyXkFqcGdeQXVyMTQxNTU2OTA1._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Golden Reel Award",
+          "for": "Best Sound Editing - Short Form Music in Television",
+          "description": "Ben Zales (music editor) (Episode: \"eps1.0_hellofriend.mov (2015)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "The Queerties",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Queerty",
+          "for": "TV Performance",
+          "description": "BD Wong"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Society of Camera Operators",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjM2NjYxODE5MV5BMl5BanBnXkFtZTgwNDk1OTc1NDE@._V1_Ratio1.7200_AL_.jpg",
+          "title": "2020 Nominee Camera Operator of the Year Award",
+          "for": "Television",
+          "description": "Jeff Muhlstock"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNWU3YzliYjctOTEzOC00NjUyLTg1OTAtZjYwMWUwNWIwMWM4XkEyXkFqcGdeQXVyMzYyNjA3Njk@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Camera Operator of the Year Award",
+          "for": "Television",
+          "description": "Aaron Medick"
+        }
+      ]
+    },
+    {
+      "eventTitle": "International Online Cinema Awards (INOCA)",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee INOCA TV",
+          "for": "Best Actor in a Drama Series",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjAxNGZjYmEtZDI4OS00MzQyLWEyN2YtYWI1Y2I3ODAxZjQ4XkEyXkFqcGdeQXVyOTExOTIzMg@@._V1_Ratio1.0400_AL_.jpg",
+          "title": "2020 Nominee INOCA TV",
+          "for": "Best Guest Actress in a Drama Series",
+          "description": "Gloria Reuben"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee INOCA TV",
+          "for": "Best Writing for a Drama Series",
+          "description": "Sam Esmail (Episode: \"407 Proxy Authentication Required\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee INOCA TV",
+          "for": "Best Actor in a Drama Series",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee INOCA TV",
+          "for": "Best Directing for a Drama Series",
+          "description": "Sam Esmail (Episode: \"eps3.4_runtime-err0r.r00\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Blogos de Oro",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2020 Nominee Palmarés blogos de oro",
+          "for": "Best Actor in a TV show (Mejor Actor en una serie)",
+          "description": "Rami Malek"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Gold Derby Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2019 Nominee Gold Derby TV Award",
+          "for": "Drama Actor of the Decade",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Gold Derby TV Award",
+          "for": "Drama Lead Actor",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Gold Derby TV Award",
+          "for": "Drama Guest Actor",
+          "description": "BD Wong"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Gold Derby TV Award",
+          "for": "Drama Series",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Gold Derby TV Award",
+          "for": "Drama Supporting Actor",
+          "description": "Christian Slater"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Critics Choice Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_Ratio1.8000_AL_.jpg",
+          "title": "2018 Nominee Critics Choice Award",
+          "for": "Best Supporting Actor in a Drama Series",
+          "description": "Bobby Cannavale"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Visual Effects Society Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2018 Nominee VES Award",
+          "for": "Outstanding Supporting Visual Effects in a Photoreal Episode",
+          "description": "Ariel Altman - Lauren Montuori - John T. Miller - Luciano DiGeronimo (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Women's Image Network Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNGZjNDlhZGMtMzlkNy00NmQzLTlhMDAtMjY3YjllYTM4OWZkXkEyXkFqcGdeQXVyMTMzOTMyOTM4._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee WIN Award",
+          "for": "Actress Drama Series",
+          "description": "Portia Doubleday (For episode \"eps3.0_power-saver-mode.h\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Art Directors Guild",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZThmNTYyMGQtY2I2Ni00MDkzLTliNjYtNjM2M2U2ZDFhNzgxXkEyXkFqcGdeQXVyMjI3Nzk0OTc@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2018 Nominee Excellence in Production Design Award",
+          "for": "One Hour Contemporary Single-Camera Television Series",
+          "description": "Anastasia White (production designer) - Michael Ahern (art director) - Jeannette Kim (set designer) - Eric Bryant (graphic designer) - Adam Brustein (graphic designer) - Avery Sorrels (graphic designer) - Peter Hackman (scenic artist) - Kara Zeigon (set decorator) (Episodes: \"eps3.0_power-saver-mode.h (2017)\", \"eps3.1_undo.gz (2017)\", and \"eps3.2_legacy.so (2017)\")"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZThmNTYyMGQtY2I2Ni00MDkzLTliNjYtNjM2M2U2ZDFhNzgxXkEyXkFqcGdeQXVyMjI3Nzk0OTc@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Winner Excellence in Production Design Award",
+          "for": "One Hour Contemporary Single-Camera Television Series",
+          "description": "Anastasia White (production designer) - Miguel López-Castillo (art director) - Jeannette Kim (assistant art director) - Adam Brustein (graphic designer) - Eric Bryant (graphic designer) - Catherine Greene (scenic artist) - Daniel Rosenfeld (scenic artist) - Nick Dyball (scenic artist) - Renee Kildow (scenic artist) - Nicholas Meloro (scenic artist) - William Thompson (scenic artist) - Francesco Sciarrone (scenic artist) - David Reavis (scenic artist) - Alyssa Winter (set decorator) - Kate Yatsko (set decorator) (Episodes: \"eps2.0_unm4sk-pt1.tc (2016)\", \"eps2.4_m4ster-s1ave.aes (2016)\", and \"eps2.9_pyth0n-pt1.p7z (2016)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Trailer Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2018 Nominee Golden Trailer",
+          "for": "Best Drama (TV Spot / Trailer /Teaser for a Series)",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "World Soundtrack Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTFhN2JkMDUtNjhkMi00NGMyLWFhY2MtMzgwZTQzYjI3OTVjXkEyXkFqcGdeQXVyNjU2Nzc1NA@@._V1_Ratio1.3200_AL_.jpg",
+          "title": "2018 Nominee World Soundtrack Award",
+          "for": "Television Composer of the Year",
+          "description": "Mac Quayle"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTFhN2JkMDUtNjhkMi00NGMyLWFhY2MtMzgwZTQzYjI3OTVjXkEyXkFqcGdeQXVyNjU2Nzc1NA@@._V1_Ratio1.3200_AL_.jpg",
+          "title": "2017 Nominee World Soundtrack Award",
+          "for": "Television Composer of the Year",
+          "description": "Mac Quayle"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTFhN2JkMDUtNjhkMi00NGMyLWFhY2MtMzgwZTQzYjI3OTVjXkEyXkFqcGdeQXVyNjU2Nzc1NA@@._V1_Ratio1.3200_AL_.jpg",
+          "title": "2016 Nominee World Soundtrack Award",
+          "for": "Television Composer of the Year",
+          "description": "Mac Quayle"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Satellite Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Satellite Award",
+          "for": "Best Actor in a Series, Drama/Genre",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee Satellite Award",
+          "for": "Best Television Series, Drama",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner Satellite Award",
+          "for": "Best Actor in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television",
+          "description": "Christian Slater"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Satellite Award",
+          "for": "Best Television Series, Drama",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Satellite Award",
+          "for": "Best Actor in a Series, Drama",
+          "description": "Rami Malek"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Casting Society of America, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2017 Winner Artios Award",
+          "for": "Outstanding Achievement in Casting - Television Pilot and First Season - Drama",
+          "description": "Susie Farris - Beth Bowling - Kim Miscia - Michael Rios (associate) - Melanie Crescenz (associate)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Image Awards (NAACP)",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Image Award",
+          "for": "Outstanding Directing in a Drama Series",
+          "description": "Sam Esmail (Episode: \"eps2.5_h4ndshake.sme (2016)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "American Society of Cinematographers, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2017 Winner ASC Award",
+          "for": "Outstanding Achievement in Cinematography in Regular Series for Commercial Television",
+          "description": "Tod Campbell (Episode: \"eps2.0_unm4sk-pt2.tc (2016)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Screen Actors Guild Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee Actor",
+          "for": "Outstanding Performance by a Male Actor in a Drama Series",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Actor",
+          "for": "Outstanding Performance by a Male Actor in a Drama Series",
+          "description": "Rami Malek"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Cinema Audio Society, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2017 Nominee C.A.S. Award",
+          "for": "Outstanding Achievement in Sound Mixing for Television Series - One Hour",
+          "description": "William Sarokin (production mixer) - John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) - Beaux Nyguard (adr mixer) - Mike Marino (foley mixer) (Episode: \"eps2.8_h1dden-pr0cess.axx (2016)\")"
+        }
+      ]
+    },
+    {
+      "eventTitle": "People's Choice Awards, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee People's Choice Award",
+          "for": "Favorite Cable TV Drama",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee Saturn Award",
+          "for": "Best Action/Thriller Television Series",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee Saturn Award",
+          "for": "Best DVD/Blu-Ray Television Release",
+          "description": " (For the \"Season 2.0\" home release.)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Saturn Award",
+          "for": "Best Action/Thriller Television Series",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "MTV Movie + TV Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee MTV Movie + TV Award",
+          "for": "Best Fight Against the System",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Online Film & Television Association",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2017 Nominee OFTA Television Award",
+          "for": "Best Guest Actor in a Drama Series",
+          "description": "BD Wong"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee OFTA Television Award",
+          "for": "Best Drama Series",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner OFTA Television Award",
+          "for": "Best Actor in a Drama Series",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee OFTA Television Award",
+          "for": "Best Supporting Actor in a Drama Series",
+          "description": "Christian Slater"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee OFTA Television Award",
+          "for": "Best Writing in a Drama Series",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "IGN Summer Movie Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2017 Nominee IGN Award",
+          "for": "Best TV Episode",
+          "description": " (Episode: eps3.4_runtime-err0r.r00)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee IGN Award",
+          "for": "Best TV Actor",
+          "description": "Rami Malek (actor)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2015 Nominee IGN Award",
+          "for": "Best TV Actor",
+          "description": "Rami Malek (actor)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2015 Nominee IGN Award",
+          "for": "Best New TV Series",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Critics Choice Television Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner Critics' Choice TV Award",
+          "for": "Best Actor in a Drama Series",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Winner Critics' Choice TV Award",
+          "for": "Best Drama Series",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Critics' Choice TV Award",
+          "for": "Best Guest Actor/Actress in a Drama Series",
+          "description": "BD Wong"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTY5ODA1ODY2Nl5BMl5BanBnXkFtZTgwNjcwNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner Critics' Choice TV Award",
+          "for": "Best Supporting Actor in a Drama Series",
+          "description": "Christian Slater"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Critics' Choice TV Award",
+          "for": "Best Actor in a Drama Series",
+          "description": "Rami Malek"
+        }
+      ]
+    },
+    {
+      "eventTitle": "AFI Awards, USA",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Winner AFI Award",
+          "for": "TV Program of the Year",
+          "description": " (MR. ROBOT is electrifying entertainment. Riding a current between activism and anarchy, Sam Esmail's kinky cyber-thriller acts as a hallucinatory looking glass - where nihilism is inspired by Christian Slater's mysterious \"fsociety\" and contemporary fears are reflected in the mesmerizing eyes of Rami Malek.)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "GALECA: The Society of LGBTQ Entertainment Critics",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Dorian Award",
+          "for": "TV Drama of the Year",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Dorian Award",
+          "for": "TV Performance of the Year - Actor",
+          "description": "Rami Malek"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Peabody Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Winner Peabody Award",
+          "for": "Winner",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Television Critics Association Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODA3OTM4ODU0MV5BMl5BanBnXkFtZTgwNjQ5Njg3NjM@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee TCA Award",
+          "for": "Individual Achievement in Drama",
+          "description": "Rami Malek"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Winner TCA Award",
+          "for": "Outstanding New Program",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee TCA Award",
+          "for": "Outstanding Achievement in Drama",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee TCA Award",
+          "for": "Program of the Year",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Prism Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Prism Award",
+          "for": "Drama Series Multi-Episode Storyline",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Hollywood Music In Media Awards (HMMA)",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTFhN2JkMDUtNjhkMi00NGMyLWFhY2MtMzgwZTQzYjI3OTVjXkEyXkFqcGdeQXVyNjU2Nzc1NA@@._V1_Ratio1.3200_AL_.jpg",
+          "title": "2016 Nominee HMMA Award",
+          "for": "Best Original Score - TV Show/Miniseries",
+          "description": "Mac Quayle"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Seoul International Drama Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee Program Award",
+          "for": "Best Mini-Series",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Nominee Individual Award",
+          "for": "Best Screenwriter",
+          "description": "Sam Esmail"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Gran Premio Internazionale del Doppiaggio",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2016 Nominee TV Award",
+          "for": "Best Voice Actor in a TV Series",
+          "description": "Flavio Aquilone (For the dubbing of Rami Malek.)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2016 Nominee TV Award",
+          "for": "Best TV Series",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Location Managers Guild International Awards (LMGI)",
+      "awardEventDetails": [
+        {
+          "image": "https://imdb-api.com/images/original/nopicture.jpg",
+          "title": "2016 Nominee LMGI Award",
+          "for": "Outstanding Locations in a Contemporary Television Series",
+          "description": "Demian Resnick"
+        }
+      ]
+    },
+    {
+      "eventTitle": "SXSW Film Festival",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2015 Winner Audience Award",
+          "for": "Episodic",
+          "description": "Sam Esmail"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Gotham Awards",
+      "awardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE2NjE0MDU4OV5BMl5BanBnXkFtZTgwMjgxNDczNzE@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2015 Winner Gotham Independent Film Award",
+          "for": "Breakthrough Series - Long Form",
+          "description": "Sam Esmail"
+        }
+      ]
+    }
+  ],
+  "awardsHtml": "<div class=\"awards\">\r\n    <h5>21 wins & 86 nominations</h5>\r\n    <h3>Primetime Emmy Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Winner Primetime Emmy</b>\r\n                    <br />\r\n                    Outstanding Interactive Extension of a Linear Program\r\n                    <br />\r\n                    Roxanne Paredes (producer) - Jeff McKibben (writer) (For \"Season_4.0 ARG\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Primetime Emmy</b>\r\n                    <br />\r\n                    Outstanding Special Visual Effects in a Supporting Role\r\n                    <br />\r\n                    Ariel Altman (VFX supervisor) - Lauren Montuori (VFX producer) - Joe Gunn (CG supervisor) - John T. Miller (on set visual effects supervisor) - Brian Kubovcik (VFX on set supervisor) - Luciano DiGeronimo (compositing supervisor) - Lindsay Seguin (managing producer) - Greg Anderson (senior VFX supervisor) - John-Michael Buban (lead vfx artist) (For episode \"eps3.4_runtime-err0r.r00\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Primetime Emmy</b>\r\n                    <br />\r\n                    Outstanding Sound Mixing for a Comedy or Drama Series (One Hour)\r\n                    <br />\r\n                    John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) (as Bill Freesh) - Paul Drenning (ADR mixer) - Joe White (production mixer) (For episode \"eps3.4_runtime-err0r.r00\".)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Primetime Emmy</b>\r\n                    <br />\r\n                    Outstanding Guest Actor in a Drama Series\r\n                    <br />\r\n                    BD Wong (For playing: \"Whiterose\". For episode: \"eps2.3_logic-b0mb.hc\".)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Primetime Emmy</b>\r\n                    <br />\r\n                    Outstanding Sound Mixing for a Comedy or Drama Series (One Hour)\r\n                    <br />\r\n                    John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) - William Sarokin (production mixer) - Paul Drenning (ADR mixer) (For episode \"eps2.8_h1dden-pr0cess.axx\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>American Cinema Editors, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2021 Nominee Eddie</b>\r\n                    <br />\r\n                    Best Edited Drama Series for Commercial Television\r\n                    <br />\r\n                    Rosanne Tan (Episode: \"405 Method Not Allowed (2019)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Eddie</b>\r\n                    <br />\r\n                    Best Edited Drama Series for Commercial Television\r\n                    <br />\r\n                    Rosanne Tan (Episode: \"401 Unauthorized (2019)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Eddie</b>\r\n                    <br />\r\n                    Best Edited One-Hour Series for Commercial Television\r\n                    <br />\r\n                    Philip Harrison (Episode: \"eps2.4_m4ster-s1ave.aes (2016)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Globes, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Television Series - Drama\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Television Series - Drama\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Supporting Role in a Series, Limited Series or Motion Picture Made for Television\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Golden Globe</b>\r\n                    <br />\r\n                    Best Television Series - Drama\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Writers Guild of America, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee WGA Award (TV)</b>\r\n                    <br />\r\n                    Episodic Drama\r\n                    <br />\r\n                    Sam Esmail (For episode \"407 Proxy Authentication Required\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee WGA Award (TV)</b>\r\n                    <br />\r\n                    Drama Series\r\n                    <br />\r\n                    Kyle Bradstreet - Kate Erickson - Sam Esmail - David Iserson - Randolph Leon - Adam Penn - Matt Pyken\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner WGA Award (TV)</b>\r\n                    <br />\r\n                    New Series\r\n                    <br />\r\n                    Kyle Bradstreet - Kate Erickson - Sam Esmail - David Iserson - Randolph Leon - Adam Penn - Matt Pyken\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Motion Picture Sound Editors, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Golden Reel Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Sound Editing - Music Score and Musical for Episodic Short Form Broadcast Media\r\n                    <br />\r\n                    Ben Zales (music editor) (Episode: \"405 Method Not Allowed (2019)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Golden Reel Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Sound Editing - Sound Effects and Foley for Episodic Short Form Broadcast Media\r\n                    <br />\r\n                    Kevin W. Buchholz (supervising sound editor) - Brett Hinton (supervising sound editor) - Dan Kremer (sound designer) - Davis Fossum (sound effects editor) - Daniel Colman (sound effects editor) - Patrick O'Sullivan (sound effects editor) - Dominique Decaudain (foley artist) - Pamela Kahn (foley artist) - Nancy Parker (foley artist) - Randall Guth (foley editor) - Mike Marino (foley editor) (Episode: \"405 Method Not Allowed (2019)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Golden Reel Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Sound Editing - Music Score and Musical for Episodic Short Form Broadcast Media\r\n                    <br />\r\n                    Ben Zales (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Golden Reel Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Sound Editing - Sound Effects and Foley for Episodic Short Form Broadcast Media\r\n                    <br />\r\n                    Kevin W. Buchholz (supervising sound editor) - Dan Kremer (sound effects editor) - Randall Guth (foley editor) - Alex Knickerbocker (foley editor) - Mike Marino (foley editor) - Andrew Morgado (sound editor) - Adam DeCoster (sound editor) - Rene Garcia (sound editor) - Dominique Decaudain (foley artist) - Nancy Parker (foley artist) (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Golden Reel Award</b>\r\n                    <br />\r\n                    Best Sound Editing - Short Form Music in Television\r\n                    <br />\r\n                    Ben Zales (music editor) (Episode: \"eps1.0_hellofriend.mov (2015)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>The Queerties</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Queerty</b>\r\n                    <br />\r\n                    TV Performance\r\n                    <br />\r\n                    BD Wong\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Society of Camera Operators</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Camera Operator of the Year Award</b>\r\n                    <br />\r\n                    Television\r\n                    <br />\r\n                    Jeff Muhlstock\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Camera Operator of the Year Award</b>\r\n                    <br />\r\n                    Television\r\n                    <br />\r\n                    Aaron Medick\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>International Online Cinema Awards (INOCA)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee INOCA TV</b>\r\n                    <br />\r\n                    Best Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee INOCA TV</b>\r\n                    <br />\r\n                    Best Guest Actress in a Drama Series\r\n                    <br />\r\n                    Gloria Reuben\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee INOCA TV</b>\r\n                    <br />\r\n                    Best Writing for a Drama Series\r\n                    <br />\r\n                    Sam Esmail (Episode: \"407 Proxy Authentication Required\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee INOCA TV</b>\r\n                    <br />\r\n                    Best Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee INOCA TV</b>\r\n                    <br />\r\n                    Best Directing for a Drama Series\r\n                    <br />\r\n                    Sam Esmail (Episode: \"eps3.4_runtime-err0r.r00\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Blogos de Oro</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2020 Nominee Palmarés blogos de oro</b>\r\n                    <br />\r\n                    Best Actor in a TV show (Mejor Actor en una serie)\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Gold Derby Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2019 Nominee Gold Derby TV Award</b>\r\n                    <br />\r\n                    Drama Actor of the Decade\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Gold Derby TV Award</b>\r\n                    <br />\r\n                    Drama Lead Actor\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Gold Derby TV Award</b>\r\n                    <br />\r\n                    Drama Guest Actor\r\n                    <br />\r\n                    BD Wong\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Gold Derby TV Award</b>\r\n                    <br />\r\n                    Drama Series\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Gold Derby TV Award</b>\r\n                    <br />\r\n                    Drama Supporting Actor\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Critics Choice Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Critics Choice Award</b>\r\n                    <br />\r\n                    Best Supporting Actor in a Drama Series\r\n                    <br />\r\n                    Bobby Cannavale\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Visual Effects Society Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee VES Award</b>\r\n                    <br />\r\n                    Outstanding Supporting Visual Effects in a Photoreal Episode\r\n                    <br />\r\n                    Ariel Altman - Lauren Montuori - John T. Miller - Luciano DiGeronimo (Episode: \"eps3.4_runtime-err0r.r00 (2017)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Women's Image Network Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee WIN Award</b>\r\n                    <br />\r\n                    Actress Drama Series\r\n                    <br />\r\n                    Portia Doubleday (For episode \"eps3.0_power-saver-mode.h\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Art Directors Guild</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Excellence in Production Design Award</b>\r\n                    <br />\r\n                    One Hour Contemporary Single-Camera Television Series\r\n                    <br />\r\n                    Anastasia White (production designer) - Michael Ahern (art director) - Jeannette Kim (set designer) - Eric Bryant (graphic designer) - Adam Brustein (graphic designer) - Avery Sorrels (graphic designer) - Peter Hackman (scenic artist) - Kara Zeigon (set decorator) (Episodes: \"eps3.0_power-saver-mode.h (2017)\", \"eps3.1_undo.gz (2017)\", and \"eps3.2_legacy.so (2017)\")\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner Excellence in Production Design Award</b>\r\n                    <br />\r\n                    One Hour Contemporary Single-Camera Television Series\r\n                    <br />\r\n                    Anastasia White (production designer) - Miguel López-Castillo (art director) - Jeannette Kim (assistant art director) - Adam Brustein (graphic designer) - Eric Bryant (graphic designer) - Catherine Greene (scenic artist) - Daniel Rosenfeld (scenic artist) - Nick Dyball (scenic artist) - Renee Kildow (scenic artist) - Nicholas Meloro (scenic artist) - William Thompson (scenic artist) - Francesco Sciarrone (scenic artist) - David Reavis (scenic artist) - Alyssa Winter (set decorator) - Kate Yatsko (set decorator) (Episodes: \"eps2.0_unm4sk-pt1.tc (2016)\", \"eps2.4_m4ster-s1ave.aes (2016)\", and \"eps2.9_pyth0n-pt1.p7z (2016)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Trailer Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee Golden Trailer</b>\r\n                    <br />\r\n                    Best Drama (TV Spot / Trailer /Teaser for a Series)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>World Soundtrack Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Nominee World Soundtrack Award</b>\r\n                    <br />\r\n                    Television Composer of the Year\r\n                    <br />\r\n                    Mac Quayle\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee World Soundtrack Award</b>\r\n                    <br />\r\n                    Television Composer of the Year\r\n                    <br />\r\n                    Mac Quayle\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee World Soundtrack Award</b>\r\n                    <br />\r\n                    Television Composer of the Year\r\n                    <br />\r\n                    Mac Quayle\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Satellite Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Satellite Award</b>\r\n                    <br />\r\n                    Best Actor in a Series, Drama/Genre\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Satellite Award</b>\r\n                    <br />\r\n                    Best Television Series, Drama\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Satellite Award</b>\r\n                    <br />\r\n                    Best Actor in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Satellite Award</b>\r\n                    <br />\r\n                    Best Television Series, Drama\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Satellite Award</b>\r\n                    <br />\r\n                    Best Actor in a Series, Drama\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Casting Society of America, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner Artios Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Casting - Television Pilot and First Season - Drama\r\n                    <br />\r\n                    Susie Farris - Beth Bowling - Kim Miscia - Michael Rios (associate) - Melanie Crescenz (associate)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Image Awards (NAACP)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Image Award</b>\r\n                    <br />\r\n                    Outstanding Directing in a Drama Series\r\n                    <br />\r\n                    Sam Esmail (Episode: \"eps2.5_h4ndshake.sme (2016)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>American Society of Cinematographers, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner ASC Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Cinematography in Regular Series for Commercial Television\r\n                    <br />\r\n                    Tod Campbell (Episode: \"eps2.0_unm4sk-pt2.tc (2016)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Screen Actors Guild Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Actor</b>\r\n                    <br />\r\n                    Outstanding Performance by a Male Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Actor</b>\r\n                    <br />\r\n                    Outstanding Performance by a Male Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Cinema Audio Society, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee C.A.S. Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Sound Mixing for Television Series - One Hour\r\n                    <br />\r\n                    William Sarokin (production mixer) - John W. Cook II (re-recording mixer) - William Freesh (re-recording mixer) - Beaux Nyguard (adr mixer) - Mike Marino (foley mixer) (Episode: \"eps2.8_h1dden-pr0cess.axx (2016)\")\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>People's Choice Awards, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Cable TV Drama\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Academy of Science Fiction, Fantasy & Horror Films, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best Action/Thriller Television Series\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best DVD/Blu-Ray Television Release\r\n                    <br />\r\n                     (For the \"Season 2.0\" home release.)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best Action/Thriller Television Series\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>MTV Movie + TV Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee MTV Movie + TV Award</b>\r\n                    <br />\r\n                    Best Fight Against the System\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Online Film & Television Association</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee OFTA Television Award</b>\r\n                    <br />\r\n                    Best Guest Actor in a Drama Series\r\n                    <br />\r\n                    BD Wong\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee OFTA Television Award</b>\r\n                    <br />\r\n                    Best Drama Series\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner OFTA Television Award</b>\r\n                    <br />\r\n                    Best Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee OFTA Television Award</b>\r\n                    <br />\r\n                    Best Supporting Actor in a Drama Series\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee OFTA Television Award</b>\r\n                    <br />\r\n                    Best Writing in a Drama Series\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>IGN Summer Movie Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee IGN Award</b>\r\n                    <br />\r\n                    Best TV Episode\r\n                    <br />\r\n                     (Episode: eps3.4_runtime-err0r.r00)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee IGN Award</b>\r\n                    <br />\r\n                    Best TV Actor\r\n                    <br />\r\n                    Rami Malek (actor)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2015 Nominee IGN Award</b>\r\n                    <br />\r\n                    Best TV Actor\r\n                    <br />\r\n                    Rami Malek (actor)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2015 Nominee IGN Award</b>\r\n                    <br />\r\n                    Best New TV Series\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Critics Choice Television Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Critics' Choice TV Award</b>\r\n                    <br />\r\n                    Best Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Critics' Choice TV Award</b>\r\n                    <br />\r\n                    Best Drama Series\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Critics' Choice TV Award</b>\r\n                    <br />\r\n                    Best Guest Actor/Actress in a Drama Series\r\n                    <br />\r\n                    BD Wong\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Critics' Choice TV Award</b>\r\n                    <br />\r\n                    Best Supporting Actor in a Drama Series\r\n                    <br />\r\n                    Christian Slater\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Critics' Choice TV Award</b>\r\n                    <br />\r\n                    Best Actor in a Drama Series\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>AFI Awards, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner AFI Award</b>\r\n                    <br />\r\n                    TV Program of the Year\r\n                    <br />\r\n                     (MR. ROBOT is electrifying entertainment. Riding a current between activism and anarchy, Sam Esmail's kinky cyber-thriller acts as a hallucinatory looking glass - where nihilism is inspired by Christian Slater's mysterious \"fsociety\" and contemporary fears are reflected in the mesmerizing eyes of Rami Malek.)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>GALECA: The Society of LGBTQ Entertainment Critics</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Dorian Award</b>\r\n                    <br />\r\n                    TV Drama of the Year\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Dorian Award</b>\r\n                    <br />\r\n                    TV Performance of the Year - Actor\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Peabody Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Peabody Award</b>\r\n                    <br />\r\n                    Winner\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Television Critics Association Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee TCA Award</b>\r\n                    <br />\r\n                    Individual Achievement in Drama\r\n                    <br />\r\n                    Rami Malek\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner TCA Award</b>\r\n                    <br />\r\n                    Outstanding New Program\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee TCA Award</b>\r\n                    <br />\r\n                    Outstanding Achievement in Drama\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee TCA Award</b>\r\n                    <br />\r\n                    Program of the Year\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Prism Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Prism Award</b>\r\n                    <br />\r\n                    Drama Series Multi-Episode Storyline\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Hollywood Music In Media Awards (HMMA)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee HMMA Award</b>\r\n                    <br />\r\n                    Best Original Score - TV Show/Miniseries\r\n                    <br />\r\n                    Mac Quayle\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Seoul International Drama Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Program Award</b>\r\n                    <br />\r\n                    Best Mini-Series\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Individual Award</b>\r\n                    <br />\r\n                    Best Screenwriter\r\n                    <br />\r\n                    Sam Esmail\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Gran Premio Internazionale del Doppiaggio</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee TV Award</b>\r\n                    <br />\r\n                    Best Voice Actor in a TV Series\r\n                    <br />\r\n                    Flavio Aquilone (For the dubbing of Rami Malek.)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee TV Award</b>\r\n                    <br />\r\n                    Best TV Series\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Location Managers Guild International Awards (LMGI)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee LMGI Award</b>\r\n                    <br />\r\n                    Outstanding Locations in a Contemporary Television Series\r\n                    <br />\r\n                    Demian Resnick\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>SXSW Film Festival</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2015 Winner Audience Award</b>\r\n                    <br />\r\n                    Episodic\r\n                    <br />\r\n                    Sam Esmail\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Gotham Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2015 Winner Gotham Independent Film Award</b>\r\n                    <br />\r\n                    Breakthrough Series - Long Form\r\n                    <br />\r\n                    Sam Esmail\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n</div>\r\n",
+  "errorMessage": ""
+}

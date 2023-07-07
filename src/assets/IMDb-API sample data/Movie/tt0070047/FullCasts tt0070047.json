@@ -1,0 +1,970 @@
+{
+  "imDbId": "tt0070047",
+  "title": "The Exorcist",
+  "fullTitle": "The Exorcist (1973)",
+  "type": "Movie",
+  "year": "1973",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0001243",
+        "name": "William Friedkin",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0087861",
+        "name": "William Peter Blatty",
+        "description": "(written for the screen by)"
+      },
+      {
+        "id": "nm0087861",
+        "name": "William Peter Blatty",
+        "description": "(novel)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000995",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjYxMDc3MF5BMl5BanBnXkFtZTYwNzU3MDIz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ellen Burstyn",
+      "asCharacter": "Chris MacNeil"
+    },
+    {
+      "id": "nm0001884",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI3MDQzOTMwN15BMl5BanBnXkFtZTYwMDgyMjM1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Max von Sydow",
+      "asCharacter": "Father Merrin"
+    },
+    {
+      "id": "nm0002011",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDc3MTM0MDQyMF5BMl5BanBnXkFtZTYwMTczMTg2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee J. Cobb",
+      "asCharacter": "Lt. Kinderman"
+    },
+    {
+      "id": "nm0935345",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmMwZDBmNGMtMTZkOS00ZTExLThmYjUtMmZjNmQ2MjgwMzA4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kitty Winn",
+      "asCharacter": "Sharon"
+    },
+    {
+      "id": "nm0532290",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGY0NGYzOTctMjg0Ni00ZDIwLTkxNzUtOTcyYTliMGE0OGY5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack MacGowran",
+      "asCharacter": "Burke Dennings"
+    },
+    {
+      "id": "nm0588553",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0ODMzODM5N15BMl5BanBnXkFtZTcwMDIxNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jason Miller",
+      "asCharacter": "Father Karras"
+    },
+    {
+      "id": "nm0000304",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYxNzMxMTMwMV5BMl5BanBnXkFtZTYwODM3MTI0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Linda Blair",
+      "asCharacter": "Regan"
+    },
+    {
+      "id": "nm0641780",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDM5MDc3NV5BMl5BanBnXkFtZTcwOTk1ODMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "William O'Malley",
+      "asCharacter": "Father Dyer (as Reverend William O'Malley S.J.)"
+    },
+    {
+      "id": "nm0382263",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI0OGI2MzctZWRkNi00NGEzLTg2MGMtYjg0OGQ5NDE4YmEzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Barton Heyman",
+      "asCharacter": "Dr. Klein"
+    },
+    {
+      "id": "nm0557751",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDU3MDg5NF5BMl5BanBnXkFtZTcwNzM1MDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Peter Masterson",
+      "asCharacter": "Dr. Barringer - Clinic Director (as Pete Masterson)"
+    },
+    {
+      "id": "nm0771869",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUzNjU3MTUtYWUwYi00OTQ5LTkzNWItMGE2YzA1YjNjZjM5XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Rudolf Schündler",
+      "asCharacter": "Karl"
+    },
+    {
+      "id": "nm0678420",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gina Petrushka",
+      "asCharacter": "Willi"
+    },
+    {
+      "id": "nm0843367",
+      "image": "https://m.media-amazon.com/images/M/MV5BODJhYTk0OTMtNDRlMy00ZGNlLWI2ZDYtYzhlYmU1M2QzMWM0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Robert Symonds",
+      "asCharacter": "Dr. Taney"
+    },
+    {
+      "id": "nm0832407",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjc0M2U1YTQtMzgzZS00MDY3LWE3ZDEtMmNhMzI2NjNmZjU2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Arthur Storch",
+      "asCharacter": "Psychiatrist"
+    },
+    {
+      "id": "nm0075900",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Thomas Bermingham",
+      "asCharacter": "Tom - President of University (as Reverend Thomas Bermingham S.J.)"
+    },
+    {
+      "id": "nm0539518",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjRhZDFhYzMtNDE4Yy00NDkxLThmZTEtODY4YjFjNTBjODkwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Vasiliki Maliaros",
+      "asCharacter": "Karras' Mother"
+    },
+    {
+      "id": "nm0888937",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2NhZjhjMTEtYTZhNy00MmViLWI3NjQtYmU3ZTc3MmM0MzQ5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Titos Vandis",
+      "asCharacter": "Karras' Uncle"
+    },
+    {
+      "id": "nm0537089",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNDI0MTgxNl5BMl5BanBnXkFtZTgwNDI2Nzg0MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "John Mahon",
+      "asCharacter": "Language Lab Director"
+    },
+    {
+      "id": "nm0740367",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUyOTQ0ODAtNmZiMC00OWI3LTk3NzctM2UyOWQxMjMyMWVhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wallace Rooney",
+      "asCharacter": "Bishop Michael"
+    },
+    {
+      "id": "nm0264515",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ron Faber",
+      "asCharacter": "Chuck - Assistant Director / Demonic Voice"
+    },
+    {
+      "id": "nm0593291",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmQ5MWMyY2YtMTlhYi00MjhhLWE4ZjEtY2RlYzA1YzYwMGVkXkEyXkFqcGdeQXVyNDQwMzA3MjA@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Donna Mitchell",
+      "asCharacter": "Mary Jo Perrin"
+    },
+    {
+      "id": "nm0178358",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQzNWM2MDUtYTBiMi00OGQ5LWFkMmEtZWZiZDRiYzZmMGJhXkEyXkFqcGdeQXVyMTEyMjIwMzI0._V1_Ratio0.7727_AL_.jpg",
+      "name": "Roy Cooper",
+      "asCharacter": "Jesuit Dean"
+    },
+    {
+      "id": "nm0314745",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc0MTAyNDI5MF5BMl5BanBnXkFtZTgwOTIzNTIwMzE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Robert Gerringer",
+      "asCharacter": "Senator at Party"
+    },
+    {
+      "id": "nm0564790",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAyMTc3MDQ3MzVeQTJeQWpwZ15BbWU2MDI1NTkyNg@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Mercedes McCambridge",
+      "asCharacter": "Demon (voice)"
+    },
+    {
+      "id": "nm4156341",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Bateson",
+      "asCharacter": "Radiologist's Assistant (uncredited)"
+    },
+    {
+      "id": "nm0086242",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Elinore Blair",
+      "asCharacter": "Nurse (uncredited)"
+    },
+    {
+      "id": "nm0087861",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ4OTgyMDQ2Ml5BMl5BanBnXkFtZTgwMjc2MTIxMTI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "William Peter Blatty",
+      "asCharacter": "The Producer (uncredited)"
+    },
+    {
+      "id": "nm0102168",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mary Boylan",
+      "asCharacter": "First Mental Patient (uncredited)"
+    },
+    {
+      "id": "nm0130521",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dick Callinan",
+      "asCharacter": "Astronaut (uncredited)"
+    },
+    {
+      "id": "nm0193109",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mason Curry",
+      "asCharacter": "Doctor (voice) (uncredited)"
+    },
+    {
+      "id": "nm0201492",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Toni Darnay",
+      "asCharacter": "Violent psychotic patient (uncredited)"
+    },
+    {
+      "id": "nm0226326",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIxMDNkOTctNmM1ZS00MDViLWIxMjctZTBhZjU5MTVkMjljXkEyXkFqcGdeQXVyMjYyNzI4NQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Eileen Dietz",
+      "asCharacter": "Pazuzu's Face (uncredited)"
+    },
+    {
+      "id": "nm0244693",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joanne Dusseau",
+      "asCharacter": "Senator's Wife (uncredited)"
+    },
+    {
+      "id": "nm0252126",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bernard Eismann",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm5131729",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beatrice Hunter",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0429484",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yvonne Jones",
+      "asCharacter": "Bellevue Nurse (uncredited)"
+    },
+    {
+      "id": "nm5131721",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Don LaBonte",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm10627504",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barton Lane",
+      "asCharacter": "Angiography Doctor (uncredited)"
+    },
+    {
+      "id": "nm0587050",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ann Miles",
+      "asCharacter": "Spiderwalk (uncredited)"
+    },
+    {
+      "id": "nm0626990",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joan Neuman",
+      "asCharacter": "2nd Psych Ward Patient (uncredited)"
+    },
+    {
+      "id": "nm0630177",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Nicola",
+      "asCharacter": "Priest (uncredited)"
+    },
+    {
+      "id": "nm0751496",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2I1YWNkMTctOTNiOC00ZDVjLTllNmYtZjQ5ZDVhNWE1ZWU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Vincent Russell",
+      "asCharacter": "Subway Vagrant (uncredited)"
+    },
+    {
+      "id": "nm6462350",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gerard F. Yates",
+      "asCharacter": "Priest Singing Around Piano at Party (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0087861",
+          "name": "William Peter Blatty",
+          "description": "producer"
+        },
+        {
+          "id": "nm0551082",
+          "name": "Noel Marshall",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0759408",
+          "name": "David Salven",
+          "description": "associate producer"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005845",
+          "name": "Owen Roizman",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0310797",
+          "name": "Norman Gay",
+          "description": ""
+        },
+        {
+          "id": "nm0521554",
+          "name": "Evan A. Lottman",
+          "description": "(as Evan Lottman)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0226544",
+          "name": "Louis DiGiaimo",
+          "description": "(as Louis DiGiamo)"
+        },
+        {
+          "id": "nm0404888",
+          "name": "Nessa Hyams",
+          "description": ""
+        },
+        {
+          "id": "nm0852681",
+          "name": "Juliet Taylor",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0539990",
+          "name": "Bill Malley",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0516039",
+          "name": "John Robert Lloyd",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0943332",
+          "name": "Jerry Wunderlich",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0294418",
+          "name": "Joseph Fretwell III",
+          "description": "(as Joe Fretwell)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0267693",
+          "name": "William A. Farley",
+          "description": "hair stylist (as Bill Farley)"
+        },
+        {
+          "id": "nm0004615",
+          "name": "Dick Smith",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0480507",
+          "name": "Robert Laden",
+          "description": "special makeup effects artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0438391",
+          "name": "William Kaplan",
+          "description": "production manager: Iraq sequence"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0232773",
+          "name": "Terence A. Donnelly",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0337590",
+          "name": "Alan R. Green",
+          "description": "second assistant director (as Alan Green)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0047186",
+          "name": "Charles Bailey",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0135859",
+          "name": "Joseph M. Caracciolo",
+          "description": "property master (as Joe Caracciolo)"
+        },
+        {
+          "id": "nm0308975",
+          "name": "Edward Garzero",
+          "description": "master scenic artist (as Eddie Garzero)"
+        },
+        {
+          "id": "nm5589863",
+          "name": "Bill Gold",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm4800791",
+          "name": "Robert Hart",
+          "description": "carpenter (uncredited)"
+        },
+        {
+          "id": "nm0491499",
+          "name": "Gene Lauritzen",
+          "description": "construction coordinator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0015222",
+          "name": "Randle Akerson",
+          "description": "dialogue editor (2000 version) / sound editor (2000 version)"
+        },
+        {
+          "id": "nm0089381",
+          "name": "Noah Blough",
+          "description": "sound editor (2000 version)"
+        },
+        {
+          "id": "nm0090635",
+          "name": "Andrew Bock",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0113578",
+          "name": "Fred J. Brown",
+          "description": "sound effects editor (as Fred Brown)"
+        },
+        {
+          "id": "nm0123692",
+          "name": "Richard Burton",
+          "description": "sound editor (2000 version)"
+        },
+        {
+          "id": "nm0218798",
+          "name": "Susan Demskey-Horiuchi",
+          "description": "first assistant sound editor (2000 version)"
+        },
+        {
+          "id": "nm0221947",
+          "name": "Matthew Dettmann",
+          "description": "foley artist (2000 version) (as Matt Dettmann)"
+        },
+        {
+          "id": "nm0239137",
+          "name": "Richard Duarte",
+          "description": "foley mixer (2000 version)"
+        },
+        {
+          "id": "nm0239707",
+          "name": "Jean-Louis Ducarme",
+          "description": "sound: Iraq sequence"
+        },
+        {
+          "id": "nm0277594",
+          "name": "C. Robert Fine",
+          "description": "special sound effects (as Bob Fine)"
+        },
+        {
+          "id": "nm0310587",
+          "name": "Gonzalo Gavira",
+          "description": "special sound effects"
+        },
+        {
+          "id": "nm0373036",
+          "name": "Gary A. Hecker",
+          "description": "foley artist (2000 version) (as Gary Hecker)"
+        },
+        {
+          "id": "nm0455185",
+          "name": "Richard King",
+          "description": "supervising sound editor (2000 version)"
+        },
+        {
+          "id": "nm0461702",
+          "name": "Robert Knudson",
+          "description": "dubbing mixer (as Buzz Knudson)"
+        },
+        {
+          "id": "nm0484415",
+          "name": "Hal Landaker",
+          "description": "sound consultant"
+        },
+        {
+          "id": "nm0558427",
+          "name": "James Matheny",
+          "description": "sound editor (2000 version)"
+        },
+        {
+          "id": "nm0591444",
+          "name": "Michael Minkler",
+          "description": "re-recording mixer (2000 version)"
+        },
+        {
+          "id": "nm0619290",
+          "name": "Ron Nagle",
+          "description": "special sound effects"
+        },
+        {
+          "id": "nm0628039",
+          "name": "Christopher Newman",
+          "description": "sound (as Chris Newman)"
+        },
+        {
+          "id": "nm3592590",
+          "name": "Randy Nite",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0660612",
+          "name": "Mark Pappas",
+          "description": "foley editor (2000 version) / sound editor (2000 version)"
+        },
+        {
+          "id": "nm0796922",
+          "name": "Doc Siegel",
+          "description": "special sound effects"
+        },
+        {
+          "id": "nm0853118",
+          "name": "Ross Taylor",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0880694",
+          "name": "Robert Ulrich",
+          "description": "adr supervisor (2000 version) / supervising adr editor (2000 version)"
+        },
+        {
+          "id": "nm0931065",
+          "name": "Kerry Dean Williams",
+          "description": "adr editor (2000 version) (as Kerry Williams)"
+        },
+        {
+          "id": "nm0947057",
+          "name": "Linda Yeaney",
+          "description": "First assistant sound editor"
+        },
+        {
+          "id": "nm0540454",
+          "name": "Kitty Malone",
+          "description": "foley artist (uncredited)"
+        },
+        {
+          "id": "nm0003763",
+          "name": "Sharron Miller",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0625425",
+          "name": "James Nelson",
+          "description": "supervising sound editor (uncredited)"
+        },
+        {
+          "id": "nm0635115",
+          "name": "Ken Nordine",
+          "description": "special sound effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0893739",
+          "name": "Marcel Vercoutere",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0000711",
+          "name": "Rick Baker",
+          "description": "special effects assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0006844",
+          "name": "Jennifer Law-Stump",
+          "description": "2000 special edition digital effects artist: Pacific Title Digital"
+        },
+        {
+          "id": "nm0950439",
+          "name": "Marv Ystrom",
+          "description": "optical effects"
+        },
+        {
+          "id": "nm0355877",
+          "name": "Martin Hall",
+          "description": "paint/roto artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0587050",
+          "name": "Ann Miles",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0914048",
+          "name": "Chuck Waters",
+          "description": "stunts: Jason Miller (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0703730",
+          "name": "Richard Quinlan",
+          "description": "gaffer (as Dick Quinlan)"
+        },
+        {
+          "id": "nm0703830",
+          "name": "Ed Quinn",
+          "description": "key grip (as Eddie Quinn)"
+        },
+        {
+          "id": "nm0918237",
+          "name": "Josh Weiner",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0930119",
+          "name": "Billy Williams",
+          "description": "director of photography: Iraq sequence"
+        },
+        {
+          "id": "nm0356603",
+          "name": "James Halligan",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0003601",
+          "name": "Gary Muller",
+          "description": "second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0683233",
+          "name": "Kelvin Pike",
+          "description": "camera operator: iraq sequence (uncredited)"
+        },
+        {
+          "id": "nm0697357",
+          "name": "Tom Priestley Jr.",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0774469",
+          "name": "Robert Schoenhut",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm1639305",
+          "name": "Tom Volpe",
+          "description": "grip (uncredited)"
+        },
+        {
+          "id": "nm0944009",
+          "name": "David Wynn-Jones",
+          "description": "focus puller (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0064140",
+          "name": "Bill Beattie",
+          "description": "wardrobe: men's"
+        },
+        {
+          "id": "nm0162669",
+          "name": "Aldo Cipullo",
+          "description": "jewelry designer: Cartier, New York"
+        },
+        {
+          "id": "nm0289387",
+          "name": "Florence Foy",
+          "description": "wardrobe: ladies'"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0325861",
+          "name": "Michael Goldman",
+          "description": "assistant film editor (as Michal Goldman)"
+        },
+        {
+          "id": "nm0353574",
+          "name": "Terry Haggar",
+          "description": "color timer (special version)"
+        },
+        {
+          "id": "nm4362797",
+          "name": "Jordan Leondopoulos",
+          "description": "supervising field editor"
+        },
+        {
+          "id": "nm0506603",
+          "name": "Ross Levy",
+          "description": "assistant film editor: Iraq sequence"
+        },
+        {
+          "id": "nm0570947",
+          "name": "Craig McKay",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0573352",
+          "name": "Bob McMillian",
+          "description": "color consultant (as Robert M. McMillian)"
+        },
+        {
+          "id": "nm0622857",
+          "name": "Darrin Navarro",
+          "description": "assistant editor: theatrical re-release"
+        },
+        {
+          "id": "nm0690607",
+          "name": "Jonathan Pontell",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0754844",
+          "name": "Ray Sabo",
+          "description": "negative cutter: special edition"
+        },
+        {
+          "id": "nm0807573",
+          "name": "Bud S. Smith",
+          "description": "editor: Iraq sequence (as Bud Smith)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0308191",
+          "name": "Robert Garrett",
+          "description": "music editor: 2000 re-release"
+        },
+        {
+          "id": "nm0548824",
+          "name": "Eugene Marks",
+          "description": "music editor (as Gene Marks)"
+        },
+        {
+          "id": "nm0006217",
+          "name": "Jack Nitzsche",
+          "description": "composer: additional music"
+        },
+        {
+          "id": "nm1499772",
+          "name": "London Symphony Orchestra",
+          "description": "music performed by (uncredited)"
+        },
+        {
+          "id": "nm0635115",
+          "name": "Ken Nordine",
+          "description": "vocal coach: Linda Blair (uncredited)"
+        },
+        {
+          "id": "nm0006277",
+          "name": "Lalo Schifrin",
+          "description": "composer: unused music (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0786989",
+          "name": "Nicholas Sgarro",
+          "description": "script supervisor (as Nick Sgarro)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0075900",
+          "name": "Thomas Bermingham",
+          "description": "technical advisor (as Reverend Thomas Bermingham S.J.)"
+        },
+        {
+          "id": "nm0153674",
+          "name": "Norman E. Chase",
+          "description": "technical advisor: Professor of Radiology, New York University Medical Center (as Norman E. Chase M.D.)"
+        },
+        {
+          "id": "nm0600706",
+          "name": "Anne Mooney",
+          "description": "production office coordinator"
+        },
+        {
+          "id": "nm0630177",
+          "name": "John Nicola",
+          "description": "technical advisor (as Reverend John Nicola S.J.)"
+        },
+        {
+          "id": "nm0641780",
+          "name": "William O'Malley",
+          "description": "technical advisor (as Reverend William O'Malley S.J.)"
+        },
+        {
+          "id": "nm0674635",
+          "name": "Dan Perri",
+          "description": "title designer"
+        },
+        {
+          "id": "nm0788455",
+          "name": "Albert M. Shapiro",
+          "description": "administrative assistant (as Albert Shapiro)"
+        },
+        {
+          "id": "nm0811392",
+          "name": "Arthur I. Snyder",
+          "description": "technical advisor (as Arthur I. Snyder M.D.)"
+        },
+        {
+          "id": "nm0907483",
+          "name": "Herbert E. Walker",
+          "description": "technical advisor (as Herbert E. Walker M.D.)"
+        },
+        {
+          "id": "nm0034519",
+          "name": "Victor Argo",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm7009175",
+          "name": "Kadrolsha Ona Carole",
+          "description": "researcher (uncredited)"
+        },
+        {
+          "id": "nm0188165",
+          "name": "Michael Cristofer",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm0226326",
+          "name": "Eileen Dietz",
+          "description": "double: Regan MacNeil (uncredited)"
+        },
+        {
+          "id": "nm0242668",
+          "name": "Liam Dunn",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm0365206",
+          "name": "Philippa Harris",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm9033739",
+          "name": "Joe Hyams",
+          "description": "studio publicity executive (uncredited)"
+        },
+        {
+          "id": "nm0501992",
+          "name": "Claudia Lennear",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm3070335",
+          "name": "Kitty Malone",
+          "description": "voice (uncredited)"
+        },
+        {
+          "id": "nm0628115",
+          "name": "Howard Newman",
+          "description": "publicist (uncredited)"
+        },
+        {
+          "id": "nm0635564",
+          "name": "Maidie Norman",
+          "description": "voice (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

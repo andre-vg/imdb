@@ -1,0 +1,2123 @@
+{
+  "imDbId": "tt0086250",
+  "title": "Scarface",
+  "fullTitle": "Scarface (1983)",
+  "type": "Movie",
+  "year": "1983",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000361",
+        "name": "Brian De Palma",
+        "description": "(directed by)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000231",
+        "name": "Oliver Stone",
+        "description": "(screenplay by)"
+      },
+      {
+        "id": "nm0001328",
+        "name": "Howard Hawks",
+        "description": "(1932 screenplay) (uncredited)"
+      },
+      {
+        "id": "nm0372942",
+        "name": "Ben Hecht",
+        "description": "(1932 screenplay) (uncredited)"
+      },
+      {
+        "id": "nm0870660",
+        "name": "Armitage Trail",
+        "description": "(based on the novel by) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000199",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Al Pacino",
+      "asCharacter": "Tony Montana"
+    },
+    {
+      "id": "nm0000874",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwNTY5MzMzMF5BMl5BanBnXkFtZTcwMjAyNDYzMQ@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Steven Bauer",
+      "asCharacter": "Manny Ribera"
+    },
+    {
+      "id": "nm0000201",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michelle Pfeiffer",
+      "asCharacter": "Elvira"
+    },
+    {
+      "id": "nm0001512",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk0Mzc5MzIxN15BMl5BanBnXkFtZTYwODUwNjc1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mary Elizabeth Mastrantonio",
+      "asCharacter": "Gina"
+    },
+    {
+      "id": "nm0005162",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4NTQzODU0Nl5BMl5BanBnXkFtZTcwMzczNDgwMw@@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Robert Loggia",
+      "asCharacter": "Frank Lopez"
+    },
+    {
+      "id": "nm0173125",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNzU5MDM5M15BMl5BanBnXkFtZTgwOTA4MDQ2MTI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Miriam Colon",
+      "asCharacter": "Mama Montana"
+    },
+    {
+      "id": "nm0000719",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQ2MzQ2ODYxM15BMl5BanBnXkFtZTcwODY3NTIxNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "F. Murray Abraham",
+      "asCharacter": "Omar"
+    },
+    {
+      "id": "nm0791502",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIzOTA1NjA5Nl5BMl5BanBnXkFtZTcwNTg3MzkxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul Shenar",
+      "asCharacter": "Alejandro Sosa"
+    },
+    {
+      "id": "nm0950867",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY0Njk2MzgyNF5BMl5BanBnXkFtZTYwMDUwMDc0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harris Yulin",
+      "asCharacter": "Bernstein"
+    },
+    {
+      "id": "nm0757774",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTYyMTgzNzkyOF5BMl5BanBnXkFtZTgwNTQ5MDU0MDI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ángel Salazar",
+      "asCharacter": "Chi Chi"
+    },
+    {
+      "id": "nm0763274",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arnaldo Santana",
+      "asCharacter": "Ernie"
+    },
+    {
+      "id": "nm0785277",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk5MDgyMDM4NF5BMl5BanBnXkFtZTcwNjU5ODEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Pepe Serna",
+      "asCharacter": "Angel"
+    },
+    {
+      "id": "nm0602930",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael P. Moran",
+      "asCharacter": "Nick The Pig"
+    },
+    {
+      "id": "nm0411436",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2Q1N2U4ZjMtMjI2MS00ZmY2LWFlNTEtNjBlMGViYWM0ODk1XkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_Ratio0.7273_AL_.jpg",
+      "name": "Al Israel",
+      "asCharacter": "Hector The Toad"
+    },
+    {
+      "id": "nm0389971",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzExMTg3MTYtNDRjMS00MmM5LTkxY2EtMzg2Y2VlYWQ1MTljXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Dennis Holahan",
+      "asCharacter": "Banker"
+    },
+    {
+      "id": "nm0546797",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmRmNjM4NDQtZGI3Mi00YmY4LWJhNDUtOTllZDY5NWNmNThiXkEyXkFqcGdeQXVyMTEzMDQ5NjE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mark Margolis",
+      "asCharacter": "Shadow"
+    },
+    {
+      "id": "nm0020162",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGZkN2NjMzAtZmEyOS00MDY5LTk4OTEtMGZmOWQ0MWIwNThiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Alldredge",
+      "asCharacter": "Sheffield"
+    },
+    {
+      "id": "nm0071160",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ted Beniades",
+      "asCharacter": "Seidelbaum"
+    },
+    {
+      "id": "nm0001938",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzQ3OTkxMF5BMl5BanBnXkFtZTcwMjgyMzQ5MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Richard Belzer",
+      "asCharacter": "M.C. at Babylon Club"
+    },
+    {
+      "id": "nm0260861",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Espel",
+      "asCharacter": "Luis"
+    },
+    {
+      "id": "nm0104777",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGE1ODZlNzUtMTFhMi00YzllLTg5MTgtZGJkMzFlNGM1MDQxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "John Brandon",
+      "asCharacter": "Immigration Officer #3"
+    },
+    {
+      "id": "nm0673637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgyNDk0MjgxOV5BMl5BanBnXkFtZTgwNjg2MTk2NTE@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Tony Perez",
+      "asCharacter": "Immigration Officer #2"
+    },
+    {
+      "id": "nm0808273",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzc2NTQ5MDAxMl5BMl5BanBnXkFtZTgwMDQzNzM2MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Garnett Smith",
+      "asCharacter": "Immigration Officer #1"
+    },
+    {
+      "id": "nm0021741",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Loren Almaguer",
+      "asCharacter": "Dr. Munoz"
+    },
+    {
+      "id": "nm0057006",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gil Barreto",
+      "asCharacter": "Cuban Refugee"
+    },
+    {
+      "id": "nm0071471",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Heather Benna",
+      "asCharacter": "Gutierrez Child"
+    },
+    {
+      "id": "nm0101050",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sue Bowser",
+      "asCharacter": "Miriam (as Dawnell Bowers)"
+    },
+    {
+      "id": "nm0131744",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tina Leigh Cameron",
+      "asCharacter": "Saleslady"
+    },
+    {
+      "id": "nm0133341",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTNmZTRkOWItOTM0Ny00ZTUxLWI2YWEtYzU2NjhlMjk1M2JkXkEyXkFqcGdeQXVyMjM2ODYwMQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Victor Campos",
+      "asCharacter": "Ronnie Echevierra"
+    },
+    {
+      "id": "nm0134093",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Hammer Cannerday",
+      "asCharacter": "Marielito"
+    },
+    {
+      "id": "nm0140086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2OTI2NDk4NV5BMl5BanBnXkFtZTYwMTAwMzAz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rene Carrasco",
+      "asCharacter": "Shooter"
+    },
+    {
+      "id": "nm0140390",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ5ZjA1NTctZWY4MS00YTliLWIxYzQtNTFkMTAzMGY1MjMzXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Albert Carrier",
+      "asCharacter": "Pedro Quinn"
+    },
+    {
+      "id": "nm0141715",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmVhZDUyOTgtY2YxYy00OWRjLWFkZWUtOGEyMGJhYjdmZTIxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "John Carter",
+      "asCharacter": "Vic Phillips"
+    },
+    {
+      "id": "nm0143313",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Caselnova",
+      "asCharacter": "Driver"
+    },
+    {
+      "id": "nm0148869",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDIwZTQzNjItYWUzZi00MjYwLWJiZmEtODJhNzliNjk4NWY3XkEyXkFqcGdeQXVyMTI1MTg3OTQy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gary Carlos Cervantes",
+      "asCharacter": "Shooter #1 (as Gary Cervantes)"
+    },
+    {
+      "id": "nm0149118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carlos Cestero",
+      "asCharacter": "Matos"
+    },
+    {
+      "id": "nm0176196",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnny Contardo",
+      "asCharacter": "Miguel Echevierra (as John Contardo)"
+    },
+    {
+      "id": "nm0176548",
+      "image": "https://m.media-amazon.com/images/M/MV5BNWJkYTBjMDMtYTE4YS00NWEwLTgzNjgtYTBmOGQ2NGYyY2RiXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+      "name": "Roberto Contreras",
+      "asCharacter": "Rebenga"
+    },
+    {
+      "id": "nm0179641",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Caesar Cordova",
+      "asCharacter": "Taco stand cook"
+    },
+    {
+      "id": "nm0190327",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM0MjMxOTY0NF5BMl5BanBnXkFtZTYwODk0MzU3._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gregory Cruz",
+      "asCharacter": "Shooter #2 (as Gregory N. Cruz)"
+    },
+    {
+      "id": "nm0195210",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dante D'Andre",
+      "asCharacter": "General Strasser (as Dante D'André)"
+    },
+    {
+      "id": "nm0217621",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Delmonte",
+      "asCharacter": "Fernando"
+    },
+    {
+      "id": "nm0229566",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZDEwN2MtNzBkZC00ZjVlLTk5YjAtNWIwYjU5OGJiMjZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio2.2727_AL_.jpg",
+      "name": "Wayne Doba",
+      "asCharacter": "Octavio The Clown"
+    },
+    {
+      "id": "nm3522346",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michel François",
+      "asCharacter": "Maitre d'"
+    },
+    {
+      "id": "nm0296370",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ben Frommer",
+      "asCharacter": "Male Patron"
+    },
+    {
+      "id": "nm0296371",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Edward R. Frommer",
+      "asCharacter": "Taco Stand Customer"
+    },
+    {
+      "id": "nm0303788",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Gamble",
+      "asCharacter": "Helicopter Pilot"
+    },
+    {
+      "id": "nm0410576",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Troy Isaacs",
+      "asCharacter": "Cuban Refugee"
+    },
+    {
+      "id": "nm0430692",
+      "image": "https://m.media-amazon.com/images/M/MV5BODAyODI2M2ItYWFhMS00MjdjLThhNWMtYzg2MTk4OTM0YzY2XkEyXkFqcGdeQXVyMTYyMDcyMzc@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ronald G. Joseph",
+      "asCharacter": "Car Salesman (as Ronald Joseph)"
+    },
+    {
+      "id": "nm0532478",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI4Yjk0YTItMWRhMi00NjM3LTg1NDgtN2IyZDU5MDVhZTUzXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Mario Machado",
+      "asCharacter": "Interviewer"
+    },
+    {
+      "id": "nm0549368",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joe Marmo",
+      "asCharacter": "Nacho 'El Gordo'"
+    },
+    {
+      "id": "nm0551524",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ray Martel",
+      "asCharacter": "Nacho's Bodyguard"
+    },
+    {
+      "id": "nm0564883",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU1NjZlZmUtYzY3NC00NGFhLWFjZjQtOGU5ZWJjZmFiMTk5XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "John McCann",
+      "asCharacter": "Bank Spokesman"
+    },
+    {
+      "id": "nm0579089",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Mendez",
+      "asCharacter": "Gina's Killer"
+    },
+    {
+      "id": "nm0587637",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDM3ZWNjZTgtZmRiNS00MjRlLWJlNmEtYWM2YzUwZTEzY2MxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Victor Millan",
+      "asCharacter": "Ariel Bleyer"
+    },
+    {
+      "id": "nm0602766",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Santos Morales",
+      "asCharacter": "Waldo"
+    },
+    {
+      "id": "nm0120878",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2Nzk3MDYwM15BMl5BanBnXkFtZTYwNzE3NTgy._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mike Moroff",
+      "asCharacter": "Gaspar's Bodyguard"
+    },
+    {
+      "id": "nm0632836",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angela Nisi",
+      "asCharacter": "Gutierrez Child"
+    },
+    {
+      "id": "nm0655693",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTE0NTc0MV5BMl5BanBnXkFtZTcwNDA1NTYxOA@@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Manuel Padilla Jr.",
+      "asCharacter": "Kid #2"
+    },
+    {
+      "id": "nm0659621",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tony Pann",
+      "asCharacter": "Driver"
+    },
+    {
+      "id": "nm0668169",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ilka Tanya Payán",
+      "asCharacter": "Mrs. Gutierrez (as Ilka Payan)"
+    },
+    {
+      "id": "nm0673450",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barbra Perez",
+      "asCharacter": "Marta"
+    },
+    {
+      "id": "nm0745606",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michael Rougas",
+      "asCharacter": "Monsignor"
+    },
+    {
+      "id": "nm0755745",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQ1NGM4NWUtNWJiZC00M2Q0LTlkZGItMTFiYTE5OGI4M2ZkXkEyXkFqcGdeQXVyODc4ODIwNzY@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Anthony Saenz",
+      "asCharacter": "Cuban Refugee"
+    },
+    {
+      "id": "nm0798316",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDViY2IzNDctMDQ5OS00NjJlLTlkNGUtNDgxMjVmZmMyMmQ3XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Geno Silva",
+      "asCharacter": "The Skull"
+    },
+    {
+      "id": "nm0846408",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arnold Tafolla",
+      "asCharacter": "Kid #1"
+    },
+    {
+      "id": "nm0848596",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0NzMzMTIwOV5BMl5BanBnXkFtZTgwMDI5MjAzOTE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Charles A. Tamburro",
+      "asCharacter": "Helicopter Pilot (as Chuck Tamburo)"
+    },
+    {
+      "id": "nm0869939",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jim Towers",
+      "asCharacter": "Cuban Refugee"
+    },
+    {
+      "id": "nm0886067",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Vandenberg",
+      "asCharacter": "Gaspar Gomez (as Robert Van den Berg)"
+    },
+    {
+      "id": "nm0945943",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bob Yanez",
+      "asCharacter": "Cuban Man"
+    },
+    {
+      "id": "nm0007406",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgxMzk1NjU0OV5BMl5BanBnXkFtZTcwNjAyNTUxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Angela Aames",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0028793",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nancy Lee Andrews",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0049893",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dona Baldwin",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0072946",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzQwNzNiNTYtNTk2OC00MTUwLWI5YjItNWI1NWM1ZmVhY2EzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lee Benton",
+      "asCharacter": "Woman at Babylon Club (as Rosa Lee Benton)"
+    },
+    {
+      "id": "nm0122998",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cynthia Burr",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0165096",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE4NjEyNDA5NV5BMl5BanBnXkFtZTcwNjYzNTYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lana Clarkson",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0188199",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Karen Criswell",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0446633",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwMTQxNTg1MF5BMl5BanBnXkFtZTgwMTgwNzYxMTE@._V1_Ratio1.0909_AL_.jpg",
+      "name": "Margo Kelly",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0493663",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzODc2NTE4NF5BMl5BanBnXkFtZTcwMjIzOTE2OQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ava Lazar",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0189536",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emilia Crow",
+      "asCharacter": "Woman at Babylon Club (as Emilia Lesniak)"
+    },
+    {
+      "id": "nm0538338",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTJiNjQzOTktMGUxZS00NGVhLWE5Y2MtNzI2NGM0ZjFiNTQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Marii Mak",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0605030",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shelley Taylor Morgan",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0724464",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Catharine Richardson",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0799862",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pat Simmons",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0853246",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Terri Taylor",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0011974",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charlie Adiano",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0441772",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lisa Katz",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0513046",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeanette Linne",
+      "asCharacter": "Woman at Babylon Club (as Jeanette Linné)"
+    },
+    {
+      "id": "nm0584432",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2UyNjdmZGYtYThiYS00MmRhLTk5OTItYjA3MDI0ZTczZjUxXkEyXkFqcGdeQXVyMTkxMTEzMDY@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Margaret Michaels",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0761300",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rhonda Sandberg",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm0002240",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY4ZTQ4NDEtOGM3My00N2I5LTliYzQtYTU2YjM0ODU3ZDRiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Katt Shea",
+      "asCharacter": "Woman at Babylon Club (as Kathy Shea)"
+    },
+    {
+      "id": "nm0937857",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NDAwNjYwM15BMl5BanBnXkFtZTcwNTMzNjEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Marcia Wolf",
+      "asCharacter": "Woman at Babylon Club"
+    },
+    {
+      "id": "nm13946257",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bill Baker",
+      "asCharacter": "Babylon Club Patron (uncredited)"
+    },
+    {
+      "id": "nm0004242",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc4ZmI2NjQtMjM4My00OGYzLTkyNGEtOWQxODIyMTA3YzNiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fidel Castro",
+      "asCharacter": "Self (archive footage) (uncredited)"
+    },
+    {
+      "id": "nm0000361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODQ0NDY3OV5BMl5BanBnXkFtZTYwNjAxNTM0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brian De Palma",
+      "asCharacter": "Man Reflected in a Mirror in Babylon Club (uncredited)"
+    },
+    {
+      "id": "nm0222273",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDA2NmI0ZmItODNkMi00MzQ5LThmYjQtMzE5ZjhmMzZkNjNlXkEyXkFqcGdeQXVyNTE2MzY2MDE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Barclay DeVeau",
+      "asCharacter": "Ambassador's Daughter (uncredited)"
+    },
+    {
+      "id": "nm0001164",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMDk1NTU1OV5BMl5BanBnXkFtZTYwMDA2MjM0._V1_Ratio0.8636_AL_.jpg",
+      "name": "Charles Durning",
+      "asCharacter": "Immigration Officer (voice) (uncredited)"
+    },
+    {
+      "id": "nm0001240",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjMyMDQ2NjA1M15BMl5BanBnXkFtZTYwMDI0ODU1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dennis Franz",
+      "asCharacter": "Immigration Officer (voice) (uncredited)"
+    },
+    {
+      "id": "nm0318838",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmRkNTY4MDctOTI5OS00ODVkLWFmM2YtNmZmZjFmMmY2YWJkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Linda Gillen",
+      "asCharacter": "Voice (uncredited)"
+    },
+    {
+      "id": "nm2893110",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bart Greene",
+      "asCharacter": "Restaurant Patron (uncredited)"
+    },
+    {
+      "id": "nm4747261",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Raven Grey Eagle",
+      "asCharacter": "Minor Role (uncredited)"
+    },
+    {
+      "id": "nm0363193",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmIxZTU3NDUtODllOC00OGE0LWE2OTItOGIzMGZkYjgwMDRiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bob Harks",
+      "asCharacter": "Reporter (uncredited)"
+    },
+    {
+      "id": "nm0001344",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFiN2RiNzEtNjczZC00YjJmLWE1ZmMtMjA5MzYzYjlkMzg3XkEyXkFqcGdeQXVyMTMyMjgzNDIz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gregg Henry",
+      "asCharacter": "Charles Goodson (uncredited)"
+    },
+    {
+      "id": "nm0397441",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2OTM3NzQ3MF5BMl5BanBnXkFtZTcwMTM0MzQzMQ@@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Kevyn Major Howard",
+      "asCharacter": "Extra (uncredited)"
+    },
+    {
+      "id": "nm0419163",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Jasen",
+      "asCharacter": "Little Boy at Pool (uncredited)"
+    },
+    {
+      "id": "nm0455437",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQ3OGRhZTEtMTJhZi00NWU3LTljMTgtNDZiNTdiZDI0ZTVkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Henry Kingi",
+      "asCharacter": "Colombian Hitman (uncredited)"
+    },
+    {
+      "id": "nm7610135",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzZlMDg4MmQtNDUxOS00ODgzLTlmYzgtNTEyYWRiYjMyM2E5XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tammy Lynn Leppert",
+      "asCharacter": "Distraction at the Lookout Car - Chainsaw Shower Scene (uncredited)"
+    },
+    {
+      "id": "nm6031202",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gigi Martone",
+      "asCharacter": "Waiter (uncredited)"
+    },
+    {
+      "id": "nm0434560",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODY1OTA5N15BMl5BanBnXkFtZTcwMzA4OTEzMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Antone Pagán",
+      "asCharacter": "Club Doorman (uncredited)"
+    },
+    {
+      "id": "nm0711840",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMyNDQ1MTQ0NV5BMl5BanBnXkFtZTcwNDg2Njg4Mw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Brett Ratner",
+      "asCharacter": "Boy Lying on Raft in Pool (uncredited)"
+    },
+    {
+      "id": "nm0730834",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arnold Roberts",
+      "asCharacter": "Restaurant Patron (uncredited)"
+    },
+    {
+      "id": "nm3072057",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Randall Rutledge",
+      "asCharacter": "Night Club Patron (uncredited)"
+    },
+    {
+      "id": "nm0794269",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkwNTI1ODY0MV5BMl5BanBnXkFtZTcwMDYxNDgzMQ@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Marcus Shirock",
+      "asCharacter": "Boy at Pool (uncredited)"
+    },
+    {
+      "id": "nm3046500",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDU2ZTlmMjUtOGI2Yi00ZTI5LWI3MWYtNmM4YTEwNzg0MGU3XkEyXkFqcGdeQXVyMzQ5NzIyOQ@@._V1_Ratio1.9091_AL_.jpg",
+      "name": "Jimmy Star",
+      "asCharacter": "Boy at Pool (uncredited)"
+    },
+    {
+      "id": "nm0873135",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nick Trisko",
+      "asCharacter": "Henchman (uncredited)"
+    },
+    {
+      "id": "nm0913283",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc3ZDAxM2ItOWQ5MS00NDhhLTg0ODEtNjMwMjI1N2FjMDhkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Max Wasa",
+      "asCharacter": "Dancer - LaLa (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0106840",
+          "name": "Martin Bregman",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0764559",
+          "name": "Peter Saphier",
+          "description": "co-producer"
+        },
+        {
+          "id": "nm0834870",
+          "name": "Louis A. Stroller",
+          "description": "executive producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0002380",
+          "name": "Giorgio Moroder",
+          "description": "(music by)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0002166",
+          "name": "John A. Alonzo",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0338513",
+          "name": "Gerald B. Greenberg",
+          "description": "(as Jerry Greenberg) (edited by)"
+        },
+        {
+          "id": "nm0712799",
+          "name": "David Ray",
+          "description": "(edited by)"
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0329920",
+          "name": "Alixe Gordin",
+          "description": "(casting by)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0724523",
+          "name": "Edward Richardson",
+          "description": "(as Ed Richardson)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0918509",
+          "name": "Bruce Weintraub",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0635876",
+          "name": "Patricia Norris",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0009401",
+          "name": "Stephen Abrums",
+          "description": "makeup artist (as Steve Abrums)"
+        },
+        {
+          "id": "nm0104814",
+          "name": "Janice D. Brandow",
+          "description": "hair stylist (as Janice Brandow)"
+        },
+        {
+          "id": "nm0345725",
+          "name": "Barbara Guedel",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0908271",
+          "name": "Toni-Ann Walker",
+          "description": "hair stylist (as Toni Walker)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0367297",
+          "name": "Raymond Hartwick",
+          "description": "unit production manager (as Ray Hartwick)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm6428373",
+          "name": "David H Dreyfuss",
+          "description": "second unit director (as David Hans Dreyfuss)"
+        },
+        {
+          "id": "nm0339518",
+          "name": "Melanie Grefe",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0378561",
+          "name": "James Herbert",
+          "description": "additional second assistant director"
+        },
+        {
+          "id": "nm0621137",
+          "name": "Joe Napolitano",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0812864",
+          "name": "Chris Soldo",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0946182",
+          "name": "Robert Yannetti",
+          "description": "dga trainee"
+        },
+        {
+          "id": "nm0956310",
+          "name": "Jerry Ziesmer",
+          "description": "first assistant director"
+        },
+        {
+          "id": "nm0332434",
+          "name": "Lewis Gould",
+          "description": "second assistant director: New York (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0020609",
+          "name": "James Allen",
+          "description": "assistant art director (as Jim Allen)"
+        },
+        {
+          "id": "nm0356373",
+          "name": "Casey Hallenbeck",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm4488439",
+          "name": "Geoff Hubbard",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0412489",
+          "name": "Peter Ivy",
+          "description": "carpenter foreman"
+        },
+        {
+          "id": "nm0483938",
+          "name": "Peter Lamppu",
+          "description": "carpenter foreman"
+        },
+        {
+          "id": "nm0561908",
+          "name": "Daniel Loren May",
+          "description": "lead man (as Dan May)"
+        },
+        {
+          "id": "nm0696840",
+          "name": "Clarence Lynn Price",
+          "description": "construction coordinator (as Lynn Price)"
+        },
+        {
+          "id": "nm0751033",
+          "name": "Blake Russell",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0758343",
+          "name": "Carlos Salinas",
+          "description": "carpenter foreman"
+        },
+        {
+          "id": "nm0769162",
+          "name": "Ferdinando Scarfiotti",
+          "description": "visual consultant"
+        },
+        {
+          "id": "nm0777456",
+          "name": "Steven Schwartz",
+          "description": "set designer (as Steve Schwartz)"
+        },
+        {
+          "id": "nm0897594",
+          "name": "Edmund Villa",
+          "description": "assistant property master (as Ed Villa)"
+        },
+        {
+          "id": "nm0914196",
+          "name": "Will Waters",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm0927116",
+          "name": "'Dangerous' Bob Widin",
+          "description": "assistant property master (as Bob Widin)"
+        },
+        {
+          "id": "nm0954743",
+          "name": "John Zemansky",
+          "description": "property master"
+        },
+        {
+          "id": "nm0023570",
+          "name": "John Alvin",
+          "description": "poster artist (uncredited)"
+        },
+        {
+          "id": "nm1180737",
+          "name": "Ronald S. Baratie",
+          "description": "greensman (uncredited)"
+        },
+        {
+          "id": "nm0592721",
+          "name": "Robert Misetich",
+          "description": "painter (uncredited)"
+        },
+        {
+          "id": "nm0842135",
+          "name": "John Sweeney",
+          "description": "props (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0007442",
+          "name": "Andy Aaron",
+          "description": "sound effects recordist"
+        },
+        {
+          "id": "nm0079901",
+          "name": "Edward Beyer",
+          "description": "supervising sound editor"
+        },
+        {
+          "id": "nm0092938",
+          "name": "Donald A. Bolger",
+          "description": "boom operator (as Don Bolger)"
+        },
+        {
+          "id": "nm0093901",
+          "name": "Charles J. Bond",
+          "description": "sound recordist (as Charles Bond)"
+        },
+        {
+          "id": "nm0109299",
+          "name": "James Briley",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0171185",
+          "name": "Randall Coleman",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0174267",
+          "name": "Dave Concors",
+          "description": "technical sound consultant"
+        },
+        {
+          "id": "nm0180344",
+          "name": "Bob Cornett",
+          "description": "sound editor (as Robert H. Cornett)"
+        },
+        {
+          "id": "nm0208774",
+          "name": "Marissa De Guzman",
+          "description": "assistant sound editor (as Marissa DeGuzman)"
+        },
+        {
+          "id": "nm0237057",
+          "name": "Jay Dranch",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0275779",
+          "name": "Harriet Fidlow",
+          "description": "dialogue loop editor"
+        },
+        {
+          "id": "nm0310077",
+          "name": "Leslie Gaulin",
+          "description": "assistant sound editor (as Leslie Troy Gaulin)"
+        },
+        {
+          "id": "nm0333723",
+          "name": "Lou Graf",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0388108",
+          "name": "Steve Hodge",
+          "description": "sound consultant"
+        },
+        {
+          "id": "nm0414281",
+          "name": "Michael Jacobi",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0456253",
+          "name": "Michael Kirchberger",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0457835",
+          "name": "Bruce Kitzmeyer",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0460828",
+          "name": "C. Darin Knight",
+          "description": "sound mixer (as Charles Darin Knight)"
+        },
+        {
+          "id": "nm0461702",
+          "name": "Robert Knudson",
+          "description": "re-recording mixer (as Buzz Knudsen)"
+        },
+        {
+          "id": "nm0497678",
+          "name": "Kevin Lee",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0506014",
+          "name": "Hal Levinsohn",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0582736",
+          "name": "Joan Metzger",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0591566",
+          "name": "Barbara Minor",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0618571",
+          "name": "Yvette Nabel",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0679879",
+          "name": "Wende Phifer Mate",
+          "description": "assistant sound editor (as Wende Phifer-Mate)"
+        },
+        {
+          "id": "nm0711684",
+          "name": "Mark Rathaus",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0716166",
+          "name": "Brian Reeves",
+          "description": "sound consultant"
+        },
+        {
+          "id": "nm0725792",
+          "name": "Dave Rideau",
+          "description": "sound consultant"
+        },
+        {
+          "id": "nm0747763",
+          "name": "Louise Rubacky",
+          "description": "assistant sound editor (as Weezie Rubacky)"
+        },
+        {
+          "id": "nm0770733",
+          "name": "Maurice Schell",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm7878280",
+          "name": "Ahmad Shirazi",
+          "description": "assistant sound editor (as Maddy Shirazi)"
+        },
+        {
+          "id": "nm0825392",
+          "name": "Ann Stein",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0868576",
+          "name": "Brunilda Torres",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm0871816",
+          "name": "Paul Trejo",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0918917",
+          "name": "Arthur Weiss",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm1479863",
+          "name": "Alfonso Calvo",
+          "description": "sound dubbing mixer (uncredited)"
+        },
+        {
+          "id": "nm0226564",
+          "name": "Don Digirolamo",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0310077",
+          "name": "Leslie Gaulin",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0333025",
+          "name": "Randal A. Goya",
+          "description": "foley mixer (uncredited)"
+        },
+        {
+          "id": "nm0770733",
+          "name": "Maurice Schell",
+          "description": "adr crowd (uncredited) / foley artist (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0663012",
+          "name": "Stan Parks",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0672536",
+          "name": "Ken Pepiot",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0462946",
+          "name": "Ted Koerner",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm1044402",
+          "name": "George Zamora",
+          "description": "special effects technician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0360594",
+          "name": "Bill Hansard",
+          "description": "rear projection"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0036247",
+          "name": "M. James Arnett",
+          "description": "stunts (as Jim Arnett)"
+        },
+        {
+          "id": "nm0060037",
+          "name": "Bobby Bass",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0098066",
+          "name": "Clay Boss",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0103643",
+          "name": "Janet Brady",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0113909",
+          "name": "Jophery C. Brown",
+          "description": "stunt coordinator (as Jophery Brown)"
+        },
+        {
+          "id": "nm0116779",
+          "name": "Jerry Brutsche",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0117448",
+          "name": "Cheré Bryson",
+          "description": "stunts (as Chere Bryson)"
+        },
+        {
+          "id": "nm0123557",
+          "name": "David Burton",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0128170",
+          "name": "David Cadiente",
+          "description": "stunts (as Dave Cadiente)"
+        },
+        {
+          "id": "nm0150448",
+          "name": "Steve Chambers",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0173645",
+          "name": "Gary Combs",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0173646",
+          "name": "Gilbert B. Combs",
+          "description": "stunts (as Gil Combs)"
+        },
+        {
+          "id": "nm0205757",
+          "name": "Steve M. Davison",
+          "description": "stunts (as Steve Davison)"
+        },
+        {
+          "id": "nm0205759",
+          "name": "Tim A. Davison",
+          "description": "stunts (as Tim Davison)"
+        },
+        {
+          "id": "nm0209966",
+          "name": "Mike De Luna",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0211251",
+          "name": "Justin De Rosa",
+          "description": "stunts (as Justin DeRosa)"
+        },
+        {
+          "id": "nm0232839",
+          "name": "Eddy Donno",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0254657",
+          "name": "Tom Elliott",
+          "description": "stunt double: Al Pacino"
+        },
+        {
+          "id": "nm0254786",
+          "name": "David R. Ellis",
+          "description": "stunts (as David Ellis)"
+        },
+        {
+          "id": "nm0258343",
+          "name": "Eurlyne Epper",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0258344",
+          "name": "Gary Epper",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0311239",
+          "name": "Leonard P. Geer",
+          "description": "stunts (as Lenny Geer)"
+        },
+        {
+          "id": "nm0316617",
+          "name": "Alan Gibbs",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0357127",
+          "name": "James M. Halty",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0382556",
+          "name": "Freddie Hice",
+          "description": "stunts (as Fred Hice)"
+        },
+        {
+          "id": "nm0393611",
+          "name": "Billy Hank Hooker",
+          "description": "stunts (as Bill Hooker)"
+        },
+        {
+          "id": "nm0366179",
+          "name": "Buddy Joe Hooker",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0393622",
+          "name": "Hugh Hooker",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0400232",
+          "name": "Tommy J. Huff",
+          "description": "stunts (as Thomas J. Huff)"
+        },
+        {
+          "id": "nm0405223",
+          "name": "Gary Hymes",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0427428",
+          "name": "Al Jones",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0444432",
+          "name": "Donna Keegan",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0485732",
+          "name": "Ed Lang",
+          "description": "stunts"
+        },
+        {
+          "id": "nm10407875",
+          "name": "Robbie General Lee",
+          "description": "utility stunts"
+        },
+        {
+          "id": "nm0567378",
+          "name": "Buck McDancer",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0572255",
+          "name": "Gary McLarty",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0576687",
+          "name": "John Meier",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0646453",
+          "name": "Alan Oliney",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0646454",
+          "name": "Ron Oliney",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0650658",
+          "name": "Brad Orrison",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0681601",
+          "name": "Chuck Picerni Jr.",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0700319",
+          "name": "Don Pulford",
+          "description": "stunts (as Donald Pulford)"
+        },
+        {
+          "id": "nm0731183",
+          "name": "J.N. Roberts",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0731390",
+          "name": "Mario Roberts",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0732015",
+          "name": "Sandy Robertson",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0740951",
+          "name": "Thomas Rosales Jr.",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0750354",
+          "name": "Michael Runyard",
+          "description": "stunts (as Mike Runyard)"
+        },
+        {
+          "id": "nm0769862",
+          "name": "Sharon Schaffer",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0798795",
+          "name": "Spike Silver",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0808083",
+          "name": "Eddie Smith",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0821127",
+          "name": "Peter Stader",
+          "description": "stunts (as Peter T. Stader)"
+        },
+        {
+          "id": "nm0824685",
+          "name": "Tom Steele",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0825622",
+          "name": "Ron Stein",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0848596",
+          "name": "Charles A. Tamburro",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0854472",
+          "name": "Keith Tellez",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0893674",
+          "name": "Jack Verbois",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0921696",
+          "name": "Danny Weselis",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0928580",
+          "name": "Glenn R. Wilder",
+          "description": "stunts (as Glen Wilder)"
+        },
+        {
+          "id": "nm0928627",
+          "name": "Scott Wilder",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0004227",
+          "name": "Dick Ziker",
+          "description": "stunts"
+        },
+        {
+          "id": "nm0046966",
+          "name": "Tom Bahr",
+          "description": "utility stunts (uncredited)"
+        },
+        {
+          "id": "nm0128205",
+          "name": "Jeff Cadiente",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0455437",
+          "name": "Henry Kingi",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0050003",
+          "name": "Sidney Ray Baldwin",
+          "description": "still photographer (as Sidney Baldwin)"
+        },
+        {
+          "id": "nm0057227",
+          "name": "Michael Barrett",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0154595",
+          "name": "Michael A. Chavez",
+          "description": "assistant camera (as Michael Chavez)"
+        },
+        {
+          "id": "nm0274903",
+          "name": "Michael Ferris",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0278243",
+          "name": "James W. Finnerty",
+          "description": "grip: New York"
+        },
+        {
+          "id": "nm0322592",
+          "name": "Donald Glenn",
+          "description": "best boy grip (as Don Glenn)"
+        },
+        {
+          "id": "nm0375287",
+          "name": "Bud Heller",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0409034",
+          "name": "Susan C. Ingram",
+          "description": "assistant camera (as Susan Ingram)"
+        },
+        {
+          "id": "nm0429975",
+          "name": "Horace Jordan",
+          "description": "assistant camera (as Horace Jordan Jr.)"
+        },
+        {
+          "id": "nm0484415",
+          "name": "Hal Landaker",
+          "description": "video consultant"
+        },
+        {
+          "id": "nm0490880",
+          "name": "Thomas Laughridge",
+          "description": "camera operator (as Tom Laughridge)"
+        },
+        {
+          "id": "nm0612710",
+          "name": "Bob Mundell",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0696174",
+          "name": "Dutch Presley",
+          "description": "best boy"
+        },
+        {
+          "id": "nm0696178",
+          "name": "Kevin Presley",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0773487",
+          "name": "Donald Schmitz",
+          "description": "grip (as Don Schmitz)"
+        },
+        {
+          "id": "nm0807751",
+          "name": "Clyde Smith",
+          "description": "dolly grip"
+        },
+        {
+          "id": "nm0819307",
+          "name": "Stuart A. Spohn",
+          "description": "gaffer (as Stuart Spohn)"
+        },
+        {
+          "id": "nm0001799",
+          "name": "John Toll",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0953760",
+          "name": "Mario Zavala",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0176201",
+          "name": "Vincent Contarino",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0477291",
+          "name": "T. Sano Kwong",
+          "description": "rigging grip (uncredited)"
+        },
+        {
+          "id": "nm0777368",
+          "name": "Michael J. Schwartz",
+          "description": "rigging electrician (uncredited)"
+        },
+        {
+          "id": "nm0915949",
+          "name": "Rod Weaver",
+          "description": "lighting technician (uncredited)"
+        },
+        {
+          "id": "nm0940857",
+          "name": "Randy Woodside",
+          "description": "electrician (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm0109478",
+          "name": "Karl Brindle",
+          "description": "extras casting"
+        },
+        {
+          "id": "nm0136381",
+          "name": "Billy Cardenas",
+          "description": "extras casting"
+        },
+        {
+          "id": "nm0606051",
+          "name": "Bob Morones",
+          "description": "additional casting"
+        },
+        {
+          "id": "nm0002533",
+          "name": "Judy Dennis",
+          "description": "casting assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0377621",
+          "name": "Linda Henrikson",
+          "description": "costumer"
+        },
+        {
+          "id": "nm0679172",
+          "name": "Gregory B. Peña",
+          "description": "costumer (as Greg Pena)"
+        },
+        {
+          "id": "nm0769056",
+          "name": "G. Tony Scarano",
+          "description": "costumer (as Tony Scarano)"
+        },
+        {
+          "id": "nm0561378",
+          "name": "Randi Mavestrand",
+          "description": "costumer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0060205",
+          "name": "Donah Bassett",
+          "description": "negative cutter"
+        },
+        {
+          "id": "nm0106841",
+          "name": "Michael Bregman",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0163024",
+          "name": "Laura Civiello",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0381756",
+          "name": "Phil Hetos",
+          "description": "color consultant: Technicolor"
+        },
+        {
+          "id": "nm0399523",
+          "name": "Ray Hubley",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0434783",
+          "name": "Alfred Laurence Kahn",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0466516",
+          "name": "Lori Kornspun",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0626402",
+          "name": "Paul Neshamkin",
+          "description": "editor: title sequence"
+        },
+        {
+          "id": "nm0642945",
+          "name": "David Oakden",
+          "description": "assistant film editor"
+        },
+        {
+          "id": "nm0657610",
+          "name": "Debby Paley",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0659597",
+          "name": "Bill Pankow",
+          "description": "associate film editor"
+        },
+        {
+          "id": "nm0809922",
+          "name": "Shari Smith",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0946048",
+          "name": "Robert Yang",
+          "description": "editing room assistant"
+        },
+        {
+          "id": "nm0220257",
+          "name": "Rick Derby",
+          "description": "apprentice editor (uncredited)"
+        },
+        {
+          "id": "nm0317004",
+          "name": "J. Kathleen Gibson",
+          "description": "apprentice editor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0682758",
+          "name": "Frank Pierson",
+          "description": "location manager"
+        },
+        {
+          "id": "nm0959027",
+          "name": "Susan Zwerman",
+          "description": "location manager"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0057883",
+          "name": "Arthur Barrow",
+          "description": "music arranger (as Arthur Barrows)"
+        },
+        {
+          "id": "nm0377619",
+          "name": "Jim Henrikson",
+          "description": "music editor"
+        },
+        {
+          "id": "nm0437806",
+          "name": "Laurie Kanner",
+          "description": "music coordinator"
+        },
+        {
+          "id": "nm0006169",
+          "name": "Sylvester Levay",
+          "description": "music arranger"
+        },
+        {
+          "id": "nm0002380",
+          "name": "Giorgio Moroder",
+          "description": "music arranger"
+        },
+        {
+          "id": "nm0776383",
+          "name": "Kristian Schultze",
+          "description": "music arranger"
+        },
+        {
+          "id": "nm0957272",
+          "name": "Richie Zito",
+          "description": "music arranger"
+        },
+        {
+          "id": "nm3212883",
+          "name": "Neil S. Bulk",
+          "description": "soundtrack co-producer (uncredited)"
+        },
+        {
+          "id": "nm1161586",
+          "name": "Dan Goldwasser",
+          "description": "soundtrack co-producer (uncredited)"
+        },
+        {
+          "id": "nm0424873",
+          "name": "Daniel J. Johnson",
+          "description": "co-music editor (uncredited)"
+        },
+        {
+          "id": "nm0907657",
+          "name": "Daniel Walker",
+          "description": "score arranger (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0447414",
+          "name": "Jan Kemper",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0029892",
+          "name": "Dan Anglin",
+          "description": "transportation coordinator (as Danny Anglin)"
+        },
+        {
+          "id": "nm0106879",
+          "name": "Richard Brehm",
+          "description": "driver"
+        },
+        {
+          "id": "nm0180221",
+          "name": "Bob Cornell",
+          "description": "transportation co-captain (as Bob Cornnell)"
+        },
+        {
+          "id": "nm0256356",
+          "name": "Tony Emerzian",
+          "description": "driver"
+        },
+        {
+          "id": "nm0379573",
+          "name": "Frankie Hernandez",
+          "description": "driver"
+        },
+        {
+          "id": "nm0628153",
+          "name": "Junior Newman",
+          "description": "driver"
+        },
+        {
+          "id": "nm0715711",
+          "name": "Ted Reed",
+          "description": "transportation captain"
+        },
+        {
+          "id": "nm0784828",
+          "name": "Pat Seran",
+          "description": "driver"
+        },
+        {
+          "id": "nm2170613",
+          "name": "Frank Khoury",
+          "description": "driver (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm1179879",
+          "name": "Jackie Bazan",
+          "description": "dvd publicist"
+        },
+        {
+          "id": "nm6428373",
+          "name": "David H Dreyfuss",
+          "description": "title designer (as David Hans Dreyfuss)"
+        },
+        {
+          "id": "nm0247691",
+          "name": "Robert Easton",
+          "description": "dialogue coach"
+        },
+        {
+          "id": "nm0251987",
+          "name": "Joan Eisenberg",
+          "description": "unit publicist"
+        },
+        {
+          "id": "nm0276852",
+          "name": "Ron Filbert",
+          "description": "production auditor"
+        },
+        {
+          "id": "nm0284553",
+          "name": "Darryl Fong",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0288202",
+          "name": "Michael Fottrell",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0308573",
+          "name": "Jack Garsha",
+          "description": "timing consultant: Technicolor"
+        },
+        {
+          "id": "nm0384263",
+          "name": "Gary Hill",
+          "description": "assistant: Brian Depalma"
+        },
+        {
+          "id": "nm0416622",
+          "name": "Joe James",
+          "description": "craft service"
+        },
+        {
+          "id": "nm0438100",
+          "name": "Willie Kupahu",
+          "description": "production auditor (as Willie Kapahu)"
+        },
+        {
+          "id": "nm0500055",
+          "name": "Shari Leibowitz",
+          "description": "production coordinator"
+        },
+        {
+          "id": "nm0576148",
+          "name": "Lori Meeks",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm0582198",
+          "name": "Barbrah Messing",
+          "description": "secretary"
+        },
+        {
+          "id": "nm0731285",
+          "name": "Judee Roberts",
+          "description": "talent coordinator"
+        },
+        {
+          "id": "nm0751441",
+          "name": "Sandy Russell",
+          "description": "secretary"
+        },
+        {
+          "id": "nm0848596",
+          "name": "Charles A. Tamburro",
+          "description": "helicopter pilot"
+        },
+        {
+          "id": "nm0900357",
+          "name": "Mary Viviano",
+          "description": "assistant: Mr. Pacino"
+        },
+        {
+          "id": "nm0935337",
+          "name": "Jeff Winn",
+          "description": "craft service assistant"
+        },
+        {
+          "id": "nm3721710",
+          "name": "Mario Beguiristain",
+          "description": "dialect coach (uncredited)"
+        },
+        {
+          "id": "nm0006436",
+          "name": "Dean Gates",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0585125",
+          "name": "Lillian Michelson",
+          "description": "researcher (uncredited)"
+        },
+        {
+          "id": "nm0609184",
+          "name": "Jeff Most",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0770733",
+          "name": "Maurice Schell",
+          "description": "adr loop group (uncredited)"
+        },
+        {
+          "id": "nm0937418",
+          "name": "Branko Wohlfahrt",
+          "description": "armorer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0001328",
+          "name": "Howard Hawks",
+          "description": "dedicatee"
+        },
+        {
+          "id": "nm0372942",
+          "name": "Ben Hecht",
+          "description": "dedicatee"
+        },
+        {
+          "id": "nm1057460",
+          "name": "Rafael Hernandez Jr.",
+          "description": "special thanks"
+        },
+        {
+          "id": "nm0184366",
+          "name": "Nick Navarro",
+          "description": "special thanks"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

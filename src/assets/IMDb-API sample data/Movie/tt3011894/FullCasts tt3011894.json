@@ -1,0 +1,1197 @@
+{
+  "imDbId": "tt3011894",
+  "title": "Wild Tales",
+  "fullTitle": "Wild Tales (2014)",
+  "type": "Movie",
+  "year": "2014",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm1167933",
+        "name": "Damián Szifron",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm2265326",
+        "name": "Julian Loyola",
+        "description": "(collaborating writer)"
+      },
+      {
+        "id": "nm1167933",
+        "name": "Damián Szifron",
+        "description": ""
+      },
+      {
+        "id": "nm1238855",
+        "name": "Germán Servidio",
+        "description": "(collaborating writer)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0334882",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4MTY5Njk5Nl5BMl5BanBnXkFtZTcwOTAzOTY2OQ@@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Darío Grandinetti",
+      "asCharacter": "Salgado (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0555404",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTI3NTQ0NDY4Ml5BMl5BanBnXkFtZTgwNTAyMzI4MTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "María Marull",
+      "asCharacter": "Isabel (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0897640",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzM5OTNiYjQtNDBiOS00MDRmLTgwNTQtNTg1MDVlMzBkYmYzXkEyXkFqcGdeQXVyNjU0ODkwMTU@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Mónica Villa",
+      "asCharacter": "Profesora Leguizamón (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0823435",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Diego Starosta",
+      "asCharacter": "Ignacio Fontana (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm1254515",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marcelo Frasca",
+      "asCharacter": "Gerente Casa Tía (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3004685",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lucila Mangone",
+      "asCharacter": "Azafata (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3692508",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "María Laura Caccamo",
+      "asCharacter": "Empleada Aerolínea (segment \"Pasternak\") (as Laura Cáccamo)"
+    },
+    {
+      "id": "nm6850008",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carlos Alberto Vavassori",
+      "asCharacter": "Víctor Jensen (episodio 'Pasternak')"
+    },
+    {
+      "id": "nm0532489",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pablo Machado",
+      "asCharacter": "Hombre #1 (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3943332",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Horacio Vay",
+      "asCharacter": "Hombre #2 (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3197351",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzEwODM3NTAtNmQzNi00ZGNiLThhYmItNjZhZmRjNmVkNDQzXkEyXkFqcGdeQXVyNjU0ODkwMTU@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Javier Pedersoli",
+      "asCharacter": "Único Amigo (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0236628",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Héctor Drachtman",
+      "asCharacter": "Padre Pasternak (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm6850009",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "María Rosa López Ottonello",
+      "asCharacter": "Madre Pasternak (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0181300",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzNjUzMDczNF5BMl5BanBnXkFtZTgwMjI4OTE4MzE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Rita Cortese",
+      "asCharacter": "Cocinera (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm1600802",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTE2MzQ2NV5BMl5BanBnXkFtZTgwNTc5Nzk3MTE@._V1_Ratio2.3182_AL_.jpg",
+      "name": "Julieta Zylberberg",
+      "asCharacter": "Moza (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm1320600",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "César Bordón",
+      "asCharacter": "Cuenca (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm6850010",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Juan Santiago Linari",
+      "asCharacter": "Alexis (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm0768614",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4NTEwNzY1NF5BMl5BanBnXkFtZTYwNTM2OTkz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Leonardo Sbaraglia",
+      "asCharacter": "Diego Iturralde (segment \"El más fuerte\")"
+    },
+    {
+      "id": "nm1707877",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMzMjg0MzU5MF5BMl5BanBnXkFtZTgwODE4OTE4MzE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Walter Donado",
+      "asCharacter": "Mario (segment \"El más fuerte\")"
+    },
+    {
+      "id": "nm6850011",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carlos Moyá",
+      "asCharacter": "Conductor Remolque (segment \"El más fuerte\")"
+    },
+    {
+      "id": "nm1501914",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Juan Pablo Colombo",
+      "asCharacter": "Joven Perito (segment \"El más fuerte\")"
+    },
+    {
+      "id": "nm6850012",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Miguel Ángel Platinado Grando",
+      "asCharacter": "Comisario (segment \"El más fuerte\") (as Miguel Ángel 'Platinado' Grando)"
+    },
+    {
+      "id": "nm0201857",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTAyMTAzNV5BMl5BanBnXkFtZTcwODE2MTUzOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ricardo Darín",
+      "asCharacter": "Simón (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0243257",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDhjNWNkM2ItOWQxMy00YjdlLWE2NzgtM2IzNThjZGIxMWMxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Nancy Dupláa",
+      "asCharacter": "Victoria (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0563541",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luis Mazzeo",
+      "asCharacter": "Pécora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1886707",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Andrea Garrote",
+      "asCharacter": "Abogada Victoria (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850013",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pablo Moseinco",
+      "asCharacter": "Abogado Simón (segment \"Bombita\")"
+    },
+    {
+      "id": "nm5635639",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victoria Roland",
+      "asCharacter": "Pastelera (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1727288",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Martín Gervasoni",
+      "asCharacter": "Infractor (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6145824",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzk5M2Q4Y2MtMmM4Yy00NGU3LThmYzItZWVkYmNhZDUyNmY5XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Federico Liss",
+      "asCharacter": "Empleado Playón (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850014",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lucrecia Gelardi",
+      "asCharacter": "Mujer #1 (episodio 'Bombita')"
+    },
+    {
+      "id": "nm6850015",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Camila Sofía Casas",
+      "asCharacter": "Hija Simón (segment \"Bombita\")"
+    },
+    {
+      "id": "nm4990833",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ricardo Truppel",
+      "asCharacter": "Hombre Elegante (segment \"Bombita\")"
+    },
+    {
+      "id": "nm4985328",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pablo Chao",
+      "asCharacter": "Controlador de Tránsito (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1391391",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Noemí Ron",
+      "asCharacter": "Mediadora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1984575",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fiorella Pedrazzini",
+      "asCharacter": "Recepcionista Compañía Minera (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1457817",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alejandro Angelini",
+      "asCharacter": "Diariero (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850016",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cristina Blanco",
+      "asCharacter": "Infractora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1725429",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Daniel Merwicer",
+      "asCharacter": "Conductor (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0553650",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMzYjY2NTctZjdjMC00ODZkLTkxZTUtZWFkMGRkYmQwYmI4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Oscar Martínez",
+      "asCharacter": "Mauricio (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1404505",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc3ZjIwMjAtOTJlYy00MzI0LTgwMWItMzNhYjIyMGUxNzZhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "María Onetto",
+      "asCharacter": "Helena (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1881676",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Osmar Núñez",
+      "asCharacter": "Abogado (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1253955",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2NTAxNDY5Nl5BMl5BanBnXkFtZTgwNjE3OTE4MzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Germán De Silva",
+      "asCharacter": "Casero (segment \"La propuesta\") (as Germán de Silva)"
+    },
+    {
+      "id": "nm0892799",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Diego Velázquez",
+      "asCharacter": "Fiscal (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm5445656",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alan Daicz",
+      "asCharacter": "Santiago (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm6850017",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pablo Bricker",
+      "asCharacter": "Cronista #1 (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm6850018",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Diana Deglauy",
+      "asCharacter": "Cronista #2 (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm4937727",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Silvina La Morte",
+      "asCharacter": "Cronista #3 (segment \"La propuesta\") (as Silvina Lamorte)"
+    },
+    {
+      "id": "nm0891391",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ramiro Vayo",
+      "asCharacter": "Marido de la Víctima (episodio 'La propuesta')"
+    },
+    {
+      "id": "nm1404293",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mariano Sigman",
+      "asCharacter": "Familiar de la Víctima (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm0729050",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTU0NTE0MV5BMl5BanBnXkFtZTgwMzI4OTE4MzE@._V1_Ratio2.4091_AL_.jpg",
+      "name": "Erica Rivas",
+      "asCharacter": "Romina (segment \"Hasta que la muerte nos separe\") (as Érica Rivas)"
+    },
+    {
+      "id": "nm0313064",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Diego Gentile",
+      "asCharacter": "Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm1930616",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmEwNjMxM2UtMWYwOC00Y2M5LThjNmEtZTg2Njk4YWUzOTU3XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Abián Vainstein",
+      "asCharacter": "Isidoro (segment \"Hasta que la muerte nos separe\") (as Abian Vainstein)"
+    },
+    {
+      "id": "nm0918068",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Liliana Weimer",
+      "asCharacter": "Cuca (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm3912116",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claudio Delan",
+      "asCharacter": "Bocha (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850020",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Graciela Fodrini",
+      "asCharacter": "Marga (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm2097999",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwYzhmMzctYzVmZi00NDAxLWEzODgtZTNlM2EzOTNmODFiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Margarita Molfino",
+      "asCharacter": "Lourdes (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm5612532",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marcelo Pozzi",
+      "asCharacter": "Cocinero (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm3882883",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paula Grinszpan",
+      "asCharacter": "Amiga Romina (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm2529512",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Miguel Di Lemme",
+      "asCharacter": "Amigo Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850021",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Camila Franco",
+      "asCharacter": "Mili (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm1320598",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gustavo Bonfigli",
+      "asCharacter": "Disc Jockey (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850022",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Damián Benítez",
+      "asCharacter": "Asistente de Disc Jockey (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6775716",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Liliana Ackerman",
+      "asCharacter": "Tía Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850023",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emilio Soler",
+      "asCharacter": "Tío Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm2012413",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ángel Frega",
+      "asCharacter": "Camarógrafo (Néstor) (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850024",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gustavo Curchio",
+      "asCharacter": "Fotógrafo (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm5015191",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Horacio Nin Uria",
+      "asCharacter": "Maître (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850025",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Luis Manuel Altamirano García",
+      "asCharacter": "Paramédico (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm8662395",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alfonso Grispino",
+      "asCharacter": "Don Antonio- grandfather of Camila (segment \"Bombita\") (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0021948",
+          "name": "Agustín Almodóvar",
+          "description": "producer"
+        },
+        {
+          "id": "nm0000264",
+          "name": "Pedro Almodóvar",
+          "description": "producer"
+        },
+        {
+          "id": "nm1345917",
+          "name": "Leticia Cristi",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0306088",
+          "name": "Esther García",
+          "description": "producer"
+        },
+        {
+          "id": "nm1098024",
+          "name": "Axel Kuschevatzky",
+          "description": "co-producer"
+        },
+        {
+          "id": "nm0609212",
+          "name": "Matías Mosteirín",
+          "description": "producer"
+        },
+        {
+          "id": "nm1962406",
+          "name": "Hugo Sigman",
+          "description": "producer"
+        },
+        {
+          "id": "nm1403924",
+          "name": "Pola Zito",
+          "description": "executive producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0763395",
+          "name": "Gustavo Santaolalla",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0432174",
+          "name": "Javier Julia",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0053672",
+          "name": "Pablo Barbieri Carrera",
+          "description": ""
+        },
+        {
+          "id": "nm1167933",
+          "name": "Damián Szifron",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm1962181",
+          "name": "Javier Braier",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm12467482",
+          "name": "Josè Massolo",
+          "description": ""
+        },
+        {
+          "id": "nm0636532",
+          "name": "María Clara Notari",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm12467482",
+          "name": "Josè Massolo",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0636532",
+          "name": "María Clara Notari",
+          "description": ""
+        },
+        {
+          "id": "nm0785441",
+          "name": "Sebastián Serra",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0279182",
+          "name": "Ruth Fischerman",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0024618",
+          "name": "Marisa Amenta",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm4358302",
+          "name": "Angela Garacija",
+          "description": "assistant makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm1887815",
+          "name": "Analía Castro Valsecchi",
+          "description": "production manager"
+        },
+        {
+          "id": "nm1501914",
+          "name": "Juan Pablo Colombo",
+          "description": "technical supervisor"
+        },
+        {
+          "id": "nm0306088",
+          "name": "Esther García",
+          "description": "production manager"
+        },
+        {
+          "id": "nm3639417",
+          "name": "Lina Montello",
+          "description": "assistant unit manager"
+        },
+        {
+          "id": "nm6637954",
+          "name": "Tomas Morelli",
+          "description": "assistant production manager"
+        },
+        {
+          "id": "nm3363780",
+          "name": "Mercedes Tarelli",
+          "description": "unit manager"
+        },
+        {
+          "id": "nm1015753",
+          "name": "Pablo Trachter",
+          "description": "production controller"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm2196045",
+          "name": "Agustín Arévalo",
+          "description": "third assistant director"
+        },
+        {
+          "id": "nm4107247",
+          "name": "Marcello Pozzo",
+          "description": "second unit: assistant director"
+        },
+        {
+          "id": "nm4306607",
+          "name": "Mariana Cavagnaro Rouge",
+          "description": "additional second assistant director"
+        },
+        {
+          "id": "nm5809778",
+          "name": "Cris Trebotic",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0882112",
+          "name": "Natalia Urruty",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm6072949",
+          "name": "Lucia Valdemoros",
+          "description": "third assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm3495939",
+          "name": "Agostina De Francesco",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm1406715",
+          "name": "Laura Guaragna",
+          "description": "set dresser"
+        },
+        {
+          "id": "nm2039357",
+          "name": "Pablo Maestre Galli",
+          "description": "set designer"
+        },
+        {
+          "id": "nm6104066",
+          "name": "María Belén Sol",
+          "description": "art trainee: assistant art director"
+        },
+        {
+          "id": "nm6109073",
+          "name": "Juan David Troncoso",
+          "description": "props"
+        },
+        {
+          "id": "nm9753814",
+          "name": "Emiliano Konoba",
+          "description": "graphic designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm5227005",
+          "name": "Alan Borodovsky",
+          "description": "foley editor"
+        },
+        {
+          "id": "nm2436069",
+          "name": "María Elisa Canobra",
+          "description": "additional boom operator"
+        },
+        {
+          "id": "nm1246944",
+          "name": "Julián Catz",
+          "description": "additional boom operator"
+        },
+        {
+          "id": "nm0246623",
+          "name": "José Luis Díaz",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0267457",
+          "name": "Javier Farina",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm5331414",
+          "name": "Julian Feijoo",
+          "description": "utility sound"
+        },
+        {
+          "id": "nm1716037",
+          "name": "Diego Gat",
+          "description": "re-recording mixer"
+        },
+        {
+          "id": "nm4481067",
+          "name": "Alejandro López",
+          "description": "assistant sound editor"
+        },
+        {
+          "id": "nm3793283",
+          "name": "Gonzalo Matijas",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm1170947",
+          "name": "Santiago Morone",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm4076659",
+          "name": "Flavio Nogueira",
+          "description": "foley mixer"
+        },
+        {
+          "id": "nm4638570",
+          "name": "Nahuel Palenque",
+          "description": "dialogue editor"
+        },
+        {
+          "id": "nm0685031",
+          "name": "Rubén Piputto Santos",
+          "description": "additional mixer (as Rubén Piputto)"
+        },
+        {
+          "id": "nm2116315",
+          "name": "Nerina Valido",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm7326094",
+          "name": "Matías Vilaro",
+          "description": "foley editor"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm5779602",
+          "name": "Demetrio Adrian",
+          "description": "special effects technician"
+        },
+        {
+          "id": "nm4762402",
+          "name": "Roberto Fernández",
+          "description": "special effects technician"
+        },
+        {
+          "id": "nm1371779",
+          "name": "Eduardo Puga",
+          "description": "special effects coordinator"
+        },
+        {
+          "id": "nm1182254",
+          "name": "Federico Ransenberg",
+          "description": "special effects supervisor"
+        },
+        {
+          "id": "nm4762375",
+          "name": "Fernando Vásquez",
+          "description": "special effects technician"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0033065",
+          "name": "Sonsoles Aranguren",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm3151124",
+          "name": "David Esteve",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm4770116",
+          "name": "Maxi Gomez",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm2334459",
+          "name": "Pablo Hernández-Meléndez",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm1367353",
+          "name": "Antonio Lado",
+          "description": "visual effects artist"
+        },
+        {
+          "id": "nm1367690",
+          "name": "Guillermo Orbe",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm1874259",
+          "name": "Georgina Pretto",
+          "description": "film recording"
+        },
+        {
+          "id": "nm2318716",
+          "name": "Leonardo Quartieri",
+          "description": "digital artist"
+        },
+        {
+          "id": "nm5741602",
+          "name": "Ángel Rico Riesgo",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm4960949",
+          "name": "Paula Rubio",
+          "description": "digital compositor"
+        },
+        {
+          "id": "nm0764484",
+          "name": "Rubén Sanz",
+          "description": "visual effects: technical director"
+        },
+        {
+          "id": "nm1520945",
+          "name": "Sebastian Toro",
+          "description": "workflow consultant"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm7933861",
+          "name": "Bruno Hakim Cuperman",
+          "description": "stunt performer"
+        },
+        {
+          "id": "nm4115039",
+          "name": "Eduardo Puga",
+          "description": "stunt coordinator"
+        },
+        {
+          "id": "nm1372313",
+          "name": "Walter Urquiza",
+          "description": "stunts"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1755157",
+          "name": "Agustin Barrutia",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm1755166",
+          "name": "Martin Bendersky",
+          "description": "digital image technician"
+        },
+        {
+          "id": "nm1786728",
+          "name": "Alberto Brunet",
+          "description": "electrician"
+        },
+        {
+          "id": "nm2457695",
+          "name": "Javier Caña",
+          "description": "electrician"
+        },
+        {
+          "id": "nm7026180",
+          "name": "Sabrina Choque",
+          "description": "video assist"
+        },
+        {
+          "id": "nm2116620",
+          "name": "Joaquín Elicabe Urriol",
+          "description": "lighting technician"
+        },
+        {
+          "id": "nm1896430",
+          "name": "Alejo Frias",
+          "description": "second assistant camera"
+        },
+        {
+          "id": "nm4373665",
+          "name": "Esteban Gonzalez",
+          "description": "steadicam assistant"
+        },
+        {
+          "id": "nm2993698",
+          "name": "Karim Kachou",
+          "description": "first assistant camera"
+        },
+        {
+          "id": "nm1875287",
+          "name": "Sebastián Mendelberg",
+          "description": "additional electrician"
+        },
+        {
+          "id": "nm4119361",
+          "name": "Martín Puente",
+          "description": "generator operator"
+        },
+        {
+          "id": "nm1367814",
+          "name": "Gabriel Quevedo",
+          "description": "steadicam operator"
+        },
+        {
+          "id": "nm1892300",
+          "name": "Guillermo Saposnik",
+          "description": "additional electrician"
+        },
+        {
+          "id": "nm0904947",
+          "name": "Ariel Vélez",
+          "description": "key grip"
+        },
+        {
+          "id": "nm0904955",
+          "name": "Enrique Vélez",
+          "description": "grip"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm5593440",
+          "name": "Ignacio D'Amore",
+          "description": "costume assistant / key costumer"
+        },
+        {
+          "id": "nm3640758",
+          "name": "Gabriela Hilario",
+          "description": "costume assistant"
+        },
+        {
+          "id": "nm2727051",
+          "name": "Barbara Zago",
+          "description": "costume assistant (as Barbara Sago)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0009688",
+          "name": "Beto Acevedo",
+          "description": "film lab supervisor"
+        },
+        {
+          "id": "nm5486643",
+          "name": "Elena Araco",
+          "description": "dcp mastering"
+        },
+        {
+          "id": "nm1434837",
+          "name": "Luisa Cavanagh",
+          "description": "colorist"
+        },
+        {
+          "id": "nm2016797",
+          "name": "Milagros Cimadevilla",
+          "description": "on-line editor"
+        },
+        {
+          "id": "nm3188252",
+          "name": "Pedro Lozano",
+          "description": "post-production coordinator"
+        },
+        {
+          "id": "nm5931772",
+          "name": "Leandro Mark",
+          "description": "trailer editor"
+        },
+        {
+          "id": "nm1186062",
+          "name": "Luisina Rampoldi",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm1586898",
+          "name": "Ezequiel Rossi",
+          "description": "post-production coordinator"
+        },
+        {
+          "id": "nm11184946",
+          "name": "Martín Suárez",
+          "description": "post-production assistant"
+        },
+        {
+          "id": "nm1264311",
+          "name": "Victor Vasini",
+          "description": "post-production supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm8645027",
+          "name": "Flor Dominguez",
+          "description": "location assistant"
+        },
+        {
+          "id": "nm3920697",
+          "name": "Manuel Fernandez Escudero",
+          "description": "locations scout"
+        },
+        {
+          "id": "nm0305649",
+          "name": "José Luis García Espina",
+          "description": "location manager (north)"
+        },
+        {
+          "id": "nm2090031",
+          "name": "Diego Igartua",
+          "description": "assistant location manager"
+        },
+        {
+          "id": "nm0633853",
+          "name": "Federico Noejovich",
+          "description": "location manager"
+        },
+        {
+          "id": "nm3423802",
+          "name": "Alejandra Vardé",
+          "description": "location assistant"
+        },
+        {
+          "id": "nm3237746",
+          "name": "Rosario Vazquez",
+          "description": "location assistant"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm4424715",
+          "name": "Hernan Ian",
+          "description": "composer: additional music"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm3259342",
+          "name": "Lorena Lisotti",
+          "description": "script supervisor"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm5770498",
+          "name": "Lucas Accardo",
+          "description": "storyboard artist"
+        },
+        {
+          "id": "nm5705889",
+          "name": "Javier Beltramino",
+          "description": "production manager: Argentina - Telefónica Studios"
+        },
+        {
+          "id": "nm4254213",
+          "name": "Nicolas Agustin Bentancur",
+          "description": "locaction scout"
+        },
+        {
+          "id": "nm2656335",
+          "name": "Vicente Canales",
+          "description": "head of sales"
+        },
+        {
+          "id": "nm7140914",
+          "name": "Ignacio Cángelo",
+          "description": "still photography"
+        },
+        {
+          "id": "nm5700663",
+          "name": "Adrian Fiszbejn",
+          "description": "production assistant"
+        },
+        {
+          "id": "nm2756638",
+          "name": "Julia Gesteira",
+          "description": "extras coordinator"
+        },
+        {
+          "id": "nm8390639",
+          "name": "Juan Godoy",
+          "description": "qc"
+        },
+        {
+          "id": "nm5613070",
+          "name": "Sergio Rey",
+          "description": "communications department"
+        },
+        {
+          "id": "nm1586898",
+          "name": "Ezequiel Rossi",
+          "description": "post production coordinator"
+        },
+        {
+          "id": "nm6072949",
+          "name": "Lucia Valdemoros",
+          "description": "third assistant director"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

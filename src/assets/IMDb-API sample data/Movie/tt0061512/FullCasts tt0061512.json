@@ -1,0 +1,560 @@
+{
+  "imDbId": "tt0061512",
+  "title": "Cool Hand Luke",
+  "fullTitle": "Cool Hand Luke (1967)",
+  "type": "Movie",
+  "year": "1967",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0742341",
+        "name": "Stuart Rosenberg",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0668914",
+        "name": "Donn Pearce",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0682757",
+        "name": "Frank Pierson",
+        "description": "(screenplay) (as Frank R. Pierson)"
+      },
+      {
+        "id": "nm0668914",
+        "name": "Donn Pearce",
+        "description": "(novel)"
+      },
+      {
+        "id": "nm0237543",
+        "name": "Hal Dresner",
+        "description": "(uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000056",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWY2MDlmNTAtYWQ3Mi00YTU0LWEzZDYtYmEyM2UzYTY2YTM1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Paul Newman",
+      "asCharacter": "Luke"
+    },
+    {
+      "id": "nm0001421",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTIxMTk0MDg5N15BMl5BanBnXkFtZTYwOTAzNTc1._V1_Ratio0.7273_AL_.jpg",
+      "name": "George Kennedy",
+      "asCharacter": "Dragline"
+    },
+    {
+      "id": "nm0134201",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1NDM4OTY2MF5BMl5BanBnXkFtZTcwMzc4MDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "J.D. Cannon",
+      "asCharacter": "Society Red"
+    },
+    {
+      "id": "nm0031398",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1NjkxODA2MV5BMl5BanBnXkFtZTgwNTkxNDE1NTE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Lou Antonio",
+      "asCharacter": "Koko"
+    },
+    {
+      "id": "nm0238105",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAyNTYwOTgxMjdeQTJeQWpwZ15BbWU3MDgxNTE2MTg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Drivas",
+      "asCharacter": "Loudmouth Steve"
+    },
+    {
+      "id": "nm0001510",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2NDU1MjMyMF5BMl5BanBnXkFtZTcwMDg0MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Strother Martin",
+      "asCharacter": "Captain"
+    },
+    {
+      "id": "nm0886888",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWYxZTFmNDktOTY0Zi00MzI3LTlkODktNTdjYmI5OGI1YmVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Jo Van Fleet",
+      "asCharacter": "Arletta"
+    },
+    {
+      "id": "nm0416378",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzA1MTU4N15BMl5BanBnXkFtZTcwMDg2NDk0NA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Clifton James",
+      "asCharacter": "Carr"
+    },
+    {
+      "id": "nm0940971",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM1NDUzMzI2MV5BMl5BanBnXkFtZTcwNDEwMDYwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Morgan Woodward",
+      "asCharacter": "Boss Godfrey"
+    },
+    {
+      "id": "nm0039435",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2NTczMTAwOF5BMl5BanBnXkFtZTcwNDU4MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Luke Askew",
+      "asCharacter": "Boss Paul"
+    },
+    {
+      "id": "nm0147049",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQ4ZTc1MDMtNGI1NC00NzBkLTliNTctY2I0NzBmZmU2ODNmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Marc Cavell",
+      "asCharacter": "Rabbitt"
+    },
+    {
+      "id": "nm0202501",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY3MzE1NzQ2MF5BMl5BanBnXkFtZTgwNzYwMDgyODE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Richard Davalos",
+      "asCharacter": "Blind Dick"
+    },
+    {
+      "id": "nm0232817",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzM3ODY0MDU2Nl5BMl5BanBnXkFtZTcwMDI0MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Donner",
+      "asCharacter": "Boss Shorty"
+    },
+    {
+      "id": "nm0278258",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg5ODBhNDctMmVjZS00NTBhLTk3NTctYTA1YmE5NjlkZDJiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Warren Finnerty",
+      "asCharacter": "Tattoo"
+    },
+    {
+      "id": "nm0000454",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dennis Hopper",
+      "asCharacter": "Babalugats"
+    },
+    {
+      "id": "nm0572897",
+      "image": "https://m.media-amazon.com/images/M/MV5BODk2ZTJmZmYtZTA1Ny00MzI1LWI3MTYtYmE5ZmEyNzA3MGZhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.5909_AL_.jpg",
+      "name": "John McLiam",
+      "asCharacter": "Boss Keen"
+    },
+    {
+      "id": "nm0737257",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0Mzg3OTg4N15BMl5BanBnXkFtZTcwMDU5OTM0NA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wayne Rogers",
+      "asCharacter": "Gambler"
+    },
+    {
+      "id": "nm0001765",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMDYyMTQ2Ml5BMl5BanBnXkFtZTYwMjU2NjE0._V1_Ratio0.7273_AL_.jpg",
+      "name": "Harry Dean Stanton",
+      "asCharacter": "Tramp (as Dean Stanton)"
+    },
+    {
+      "id": "nm0879006",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwMzUxNTgwNV5BMl5BanBnXkFtZTcwMDg4OTc3OQ@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Charles Tyner",
+      "asCharacter": "Boss Higgins"
+    },
+    {
+      "id": "nm0906627",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2ODEyMDU5OF5BMl5BanBnXkFtZTgwNzQyNjkxMTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Ralph Waite",
+      "asCharacter": "Alibi"
+    },
+    {
+      "id": "nm0001875",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4NDI0NDk4Nl5BMl5BanBnXkFtZTgwOTg0MjMzMDE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Anthony Zerbe",
+      "asCharacter": "Dog Boy"
+    },
+    {
+      "id": "nm0440203",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1NTg3NTE0M15BMl5BanBnXkFtZTgwMDc2MTk0MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Buck Kartalian",
+      "asCharacter": "Dynamite"
+    },
+    {
+      "id": "nm0363518",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgxMzIxNDk0MF5BMl5BanBnXkFtZTcwODg1NjAxOA@@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Joy Harmon",
+      "asCharacter": "The Girl"
+    },
+    {
+      "id": "nm0000833",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE2MDg4ODA1OF5BMl5BanBnXkFtZTcwNjM5MzkzMQ@@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Joe Don Baker",
+      "asCharacter": "Fixer (uncredited)"
+    },
+    {
+      "id": "nm0304000",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI0MzIxNDE3MF5BMl5BanBnXkFtZTcwMjA3NDYyMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "James Gammon",
+      "asCharacter": "Sleepy (uncredited)"
+    },
+    {
+      "id": "nm0329575",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Norman Goodwins",
+      "asCharacter": "Stupid Blonde (uncredited)"
+    },
+    {
+      "id": "nm0382820",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2MzY4MTk5NF5BMl5BanBnXkFtZTYwNDExNzky._V1_Ratio0.7727_AL_.jpg",
+      "name": "Chuck Hicks",
+      "asCharacter": "Chief (uncredited)"
+    },
+    {
+      "id": "nm0397555",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwNTY0NTc2Nl5BMl5BanBnXkFtZTcwNzk0NDQyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rance Howard",
+      "asCharacter": "Sheriff (uncredited)"
+    },
+    {
+      "id": "nm0422319",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2EwMmI5ZmItZjk4Yi00OWQ3LTg0OTAtODczMzM4NjFmZTQwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8636_AL_.jpg",
+      "name": "James Jeter",
+      "asCharacter": "Wickerman (uncredited)"
+    },
+    {
+      "id": "nm0434679",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzU3MzM4Nl5BMl5BanBnXkFtZTgwMDMwODI4MDI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Kim Kahana",
+      "asCharacter": "Convict (uncredited)"
+    },
+    {
+      "id": "nm0527307",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Luster",
+      "asCharacter": "Jabo (uncredited)"
+    },
+    {
+      "id": "nm0638794",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGFkZWJmZTMtNzUzNy00ZTY5LThmMzEtMmFkN2RlODA2ODZhXkEyXkFqcGdeQXVyNDIyMTYzMjM@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Ron Nyman",
+      "asCharacter": "Prisoner (uncredited)"
+    },
+    {
+      "id": "nm0668914",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Donn Pearce",
+      "asCharacter": "Sailor (uncredited)"
+    },
+    {
+      "id": "nm0668957",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjEzNmY0MjItNzY3OC00ZDM4LTljNjQtODE1YzE3OTAyZjFkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+      "name": "John Pearce",
+      "asCharacter": "John (uncredited)"
+    },
+    {
+      "id": "nm0732500",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cyril 'Chips' Robinson",
+      "asCharacter": "Ben (uncredited)"
+    },
+    {
+      "id": "nm0744505",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Rosson",
+      "asCharacter": "Luke's Nephew (uncredited)"
+    },
+    {
+      "id": "nm0799761",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Simmons",
+      "asCharacter": "Prisoner (uncredited)"
+    },
+    {
+      "id": "nm0931621",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3OTc2MTk4OV5BMl5BanBnXkFtZTYwNDQ5NjAz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rush Williams",
+      "asCharacter": "Patrolman (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0140826",
+          "name": "Gordon Carroll",
+          "description": "producer"
+        },
+        {
+          "id": "nm0208839",
+          "name": "Carter De Haven Jr.",
+          "description": "associate producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0006277",
+          "name": "Lalo Schifrin",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005734",
+          "name": "Conrad L. Hall",
+          "description": "director of photography (as Conrad Hall)"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0642714",
+          "name": "Sam O'Steen",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0643970",
+          "name": "Cary Odell",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0696898",
+          "name": "Fred Price",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0795251",
+          "name": "Howard Shoup",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0061620",
+          "name": "Gordon Bau",
+          "description": "makeup supervisor"
+        },
+        {
+          "id": "nm0123437",
+          "name": "Jean Burt Reilly",
+          "description": "supervising hair stylist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0627983",
+          "name": "Arthur S. Newman Jr.",
+          "description": "unit manager (as Arthur Newman)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0600794",
+          "name": "Hank Moonjean",
+          "description": "assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm2620370",
+          "name": "John Barton",
+          "description": "assistant property master (uncredited)"
+        },
+        {
+          "id": "nm0002395",
+          "name": "Craig Binkley",
+          "description": "set dresser (uncredited)"
+        },
+        {
+          "id": "nm0113575",
+          "name": "Frank L. Brown",
+          "description": "set dresser (uncredited)"
+        },
+        {
+          "id": "nm4558032",
+          "name": "Robert Cooper",
+          "description": "property master (uncredited)"
+        },
+        {
+          "id": "nm5589863",
+          "name": "Bill Gold",
+          "description": "poster designer (uncredited)"
+        },
+        {
+          "id": "nm4038652",
+          "name": "Don Miller",
+          "description": "assistant property master (uncredited)"
+        },
+        {
+          "id": "nm2263971",
+          "name": "Wes Webb",
+          "description": "carpenter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0430928",
+          "name": "Larry Jost",
+          "description": "sound"
+        },
+        {
+          "id": "nm0909163",
+          "name": "Dan Wallin",
+          "description": "re-recording mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0036247",
+          "name": "M. James Arnett",
+          "description": "stunt double Paul Newman (uncredited) / stunts (uncredited)"
+        },
+        {
+          "id": "nm0382820",
+          "name": "Chuck Hicks",
+          "description": "stunt coordinator (uncredited) / stunts (uncredited)"
+        },
+        {
+          "id": "nm0434679",
+          "name": "Kim Kahana",
+          "description": "stunts (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0005675",
+          "name": "Jordan Cronenweth",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0215878",
+          "name": "Thomas Del Ruth",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0007057",
+          "name": "Michael A. Jones",
+          "description": "assistant chief lighting technician (uncredited) / rigging gaffer (uncredited)"
+        },
+        {
+          "id": "nm0839103",
+          "name": "Harry Sundby",
+          "description": "chief electrician (uncredited)"
+        },
+        {
+          "id": "nm0859446",
+          "name": "Robert C. Thomas",
+          "description": "assistant camera (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm2256904",
+          "name": "Ben Benay",
+          "description": "musician: studio guitarist (uncredited)"
+        },
+        {
+          "id": "nm0371911",
+          "name": "Richard Hazard",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm3049582",
+          "name": "The Hollywood Studio Symphony",
+          "description": "music performed by (uncredited)"
+        },
+        {
+          "id": "nm0450255",
+          "name": "Barney Kessel",
+          "description": "musician: guitar, soundtrack (uncredited)"
+        },
+        {
+          "id": "nm0605064",
+          "name": "Tommy Morgan",
+          "description": "musician: harmonica soloist (uncredited)"
+        },
+        {
+          "id": "nm0724079",
+          "name": "Emil Richards",
+          "description": "musician: percussion (uncredited)"
+        },
+        {
+          "id": "nm0006277",
+          "name": "Lalo Schifrin",
+          "description": "conductor (uncredited)"
+        },
+        {
+          "id": "nm0853770",
+          "name": "Tommy Tedesco",
+          "description": "musician: guitar (uncredited)"
+        },
+        {
+          "id": "nm0909163",
+          "name": "Dan Wallin",
+          "description": "scoring mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm2170613",
+          "name": "Frank Khoury",
+          "description": "unit driver (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0280408",
+          "name": "Wayne Fitzgerald",
+          "description": "title designer (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

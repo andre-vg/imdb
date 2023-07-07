@@ -1,0 +1,808 @@
+{
+  "imDbId": "tt0095765",
+  "title": "Cinema Paradiso",
+  "fullTitle": "Cinema Paradiso (1988)",
+  "type": "Movie",
+  "year": "1988",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0868153",
+        "name": "Giuseppe Tornatore",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0868153",
+        "name": "Giuseppe Tornatore",
+        "description": "(story)"
+      },
+      {
+        "id": "nm0868153",
+        "name": "Giuseppe Tornatore",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0660031",
+        "name": "Vanna Paoli",
+        "description": "(collaborating writer)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0041066",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2MzEyMjA3Ml5BMl5BanBnXkFtZTcwNTYzNDAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Antonella Attili",
+      "asCharacter": "Maria Di Vita - Younger"
+    },
+    {
+      "id": "nm0134073",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1MmI5YmEtNDI0Ny00ZjIzLTkwMzMtZTU5Yjc1MDVjMjkyXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Enzo Cannavale",
+      "asCharacter": "Spaccafico"
+    },
+    {
+      "id": "nm0199774",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTJlZTBlOTQtZTRhNy00ZGY5LWJlMjMtOWViNTBiM2I0YTg4XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Isa Danieli",
+      "asCharacter": "Anna"
+    },
+    {
+      "id": "nm0347842",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmEzNjMwOTUtNTNmNS00M2VmLTkxMDAtNDRkOTBjMzc0Mzk5XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Leo Gullotta",
+      "asCharacter": "Usher"
+    },
+    {
+      "id": "nm0502813",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDc5ODljYTctYTQxMS00ZWFjLThjOWEtZjk4NmNmZDM2NGY3XkEyXkFqcGdeQXVyMTA4MzQzMDcz._V1_Ratio0.7273_AL_.jpg",
+      "name": "Marco Leonardi",
+      "asCharacter": "Salvatore 'Totò' Di Vita - Teenager"
+    },
+    {
+      "id": "nm0535991",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjZjOTJmNTYtZWU0OS00NDA3LWEwZDMtMGYyNWU5ODlhOWE3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Pupella Maggio",
+      "asCharacter": "Maria Di Vita - Older"
+    },
+    {
+      "id": "nm0620919",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjNhMWNiZjItMzcxYS00Y2ZkLTk2YzItMzg5ZWNhNDA4ZWVmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Agnese Nano",
+      "asCharacter": "Elena Mendola"
+    },
+    {
+      "id": "nm0872689",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmNkOTc4ZmUtZjI3NC00MmI2LWI1N2EtY2MwN2QxZmNkMmUxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Leopoldo Trieste",
+      "asCharacter": "Father Adelfio"
+    },
+    {
+      "id": "nm0143150",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMTI4NDE1N15BMl5BanBnXkFtZTcwNzg2NzIwNw@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Salvatore Cascio",
+      "asCharacter": "Salvatore 'Totò' Di Vita - Child"
+    },
+    {
+      "id": "nm0162326",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWVkOWViZTQtM2MwNy00ZDE1LThjMzctNDU3YWM5ZTI2ZGFiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.2273_AL_.jpg",
+      "name": "Tano Cimarosa",
+      "asCharacter": "Blacksmith"
+    },
+    {
+      "id": "nm0224214",
+      "image": "https://m.media-amazon.com/images/M/MV5BODUxOTUwODgyMF5BMl5BanBnXkFtZTgwNjQ2MTk2NjE@._V1_Ratio1.4545_AL_.jpg",
+      "name": "Nicola Di Pinto",
+      "asCharacter": "Village Idiot"
+    },
+    {
+      "id": "nm0501665",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM1ODk0MTgtNzJhNy00NWRjLTgxODUtMzI3OWUwNGJhN2RkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.6364_AL_.jpg",
+      "name": "Roberta Lena",
+      "asCharacter": "Lia"
+    },
+    {
+      "id": "nm0856196",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTY3OWQxZWYtNWE2Ni00NzgwLTkzMTMtZDYwOGI5MmNjMTNhXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Nino Terzo",
+      "asCharacter": "Peppino's Father"
+    },
+    {
+      "id": "nm0674742",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMwMzMzNDA3Nl5BMl5BanBnXkFtZTYwMzMwODc1._V1_Ratio0.7273_AL_.jpg",
+      "name": "Jacques Perrin",
+      "asCharacter": "Salvatore 'Totò' Di Vita - Adult"
+    },
+    {
+      "id": "nm0634159",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MzE2OTE0N15BMl5BanBnXkFtZTcwNTg2NzIwNw@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Philippe Noiret",
+      "asCharacter": "Alfredo"
+    },
+    {
+      "id": "nm0481115",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nellina Laganà",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0321291",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Turi Giuffrida",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0321274",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mariella Lo Giudice",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0508728",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Giorgio Libassi",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0658065",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beatrice Palme",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0660568",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ignazio Pappalardo",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0503118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angela Leontini",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0585995",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTM1MTgxNjUtZWEyYi00NWU3LTk2Y2ItNjEzMzhkMjhkZDQ1XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mimmo Mignemi",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0585996",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margherita Mignemi",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0671027",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Giuseppe Pellegrino",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0453159",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Turi Killer",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0869286",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Angelo Tosto",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0097291",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Concetta Borpagano",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0145816",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franco Catalano",
+      "asCharacter": ""
+    },
+    {
+      "id": "nm0287637",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NTgwMzU3MV5BMl5BanBnXkFtZTcwNzE5MDEwOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brigitte Fossey",
+      "asCharacter": "Elena Mendola - Adult (uncredited)"
+    },
+    {
+      "id": "nm0868153",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwNTY2MTA5MF5BMl5BanBnXkFtZTcwNjY3ODg5Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Giuseppe Tornatore",
+      "asCharacter": "Projectionist (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0139199",
+          "name": "Gabriella Carosio",
+          "description": "delegate producer: RAI"
+        },
+        {
+          "id": "nm0188053",
+          "name": "Franco Cristaldi",
+          "description": "producer (produced by)"
+        },
+        {
+          "id": "nm0738603",
+          "name": "Giovanna Romagnoli",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0001553",
+          "name": "Ennio Morricone",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005721",
+          "name": "Blasco Giurato",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0606211",
+          "name": "Mario Morra",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0187936",
+          "name": "Andrea Crisanti",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0096248",
+          "name": "Beatrice Bordone",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0097464",
+          "name": "Laura Borselli",
+          "description": "assistant makeup artist (as Laura Borzelli)"
+        },
+        {
+          "id": "nm0097465",
+          "name": "Paolo Borselli",
+          "description": "hair stylist (as Paolo Borzelli)"
+        },
+        {
+          "id": "nm0870973",
+          "name": "Maurizio Trani",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0053479",
+          "name": "Mino Barbera",
+          "description": "general manager"
+        },
+        {
+          "id": "nm0125630",
+          "name": "Romualdo Buzzanca",
+          "description": "production manager (as Aldo Buzzanca)"
+        },
+        {
+          "id": "nm0173725",
+          "name": "Eleonora Comencini",
+          "description": "production manager"
+        },
+        {
+          "id": "nm1755040",
+          "name": "Salvo Lupo",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm0527000",
+          "name": "Aureliano Luppi",
+          "description": "production supervisor"
+        },
+        {
+          "id": "nm0634142",
+          "name": "Vittorio Noia",
+          "description": "production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0317628",
+          "name": "Giuseppe Giglietti",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0868156",
+          "name": "Pietra Tornatore",
+          "description": "second assistant director"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0095300",
+          "name": "Fabio Bonzi",
+          "description": "assistant production designer"
+        },
+        {
+          "id": "nm0502802",
+          "name": "Benito Leonardi",
+          "description": "construction foreman (as Benito Isonardi)"
+        },
+        {
+          "id": "nm1831614",
+          "name": "Marco Maggi",
+          "description": "constructor"
+        },
+        {
+          "id": "nm1754891",
+          "name": "Alberto Michettoni",
+          "description": "first property master"
+        },
+        {
+          "id": "nm0586819",
+          "name": "Cinzia Milani",
+          "description": "assistant art director"
+        },
+        {
+          "id": "nm0634436",
+          "name": "Marcellino Nolfo",
+          "description": "second property master (as Marcello Molfo)"
+        },
+        {
+          "id": "nm1073446",
+          "name": "Raffaele Pantaleo",
+          "description": "construction foreman"
+        },
+        {
+          "id": "nm1754897",
+          "name": "Porfirio Perrone",
+          "description": "constructor"
+        },
+        {
+          "id": "nm1190765",
+          "name": "Oreste Quercioli",
+          "description": "set painter"
+        },
+        {
+          "id": "nm1754917",
+          "name": "Marina Zalapi",
+          "description": "assistant production designer"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0031746",
+          "name": "Luciano Anzellotti",
+          "description": "foley artist"
+        },
+        {
+          "id": "nm0031747",
+          "name": "Massimo Anzellotti",
+          "description": "sound effects editor"
+        },
+        {
+          "id": "nm0054520",
+          "name": "Annia Bargagli",
+          "description": "dubbing assistant"
+        },
+        {
+          "id": "nm0232517",
+          "name": "Alberto Doni",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0258268",
+          "name": "Richard Epcar",
+          "description": "english voice director"
+        },
+        {
+          "id": "nm0277720",
+          "name": "Franco Finetti",
+          "description": "sound engineer"
+        },
+        {
+          "id": "nm0517398",
+          "name": "Massimo Loffredi",
+          "description": "sound recordist"
+        },
+        {
+          "id": "nm0632944",
+          "name": "Stefano Nissolino",
+          "description": "sound dubbing"
+        },
+        {
+          "id": "nm0896938",
+          "name": "Giulio Viggiani",
+          "description": "boom operator"
+        },
+        {
+          "id": "nm0249041",
+          "name": "Dan Edelstein",
+          "description": "supervising sound editor: special edition re-release (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0093120",
+          "name": "Danilo Bollettini",
+          "description": "special effects technician"
+        },
+        {
+          "id": "nm0180935",
+          "name": "Giovanni Corridori",
+          "description": "special effects coordinator (as Corridori)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0706633",
+          "name": "Angelo Ragusa",
+          "description": "stunt double"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1835104",
+          "name": "Luca Biamonte",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm1171709",
+          "name": "Nazzareno Brescini",
+          "description": "chief electrician (as Neno Brescini)"
+        },
+        {
+          "id": "nm0973052",
+          "name": "Giuseppe Di Biase",
+          "description": "camera operator (as Giuseppe Di Blase)"
+        },
+        {
+          "id": "nm0224553",
+          "name": "Claudio Diamanti",
+          "description": "grip"
+        },
+        {
+          "id": "nm0484293",
+          "name": "Fabio Lanciotti",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0664827",
+          "name": "Carlo Passari",
+          "description": "first assistant camera"
+        },
+        {
+          "id": "nm0677986",
+          "name": "Giuseppe Petrignani",
+          "description": "key grip"
+        },
+        {
+          "id": "nm1757029",
+          "name": "Giuseppe Sciarra",
+          "description": "electrician"
+        },
+        {
+          "id": "nm1447324",
+          "name": "Giuseppe Sgarra",
+          "description": "electrician"
+        },
+        {
+          "id": "nm1755593",
+          "name": "Elio Tolles",
+          "description": "electrician"
+        },
+        {
+          "id": "nm0868918",
+          "name": "Doriano Torriero",
+          "description": "grip"
+        }
+      ]
+    },
+    {
+      "job": "Animation Department",
+      "items": [
+        {
+          "id": "nm2336411",
+          "name": "Alvaro Passeri",
+          "description": "animator"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm1755165",
+          "name": "Jacopo Bellini",
+          "description": "assistant seamstress"
+        },
+        {
+          "id": "nm0093761",
+          "name": "Luigi Bonanno",
+          "description": "costume assistant"
+        },
+        {
+          "id": "nm1137373",
+          "name": "Amedeo Monti",
+          "description": "seamstress"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0139211",
+          "name": "Giancarlo Carotenuto",
+          "description": "editor: fine cut"
+        },
+        {
+          "id": "nm0189931",
+          "name": "Ida Cruciani",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm1755414",
+          "name": "Giancarlo Mammetti",
+          "description": "color technician"
+        },
+        {
+          "id": "nm0598949",
+          "name": "Luca Montanari",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0697972",
+          "name": "Roberto Priori",
+          "description": "assistant editor"
+        },
+        {
+          "id": "nm0969988",
+          "name": "Stefano Quaglia",
+          "description": "assistant editor"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0001897",
+          "name": "John M. Davis",
+          "description": "music editor: director's cut"
+        },
+        {
+          "id": "nm0218294",
+          "name": "Enrico DeMelis",
+          "description": "general music coordinator (as Enrico De Melis)"
+        },
+        {
+          "id": "nm8426379",
+          "name": "Unione Musicisti Di Roma",
+          "description": "orchestra"
+        },
+        {
+          "id": "nm1418316",
+          "name": "Marianne Eckstein",
+          "description": "flute"
+        },
+        {
+          "id": "nm0277720",
+          "name": "Franco Finetti",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm8426377",
+          "name": "Baldo Maestri",
+          "description": "alto saxophone / clarinet"
+        },
+        {
+          "id": "nm0545972",
+          "name": "Sergio Marcotulli",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0606297",
+          "name": "Andrea Morricone",
+          "description": "composer: love theme"
+        },
+        {
+          "id": "nm0682260",
+          "name": "Enrico Pieranunzi",
+          "description": "piano"
+        },
+        {
+          "id": "nm0690082",
+          "name": "Alberto Pomeranz",
+          "description": "piano"
+        },
+        {
+          "id": "nm8426378",
+          "name": "Francesco Romano",
+          "description": "guitar"
+        },
+        {
+          "id": "nm0848746",
+          "name": "Franco Tamponi",
+          "description": "musician: violin"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0135289",
+          "name": "Lillo Capoano",
+          "description": "continuity director"
+        },
+        {
+          "id": "nm0674692",
+          "name": "Jacqueline Perrier",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0053078",
+          "name": "Nestore Baratella",
+          "description": "administrator"
+        },
+        {
+          "id": "nm0053569",
+          "name": "Cesare Barbetti",
+          "description": "dubbing director / voice dubbing: Jacques Perrin"
+        },
+        {
+          "id": "nm0054520",
+          "name": "Annia Bargagli",
+          "description": "dubbing assistant"
+        },
+        {
+          "id": "nm0080548",
+          "name": "Luigi Biamonte",
+          "description": "press agent"
+        },
+        {
+          "id": "nm0133908",
+          "name": "Riccardo Caneva",
+          "description": "coordinator"
+        },
+        {
+          "id": "nm0145946",
+          "name": "Claudia Catani",
+          "description": "voice dubbing: Agnese Nano"
+        },
+        {
+          "id": "nm0224228",
+          "name": "Vittorio Di Prima",
+          "description": "voice dubbing: Philippe Noiret"
+        },
+        {
+          "id": "nm0258268",
+          "name": "Richard Epcar",
+          "description": "writer (english version)"
+        },
+        {
+          "id": "nm0269977",
+          "name": "Vittoria Febbi",
+          "description": "voice dubbing: Brigitte Fossey"
+        },
+        {
+          "id": "nm0321499",
+          "name": "Elizabetta Gizzi",
+          "description": "administrator (as Elisabetta Gizzi)"
+        },
+        {
+          "id": "nm0508775",
+          "name": "Francesco Liberati",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm1155797",
+          "name": "Fabrizio Manfredi",
+          "description": "voice dubbing: Marco Leonardi"
+        },
+        {
+          "id": "nm1238412",
+          "name": "Bruno Morganti",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0660031",
+          "name": "Vanna Paoli",
+          "description": "researcher: film clips"
+        },
+        {
+          "id": "nm0678699",
+          "name": "Carla Pettini",
+          "description": "coordination secretary"
+        },
+        {
+          "id": "nm0749444",
+          "name": "Alba Maria Ruggeri",
+          "description": "cashier"
+        },
+        {
+          "id": "nm0900151",
+          "name": "Luciano Vittori",
+          "description": "print production"
+        },
+        {
+          "id": "nm0273033",
+          "name": "Peter Fernandez",
+          "description": "voice director (US version) (uncredited)"
+        },
+        {
+          "id": "nm0550970",
+          "name": "John Marshall",
+          "description": "subtitle script and timing (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

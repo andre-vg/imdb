@@ -1,0 +1,2450 @@
+{
+  "imDbId": "tt0032138",
+  "title": "The Wizard of Oz",
+  "fullTitle": "The Wizard of Oz (1939)",
+  "type": "Movie",
+  "year": "1939",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0281808",
+        "name": "Victor Fleming",
+        "description": ""
+      },
+      {
+        "id": "nm0002030",
+        "name": "George Cukor",
+        "description": "(uncredited)"
+      },
+      {
+        "id": "nm0503777",
+        "name": "Mervyn LeRoy",
+        "description": "(transitional sequences) (uncredited)"
+      },
+      {
+        "id": "nm0851537",
+        "name": "Norman Taurog",
+        "description": "(test footage) (uncredited)"
+      },
+      {
+        "id": "nm0861703",
+        "name": "Richard Thorpe",
+        "description": "(initial shoots) (uncredited)"
+      },
+      {
+        "id": "nm0896542",
+        "name": "King Vidor",
+        "description": "(director: Kansas scenes) (uncredited)"
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0486538",
+        "name": "Noel Langley",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0753249",
+        "name": "Florence Ryerson",
+        "description": "(screenplay) and"
+      },
+      {
+        "id": "nm0941138",
+        "name": "Edgar Allan Woolf",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0486538",
+        "name": "Noel Langley",
+        "description": "(adaptation)"
+      },
+      {
+        "id": "nm0000875",
+        "name": "L. Frank Baum",
+        "description": "(from the book by)"
+      },
+      {
+        "id": "nm0006085",
+        "name": "Arthur Freed",
+        "description": "(uncredited)"
+      },
+      {
+        "id": "nm0106505",
+        "name": "Irving Brecher",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0134284",
+        "name": "William H. Cannon",
+        "description": "(uncredited)"
+      },
+      {
+        "id": "nm0276252",
+        "name": "Herbert Fields",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0355095",
+        "name": "Jack Haley",
+        "description": "(additional dialogue) (uncredited)"
+      },
+      {
+        "id": "nm0361971",
+        "name": "E.Y. Harburg",
+        "description": "(uncredited)"
+      },
+      {
+        "id": "nm0388755",
+        "name": "Samuel Hoffenstein",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0481618",
+        "name": "Bert Lahr",
+        "description": "(additional dialogue) (uncredited)"
+      },
+      {
+        "id": "nm0536941",
+        "name": "John Lee Mahin",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0542534",
+        "name": "Herman J. Mankiewicz",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0591774",
+        "name": "Jack Mintz",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0621790",
+        "name": "Ogden Nash",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0685265",
+        "name": "Robert Pirosh",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0780833",
+        "name": "George Seaton",
+        "description": "(contributing writer) (uncredited)"
+      },
+      {
+        "id": "nm0799015",
+        "name": "Sid Silvers",
+        "description": "(contributing writer) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000023",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRkMDRhNzgtZjRhZC00YjRjLWFkZTktYzQ4NmE2YzNkZjYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Judy Garland",
+      "asCharacter": "Dorothy Gale"
+    },
+    {
+      "id": "nm0604656",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkzMTc0MzQ2OV5BMl5BanBnXkFtZTcwMzI5NTkxNA@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Frank Morgan",
+      "asCharacter": "Professor Marvel / The Gatekeeper / The Carriage Driver / The Guard / The Wizard of Oz"
+    },
+    {
+      "id": "nm0001961",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNTI0NjUxMl5BMl5BanBnXkFtZTYwOTIxMTM2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ray Bolger",
+      "asCharacter": "'Hunk' / The Scarecrow"
+    },
+    {
+      "id": "nm0481618",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjcyNTY2MDgwMF5BMl5BanBnXkFtZTcwNjM3ODIyOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bert Lahr",
+      "asCharacter": "'Zeke' / The Cowardly Lion"
+    },
+    {
+      "id": "nm0355095",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGNiODNkYWEtMjQzNC00MTcxLWIyYmQtYzQzMDYyYTRiY2Y5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jack Haley",
+      "asCharacter": "'Hickory' / The Tin Man"
+    },
+    {
+      "id": "nm0000992",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyMjczNzk0NV5BMl5BanBnXkFtZTYwODI3MjI2._V1_Ratio0.7727_AL_.jpg",
+      "name": "Billie Burke",
+      "asCharacter": "Glinda"
+    },
+    {
+      "id": "nm0002121",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyMDc3NTgzMF5BMl5BanBnXkFtZTgwNDIyNzIwMjE@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Margaret Hamilton",
+      "asCharacter": "Miss Gulch / The Wicked Witch of the West"
+    },
+    {
+      "id": "nm0335788",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEyODYwMTMzNzNeQTJeQWpwZ15BbWU3MDI5NjM2MDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Charley Grapewin",
+      "asCharacter": "Uncle Henry"
+    },
+    {
+      "id": "nm0909930",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Pat Walshe",
+      "asCharacter": "Nikko"
+    },
+    {
+      "id": "nm0087404",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Q4YjFkMzItYWJkNy00OTIxLTgwNTYtYTk2MTI5YTc0YjJlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Clara Blandick",
+      "asCharacter": "Auntie Em"
+    },
+    {
+      "id": "nm1206094",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ4OTExNTAzM15BMl5BanBnXkFtZTcwMTE5OTAxOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Terry",
+      "asCharacter": "Toto (as Toto)"
+    },
+    {
+      "id": "nm1306574",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjNlYTQwMmItODg0Ni00ODU4LWE4NWYtYzE5MTM4MjM2OGZmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio1.2727_AL_.jpg",
+      "name": "The Singer Midgets",
+      "asCharacter": "The Munchkins (as The Munchkins)"
+    },
+    {
+      "id": "nm7573140",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Franz Balluck",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm7573141",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Josefine Balluck",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0057118",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTYxNWE0ZjQtYThmNi00NmVmLTliNjktODYzZjZiMDJlNDFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dorothy Barrett",
+      "asCharacter": "Emerald City Manicurist (uncredited)"
+    },
+    {
+      "id": "nm1180138",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Amelia Batchelor",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm0065373",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Charles Becker",
+      "asCharacter": "Munchkin Mayor (uncredited)"
+    },
+    {
+      "id": "nm7761973",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Freda Betsky",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0088285",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmI2OTQ2ZjctMGNiYy00YmMxLTliMTktYTdkM2UyNzBjM2U4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Billy Bletcher",
+      "asCharacter": "Mayor / Lollipop Guild Member (voice) (uncredited)"
+    },
+    {
+      "id": "nm0108772",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTRkMjFkNDgtNGMwNy00YmQ1LTkwNGQtNGVhY2JjYjllNDgwXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Lorraine Bridges",
+      "asCharacter": "Ozmite / Lullaby League Member (voice) (uncredited)"
+    },
+    {
+      "id": "nm0110886",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDM2MDAxYTQtNGNjOS00M2ZkLWIzOWUtZTczYmM5M2E3MDUxXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Buster Brodie",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0111751",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBkNzA5MjMtNDI2Ni00MTM0LTk3YjQtYzhlYjJmNDYwYTQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+      "name": "Tyler Brooke",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm5523960",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Betty Ann Bruno",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm7614012",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christine Buresh",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm7614013",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eddie Buresh",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm7614014",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lida Buresh",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm7410249",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Betty Ann Cain",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0133752",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQ3ZGVkNjEtM2IxZS00OThlLWE2MDktNjI4MGFkMzJmMzY5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Candy Candido",
+      "asCharacter": "Angry Apple Tree (voice) (uncredited)"
+    },
+    {
+      "id": "nm0140937",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Mickey Carroll",
+      "asCharacter": "Munchkin Fiddler (uncredited)"
+    },
+    {
+      "id": "nm0143314",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Adriana Caselotti",
+      "asCharacter": "Juliet (voice) (uncredited)"
+    },
+    {
+      "id": "nm0169033",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Harry Cogg",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0173416",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzEzYjA3YTEtMDBlMC00MjkyLWJiN2QtNjBiNjk2YmM3MDk4XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Pinto Colvig",
+      "asCharacter": "Munchkins (voice) (uncredited)"
+    },
+    {
+      "id": "nm6444456",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nona Cooper",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0183135",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tommy Cottonaro",
+      "asCharacter": "Bearded Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0188470",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lewis Croft",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm1827306",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jimmy the Crow",
+      "asCharacter": "Crow in Cornfield (uncredited)"
+    },
+    {
+      "id": "nm7425268",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frank Cucksey",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0193260",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjNkZDA2NDAtNjlkMy00NmY1LWI5MWUtYzkwMzg4ZDQzYTljXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Billy Curtis",
+      "asCharacter": "Munchkin Father (uncredited)"
+    },
+    {
+      "id": "nm0006024",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU3MzM3YmEtYzM5OC00NDZmLTkzYTUtOGU2MzNkN2E3NGYwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ken Darby",
+      "asCharacter": "Munchkinland Mayor (voice) (uncredited)"
+    },
+    {
+      "id": "nm0206270",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sid Dawson",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm7463193",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ethel W. Denis",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm7463185",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Prince Denis",
+      "asCharacter": "Munchkin Sergeant at Arms (uncredited)"
+    },
+    {
+      "id": "nm0227823",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Abe Dinovitch",
+      "asCharacter": "Apple Tree / Munchkin (voice) (uncredited)"
+    },
+    {
+      "id": "nm0229912",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jon Dodson",
+      "asCharacter": "Lollipop Guild Member (voice) (uncredited)"
+    },
+    {
+      "id": "nm0231102",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gracie Doll",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0231116",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzRkNzcwMDktN2NlOS00NDgwLTg5ZDQtNjNjOGFhYjRhOWExXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tiny Doll",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm5523739",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ardith Dondanville",
+      "asCharacter": "Munchkin child (uncredited)"
+    },
+    {
+      "id": "nm0733063",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ruth Duccini",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0247360",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGM5ZGFlZmYtMDFiYS00MTE1LTk3ZjItOGE2OTkyMGUzMTI5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Daisy Earles",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0247361",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE3MzA4NTQzMF5BMl5BanBnXkFtZTgwMDQ5NDQ3MTE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Earles",
+      "asCharacter": "Lollipop Guild Member (uncredited)"
+    },
+    {
+      "id": "nm0001171",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNzM2OTM5OF5BMl5BanBnXkFtZTYwODIxNDI2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Buddy Ebsen",
+      "asCharacter": "The Tin Man (singing voice) (uncredited)"
+    },
+    {
+      "id": "nm0286415",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fern Formica",
+      "asCharacter": "Munchkin Villager / Sleepyhead (uncredited)"
+    },
+    {
+      "id": "nm0296234",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Sig Frohlich",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0314417",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jackie Gerlich",
+      "asCharacter": "Lollipop Guild Member (uncredited)"
+    },
+    {
+      "id": "nm0366007",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Phil Harron",
+      "asCharacter": "Winkie (uncredited)"
+    },
+    {
+      "id": "nm0378710",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joseph Herbst",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0396473",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Shep Houghton",
+      "asCharacter": "Ozmite / Winkie Guard (uncredited)"
+    },
+    {
+      "id": "nm7463179",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James R. Hulse",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0410361",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM0MTNiYWUtYzM5OC00YmRhLWJhYzQtZmQ5NzU2ZWJjNTMyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Charles Irwin",
+      "asCharacter": "Tin Polisher (uncredited)"
+    },
+    {
+      "id": "nm0418363",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDljNThjMzYtYTc5NS00MjI4LTk0ZWMtZDY2NTA2ZDQ2NjU1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Lois January",
+      "asCharacter": "Emerald City Manicurist (uncredited)"
+    },
+    {
+      "id": "nm0444170",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eleanor Keaton",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm0447815",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joan Kenmore",
+      "asCharacter": "Munchkin Child (uncredited)"
+    },
+    {
+      "id": "nm1114715",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "The King's Men",
+      "asCharacter": "Munchkins (voice) (uncredited)"
+    },
+    {
+      "id": "nm0467071",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyNzQyMDUxNV5BMl5BanBnXkFtZTcwNTc3ODUwNw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Karl 'Karchy' Kosiczky",
+      "asCharacter": "Munchkin Herald #1 / Sleepyhead (uncredited)"
+    },
+    {
+      "id": "nm7761960",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dolly Kramer",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0469844",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Emil Kranzler",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0470540",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nita Krebs",
+      "asCharacter": "Lullaby League Member (uncredited)"
+    },
+    {
+      "id": "nm7421521",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jeane La Barbera",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm5307579",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rae-Nell Laskey",
+      "asCharacter": "Munchkin Child (uncredited)"
+    },
+    {
+      "id": "nm0495071",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnny Leal",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0498402",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Valerie Lee",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0503154",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjhlYzhlMDMtYmU3Yi00MWI1LWExYTgtNDgwNjFlYWMxMmRmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Ethelreda Leopold",
+      "asCharacter": "Emerald City Manicurist (uncredited)"
+    },
+    {
+      "id": "nm0507568",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk1MTI1YzktODgxYy00ODRkLWIwOTYtYWUzODQ5N2Q1Mjg2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Mitchell Lewis",
+      "asCharacter": "Captain of the Winkie Guard (uncredited)"
+    },
+    {
+      "id": "nm0512974",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bud Linn",
+      "asCharacter": "Lollipop Guild Member (voice) (uncredited)"
+    },
+    {
+      "id": "nm0546439",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwMzc5MTYzOV5BMl5BanBnXkFtZTgwNjM0MzY2NTM@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Jerry Maren",
+      "asCharacter": "Lollipop Guild Member (uncredited)"
+    },
+    {
+      "id": "nm0557432",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dona Massin",
+      "asCharacter": "Emerald City Manicurist (uncredited)"
+    },
+    {
+      "id": "nm5285756",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Elaine Merk",
+      "asCharacter": "Munchkin (uncredited)"
+    },
+    {
+      "id": "nm0591395",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Ministeri",
+      "asCharacter": "Munchkin Coach Driver (uncredited)"
+    },
+    {
+      "id": "nm0599890",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Priscilla Montgomery",
+      "asCharacter": "Munchkin Child (uncredited)"
+    },
+    {
+      "id": "nm0600355",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjA3OGFiOTItZjdiMS00OTEzLWJjNDQtMWZlMjM3Y2UyMTdhXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Harry Monty",
+      "asCharacter": "Munchkin Soldier / Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0603215",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Yvonne Moray",
+      "asCharacter": "Lullabye League Member (uncredited)"
+    },
+    {
+      "id": "nm0615118",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lee Murray",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm4236293",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Olga Nardone",
+      "asCharacter": "Lullabye League Center Member (uncredited)"
+    },
+    {
+      "id": "nm0634168",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Noisom",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0640688",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "William H. O'Docharty",
+      "asCharacter": "Munchkin on Carriage (uncredited)"
+    },
+    {
+      "id": "nm7464469",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nicholas Page",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm0666864",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Paul",
+      "asCharacter": "Winged Monkey (uncredited)"
+    },
+    {
+      "id": "nm0670993",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Margaret Pellegrini",
+      "asCharacter": "Munchkin Villager / Sleepyhead (uncredited)"
+    },
+    {
+      "id": "nm0704638",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0NzA5NDEzOV5BMl5BanBnXkFtZTYwOTYyNjky._V1_Ratio0.7273_AL_.jpg",
+      "name": "Meinhardt Raabe",
+      "asCharacter": "Munchkin Coroner (uncredited)"
+    },
+    {
+      "id": "nm6683623",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hazel Resmondo",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm1502734",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Freddie Retter",
+      "asCharacter": "Munchkin Fiddler (uncredited)"
+    },
+    {
+      "id": "nm0722372",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "'Little Billy' Rhodes",
+      "asCharacter": "Munchkin Barrister (uncredited)"
+    },
+    {
+      "id": "nm1760452",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "The Rhythmettes",
+      "asCharacter": "Themselves (uncredited)"
+    },
+    {
+      "id": "nm0729879",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Elvida Rizzo",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm0733000",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rad Robinson",
+      "asCharacter": "Munchkin Coroner (voice) (uncredited)"
+    },
+    {
+      "id": "nm0735469",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Paul Rodriguez",
+      "asCharacter": "Dwarf (uncredited)"
+    },
+    {
+      "id": "nm0744441",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJmZjEzNjAtZmQ5Mi00ZTIwLWE3NDQtMjI1ODA4MjYzMjViXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Angelo Rossitto",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0771827",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ambrose Schindler",
+      "asCharacter": "Winkie (uncredited)"
+    },
+    {
+      "id": "nm0780635",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helen Seamon",
+      "asCharacter": "Woman with Cat (uncredited)"
+    },
+    {
+      "id": "nm0781232",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzk4ZTQ4NGEtY2IyZS00MjY0LWI1YjUtMjUxMDZjYTA0YWYzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rolfe Sedan",
+      "asCharacter": "Oz Balloon Ascensionist (uncredited)"
+    },
+    {
+      "id": "nm5673466",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Garland Slatten",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm0809485",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Oliver Smith",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm7425182",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ruth Smith",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm1074584",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Katharine Snell",
+      "asCharacter": "Lion's Manicurist (uncredited)"
+    },
+    {
+      "id": "nm0820411",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JhMDk2MzEtODU2ZS00MmJmLWJkYTEtZmIzM2IwOGYxZDljXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert St. Angelo",
+      "asCharacter": "Winkie (uncredited)"
+    },
+    {
+      "id": "nm0820416",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Parnell St. Aubin",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm7761969",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alta Stevens",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm11020098",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Elizabeth Stevens",
+      "asCharacter": "Munchkins (voice) (uncredited)"
+    },
+    {
+      "id": "nm0837137",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ralph Sudam",
+      "asCharacter": "Ozmite (uncredited)"
+    },
+    {
+      "id": "nm0842405",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "August Clarence Swenson",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm0849615",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Betty Tanner",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm0915568",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gus Wayne",
+      "asCharacter": "Munchkin Soldier (uncredited)"
+    },
+    {
+      "id": "nm7410213",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Wetter",
+      "asCharacter": "Munchkin Army Captain (uncredited)"
+    },
+    {
+      "id": "nm0933489",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTY4NjA4MGYtZGY5Yi00YzIzLWJkMTEtNGNlMWJlOWIwNjU0XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Harry Wilson",
+      "asCharacter": "Winkie (uncredited)"
+    },
+    {
+      "id": "nm1770363",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Johnny Winters",
+      "asCharacter": "Munchkin Navy Commander (uncredited)"
+    },
+    {
+      "id": "nm2177575",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marie Winters",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm7463149",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gladys V. Wolff",
+      "asCharacter": "Munchkin Villager (uncredited)"
+    },
+    {
+      "id": "nm6767269",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Murray Wood",
+      "asCharacter": "Munchkin City Father (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0006085",
+          "name": "Arthur Freed",
+          "description": "associate producer (uncredited)"
+        },
+        {
+          "id": "nm0503777",
+          "name": "Mervyn LeRoy",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0002182",
+          "name": "Harold Arlen",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0006307",
+          "name": "Herbert Stothart",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005849",
+          "name": "Harold Rosson",
+          "description": "(photographed by: in Technicolor)"
+        }
+      ]
+    },
+    {
+      "job": "Film Editing by",
+      "items": [
+        {
+          "id": "nm0786568",
+          "name": "Blanche Sewell",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0614460",
+          "name": "Leonard Murphy",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0114164",
+          "name": "Malcolm Brown",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0395178",
+          "name": "William A. Horning",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0005584",
+          "name": "Jack Martin Smith",
+          "description": "(uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0316539",
+          "name": "Cedric Gibbons",
+          "description": ""
+        },
+        {
+          "id": "nm1838791",
+          "name": "George Gibson",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0748416",
+          "name": "Wade B. Rubottom",
+          "description": "(uncredited)"
+        },
+        {
+          "id": "nm0790667",
+          "name": "Elmer Sheeley",
+          "description": "supervising art director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0932320",
+          "name": "Edwin B. Willis",
+          "description": "(set decorations)"
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0012424",
+          "name": "Adrian",
+          "description": "(costumes)"
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0206011",
+          "name": "Jack Dawn",
+          "description": "creator: character makeups"
+        },
+        {
+          "id": "nm0035680",
+          "name": "Del Armstrong",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0143587",
+          "name": "Don L. Cash",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0206011",
+          "name": "Jack Dawn",
+          "description": "makeup artist: Frank Morgan (uncredited)"
+        },
+        {
+          "id": "nm0206023",
+          "name": "Lyle Dawn",
+          "description": "makeup artist: Billie Burke (uncredited)"
+        },
+        {
+          "id": "nm0264874",
+          "name": "Max Factor",
+          "description": "wig supervisor (uncredited)"
+        },
+        {
+          "id": "nm2182620",
+          "name": "Fred Frederick",
+          "description": "wig designer (uncredited)"
+        },
+        {
+          "id": "nm0346867",
+          "name": "Sydney Guilaroff",
+          "description": "braids: Dorothy (uncredited)"
+        },
+        {
+          "id": "nm0390634",
+          "name": "Cecil Holland",
+          "description": "makeup department head (uncredited)"
+        },
+        {
+          "id": "nm0450667",
+          "name": "Jack Kevan",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0478443",
+          "name": "Lou LaCava",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0485345",
+          "name": "George Lane",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0486705",
+          "name": "Beth Langston",
+          "description": "hair stylist (uncredited)"
+        },
+        {
+          "id": "nm0492037",
+          "name": "Emile LaVigne",
+          "description": "makeup artist: Jack Haley (uncredited)"
+        },
+        {
+          "id": "nm1630317",
+          "name": "Betty Masure",
+          "description": "body makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0587208",
+          "name": "Norbert A. Myles",
+          "description": "makeup artist: Ray Bolger (uncredited)"
+        },
+        {
+          "id": "nm0635362",
+          "name": "Gustaf Norin",
+          "description": "prosthetic technician (uncredited)"
+        },
+        {
+          "id": "nm0635364",
+          "name": "Josef Norin",
+          "description": "prosthetic sculptor (uncredited)"
+        },
+        {
+          "id": "nm0653880",
+          "name": "Web Overlander",
+          "description": "makeup artist: Judy Garland (uncredited)"
+        },
+        {
+          "id": "nm0680403",
+          "name": "Fred B. Phillips",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0689737",
+          "name": "Eddie Polo",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0051816",
+          "name": "Mike Ragan",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm2179127",
+          "name": "Bob Roberts",
+          "description": "wig designer (uncredited)"
+        },
+        {
+          "id": "nm0771516",
+          "name": "Robert J. Schiffer",
+          "description": "makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0775089",
+          "name": "Charles H. Schram",
+          "description": "makeup artist: Bert Lahr (uncredited)"
+        },
+        {
+          "id": "nm0807114",
+          "name": "Howard Smit",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm1413602",
+          "name": "Lee Stanfield",
+          "description": "makeup artist: Jack Haley (uncredited)"
+        },
+        {
+          "id": "nm0878369",
+          "name": "William Tuttle",
+          "description": "assistant makeup artist (uncredited)"
+        },
+        {
+          "id": "nm1152202",
+          "name": "Edith Wilson",
+          "description": "body makeup artist (uncredited)"
+        },
+        {
+          "id": "nm0949640",
+          "name": "Jack H. Young",
+          "description": "makeup artist: Margaret Hamilton (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm1286806",
+          "name": "Ulric Busch",
+          "description": "unit production manager (uncredited)"
+        },
+        {
+          "id": "nm1652528",
+          "name": "Charles Chic",
+          "description": "unit manager (uncredited)"
+        },
+        {
+          "id": "nm0177108",
+          "name": "Joe Cook",
+          "description": "production manager (uncredited)"
+        },
+        {
+          "id": "nm0562454",
+          "name": "Louis B. Mayer",
+          "description": "executive in charge of production (uncredited)"
+        },
+        {
+          "id": "nm0917328",
+          "name": "Keith Weeks",
+          "description": "production manager (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0503777",
+          "name": "Mervyn LeRoy",
+          "description": "second unit director (uncredited)"
+        },
+        {
+          "id": "nm0791506",
+          "name": "Al Shenberg",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm0918166",
+          "name": "Harrold Weinberger",
+          "description": "assistant director (uncredited)"
+        },
+        {
+          "id": "nm0941623",
+          "name": "Wallace Worsley Jr.",
+          "description": "assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0395178",
+          "name": "William A. Horning",
+          "description": "associate art director"
+        },
+        {
+          "id": "nm0009979",
+          "name": "Jack E. Ackerman",
+          "description": "props (uncredited)"
+        },
+        {
+          "id": "nm0024694",
+          "name": "E. Preston Ames",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2180636",
+          "name": "Leo F. Atkinson",
+          "description": "painter: clouds (uncredited)"
+        },
+        {
+          "id": "nm0050846",
+          "name": "Hugo Ballin",
+          "description": "sketch artist (uncredited)"
+        },
+        {
+          "id": "nm2184919",
+          "name": "John Bossert",
+          "description": "designer: castle (uncredited)"
+        },
+        {
+          "id": "nm0114164",
+          "name": "Malcolm Brown",
+          "description": "sketch artist (uncredited)"
+        },
+        {
+          "id": "nm0137063",
+          "name": "Edward C. Carfagno",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm0141135",
+          "name": "Ben Carré",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm0167563",
+          "name": "John Coakley",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2185116",
+          "name": "Conklin",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2182747",
+          "name": "Marvin Connell",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm0240237",
+          "name": "Randall Duell",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm0250034",
+          "name": "Harry Edwards",
+          "description": "property master (uncredited)"
+        },
+        {
+          "id": "nm7759428",
+          "name": "Clarence J. Falk",
+          "description": "greens supervisor (uncredited)"
+        },
+        {
+          "id": "nm0283166",
+          "name": "A.D. Flowers",
+          "description": "set dresser: trees (uncredited)"
+        },
+        {
+          "id": "nm2182856",
+          "name": "Jack Gaylord",
+          "description": "propmaker foreman (uncredited)"
+        },
+        {
+          "id": "nm1838791",
+          "name": "George Gibson",
+          "description": "lead scenic artist (uncredited)"
+        },
+        {
+          "id": "nm11372407",
+          "name": "George Gibson",
+          "description": "lead scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2174932",
+          "name": "William Gibson",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm0319022",
+          "name": "Harvey T. Gillett",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2176806",
+          "name": "Henry Greutert",
+          "description": "head sculptor (uncredited)"
+        },
+        {
+          "id": "nm2177712",
+          "name": "Clem Hall",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2184144",
+          "name": "William Hellen",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2183113",
+          "name": "F. Wayne Hill",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2175291",
+          "name": "K. Johnson",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm3979503",
+          "name": "Roy Perry",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2178432",
+          "name": "Clark M. Provins",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm2175450",
+          "name": "Ted Rich",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2180822",
+          "name": "Arthur Grover Rider",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm1413169",
+          "name": "Gerald F. Rocket",
+          "description": "construction coordinator (uncredited)"
+        },
+        {
+          "id": "nm0991250",
+          "name": "James Roth",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2174796",
+          "name": "Billy H. Scott",
+          "description": "assistant property master (uncredited)"
+        },
+        {
+          "id": "nm0005584",
+          "name": "Jack Martin Smith",
+          "description": "principal sketch artist (uncredited)"
+        },
+        {
+          "id": "nm0817933",
+          "name": "Duncan Spencer",
+          "description": "scenic artist (uncredited)"
+        },
+        {
+          "id": "nm0817968",
+          "name": "J. Russell Spencer",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2181683",
+          "name": "Steffgen",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2184636",
+          "name": "Charles B. Steiner",
+          "description": "assistant property master (uncredited)"
+        },
+        {
+          "id": "nm0838632",
+          "name": "Marvin Summerfield",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm4810164",
+          "name": "Dillard Clayton Thomason",
+          "description": "Scenic Artist (uncredited)"
+        },
+        {
+          "id": "nm1707044",
+          "name": "John J. Thompson",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm0890444",
+          "name": "Leonid Vasian",
+          "description": "draftsman (uncredited)"
+        },
+        {
+          "id": "nm2178908",
+          "name": "Woody Woodward",
+          "description": "draftsman (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0790428",
+          "name": "Douglas Shearer",
+          "description": "recording director"
+        },
+        {
+          "id": "nm0120766",
+          "name": "James Burbridge",
+          "description": "sound technician (uncredited)"
+        },
+        {
+          "id": "nm0122671",
+          "name": "G.A. Burns",
+          "description": "production sound mixer (uncredited)"
+        },
+        {
+          "id": "nm0146059",
+          "name": "Earl Cates",
+          "description": "playback operator (uncredited)"
+        },
+        {
+          "id": "nm0147586",
+          "name": "O.O. Ceccarini",
+          "description": "sound designer (uncredited)"
+        },
+        {
+          "id": "nm0249553",
+          "name": "Bill Edmondson",
+          "description": "boom operator (uncredited)"
+        },
+        {
+          "id": "nm0301431",
+          "name": "James F. Gaither Jr.",
+          "description": "boom operator (uncredited)"
+        },
+        {
+          "id": "nm0970617",
+          "name": "James Graham",
+          "description": "sound effects editor (uncredited)"
+        },
+        {
+          "id": "nm0389102",
+          "name": "T.B. Hoffman",
+          "description": "sound editor (uncredited)"
+        },
+        {
+          "id": "nm0417005",
+          "name": "Van Allen James",
+          "description": "apprentice sound editor (uncredited)"
+        },
+        {
+          "id": "nm1057677",
+          "name": "Lowell Kinsall",
+          "description": "sound mixer (uncredited)"
+        },
+        {
+          "id": "nm0483308",
+          "name": "Standish J. Lambert",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0571521",
+          "name": "Frank McKenzie",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0590665",
+          "name": "Franklin Milton",
+          "description": "special sound effects (uncredited)"
+        },
+        {
+          "id": "nm0671672",
+          "name": "Ralph A. Pender",
+          "description": "dialogue editor (uncredited)"
+        },
+        {
+          "id": "nm7932620",
+          "name": "Julian Powell",
+          "description": "boom operator (uncredited)"
+        },
+        {
+          "id": "nm1413355",
+          "name": "George G. Schneider",
+          "description": "sound mixer (uncredited)"
+        },
+        {
+          "id": "nm0790428",
+          "name": "Douglas Shearer",
+          "description": "sound designer (uncredited)"
+        },
+        {
+          "id": "nm0794341",
+          "name": "Robert Shirley",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0795612",
+          "name": "Ralph Shugart",
+          "description": "sound effects editor (uncredited)"
+        },
+        {
+          "id": "nm0817022",
+          "name": "Newell Sparks",
+          "description": "re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm1461906",
+          "name": "William Steinkamp",
+          "description": "supervising re-recording mixer (uncredited)"
+        },
+        {
+          "id": "nm0826207",
+          "name": "Michael Steinore",
+          "description": "supervising sound editor (uncredited)"
+        },
+        {
+          "id": "nm1068151",
+          "name": "P. Richard Stevens",
+          "description": "sound recordist (uncredited)"
+        },
+        {
+          "id": "nm1353662",
+          "name": "R.L. Stirling",
+          "description": "assistant sound editor (uncredited)"
+        },
+        {
+          "id": "nm1353679",
+          "name": "Don T. Whitmer",
+          "description": "sound mixer (uncredited)"
+        },
+        {
+          "id": "nm0930955",
+          "name": "John A. Williams",
+          "description": "sound mixer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0318901",
+          "name": "A. Arnold Gillespie",
+          "description": "special effects (as Arnold Gillespie)"
+        },
+        {
+          "id": "nm2176498",
+          "name": "Edwin Bloomfield",
+          "description": "special effects supervisor (uncredited)"
+        },
+        {
+          "id": "nm0217012",
+          "name": "Marcel Delgado",
+          "description": "miniatures (uncredited)"
+        },
+        {
+          "id": "nm0283166",
+          "name": "A.D. Flowers",
+          "description": "special effects assistant (uncredited)"
+        },
+        {
+          "id": "nm8263366",
+          "name": "Corril Harris",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0415760",
+          "name": "Donald Jahraus",
+          "description": "miniatures (uncredited)"
+        },
+        {
+          "id": "nm0425262",
+          "name": "J. McMillan Johnson",
+          "description": "senior special effects technician (uncredited)"
+        },
+        {
+          "id": "nm2184130",
+          "name": "Mack Johnson",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0573195",
+          "name": "Jack McMaster",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0587671",
+          "name": "Hal Millar",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0653808",
+          "name": "Bob Overbeck",
+          "description": "special effects crew (uncredited)"
+        },
+        {
+          "id": "nm0732656",
+          "name": "Glen Robinson",
+          "description": "special effects prop shop (uncredited)"
+        },
+        {
+          "id": "nm0834349",
+          "name": "Ken Strickfaden",
+          "description": "special effects electrician (uncredited)"
+        },
+        {
+          "id": "nm0874319",
+          "name": "Don Trumbull",
+          "description": "special effects rigger (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm4522055",
+          "name": "Chad Cortvriendt",
+          "description": "stereoscopic production manager (3D version 2013)"
+        },
+        {
+          "id": "nm0215521",
+          "name": "Chris Del Conte",
+          "description": "managing director: stereoscopic conversion (3D version 2013)"
+        },
+        {
+          "id": "nm4454532",
+          "name": "Jason Dourgarian",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm1862874",
+          "name": "S. Scott Farrar",
+          "description": "stereo conversion producer: Prime Focus (as Scott Farrar) (3D Version 2013)"
+        },
+        {
+          "id": "nm0277842",
+          "name": "Michael L. Fink",
+          "description": "stereo conversion supervisor (3D version 2013)"
+        },
+        {
+          "id": "nm2428772",
+          "name": "Justin Jones",
+          "description": "stereoscopic designer (3D version 2013)"
+        },
+        {
+          "id": "nm11012654",
+          "name": "Devesh Neema",
+          "description": "stereoscopic compositor"
+        },
+        {
+          "id": "nm1916179",
+          "name": "Rik Panero",
+          "description": "technical support (1998 release, credited on theatrical prints only)"
+        },
+        {
+          "id": "nm8292690",
+          "name": "Sujeet Patil",
+          "description": "paint artist: Prime Focus"
+        },
+        {
+          "id": "nm1099292",
+          "name": "Michael Pecchia",
+          "description": "director of global development: Prime Focus (3D version 2013)"
+        },
+        {
+          "id": "nm3918295",
+          "name": "Brian Peluso",
+          "description": "stereoscopic compositor (3D version 2013)"
+        },
+        {
+          "id": "nm5508567",
+          "name": "Neil Stenhouse",
+          "description": "lead digital film restoration artist (2009 restoration)"
+        },
+        {
+          "id": "nm0063241",
+          "name": "Chris Bayz",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0105802",
+          "name": "Kevin Braun",
+          "description": "digital compositor (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0182107",
+          "name": "Christopher Rogers Costa",
+          "description": "digital paint artist: 1998 restoration (uncredited)"
+        },
+        {
+          "id": "nm1095971",
+          "name": "Gregory Creaser",
+          "description": "camera operator: digital restoration (uncredited)"
+        },
+        {
+          "id": "nm0189674",
+          "name": "Chris Crowell",
+          "description": "digital compositor (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0217437",
+          "name": "Sandy DellaMarie",
+          "description": "digital production coordinator (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0264576",
+          "name": "Max Fabian",
+          "description": "director of photography: visual effects unit (uncredited) / special photographic effects (uncredited)"
+        },
+        {
+          "id": "nm0283420",
+          "name": "Chris Flynn",
+          "description": "digital compositor (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0294491",
+          "name": "Mark Freund",
+          "description": "visual effects supervisor (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm2182856",
+          "name": "Jack Gaylord",
+          "description": "assistant visual effects supervisor (uncredited)"
+        },
+        {
+          "id": "nm0315055",
+          "name": "George Gervan",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0315056",
+          "name": "Richard Gervan",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0318901",
+          "name": "A. Arnold Gillespie",
+          "description": "visual effects supervisor (uncredited)"
+        },
+        {
+          "id": "nm0372357",
+          "name": "Maureen Healy",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0398370",
+          "name": "Heather Hoyland",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0511726",
+          "name": "Matt Linder",
+          "description": "lead digital compositor (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0627766",
+          "name": "Warren Newcombe",
+          "description": "director of matte painting staff (uncredited)"
+        },
+        {
+          "id": "nm1099292",
+          "name": "Michael Pecchia",
+          "description": "director of global development at prime focus (uncredited)"
+        },
+        {
+          "id": "nm2917075",
+          "name": "John Pierce",
+          "description": "senior stereoscopic supervisor: Prime Focus (uncredited)"
+        },
+        {
+          "id": "nm2183706",
+          "name": "Candelario Rivas",
+          "description": "matte painter: castle (uncredited)"
+        },
+        {
+          "id": "nm0787704",
+          "name": "Rasha Shalaby",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        },
+        {
+          "id": "nm0808543",
+          "name": "Jack Smith",
+          "description": "camera operator: visual effects unit (uncredited)"
+        },
+        {
+          "id": "nm3816774",
+          "name": "Oliver Thornton",
+          "description": "roto supervisor: 3D version 2013 (uncredited)"
+        },
+        {
+          "id": "nm0863025",
+          "name": "Lynn Tigar",
+          "description": "digital paint artist (1998 restoration) (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Stunts",
+      "items": [
+        {
+          "id": "nm0028141",
+          "name": "Dorothy Andre",
+          "description": "stunt double: Judy Garland (uncredited)"
+        },
+        {
+          "id": "nm0115766",
+          "name": "George Bruggeman",
+          "description": "stunts (uncredited)"
+        },
+        {
+          "id": "nm0200309",
+          "name": "Betty Danko",
+          "description": "stunt double: Margaret Hamilton (uncredited)"
+        },
+        {
+          "id": "nm0329420",
+          "name": "Aline Goodwin",
+          "description": "stunt performer (uncredited)"
+        },
+        {
+          "id": "nm0771827",
+          "name": "Ambrose Schindler",
+          "description": "stunt double: Tin Man (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0202695",
+          "name": "Allen M. Davey",
+          "description": "associate: Technicolor photography (as Allen Davey)"
+        },
+        {
+          "id": "nm0032028",
+          "name": "Virgil Apger",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0036507",
+          "name": "John Arnold",
+          "description": "camera department head (uncredited)"
+        },
+        {
+          "id": "nm0036605",
+          "name": "Pop Arnold",
+          "description": "key grip (uncredited)"
+        },
+        {
+          "id": "nm1409992",
+          "name": "Chris Bergswich",
+          "description": "assistant electrician (uncredited)"
+        },
+        {
+          "id": "nm0112946",
+          "name": "A.W. Brown",
+          "description": "chief unit electrician (uncredited)"
+        },
+        {
+          "id": "nm1359154",
+          "name": "Clarence Sinclair Bull",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm1103269",
+          "name": "Eric Carpenter",
+          "description": "still photographer: Kodachrome stills (uncredited)"
+        },
+        {
+          "id": "nm1649207",
+          "name": "Bill Chapman",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm1074067",
+          "name": "Sam Cohen",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0179559",
+          "name": "Nelson Cordes",
+          "description": "camera technician: Technicolor (uncredited)"
+        },
+        {
+          "id": "nm2174833",
+          "name": "Fred Detmers",
+          "description": "camera technician: Technicolor (uncredited)"
+        },
+        {
+          "id": "nm0341586",
+          "name": "Raymond Griffith",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0393011",
+          "name": "George Hommel",
+          "description": "still photographer (uncredited)"
+        },
+        {
+          "id": "nm0408322",
+          "name": "Henry Imus",
+          "description": "camera technician: Technicolor (uncredited)"
+        },
+        {
+          "id": "nm0444526",
+          "name": "Paul 'Shug' Keeler",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0641798",
+          "name": "Val O'Malley",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm1412939",
+          "name": "W.E. Pohl",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0709060",
+          "name": "Ray Ramsey",
+          "description": "camera operator (uncredited)"
+        },
+        {
+          "id": "nm0794391",
+          "name": "Cliff Shirpser",
+          "description": "assistant camera: Technicolor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Casting Department",
+      "items": [
+        {
+          "id": "nm2176414",
+          "name": "W.L. Gordon",
+          "description": "casting assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm2182724",
+          "name": "Mrs. Cluett",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm1619793",
+          "name": "Agnes Imes",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm1287577",
+          "name": "Eugene Joseff",
+          "description": "costume jeweller (uncredited)"
+        },
+        {
+          "id": "nm0470946",
+          "name": "Sam Kress",
+          "description": "wardrobe supervisor (uncredited)"
+        },
+        {
+          "id": "nm2177734",
+          "name": "Rose Meltzer",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm2182510",
+          "name": "Vera Mourdant",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm0639816",
+          "name": "Sheila O'Brien",
+          "description": "wardrobe: women (uncredited)"
+        },
+        {
+          "id": "nm2727218",
+          "name": "Marianne Parker",
+          "description": "seamstress (uncredited)"
+        },
+        {
+          "id": "nm0737448",
+          "name": "Jack Rohan",
+          "description": "dresser: men (uncredited)"
+        },
+        {
+          "id": "nm1044120",
+          "name": "John Scura",
+          "description": "costumer (uncredited)"
+        },
+        {
+          "id": "nm0824554",
+          "name": "Gile Steele",
+          "description": "wardrobe: men (uncredited)"
+        },
+        {
+          "id": "nm2175217",
+          "name": "Marie Wharton",
+          "description": "costumer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0436124",
+          "name": "Natalie Kalmus",
+          "description": "color director: Technicolor"
+        },
+        {
+          "id": "nm3407307",
+          "name": "Janet Wilson",
+          "description": "colorist: digital color correction"
+        },
+        {
+          "id": "nm0004290",
+          "name": "Margaret Booth",
+          "description": "supervising editor (uncredited)"
+        },
+        {
+          "id": "nm0147015",
+          "name": "George Cave",
+          "description": "color timer (uncredited)"
+        },
+        {
+          "id": "nm0343180",
+          "name": "Ernest Grooney",
+          "description": "assistant editor (uncredited)"
+        },
+        {
+          "id": "nm0374934",
+          "name": "Tom Held",
+          "description": "second assistant editor (uncredited)"
+        },
+        {
+          "id": "nm4526307",
+          "name": "Jim Wilkinson",
+          "description": "negative cutter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0002182",
+          "name": "Harold Arlen",
+          "description": "songs music by"
+        },
+        {
+          "id": "nm0005956",
+          "name": "George Bassman",
+          "description": "orchestral and vocal arrangements"
+        },
+        {
+          "id": "nm0175265",
+          "name": "Bobby Connolly",
+          "description": "musical numbers staged by"
+        },
+        {
+          "id": "nm0194008",
+          "name": "Murray Cutter",
+          "description": "orchestral and vocal arrangements"
+        },
+        {
+          "id": "nm0006024",
+          "name": "Ken Darby",
+          "description": "orchestral and vocal arrangements"
+        },
+        {
+          "id": "nm0361971",
+          "name": "E.Y. Harburg",
+          "description": "lyrics by (as E.Y. Harburg)"
+        },
+        {
+          "id": "nm0549681",
+          "name": "Paul Marquardt",
+          "description": "orchestral and vocal arrangements"
+        },
+        {
+          "id": "nm0006303",
+          "name": "George Stoll",
+          "description": "associate conductor (as Georgie Stoll)"
+        },
+        {
+          "id": "nm0006307",
+          "name": "Herbert Stothart",
+          "description": "musical adaptation"
+        },
+        {
+          "id": "nm0035372",
+          "name": "Robert Armbruster",
+          "description": "musical director (uncredited)"
+        },
+        {
+          "id": "nm0036069",
+          "name": "Leo Arnaud",
+          "description": "orchestrator: Munchkinland musical sequence (uncredited)"
+        },
+        {
+          "id": "nm0053126",
+          "name": "Edward Baravalle",
+          "description": "assistant scoring mixer (uncredited)"
+        },
+        {
+          "id": "nm2145969",
+          "name": "David Crocov",
+          "description": "violin (uncredited)"
+        },
+        {
+          "id": "nm0213716",
+          "name": "Peter P. Decek",
+          "description": "music recording engineer (uncredited)"
+        },
+        {
+          "id": "nm0249136",
+          "name": "Roger Edens",
+          "description": "music pre-recording supervisor (uncredited)"
+        },
+        {
+          "id": "nm0278358",
+          "name": "Nat W. Finston",
+          "description": "music supervisor (uncredited)"
+        },
+        {
+          "id": "nm0376606",
+          "name": "Skitch Henderson",
+          "description": "musician: piano (uncredited)"
+        },
+        {
+          "id": "nm0378542",
+          "name": "Frederick Herbert",
+          "description": "assistant music mixer (uncredited)"
+        },
+        {
+          "id": "nm0465859",
+          "name": "Rudolph G. Kopp",
+          "description": "additional musical director (uncredited)"
+        },
+        {
+          "id": "nm0512974",
+          "name": "Bud Linn",
+          "description": "singing voice: Lollipop Guild (uncredited)"
+        },
+        {
+          "id": "nm0518051",
+          "name": "Harry V. Lojewski",
+          "description": "musician: piano solos (uncredited)"
+        },
+        {
+          "id": "nm0572247",
+          "name": "Paul McLarind",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0572377",
+          "name": "M.J. McLaughlin",
+          "description": "music mixer (uncredited)"
+        },
+        {
+          "id": "nm12131618",
+          "name": "Lou Raderman",
+          "description": "musician: violin (uncredited)"
+        },
+        {
+          "id": "nm0764760",
+          "name": "William Saracino",
+          "description": "music editor (uncredited)"
+        },
+        {
+          "id": "nm0782378",
+          "name": "Toscha Seidel",
+          "description": "soloist: violin (uncredited)"
+        },
+        {
+          "id": "nm0006303",
+          "name": "George Stoll",
+          "description": "composer: additional music (uncredited)"
+        },
+        {
+          "id": "nm0006307",
+          "name": "Herbert Stothart",
+          "description": "composer: original incidental music (uncredited) / conductor (uncredited)"
+        },
+        {
+          "id": "nm0834593",
+          "name": "Robert W. Stringer",
+          "description": "composer: additional music (uncredited)"
+        },
+        {
+          "id": "nm0875988",
+          "name": "Robert Tucker",
+          "description": "orchestral and vocal arrangments (uncredited)"
+        },
+        {
+          "id": "nm0886828",
+          "name": "Robert Van Eps",
+          "description": "orchestrator (uncredited)"
+        },
+        {
+          "id": "nm0906092",
+          "name": "Roger Wagner",
+          "description": "assistant chorus director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm2279395",
+          "name": "David Marks",
+          "description": "assistant script supervisor (uncredited)"
+        },
+        {
+          "id": "nm0941623",
+          "name": "Wallace Worsley Jr.",
+          "description": "script clerk (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0415424",
+          "name": "Henri Jaffa",
+          "description": "associate Technicolor color director"
+        },
+        {
+          "id": "nm1498041",
+          "name": "Paul Adams",
+          "description": "stand-in: Mr. Morgan (uncredited)"
+        },
+        {
+          "id": "nm0032189",
+          "name": "Arthur Appell",
+          "description": "assistant: Mr. Connolly (uncredited)"
+        },
+        {
+          "id": "nm0062116",
+          "name": "Maud Gage Baum",
+          "description": "technical advisor (uncredited)"
+        },
+        {
+          "id": "nm2183272",
+          "name": "Eddie Becker",
+          "description": "rehearsal accompanist (uncredited)"
+        },
+        {
+          "id": "nm0000923",
+          "name": "Busby Berkeley",
+          "description": "choreographer: scarecrow's dance (scenes deleted) (uncredited)"
+        },
+        {
+          "id": "nm0109034",
+          "name": "Harlan Briggs",
+          "description": "double: Uncle Henry (uncredited)"
+        },
+        {
+          "id": "nm0132861",
+          "name": "Stafford Campbell",
+          "description": "stand-in: Scarecrow (uncredited)"
+        },
+        {
+          "id": "nm0134284",
+          "name": "William H. Cannon",
+          "description": "assistant: Mr. LeRoy (uncredited)"
+        },
+        {
+          "id": "nm0200309",
+          "name": "Betty Danko",
+          "description": "stand-in: Wicked Witch (uncredited)"
+        },
+        {
+          "id": "nm0226336",
+          "name": "Howard Dietz",
+          "description": "publicity chief (uncredited)"
+        },
+        {
+          "id": "nm0249136",
+          "name": "Roger Edens",
+          "description": "rehearsal piano (uncredited)"
+        },
+        {
+          "id": "nm1410733",
+          "name": "Frances Edwards",
+          "description": "caterer (uncredited)"
+        },
+        {
+          "id": "nm1498094",
+          "name": "Jim Fawcett",
+          "description": "stand-in: Mr. Lahr (uncredited)"
+        },
+        {
+          "id": "nm0006085",
+          "name": "Arthur Freed",
+          "description": "assistant to producer (uncredited)"
+        },
+        {
+          "id": "nm2183697",
+          "name": "Freddie Gilman",
+          "description": "animal trainer: horse (uncredited)"
+        },
+        {
+          "id": "nm0329420",
+          "name": "Aline Goodwin",
+          "description": "stand-in: Ms. Hamilton (uncredited)"
+        },
+        {
+          "id": "nm1411316",
+          "name": "Jane Harrison",
+          "description": "secretary: Mr. Fleming (uncredited)"
+        },
+        {
+          "id": "nm0381150",
+          "name": "Andy Hervey",
+          "description": "publicity chief (uncredited)"
+        },
+        {
+          "id": "nm4043171",
+          "name": "Jean Kilgore",
+          "description": "dance stand-in: Judy Garland (uncredited)"
+        },
+        {
+          "id": "nm0467018",
+          "name": "Bobbie Koshay",
+          "description": "double: Ms. Garland (uncredited)"
+        },
+        {
+          "id": "nm0512869",
+          "name": "Harry Link",
+          "description": "agent: Leo Feist Music Publishing (uncredited)"
+        },
+        {
+          "id": "nm0550514",
+          "name": "Caren Marsh",
+          "description": "dance stand-in: Judy Garland (uncredited)"
+        },
+        {
+          "id": "nm0557432",
+          "name": "Dona Massin",
+          "description": "assistant choreographer (uncredited) / assistant: Mr. Connolly (uncredited)"
+        },
+        {
+          "id": "nm0557629",
+          "name": "Harry Master",
+          "description": "stand-in: Tin Woodman (uncredited)"
+        },
+        {
+          "id": "nm0602944",
+          "name": "Pat Moran",
+          "description": "stand-in: Mr. Lahr (uncredited)"
+        },
+        {
+          "id": "nm1020999",
+          "name": "John M. Nickolaus",
+          "description": "laboratory supervisor (uncredited)"
+        },
+        {
+          "id": "nm1261192",
+          "name": "Carl Nugent",
+          "description": "handler: Cowardly Lion's tail (uncredited)"
+        },
+        {
+          "id": "nm1412944",
+          "name": "Barron Polan",
+          "description": "assistant: Mr. LeRoy (uncredited)"
+        },
+        {
+          "id": "nm1881781",
+          "name": "Ned Price",
+          "description": "restoration supervisor (uncredited)"
+        },
+        {
+          "id": "nm1502734",
+          "name": "Freddie Retter",
+          "description": "stand-in: Mr. Walshe (uncredited)"
+        },
+        {
+          "id": "nm2175550",
+          "name": "Bill Richards",
+          "description": "animal wrangler: birds (uncredited)"
+        },
+        {
+          "id": "nm0780440",
+          "name": "Si Seadler",
+          "description": "publicity chief (uncredited)"
+        },
+        {
+          "id": "nm0801986",
+          "name": "Leo Singer",
+          "description": "coordinator: Munchkins (uncredited)"
+        },
+        {
+          "id": "nm0819141",
+          "name": "Carl Spitz",
+          "description": "dog owner and trainer: Terry (uncredited)"
+        },
+        {
+          "id": "nm0823173",
+          "name": "Georgia Stark",
+          "description": "rehearsal assistant (uncredited)"
+        },
+        {
+          "id": "nm0834424",
+          "name": "Howard Strickling",
+          "description": "publicity chief (uncredited)"
+        },
+        {
+          "id": "nm0878567",
+          "name": "Curly Twiford",
+          "description": "animal trainer: birds (uncredited)"
+        },
+        {
+          "id": "nm0915795",
+          "name": "Jack Weatherwax",
+          "description": "trainer: Terry (uncredited)"
+        },
+        {
+          "id": "nm0924325",
+          "name": "Frank Whitbeck",
+          "description": "publicity chief (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

@@ -1,0 +1,232 @@
+{
+  "imDbId": "tt0060827",
+  "title": "Persona",
+  "fullTitle": "Persona (1966)",
+  "type": "Movie",
+  "year": "1966",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000005",
+        "name": "Ingmar Bergman",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0000005",
+        "name": "Ingmar Bergman",
+        "description": "(story and screenplay)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000761",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZhNGIzNzgtMGU0MC00YjQ2LWJkMWUtZmExZTU5MmRhZjA4XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Bibi Andersson",
+      "asCharacter": "Alma"
+    },
+    {
+      "id": "nm0880521",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1MDQ2MDY3Nl5BMl5BanBnXkFtZTYwMzQ3NzQ2._V1_Ratio0.7273_AL_.jpg",
+      "name": "Liv Ullmann",
+      "asCharacter": "Elisabet Vogler"
+    },
+    {
+      "id": "nm0472234",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI0ODQwNjktZmZiNS00M2EwLTlmOWQtNDUzZTE2MDc2OWZiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Margaretha Krook",
+      "asCharacter": "The Doctor"
+    },
+    {
+      "id": "nm0085038",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODQ4NjI3M15BMl5BanBnXkFtZTcwMTUyMDEyOA@@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Gunnar Björnstrand",
+      "asCharacter": "Mr. Vogler"
+    },
+    {
+      "id": "nm0512502",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxMjA2NmMtODkxMy00ZjAzLWI4OGYtMmFmMzUxODljZWEwXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Jörgen Lindström",
+      "asCharacter": "Elisabet's Son (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000005",
+          "name": "Ingmar Bergman",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0921305",
+          "name": "Lars Johan Werle",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005815",
+          "name": "Sven Nykvist",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0753276",
+          "name": "Ulla Ryghe",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0512482",
+          "name": "Bibi Lindström",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0326282",
+          "name": "Mago",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0424078",
+          "name": "Tina Johansson",
+          "description": "assistant makeup artist"
+        },
+        {
+          "id": "nm0526464",
+          "name": "Börje Lundh",
+          "description": "makeup artist"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0137324",
+          "name": "Lars-Owe Carlberg",
+          "description": "production manager"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0387134",
+          "name": "Lenn Hjortzberg",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0895804",
+          "name": "Bo Arne Vibenius",
+          "description": "assistant director (as Bo Vibenius)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0074814",
+          "name": "Karl-Arne Bergman",
+          "description": "property master (as Karl Arne Bergman)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0027668",
+          "name": "Evald Andersson",
+          "description": "special sound effects"
+        },
+        {
+          "id": "nm0257388",
+          "name": "Lennart Engholm",
+          "description": "sound"
+        },
+        {
+          "id": "nm0414956",
+          "name": "Olle Jacobsson",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0678609",
+          "name": "Per-Olof Pettersson",
+          "description": "sound (as P.O. Pettersson)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0090941",
+          "name": "Anders Bodin",
+          "description": "assistant camera"
+        },
+        {
+          "id": "nm0426482",
+          "name": "Lars Johnsson",
+          "description": "assistant camera"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0474646",
+          "name": "Eivor Kullberg",
+          "description": "costume assistant"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0073813",
+          "name": "Kerstin Berg",
+          "description": "script supervisor"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

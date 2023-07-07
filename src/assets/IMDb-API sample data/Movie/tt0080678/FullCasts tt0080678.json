@@ -1,0 +1,1100 @@
+{
+  "imDbId": "tt0080678",
+  "title": "The Elephant Man",
+  "fullTitle": "The Elephant Man (1980)",
+  "type": "Movie",
+  "year": "1980",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000186",
+        "name": "David Lynch",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0212246",
+        "name": "Christopher De Vore",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0075015",
+        "name": "Eric Bergren",
+        "description": "(screenplay) &"
+      },
+      {
+        "id": "nm0000186",
+        "name": "David Lynch",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0872375",
+        "name": "Frederick Treves",
+        "description": "(book) (as Sir Frederick Treves)"
+      },
+      {
+        "id": "nm0598744",
+        "name": "Ashley Montagu",
+        "description": "(in part on the book \"The Elephant Man: A Study in Human Dignity\")"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0000164",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_Ratio0.7273_AL_.jpg",
+      "name": "Anthony Hopkins",
+      "asCharacter": "Dr. Frederick Treves"
+    },
+    {
+      "id": "nm0000457",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Hurt",
+      "asCharacter": "John Merrick"
+    },
+    {
+      "id": "nm0000843",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2MzQ3MTk4OV5BMl5BanBnXkFtZTcwMzIzNzgzNA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Anne Bancroft",
+      "asCharacter": "Mrs. Kendal"
+    },
+    {
+      "id": "nm0000024",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU4ODc4Mzk1OV5BMl5BanBnXkFtZTYwNDQ0MjQ2._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Gielgud",
+      "asCharacter": "Carr Gomm"
+    },
+    {
+      "id": "nm0384908",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NjM1OTc0Nl5BMl5BanBnXkFtZTcwNjk2ODgwMw@@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Wendy Hiller",
+      "asCharacter": "Mothershead"
+    },
+    {
+      "id": "nm0428086",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIxNjc3MTQxOF5BMl5BanBnXkFtZTcwMjU2ODgwMw@@._V1_Ratio1.4091_AL_.jpg",
+      "name": "Freddie Jones",
+      "asCharacter": "Bytes"
+    },
+    {
+      "id": "nm0255573",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNzM4ODkzMl5BMl5BanBnXkFtZTcwODQyMDkwOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Michael Elphick",
+      "asCharacter": "Night Porter"
+    },
+    {
+      "id": "nm0330240",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyMzc3Mzg4NF5BMl5BanBnXkFtZTcwNTM1MDAxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Hannah Gordon",
+      "asCharacter": "Mrs. Treves"
+    },
+    {
+      "id": "nm0752571",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0MjA3NDk0Ml5BMl5BanBnXkFtZTgwMTExNjE1NDE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Helen Ryan",
+      "asCharacter": "Princess Alex"
+    },
+    {
+      "id": "nm0822062",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAwODgyMjI3Nl5BMl5BanBnXkFtZTcwNzQ2NzkxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Standing",
+      "asCharacter": "Fox"
+    },
+    {
+      "id": "nm0002077",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGMwNWMxZGEtNzgzMi00ZDcwLTgwMWEtNjg3OGFkZTBjZDJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dexter Fletcher",
+      "asCharacter": "Bytes' Boy"
+    },
+    {
+      "id": "nm0242459",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU0ODM0MTIwNV5BMl5BanBnXkFtZTcwNDI5NTgwOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lesley Dunlop",
+      "asCharacter": "Nora"
+    },
+    {
+      "id": "nm0629498",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQwNTU3MTgxOF5BMl5BanBnXkFtZTcwNDY0MzIzOA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Phoebe Nicholls",
+      "asCharacter": "Merrick's Mother"
+    },
+    {
+      "id": "nm0331110",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDU3OGQ1YWItZWZkNy00Njc4LTk4YzAtNWJlOGI3ODEyNGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio1.0455_AL_.jpg",
+      "name": "Pat Gorman",
+      "asCharacter": "Fairground Bobby"
+    },
+    {
+      "id": "nm0202575",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Claire Davenport",
+      "asCharacter": "Fat Lady"
+    },
+    {
+      "id": "nm0642937",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2U1MWRiYzktNDkzMy00ZGUzLTkzMTctYjhiZjMxM2Q0MGZkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Orla Pederson",
+      "asCharacter": "Skeleton Man"
+    },
+    {
+      "id": "nm0806689",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyODExNjM3Ml5BMl5BanBnXkFtZTgwODIyOTM2MjE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Patsy Smart",
+      "asCharacter": "Distraught Woman"
+    },
+    {
+      "id": "nm0872370",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjgwNjQyMTctYWVkNC00MTVmLWJkNjgtYzg4NDRlM2M5MzY1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frederick Treves",
+      "asCharacter": "Alderman"
+    },
+    {
+      "id": "nm0834912",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Stromboli",
+      "asCharacter": "Fire Eater"
+    },
+    {
+      "id": "nm1027232",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Hunter",
+      "asCharacter": "Hodges"
+    },
+    {
+      "id": "nm0180001",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "James Cormack",
+      "asCharacter": "Pierce"
+    },
+    {
+      "id": "nm0124198",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Lewis Bush",
+      "asCharacter": "Messenger (as Robert Bush)"
+    },
+    {
+      "id": "nm0263189",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Roy Evans",
+      "asCharacter": "Cabman"
+    },
+    {
+      "id": "nm0722456",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Joan Rhodes",
+      "asCharacter": "Cook"
+    },
+    {
+      "id": "nm0176810",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Nula Conwell",
+      "asCharacter": "Nurse Kathleen"
+    },
+    {
+      "id": "nm0518793",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tony London",
+      "asCharacter": "Young Porter"
+    },
+    {
+      "id": "nm0193238",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjJmMTk5MDYtNmFmMy00YWQ4LTk5ZWYtNDQyNjI4MjM2ZWZjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Alfie Curtis",
+      "asCharacter": "Milkman"
+    },
+    {
+      "id": "nm0590325",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Bernadette Milnes",
+      "asCharacter": "1st Fighting Woman"
+    },
+    {
+      "id": "nm0447477",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Brenda Kempner",
+      "asCharacter": "2nd Fighting Woman"
+    },
+    {
+      "id": "nm0365512",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Carol Harrison",
+      "asCharacter": "Tart (as Carole Harrison)"
+    },
+    {
+      "id": "nm0543286",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDhkNWI2ZGUtZThiYy00NTY4LWI1MjktYmVmOGFkNGY3ZWFhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Hugh Manning",
+      "asCharacter": "Broadneck"
+    },
+    {
+      "id": "nm0121278",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dennis Burgess",
+      "asCharacter": "1st Committee Man"
+    },
+    {
+      "id": "nm0136250",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fanny Carby",
+      "asCharacter": "Mrs. Kendal's Dresser"
+    },
+    {
+      "id": "nm0792003",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyMTQ2NjM3M15BMl5BanBnXkFtZTYwMjk3MjAz._V1_Ratio0.7273_AL_.jpg",
+      "name": "William Morgan Sheppard",
+      "asCharacter": "Man in Pub (as Morgan Sheppard)"
+    },
+    {
+      "id": "nm0126402",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1NzA0ODA1NF5BMl5BanBnXkFtZTcwNjE1MTUxNQ@@._V1_Ratio1.3636_AL_.jpg",
+      "name": "Kathleen Byron",
+      "asCharacter": "Lady Waddington"
+    },
+    {
+      "id": "nm0143207",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gerald Case",
+      "asCharacter": "Lord Waddington"
+    },
+    {
+      "id": "nm0752379",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY3NjQ2NDUyNF5BMl5BanBnXkFtZTcwODgyOTgxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "David Ryall",
+      "asCharacter": "Man with Whores"
+    },
+    {
+      "id": "nm0177678",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Deirdre Costello",
+      "asCharacter": "1st Whore"
+    },
+    {
+      "id": "nm0704351",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NjI3NTYyNl5BMl5BanBnXkFtZTcwMTQzNzYxOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Pauline Quirke",
+      "asCharacter": "2nd Whore"
+    },
+    {
+      "id": "nm0048652",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1OTA3MzU0NV5BMl5BanBnXkFtZTcwNjY2Njk4Nw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Kenny Baker",
+      "asCharacter": "Plumed Dwarf"
+    },
+    {
+      "id": "nm0338961",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chris Greener",
+      "asCharacter": "Giant"
+    },
+    {
+      "id": "nm0694219",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marcus Powell",
+      "asCharacter": "Midget"
+    },
+    {
+      "id": "nm0169397",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gilda Cohen",
+      "asCharacter": "Midget"
+    },
+    {
+      "id": "nm0778584",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lesley Scoble",
+      "asCharacter": "Siamese Twin (as Lisa Scoble)"
+    },
+    {
+      "id": "nm0778587",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Teri Scoble",
+      "asCharacter": "Siamese Twin"
+    },
+    {
+      "id": "nm0476424",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2IxMDlkN2ItYjhmMS00MmFlLTliZTQtOGFkNTQ4MjFjZDVkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+      "name": "Eiji Kusuhara",
+      "asCharacter": "Japanese Bleeder"
+    },
+    {
+      "id": "nm0206561",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Robert Day",
+      "asCharacter": "Little Jim"
+    },
+    {
+      "id": "nm0388092",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM4NDcxNDA5OF5BMl5BanBnXkFtZTcwNzk4MDExOA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Patricia Hodge",
+      "asCharacter": "Screaming Mum"
+    },
+    {
+      "id": "nm0942886",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Tommy Wright",
+      "asCharacter": "First Bobby"
+    },
+    {
+      "id": "nm0203458",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Davidson",
+      "asCharacter": "Second Bobby"
+    },
+    {
+      "id": "nm0710766",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "John Rapley",
+      "asCharacter": "King in Panto"
+    },
+    {
+      "id": "nm0818706",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hugh Spight",
+      "asCharacter": "Puss in Panto"
+    },
+    {
+      "id": "nm0168513",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Teresa Codling",
+      "asCharacter": "Princess in Panto"
+    },
+    {
+      "id": "nm0079514",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Marion Betzold",
+      "asCharacter": "Principal Boy"
+    },
+    {
+      "id": "nm0354094",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Caroline Haigh",
+      "asCharacter": "Tree"
+    },
+    {
+      "id": "nm0604432",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Florenzio Morgado",
+      "asCharacter": "Tree"
+    },
+    {
+      "id": "nm0470396",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Victor Kravchenko",
+      "asCharacter": "Lion & Coachman"
+    },
+    {
+      "id": "nm0382802",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beryl Hicks",
+      "asCharacter": "Fairy"
+    },
+    {
+      "id": "nm0024091",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Michele Amas",
+      "asCharacter": "Horse"
+    },
+    {
+      "id": "nm0019218",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Lucie Alford",
+      "asCharacter": "Horse"
+    },
+    {
+      "id": "nm0942707",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Penny Wright",
+      "asCharacter": "Horse"
+    },
+    {
+      "id": "nm0446143",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Janie Kells",
+      "asCharacter": "Horse"
+    },
+    {
+      "id": "nm0514119",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDE0ZmNhNTgtMzAyMS00MjExLTk2NjItZDFmODVmYTQ1NDcxXkEyXkFqcGdeQXVyMjc0ODQ0NzM@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Lydia Lisle",
+      "asCharacter": "Merrick's Mother"
+    },
+    {
+      "id": "nm0011145",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Leslie Adams",
+      "asCharacter": "Man in Crowd (uncredited)"
+    },
+    {
+      "id": "nm0970686",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jack Armstrong",
+      "asCharacter": "Man at Lecture (uncredited)"
+    },
+    {
+      "id": "nm2584965",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Richard Atherton",
+      "asCharacter": "Man in Crowd (uncredited)"
+    },
+    {
+      "id": "nm8717638",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Frances Baker",
+      "asCharacter": "Bystander (uncredited)"
+    },
+    {
+      "id": "nm0075015",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Eric Bergren",
+      "asCharacter": "Lyra Box Player #1 (uncredited)"
+    },
+    {
+      "id": "nm0128982",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNjE1MDUzN15BMl5BanBnXkFtZTcwMjQzNzAzMQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Adam Caine",
+      "asCharacter": "Kid at Train Station (uncredited)"
+    },
+    {
+      "id": "nm0163258",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ina Clare",
+      "asCharacter": "Woman in Pub (uncredited)"
+    },
+    {
+      "id": "nm0165069",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGI2MTFjNTEtYTAxNS00YzQxLWIxOTMtNTczZWM3ZTc0OTgzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tony Clarkin",
+      "asCharacter": "Thug from Pub (uncredited)"
+    },
+    {
+      "id": "nm0177972",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Dave Cooper",
+      "asCharacter": "Man in Crowd (uncredited)"
+    },
+    {
+      "id": "nm4500832",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Alan Cope",
+      "asCharacter": "Man at Lecture (uncredited)"
+    },
+    {
+      "id": "nm0212246",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Christopher De Vore",
+      "asCharacter": "Lyra Box Player #2 (uncredited)"
+    },
+    {
+      "id": "nm0276092",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGUyNGI0NWQtZjdkMS00YmU3LTk0MTUtMWE5YmJmNDJjODRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.8182_AL_.jpg",
+      "name": "Harry Fielder",
+      "asCharacter": "Policeman (uncredited)"
+    },
+    {
+      "id": "nm0288822",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Chick Fowles",
+      "asCharacter": "Man in Pub (uncredited)"
+    },
+    {
+      "id": "nm1867368",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Otto Friese",
+      "asCharacter": "Man at Lecture (uncredited)"
+    },
+    {
+      "id": "nm2727804",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmNiZGU5ZWEtMTNkZi00ZWFlLTllNTMtYmY0OTA3MWZiODlkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Norman Gay",
+      "asCharacter": "Doctor (uncredited)"
+    },
+    {
+      "id": "nm0326349",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jill Goldston",
+      "asCharacter": "Nurse (uncredited)"
+    },
+    {
+      "id": "nm8949643",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "George Holdcroft",
+      "asCharacter": "Lecture Assistant (uncredited)"
+    },
+    {
+      "id": "nm1275975",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Barrie Holland",
+      "asCharacter": "Man in Crowd (uncredited)"
+    },
+    {
+      "id": "nm0448429",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ2YTkyMzgtNzI2MS00OGU0LTliYzQtY2M2OWYxZjU2YTgzXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.8636_AL_.jpg",
+      "name": "Juba Kennerley",
+      "asCharacter": "Committee Member (uncredited)"
+    },
+    {
+      "id": "nm0448698",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Cyril Kent",
+      "asCharacter": "Pub Patron (uncredited)"
+    },
+    {
+      "id": "nm0000186",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_Ratio0.7727_AL_.jpg",
+      "name": "David Lynch",
+      "asCharacter": "Man in Bowler Hat in Mob Chasing Merrick (uncredited)"
+    },
+    {
+      "id": "nm0569811",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Jay McGrath",
+      "asCharacter": "Man at Lecture (uncredited)"
+    },
+    {
+      "id": "nm0607659",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ralph G. Morse",
+      "asCharacter": "Young Aristocrat (uncredited)"
+    },
+    {
+      "id": "nm0731157",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Henry Roberts",
+      "asCharacter": "Man at Lecture (uncredited)"
+    },
+    {
+      "id": "nm1653886",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Peter Ross-Murray",
+      "asCharacter": "Drunken Docker (uncredited)"
+    },
+    {
+      "id": "nm1365134",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Kevin Schumm",
+      "asCharacter": "Kid at Train Station #2 (uncredited)"
+    },
+    {
+      "id": "nm0782988",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ian Selby",
+      "asCharacter": "Courtier (uncredited)"
+    },
+    {
+      "id": "nm0822042",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTIzODc1NWEtMDhhNC00NTFiLWE4ZDctYTZjNTg4ZjAxZTg3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Guy Standeven",
+      "asCharacter": "Committee Member (uncredited)"
+    },
+    {
+      "id": "nm0859725",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUwYWJkNmQtOTllMy00MDYxLTk0YjgtNGY2YTNhYjY1OGY1XkEyXkFqcGdeQXVyNjg5MjUzNDE@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Reg Thomason",
+      "asCharacter": "Lecture Assistant (uncredited)"
+    },
+    {
+      "id": "nm0939705",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUxYzRmNDEtYzRlNy00YmY5LWJlOGMtNDFhMmEzYjlhY2M5XkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Fred Wood",
+      "asCharacter": "Injured Man (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0000316",
+          "name": "Mel Brooks",
+          "description": "executive producer (uncredited)"
+        },
+        {
+          "id": "nm0180366",
+          "name": "Stuart Cornfeld",
+          "description": "executive producer"
+        },
+        {
+          "id": "nm0762674",
+          "name": "Jonathan Sanger",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm0606657",
+          "name": "John Morris",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005711",
+          "name": "Freddie Francis",
+          "description": "director of photography"
+        }
+      ]
+    },
+    {
+      "job": "Editing by",
+      "items": [
+        {
+          "id": "nm0167613",
+          "name": "Anne V. Coates",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Casting By",
+      "items": [
+        {
+          "id": "nm0142047",
+          "name": "Maggie Cartier",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Production Design by",
+      "items": [
+        {
+          "id": "nm0186023",
+          "name": "Stuart Craig",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0142204",
+          "name": "Robert Cartwright",
+          "description": "(as Bob Cartwright)"
+        }
+      ]
+    },
+    {
+      "job": "Set Decoration by",
+      "items": [
+        {
+          "id": "nm0768728",
+          "name": "Hugh Scaife",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0635876",
+          "name": "Patricia Norris",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Makeup Department",
+      "items": [
+        {
+          "id": "nm0318966",
+          "name": "Paula Gillespie",
+          "description": "hairdresser"
+        },
+        {
+          "id": "nm0443398",
+          "name": "Stephanie Kaye",
+          "description": "hairdresser"
+        },
+        {
+          "id": "nm0500421",
+          "name": "Beryl Lerman",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0606804",
+          "name": "Michael Morris",
+          "description": "makeup artist"
+        },
+        {
+          "id": "nm0774092",
+          "name": "Wally Schneiderman",
+          "description": "makeup application: 'Elephant Man' / makeup supervisor"
+        },
+        {
+          "id": "nm0875823",
+          "name": "Christopher Tucker",
+          "description": "makeup creator: 'Elephant Man' / makeup designer: 'Elephant Man'"
+        }
+      ]
+    },
+    {
+      "job": "Production Management",
+      "items": [
+        {
+          "id": "nm0165961",
+          "name": "Terence A. Clegg",
+          "description": "executive in charge of production"
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0310498",
+          "name": "Gerry Gavigan",
+          "description": "second assistant director"
+        },
+        {
+          "id": "nm0915415",
+          "name": "Anthony Waye",
+          "description": "assistant director"
+        },
+        {
+          "id": "nm0035609",
+          "name": "Andy Armstrong",
+          "description": "third assistant director (uncredited)"
+        },
+        {
+          "id": "nm0202224",
+          "name": "Nick Daubeny",
+          "description": "third assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0299013",
+          "name": "Steve Furneaux",
+          "description": "carpenter"
+        },
+        {
+          "id": "nm0724292",
+          "name": "Reg Richards",
+          "description": "construction manager"
+        },
+        {
+          "id": "nm1112650",
+          "name": "Malcolm Walker",
+          "description": "construction crew"
+        },
+        {
+          "id": "nm0920441",
+          "name": "Terry Wells",
+          "description": "property master"
+        },
+        {
+          "id": "nm0090741",
+          "name": "Gavin Bocquet",
+          "description": "junior draughtsman (uncredited)"
+        },
+        {
+          "id": "nm0731254",
+          "name": "John Roberts",
+          "description": "set designer (uncredited)"
+        },
+        {
+          "id": "nm0823653",
+          "name": "Adrian Start",
+          "description": "chargehand painter (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0339932",
+          "name": "Robin Gregory",
+          "description": "sound mixer"
+        },
+        {
+          "id": "nm0395364",
+          "name": "Peter Horrocks",
+          "description": "sound editor"
+        },
+        {
+          "id": "nm0407625",
+          "name": "John Iles",
+          "description": "engineer: Dolby"
+        },
+        {
+          "id": "nm0000186",
+          "name": "David Lynch",
+          "description": "sound designer"
+        },
+        {
+          "id": "nm0819263",
+          "name": "Alan Splet",
+          "description": "sound designer / special sound effects"
+        },
+        {
+          "id": "nm0877518",
+          "name": "Doug E. Turner",
+          "description": "dubbing mixer (as Doug Turner)"
+        },
+        {
+          "id": "nm0757939",
+          "name": "Michael Sale",
+          "description": "sound maintenance (uncredited)"
+        },
+        {
+          "id": "nm0789325",
+          "name": "Terry Sharratt",
+          "description": "boom operator (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0519336",
+          "name": "Graham Longhurst",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0179273",
+          "name": "Neil Corbould",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0179274",
+          "name": "Paul Corbould",
+          "description": "special effects (uncredited)"
+        },
+        {
+          "id": "nm0349707",
+          "name": "Martin Gutteridge",
+          "description": "special effects supervisor (uncredited)"
+        },
+        {
+          "id": "nm0007049",
+          "name": "Garth Inns",
+          "description": "special effects (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0274876",
+          "name": "Doug Ferris",
+          "description": "matte artist (uncredited)"
+        },
+        {
+          "id": "nm0807866",
+          "name": "David Smith",
+          "description": "optical cameraman: Camera Effects Ltd (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm1603414",
+          "name": "Frank Connor",
+          "description": "still photographer"
+        },
+        {
+          "id": "nm0205941",
+          "name": "Jim Dawes",
+          "description": "dolly grip"
+        },
+        {
+          "id": "nm0242358",
+          "name": "Jerry Dunkley",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0488376",
+          "name": "Roy Larner",
+          "description": "gaffer"
+        },
+        {
+          "id": "nm0030274",
+          "name": "Alan Annand",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm0120076",
+          "name": "Mike Bulley",
+          "description": "clapper loader (uncredited)"
+        },
+        {
+          "id": "nm0277468",
+          "name": "Wick Finch",
+          "description": "electrician (uncredited)"
+        },
+        {
+          "id": "nm0540082",
+          "name": "Billy Malone",
+          "description": "second assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0560065",
+          "name": "John Matthews",
+          "description": "best boy (uncredited)"
+        },
+        {
+          "id": "nm0743886",
+          "name": "Tim Ross",
+          "description": "focus puller (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0629471",
+          "name": "Tiny Nicholls",
+          "description": "wardrobe supervisor"
+        },
+        {
+          "id": "nm0336457",
+          "name": "Babs Gray",
+          "description": "wardrobe (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm0601711",
+          "name": "Patrick Moore",
+          "description": "assistant editor"
+        }
+      ]
+    },
+    {
+      "job": "Location Management",
+      "items": [
+        {
+          "id": "nm0285664",
+          "name": "Graham Ford",
+          "description": "location manager"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm0369948",
+          "name": "Jack Hayes",
+          "description": "orchestrator"
+        },
+        {
+          "id": "nm0437658",
+          "name": "Skaila Kanga",
+          "description": "musician: harp"
+        },
+        {
+          "id": "nm10655471",
+          "name": "Michael Lea",
+          "description": "musician: double bass"
+        },
+        {
+          "id": "nm0606657",
+          "name": "John Morris",
+          "description": "conductor"
+        },
+        {
+          "id": "nm3350595",
+          "name": "National Philharmonic Orchestra",
+          "description": "music played by (as National Philharmonic Orchestra)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm0214676",
+          "name": "Jack H. Degelia",
+          "description": "script supervisor"
+        },
+        {
+          "id": "nm0262619",
+          "name": "Ceri Evans",
+          "description": "continuity"
+        }
+      ]
+    },
+    {
+      "job": "Transportation Department",
+      "items": [
+        {
+          "id": "nm0368862",
+          "name": "Brian Hathaway",
+          "description": "transportation"
+        },
+        {
+          "id": "nm0877633",
+          "name": "Gerry Turner",
+          "description": "transportation"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm0041727",
+          "name": "Randy Auerbach",
+          "description": "researcher"
+        },
+        {
+          "id": "nm0649508",
+          "name": "Loretta Ordewer",
+          "description": "production secretary"
+        },
+        {
+          "id": "nm0871756",
+          "name": "John Trehy",
+          "description": "production accountant"
+        },
+        {
+          "id": "nm0012341",
+          "name": "Ellen Adolph",
+          "description": "manager of production accounting (uncredited)"
+        },
+        {
+          "id": "nm9016340",
+          "name": "John William Ault",
+          "description": "film extra (uncredited)"
+        },
+        {
+          "id": "nm1414726",
+          "name": "John Chambers",
+          "description": "finance executive (uncredited)"
+        },
+        {
+          "id": "nm0490949",
+          "name": "Bill Launder",
+          "description": "assistant accountant (uncredited)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}

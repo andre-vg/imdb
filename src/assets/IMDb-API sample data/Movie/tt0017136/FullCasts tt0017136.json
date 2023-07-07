@@ -1,0 +1,670 @@
+{
+  "imDbId": "tt0017136",
+  "title": "Metropolis",
+  "fullTitle": "Metropolis (1927)",
+  "type": "Movie",
+  "year": "1927",
+  "directors": {
+    "job": "Director",
+    "items": [
+      {
+        "id": "nm0000485",
+        "name": "Fritz Lang",
+        "description": ""
+      }
+    ]
+  },
+  "writers": {
+    "job": "Writer",
+    "items": [
+      {
+        "id": "nm0902376",
+        "name": "Thea von Harbou",
+        "description": "(screenplay)"
+      },
+      {
+        "id": "nm0902376",
+        "name": "Thea von Harbou",
+        "description": "(novel)"
+      },
+      {
+        "id": "nm0000485",
+        "name": "Fritz Lang",
+        "description": "(screenplay) (uncredited)"
+      }
+    ]
+  },
+  "actors": [
+    {
+      "id": "nm0002154",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDdjYjI1NGMtOGExOC00NjA0LTg2YmYtNGRjNzU4MGE4MDBhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Alfred Abel",
+      "asCharacter": "Johann (Joh) Fredersen"
+    },
+    {
+      "id": "nm0297054",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMzcyODI2NF5BMl5BanBnXkFtZTcwNDY4NjgyMw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Gustav Fröhlich",
+      "asCharacter": "Freder Fredersen - Joh Fredersens Sohn"
+    },
+    {
+      "id": "nm0459030",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1ODgzMzU3OV5BMl5BanBnXkFtZTgwMTQ3ODMwMzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rudolf Klein-Rogge",
+      "asCharacter": "Erfinder C.A. Rotwang / The Inventor"
+    },
+    {
+      "id": "nm0003248",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWI1MjYwOGMtZDdmYS00N2IzLTg4ZTQtOTNjMTViYWFjODQ5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Fritz Rasp",
+      "asCharacter": "Der Schmale / The Thin Man"
+    },
+    {
+      "id": "nm0519765",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmZhYWVkYzgtMTBkYi00OWFlLWI3ZjAtN2E5N2VmZDEyNWNjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+      "name": "Theodor Loos",
+      "asCharacter": "Josaphat / Joseph"
+    },
+    {
+      "id": "nm0084430",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Erwin Biswanger",
+      "asCharacter": "11811 - Georgy"
+    },
+    {
+      "id": "nm0313447",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MDUzMzI0OF5BMl5BanBnXkFtZTgwOTkyMjYzMzE@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Heinrich George",
+      "asCharacter": "Grot -Wärter der Herzmaschine / Guardian of the Heart Machine"
+    },
+    {
+      "id": "nm0375609",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE2MTkwNTYyMV5BMl5BanBnXkFtZTgwMDI1ODY3MTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Brigitte Helm",
+      "asCharacter": "Maria / Maschinenmensch / The Machine Man"
+    },
+    {
+      "id": "nm0016641",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Fritz Alberti",
+      "asCharacter": "Schöpferischer Mensch / Creative Human (uncredited)"
+    },
+    {
+      "id": "nm0074186",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA5ZTViODUtYWUzZS00MmY5LWFkNGEtMmMzMDE1YjFlMTM3XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+      "name": "Grete Berger",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0091178",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Olly Boeheim",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0226376",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Max Dietze",
+      "asCharacter": "Arbeiter / Working Man (uncredited)"
+    },
+    {
+      "id": "nm0294558",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Ellen Frey",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0307319",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Beatrice Garga",
+      "asCharacter": "Frau der ewigen Gärten / Woman of Eternal Gardens (uncredited)"
+    },
+    {
+      "id": "nm0331796",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Heinrich Gotho",
+      "asCharacter": "Zermonienmeister / Master of Ceremonies (uncredited)"
+    },
+    {
+      "id": "nm0340553",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWQ3OGE0MWEtOThiNS00NGM3LWJiYmEtOTE1N2Y3ZjNkYjg2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Dolly Grey",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0386046",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Anny Hintze",
+      "asCharacter": "Frau der ewigen Gärten / Woman of Eternal Gardens (uncredited)"
+    },
+    {
+      "id": "nm0403288",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Gottfried Huppertz",
+      "asCharacter": "Man Playing Violin (uncredited)"
+    },
+    {
+      "id": "nm0313308",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDY0MmZlMzQtMjk1MS00NjE4LWEwYjMtYjI2MTU4ZGUwMGZhXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Georg John",
+      "asCharacter": "Arbeiter / Working Man Who Causes Explosion of M-Machine (uncredited)"
+    },
+    {
+      "id": "nm0473864",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Walter Kuehle",
+      "asCharacter": "Arbeiter / Working Man (uncredited)"
+    },
+    {
+      "id": "nm1572829",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Vera Kálmán",
+      "asCharacter": "Extra (uncredited)"
+    },
+    {
+      "id": "nm0486938",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY0NDg3MGUtNDQyYy00YWZhLTgzYjEtNDYzOGZhNGE0MTJjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Margarete Lanner",
+      "asCharacter": "Frau der ewigen Gärten / Dame im Auto / Woman of Eternal Gardens / Woman in Car (uncredited)"
+    },
+    {
+      "id": "nm0509038",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Rose Lichtenstein",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0716938",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hanns Leo Reich",
+      "asCharacter": "Marinus (uncredited)"
+    },
+    {
+      "id": "nm0718094",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Arthur Reinhardt",
+      "asCharacter": "Arbeiter / Working Man (uncredited)"
+    },
+    {
+      "id": "nm0802561",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDFhM2NkMGYtZmViNC00YzEyLWFiMjktMGFhMzNmOTU4ODcxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.9545_AL_.jpg",
+      "name": "Curt Siodmak",
+      "asCharacter": "Arbeiter / Working Man (uncredited)"
+    },
+    {
+      "id": "nm1032742",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Henrietta Siodmak",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0832605",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI3NjFhOGQtMTVlZS00N2RhLTg5ZjktOGFkZmYyOWRhZTA2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Olaf Storm",
+      "asCharacter": "Jan (uncredited)"
+    },
+    {
+      "id": "nm0890911",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Erwin Vater",
+      "asCharacter": "Arbeiter / Working Man (uncredited)"
+    },
+    {
+      "id": "nm0902327",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjEwZjg1MTUtYjE3ZS00NjU2LWI2ZTctMzVlMzk5NGNjZDczXkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Rolf von Goth",
+      "asCharacter": "Sohn der ewigen Gärten / Son in Eternal Gardens (uncredited)"
+    },
+    {
+      "id": "nm0902740",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helen von Münchhofen",
+      "asCharacter": "Frau der ewigen Gärten / Woman of Eternal Gardens (uncredited)"
+    },
+    {
+      "id": "nm0917832",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Helene Weigel",
+      "asCharacter": "Arbeiterin / Working Woman (uncredited)"
+    },
+    {
+      "id": "nm0937473",
+      "image": "https://imdb-api.com/images/original/nopicture.jpg",
+      "name": "Hilde Woitscheff",
+      "asCharacter": "Frau der ewigen Gärten / Woman of Eternal Gardens (uncredited)"
+    }
+  ],
+  "others": [
+    {
+      "job": "Produced by",
+      "items": [
+        {
+          "id": "nm0690143",
+          "name": "Erich Pommer",
+          "description": "producer"
+        }
+      ]
+    },
+    {
+      "job": "Music by",
+      "items": [
+        {
+          "id": "nm3017782",
+          "name": "Maximianno Cobra",
+          "description": "(Metropolis Symphony)"
+        },
+        {
+          "id": "nm0923118",
+          "name": "James Duhamel",
+          "description": "(as Wetfish) (1999)"
+        },
+        {
+          "id": "nm2111404",
+          "name": "Sandro Forte",
+          "description": "(as Wetfish) (1999)"
+        },
+        {
+          "id": "nm0403288",
+          "name": "Gottfried Huppertz",
+          "description": ""
+        },
+        {
+          "id": "nm0466851",
+          "name": "Abel Korzeniowski",
+          "description": "(2004)"
+        },
+        {
+          "id": "nm0002380",
+          "name": "Giorgio Moroder",
+          "description": "(1984)"
+        },
+        {
+          "id": "nm0651729",
+          "name": "Peter Osborne",
+          "description": "(1998)"
+        },
+        {
+          "id": "nm0776169",
+          "name": "Bernd Schultheis",
+          "description": "(2001)"
+        },
+        {
+          "id": "nm2307111",
+          "name": "Benjamin Speed",
+          "description": "(2005/2011)"
+        }
+      ]
+    },
+    {
+      "job": "Cinematography by",
+      "items": [
+        {
+          "id": "nm0005713",
+          "name": "Karl Freund",
+          "description": ""
+        },
+        {
+          "id": "nm0005844",
+          "name": "Günther Rittau",
+          "description": ""
+        },
+        {
+          "id": "nm0752193",
+          "name": "Walter Ruttmann",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Art Direction by",
+      "items": [
+        {
+          "id": "nm0402683",
+          "name": "Otto Hunte",
+          "description": ""
+        },
+        {
+          "id": "nm0450549",
+          "name": "Erich Kettelhut",
+          "description": ""
+        },
+        {
+          "id": "nm0901576",
+          "name": "Karl Vollbrecht",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Costume Design by",
+      "items": [
+        {
+          "id": "nm0932523",
+          "name": "Aenne Willkomm",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "job": "Second Unit Director or Assistant Director",
+      "items": [
+        {
+          "id": "nm0240201",
+          "name": "Slatan Dudow",
+          "description": "assistant director (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Art Department",
+      "items": [
+        {
+          "id": "nm0402683",
+          "name": "Otto Hunte",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0450549",
+          "name": "Erich Kettelhut",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0776405",
+          "name": "Walter Schulze-Mittendorff",
+          "description": "sculptor (as Walter Schultze-Mittendorf)"
+        },
+        {
+          "id": "nm0901576",
+          "name": "Karl Vollbrecht",
+          "description": "set designer"
+        },
+        {
+          "id": "nm0880618",
+          "name": "Edgar G. Ulmer",
+          "description": "set designer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Sound Department",
+      "items": [
+        {
+          "id": "nm0179162",
+          "name": "James A. Corbett",
+          "description": "layback mixer"
+        }
+      ]
+    },
+    {
+      "job": "Special Effects by",
+      "items": [
+        {
+          "id": "nm0475271",
+          "name": "Ernst Kunstmann",
+          "description": "special effects"
+        },
+        {
+          "id": "nm0005746",
+          "name": "Konstantin Irmen-Tschet",
+          "description": "special photographic effects sequences (uncredited)"
+        },
+        {
+          "id": "nm0450549",
+          "name": "Erich Kettelhut",
+          "description": "trick photography (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Visual Effects by",
+      "items": [
+        {
+          "id": "nm0558047",
+          "name": "Jeff Matakovich",
+          "description": "color and opticals (1984 restoration)"
+        },
+        {
+          "id": "nm0005867",
+          "name": "Eugen Schüfftan",
+          "description": "special visual effects"
+        },
+        {
+          "id": "nm0450549",
+          "name": "Erich Kettelhut",
+          "description": "painting effects (uncredited)"
+        },
+        {
+          "id": "nm0475271",
+          "name": "Ernst Kunstmann",
+          "description": "assistant compositing effects artist (uncredited)"
+        },
+        {
+          "id": "nm1364082",
+          "name": "Willy Muller",
+          "description": "model maker (uncredited)"
+        },
+        {
+          "id": "nm0776564",
+          "name": "Hugo O. Schulze",
+          "description": "assistant trick photography (uncredited)"
+        },
+        {
+          "id": "nm8661155",
+          "name": "Edmund Zeihfuss",
+          "description": "model maker (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Camera and Electrical Department",
+      "items": [
+        {
+          "id": "nm0005713",
+          "name": "Karl Freund",
+          "description": "camera operator"
+        },
+        {
+          "id": "nm0005844",
+          "name": "Günther Rittau",
+          "description": "camera operator (as Gunther Rittau)"
+        },
+        {
+          "id": "nm0005642",
+          "name": "Robert Baberske",
+          "description": "assistant camera (uncredited)"
+        },
+        {
+          "id": "nm0902375",
+          "name": "Horst von Harbou",
+          "description": "still photographer (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Costume and Wardrobe Department",
+      "items": [
+        {
+          "id": "nm0442318",
+          "name": "Hermann J. Kaufmann",
+          "description": "wardrobe (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Editorial Department",
+      "items": [
+        {
+          "id": "nm3017782",
+          "name": "Maximianno Cobra",
+          "description": "post-production supervisor"
+        },
+        {
+          "id": "nm8357205",
+          "name": "Blake Jones",
+          "description": "colorist"
+        }
+      ]
+    },
+    {
+      "job": "Music Department",
+      "items": [
+        {
+          "id": "nm3017782",
+          "name": "Maximianno Cobra",
+          "description": "conductor / music producer"
+        },
+        {
+          "id": "nm9019526",
+          "name": "Europa Philharmonia",
+          "description": "orchestra"
+        },
+        {
+          "id": "nm6707336",
+          "name": "Brian Reeves",
+          "description": "mixing engineer"
+        },
+        {
+          "id": "nm0834696",
+          "name": "Frank Strobel",
+          "description": "music editor"
+        },
+        {
+          "id": "nm1363599",
+          "name": "Otto Harzner",
+          "description": "conductor: original score (uncredited)"
+        },
+        {
+          "id": "nm0834696",
+          "name": "Frank Strobel",
+          "description": "conductor (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Script and Continuity Department",
+      "items": [
+        {
+          "id": "nm3017782",
+          "name": "Maximianno Cobra",
+          "description": "script adaptation"
+        }
+      ]
+    },
+    {
+      "job": "Additional Crew",
+      "items": [
+        {
+          "id": "nm1365552",
+          "name": "Rudi George",
+          "description": "key production assistant (uncredited)"
+        },
+        {
+          "id": "nm0390302",
+          "name": "Erich Holder",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm0450549",
+          "name": "Erich Kettelhut",
+          "description": "technical consultant (uncredited)"
+        },
+        {
+          "id": "nm0701296",
+          "name": "Gustav Püttjer",
+          "description": "production assistant (uncredited)"
+        },
+        {
+          "id": "nm1364637",
+          "name": "Hans Taussig",
+          "description": "production assistant (uncredited)"
+        }
+      ]
+    },
+    {
+      "job": "Thanks",
+      "items": [
+        {
+          "id": "nm0045941",
+          "name": "Bob Badami",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0101456",
+          "name": "Eileen Bowser",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm1960592",
+          "name": "John Branca",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0198941",
+          "name": "Mark Damon",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0226728",
+          "name": "Michael Dilbeck",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0400390",
+          "name": "Jere Huggins",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0467301",
+          "name": "Dieter Kosslick",
+          "description": "special thanks (2010 restoration)"
+        },
+        {
+          "id": "nm0501544",
+          "name": "Rusty Lemorande",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0524855",
+          "name": "Tom Luddy",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm1874723",
+          "name": "Mike Lynskey",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0550728",
+          "name": "Alan Marshall",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0556486",
+          "name": "Michael Maslansky",
+          "description": "special thanks (as Mike Maslansky) (1984 restoration)"
+        },
+        {
+          "id": "nm0000570",
+          "name": "Alan Parker",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0001707",
+          "name": "Paul Schrader",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm1347532",
+          "name": "Gary Stiffelman",
+          "description": "special thanks (1984 restoration)"
+        },
+        {
+          "id": "nm0947757",
+          "name": "Walter Yetnikoff",
+          "description": "special thanks (1984 restoration)"
+        }
+      ]
+    }
+  ],
+  "errorMessage": ""
+}
