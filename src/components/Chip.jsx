@@ -3,7 +3,7 @@ import React from "react";
 function Chip({ genre }) {
   return (
     <div>
-      <span className="bg-opacity-25 dark:bg-opacity-25 bg-neutral-50 dark:bg-neutral-600 text-neutral-700 dark:text-neutral-200 backdrop-blur-sm color-transition px-4 py-2 rounded-full text-xl font-medium">
+      <span className="color-transition rounded-full bg-neutral-50 bg-opacity-25 px-4 py-2 text-xl font-medium text-neutral-700 backdrop-blur-sm dark:bg-neutral-600 dark:bg-opacity-25 dark:text-neutral-200">
         {genre}
       </span>
     </div>

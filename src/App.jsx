@@ -15,11 +15,11 @@ export default function App() {
   }, []);
 
   return (
-    <div className="w-[100vw] h-[100vh] flex flex-col bg-neutral-200 dark:bg-neutral-900 transition-colors duration-300 lexend">
+    <div className="lexend flex h-[100vh] w-[100vw] flex-col bg-neutral-200 transition-colors duration-300 dark:bg-neutral-900">
       <Header doc={doc} title={title} />
       <Content doc={doc} title={title} wiki={wiki} awards={awards} />
       <button
-        className="bg-neutral-100 dark:bg-neutral-800 w-44 dark:text-white fixed top-4 right-4 p-2 rounded-md shadow-lg z-10"
+        className="fixed right-4 top-4 z-10 w-44 rounded-md bg-neutral-100 p-2 shadow-lg dark:bg-neutral-800 dark:text-white"
         onClick={() => {
           document.body.classList.toggle("dark");
         }}
