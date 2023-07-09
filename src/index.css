@@ -5,7 +5,8 @@
 
 body {
   font-family: 'Outfit', sans-serif;
+  @apply bg-woodsmoke-950 overflow-x-hidden;
 }
 .color-transition {
-  @apply transition-colors duration-1000;
+  @apply transition-colors duration-300;
 }
