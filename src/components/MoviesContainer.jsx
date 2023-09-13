@@ -42,7 +42,7 @@ function MoviesContainer() {
               right: 0,
               left: -4500,
             }}
-            className="flex gap-16"
+            className="flex gap-12"
           >
             {data?.map((movie) => {
               return (
