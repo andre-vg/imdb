@@ -7,7 +7,7 @@ import {
 } from "@/server/api/trpc";
 import { posts } from "@/server/db/schema";
 import { env } from "@/env";
-import { popularSchema } from "@/server/types/api-tmdb";
+import { movieSchema, popularSchema } from "@/server/types/api-tmdb";
 
 const tmdbURL = "https://api.themoviedb.org/3/";
 const tmdbLanguage = "pt-BR";
@@ -51,6 +51,28 @@ export const tmdbRouter = createTRPCRouter({
 
       return validatedResponse;
     }),
+    getById: publicProcedure
+      .input(z.object({ id: z.number() }))
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl(`movie/${input.id}`),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = movieSchema.safeParse(await response.json());
+
+        if (!validatedResponse.success) {
+          throw new Error(`Invalid movie data: ${validatedResponse.error.message}`);
+        }
+
+        return validatedResponse.data;
+      }),
   },
 
   create: protectedProcedure

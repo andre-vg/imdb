@@ -1,9 +1,14 @@
+//@ts-ignore
 import "@/styles/globals.css";
 
 import { type Metadata } from "next";
 import { Geist } from "next/font/google";
 
 import { TRPCReactProvider } from "@/trpc/react";
+import Navbar from "./_components/navbar";
+import { Providers } from "./providers";
+import { setDefaultOptions } from "date-fns";
+import { ptBR } from "date-fns/locale";
 
 export const metadata: Metadata = {
   title: "Create T3 App",
@@ -19,10 +24,16 @@ const geist = Geist({
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
+  setDefaultOptions({ locale: ptBR });
   return (
-    <html lang="en" className={`${geist.variable}`}>
-      <body>
-        <TRPCReactProvider>{children}</TRPCReactProvider>
+    <html lang="en" suppressHydrationWarning className={`${geist.variable}`}>
+      <body className="bg-neutral-100 dark:bg-neutral-950">
+        <Providers>
+          <TRPCReactProvider>
+            <Navbar />
+            {children}
+          </TRPCReactProvider>
+        </Providers>
       </body>
     </html>
   );
