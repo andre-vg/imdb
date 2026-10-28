@@ -5,4 +5,79 @@
   --font-sans:
     var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --font-display:
+    var(--font-bebas), "Bebas Neue", "Arial Narrow", ui-sans-serif, sans-serif;
+
+  /* Dourado fixo da marca, usado sobre imagens escuras. */
+  --color-gold: #f5c518;
+  --color-gold-bright: #ffd84d;
+
+  --animate-fade-up: fade-up 700ms cubic-bezier(0.32, 0.72, 0, 1) both;
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(18px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/*
+ * Ajusta o dourado interativo por tema: um tom mais escuro no modo claro
+ * garante contraste de texto, enquanto o dourado vivo aparece no modo escuro.
+ */
+:root {
+  --accent: #a16207;
+  --accent-foreground: #ffffff;
+  --focus: #a16207;
+}
+
+.dark {
+  --accent: #f5c518;
+  --accent-foreground: #1c1608;
+  --focus: #f5c518;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+  }
+
+  body {
+    min-height: 100vh;
+  }
+
+  ::selection {
+    background: var(--color-gold);
+    color: #171204;
+  }
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

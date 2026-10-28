@@ -7,7 +7,12 @@ import {
 } from "@/server/api/trpc";
 import { posts } from "@/server/db/schema";
 import { env } from "@/env";
-import { creditsSchema, movieSchema, popularSchema, providerSchema } from "@/server/types/api-tmdb";
+import {
+  creditsSchema,
+  movieSchema,
+  popularSchema,
+  providerSchema,
+} from "@/server/types/api-tmdb";
 
 const tmdbURL = "https://api.themoviedb.org/3/";
 const tmdbLanguage = "pt-BR";
@@ -26,6 +31,21 @@ const tmdbOptions = {
     accept: "application/json",
     Authorization: env.TMDB_BEARER,
   },
+  // Mantém as respostas em cache por 1 hora, evitando uma chamada à API a
+  // cada visita.
+  next: { revalidate: 60 * 60 },
+};
+
+const fetchMovieList = async (path: string) => {
+  const response = await fetch(buildTmdbUrl(path), tmdbOptions);
+
+  if (!response.ok) {
+    throw new Error(
+      `TMDB request failed: ${response.status} ${response.statusText}`,
+    );
+  }
+
+  return popularSchema.parse(await response.json());
 };
 
 export const tmdbRouter = createTRPCRouter({
@@ -38,19 +58,15 @@ export const tmdbRouter = createTRPCRouter({
     }),
 
   movie: {
-    popular: publicProcedure.query(async () => {
-      const response = await fetch(buildTmdbUrl("movie/popular"), tmdbOptions);
+    trending: publicProcedure.query(() => fetchMovieList("trending/movie/day")),
 
-      if (!response.ok) {
-        throw new Error(
-          `TMDB request failed: ${response.status} ${response.statusText}`,
-        );
-      }
+    popular: publicProcedure.query(() => fetchMovieList("movie/popular")),
 
-      const validatedResponse = popularSchema.parse(await response.json());
+    topRated: publicProcedure.query(() => fetchMovieList("movie/top_rated")),
 
-      return validatedResponse;
-    }),
+    nowPlaying: publicProcedure.query(() =>
+      fetchMovieList("movie/now_playing"),
+    ),
     getById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
@@ -68,13 +84,15 @@ export const tmdbRouter = createTRPCRouter({
         const validatedResponse = movieSchema.safeParse(await response.json());
 
         if (!validatedResponse.success) {
-          throw new Error(`Invalid movie data: ${validatedResponse.error.message}`);
+          throw new Error(
+            `Invalid movie data: ${validatedResponse.error.message}`,
+          );
         }
 
         return validatedResponse.data;
       }),
 
-      getCreditsById: publicProcedure
+    getCreditsById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
         const response = await fetch(
@@ -88,16 +106,20 @@ export const tmdbRouter = createTRPCRouter({
           );
         }
 
-        const validatedResponse = creditsSchema.safeParse(await response.json());
+        const validatedResponse = creditsSchema.safeParse(
+          await response.json(),
+        );
 
         if (!validatedResponse.success) {
-          throw new Error(`Invalid credits data: ${validatedResponse.error.message}`);
+          throw new Error(
+            `Invalid credits data: ${validatedResponse.error.message}`,
+          );
         }
 
         return validatedResponse.data;
       }),
 
-      getProvidersById: publicProcedure
+    getProvidersById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
         const response = await fetch(
@@ -111,7 +133,9 @@ export const tmdbRouter = createTRPCRouter({
           );
         }
 
-        const validatedResponse = providerSchema.safeParse(await response.json());
+        const validatedResponse = providerSchema.safeParse(
+          await response.json(),
+        );
 
         if (!validatedResponse.success) {
           return null; // Return null if the response is invalid

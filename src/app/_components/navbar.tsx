@@ -1,15 +1,11 @@
 "use client";
 
-import {
-  useEffect,
-  useState,
-  type AnchorHTMLAttributes,
-  type ReactNode,
-} from "react";
+import { useEffect, useState, type ReactNode } from "react";
 import NextLink from "next/link";
 import { usePathname } from "next/navigation";
-import { Button, Link, cn } from "@heroui/react";
+import { cn } from "@heroui/react";
 import { Menu, X } from "lucide-react";
+import { Brand } from "./brand";
 import { ThemeSwitcher } from "./theme-switcher";
 
 export type NavbarPosition = "static" | "sticky" | "fixed";
@@ -76,43 +72,37 @@ interface NavLinkProps {
   item: NavbarItem;
   pathname: string;
   className?: string;
+  onNavigate?: () => void;
 }
 
-function NavLink({ item, pathname, className }: NavLinkProps) {
+function NavLink({ item, pathname, className, onNavigate }: NavLinkProps) {
   const active = isItemActive(pathname, item);
 
   return (
-    <Link
+    <NextLink
       aria-current={active ? "page" : undefined}
       className={cn(
-        "text-sm font-medium no-underline transition-colors",
-        active ? "text-accent" : "text-muted hover:text-foreground",
+        "focus-visible:ring-accent focus-visible:ring-offset-background inline-flex min-h-11 items-center rounded-full px-3 text-sm font-medium no-underline transition-colors focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none",
+        active
+          ? "bg-accent-soft text-accent"
+          : "text-muted hover:bg-default-soft hover:text-foreground",
         className,
       )}
       href={item.href}
-      render={(props) => (
-        <NextLink
-          {...(props as AnchorHTMLAttributes<HTMLAnchorElement>)}
-          href={item.href}
-        />
-      )}
+      onClick={onNavigate}
     >
       {item.label}
-    </Link>
+    </NextLink>
   );
 }
 
 export default function Navbar({
-  brand = (
-    <NextLink className="text-lg font-bold tracking-tight" href="/">
-      IMDB
-    </NextLink>
-  ),
+  brand = <Brand />,
   items = defaultItems,
   rightContent,
   className,
   position = "sticky",
-  maxWidth = "lg",
+  maxWidth = "xl",
   isBordered = true,
   isBlurred = true,
   ariaLabel = "Navegação principal",
@@ -144,38 +134,25 @@ export default function Navbar({
         "z-40 w-full",
         positionClasses[position],
         isBordered && "border-separator border-b",
-        isBlurred ? "bg-background/70 backdrop-blur-lg" : "bg-background",
+        isBlurred ? "bg-background/75 backdrop-blur-xl" : "bg-background",
         className,
       )}
     >
       <header
         className={cn(
-          "mx-auto flex h-16 items-center justify-between gap-4 px-6",
+          "mx-auto flex h-16 items-center justify-between gap-4 px-5 sm:px-8",
           maxWidthClasses[maxWidth],
         )}
       >
-        <div className="flex items-center gap-3">
-          <Button
-            aria-controls="navbar-mobile-menu"
-            aria-expanded={isMenuOpen}
-            aria-label={isMenuOpen ? "Fechar menu" : "Abrir menu"}
-            className="md:hidden"
-            isIconOnly
-            onPress={() => setIsMenuOpen((open) => !open)}
-            size="sm"
-            variant="ghost"
-          >
-            {isMenuOpen ? (
-              <X aria-hidden="true" className="size-5" />
-            ) : (
-              <Menu aria-hidden="true" className="size-5" />
-            )}
-          </Button>
-
+        <NextLink
+          aria-label="IMDB — página inicial"
+          className="focus-visible:ring-accent focus-visible:ring-offset-background rounded-xl focus-visible:ring-2 focus-visible:ring-offset-4 focus-visible:outline-none"
+          href="/"
+        >
           {brand}
-        </div>
+        </NextLink>
 
-        <ul className="hidden items-center gap-6 md:flex">
+        <ul className="hidden items-center gap-1 md:flex">
           {items.map((item) => (
             <li key={item.href}>
               <NavLink item={item} pathname={pathname} />
@@ -183,8 +160,30 @@ export default function Navbar({
           ))}
         </ul>
 
-        <div className="hidden items-center gap-3 md:flex">{rightContent}</div>
-        <ThemeSwitcher />
+        <div className="flex items-center gap-1">
+          {rightContent && (
+            <div className="hidden items-center gap-3 md:flex">
+              {rightContent}
+            </div>
+          )}
+
+          <ThemeSwitcher />
+
+          <button
+            aria-controls="navbar-mobile-menu"
+            aria-expanded={isMenuOpen}
+            aria-label={isMenuOpen ? "Fechar menu" : "Abrir menu"}
+            className="text-foreground hover:bg-default-soft focus-visible:ring-accent focus-visible:ring-offset-background grid size-11 place-items-center rounded-full transition-colors focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none md:hidden"
+            onClick={() => setIsMenuOpen((open) => !open)}
+            type="button"
+          >
+            {isMenuOpen ? (
+              <X aria-hidden="true" className="size-5" />
+            ) : (
+              <Menu aria-hidden="true" className="size-5" />
+            )}
+          </button>
+        </div>
       </header>
 
       {isMenuOpen && (
@@ -192,23 +191,23 @@ export default function Navbar({
           className="border-separator border-t md:hidden"
           id="navbar-mobile-menu"
         >
-          <ul className="flex flex-col gap-1 px-6 py-4">
+          <ul className="flex flex-col gap-1 px-5 py-3">
             {items.map((item) => (
               <li key={item.href}>
                 <NavLink
-                  className="block py-2 text-base"
+                  className="w-full px-4 py-3 text-base"
                   item={item}
+                  onNavigate={() => setIsMenuOpen(false)}
                   pathname={pathname}
                 />
               </li>
             ))}
 
             {rightContent && (
-              <li className="border-separator mt-3 flex flex-col gap-2 border-t pt-3">
+              <li className="border-separator mt-2 flex flex-col gap-2 border-t pt-3">
                 {rightContent}
               </li>
             )}
-            <ThemeSwitcher />
           </ul>
         </div>
       )}

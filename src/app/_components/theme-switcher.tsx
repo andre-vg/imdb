@@ -1,46 +1,37 @@
-// app/components/theme-switcher.tsx
 "use client";
 
-import { Button } from "@heroui/react";
 import { Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 import { useEffect, useState } from "react";
 
 export function ThemeSwitcher() {
   const [mounted, setMounted] = useState(false);
-  const { setTheme, theme } = useTheme();
+  const { resolvedTheme, setTheme } = useTheme();
 
   useEffect(() => {
     setMounted(true);
   }, []);
 
-  if (!mounted) return null;
+  if (!mounted) {
+    return <span aria-hidden="true" className="size-11" />;
+  }
 
-  const toggleTheme = () => {
-    theme === "light" ? setTheme("dark") : setTheme("light");
-  };
-
+  const isDark = resolvedTheme === "dark";
+  const label = isDark ? "Ativar tema claro" : "Ativar tema escuro";
 
   return (
-    <div className="flex items-center gap-2">
-      <Button size="lg" isIconOnly onPress={toggleTheme} variant="ghost">
-        {theme === "light" ? <Moon /> : <Sun />}
-      </Button>
-      {/* <Button
-        variant={activeTheme === "light" ? "primary" : "secondary"}
-        onPress={() => setTheme("light")}
-      >
-        Light
-      </Button>
-      <Button
-        variant={activeTheme === "dark" ? "primary" : "secondary"}
-        onPress={() => setTheme("dark")}
-      >
-        Dark
-      </Button>
-      <Button variant={theme === "system" ? "primary" : "secondary"} onPress={() => setTheme("system")}>
-        System
-      </Button> */}
-    </div>
+    <button
+      aria-label={label}
+      className="text-muted hover:bg-default-soft hover:text-foreground focus-visible:ring-accent focus-visible:ring-offset-background grid size-11 place-items-center rounded-full transition-colors focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+      onClick={() => setTheme(isDark ? "light" : "dark")}
+      title={label}
+      type="button"
+    >
+      {isDark ? (
+        <Sun aria-hidden="true" className="size-5" />
+      ) : (
+        <Moon aria-hidden="true" className="size-5" />
+      )}
+    </button>
   );
 }

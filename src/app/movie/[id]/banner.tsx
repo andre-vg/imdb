@@ -149,21 +149,23 @@ export default function Banner({
                 Site oficial
               </Link>
             )}
-            {providers?.results.PT.flatrate &&
-              providers.results.PT.flatrate.map((prov) => (
-                <Link key={prov.provider_id} href={providers.results.PT.link}>
-                  <Image
-                    width={128}
-                    height={128}
-                    alt={prov.provider_name}
-                    src={bindTMDBimage({
-                      path: prov.logo_path,
-                      quality: "w185",
-                    })}
-                    className="size-12 rounded-full"
-                  />
-                </Link>
-              ))}
+            {providers?.results.PT.flatrate?.map((prov) => (
+              <Link
+                key={prov.provider_id}
+                href={providers?.results.PT.link ?? "#"}
+              >
+                <Image
+                  width={128}
+                  height={128}
+                  alt={prov.provider_name}
+                  src={bindTMDBimage({
+                    path: prov.logo_path,
+                    quality: "w185",
+                  })}
+                  className="size-12 rounded-full"
+                />
+              </Link>
+            ))}
           </div>
         </div>
       </div>
