@@ -1,49 +1,57 @@
-import React from "react";
-import { bindTMDBimage } from "@/utils/tmdb-images";
-import { Card } from "@heroui/react";
 import Image from "next/image";
-import type { AppRouter } from "@/server/api/root";
-import type { inferProcedureOutput } from "@trpc/server";
-import { format, compareAsc } from "date-fns";
-import Link from "next/link";
+import { Avatar, Card } from "@heroui/react";
+import { bindTMDBimage } from "@/utils/tmdb-images";
+import { getInitials } from "@/utils/tmdb-meta";
 
-type Person = inferProcedureOutput<
-  AppRouter["tmdb"]["movie"]["getCreditsById"]
->["cast"][number];
+export interface PersonCardProps {
+  name: string;
+  subtitle?: string | null;
+  imagePath?: string | null;
+}
 
-export default function PersonCard({ person }: { person: Person }) {
+export default function PersonCard({
+  name,
+  subtitle,
+  imagePath,
+}: PersonCardProps) {
+  const imageURL = imagePath
+    ? bindTMDBimage({ path: imagePath, quality: "w342" })
+    : null;
+
   return (
-    <Link href={`person/${person.id}`}>
-      <Card className="rounded-xl p-2">
-        <Card.Content>
-          {person.profile_path ? (
-            <Image
-              src={bindTMDBimage({
-                path: person.profile_path,
-                quality: "w342",
-              })}
-              className="max-h-64 rounded-lg"
-              width={600}
-              height={1000}
-              alt={person.name}
-            />
-          ) : (
-            <Image
-              src={`https://ui-avatars.com/api/?size=512&name=${person.name.replaceAll(" ", "+")}`}
-              className="max-h-64 rounded-lg"
-              width={600}
-              height={1000}
-              alt={person.name}
-            />
+    <Card
+      variant="transparent"
+      className="border-separator/70 bg-surface h-full gap-0 overflow-hidden rounded-2xl border p-0"
+    >
+      <Card.Content className="p-0">
+        <Avatar className="aspect-[2/3] h-auto w-full rounded-none">
+          {imageURL && (
+            <Avatar.Image asChild alt={name} src={imageURL}>
+              <Image
+                width={342}
+                height={513}
+                alt={name}
+                className="size-full object-cover"
+                src={imageURL}
+              />
+            </Avatar.Image>
           )}
-        </Card.Content>
-        <Card.Header>
-          <Card.Title className="font-semibold">{person.name}</Card.Title>
-          <Card.Description>{person.character}</Card.Description>
-        </Card.Header>
-        <Card.Footer />
-      </Card>
-    </Link>
+          <Avatar.Fallback color="accent" className="text-2xl">
+            {getInitials(name)}
+          </Avatar.Fallback>
+        </Avatar>
+      </Card.Content>
+
+      <Card.Header className="gap-0.5 px-3 py-3">
+        <Card.Title className="text-foreground line-clamp-1 text-sm font-semibold">
+          {name}
+        </Card.Title>
+        {subtitle && (
+          <Card.Description className="line-clamp-1 text-xs">
+            {subtitle}
+          </Card.Description>
+        )}
+      </Card.Header>
+    </Card>
   );
 }
-// {format(person.release_date, "PPP")}

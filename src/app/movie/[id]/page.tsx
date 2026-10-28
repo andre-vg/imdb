@@ -8,23 +8,18 @@ export default async function Page({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
+  const movieId = Number.parseInt(id, 10);
 
-  const movie = await api.tmdb.movie.getById({
-    id: parseInt(id),
-  });
-
-  const credits = await api.tmdb.movie.getCreditsById({
-    id: parseInt(id),
-  });
-
-  const providers = await api.tmdb.movie.getProvidersById({
-    id: parseInt(id),
-  });
+  const [movie, credits, providers] = await Promise.all([
+    api.tmdb.movie.getById({ id: movieId }),
+    api.tmdb.movie.getCreditsById({ id: movieId }),
+    api.tmdb.movie.getProvidersById({ id: movieId }),
+  ]);
 
   return (
-    <main>
+    <main id="conteudo">
       <Banner movie={movie} providers={providers} />
-      <Details movie={movie} credits={credits} />
+      <Details movie={movie} credits={credits} providers={providers} />
     </main>
   );
 }

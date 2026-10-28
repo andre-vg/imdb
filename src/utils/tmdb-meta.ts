@@ -58,3 +58,87 @@ const compactNumber = new Intl.NumberFormat("pt-BR", {
 export function formatVoteCount(voteCount: number) {
   return compactNumber.format(voteCount);
 }
+
+const compactCurrency = new Intl.NumberFormat("pt-BR", {
+  style: "currency",
+  currency: "USD",
+  notation: "compact",
+  maximumFractionDigits: 1,
+});
+
+export function formatCurrency(value: number | null | undefined) {
+  return value && value > 0 ? compactCurrency.format(value) : "—";
+}
+
+export function formatRuntime(minutes: number | null | undefined) {
+  if (!minutes || minutes <= 0) return "—";
+
+  const hours = Math.floor(minutes / 60);
+  const rest = minutes % 60;
+
+  if (hours === 0) return `${rest}min`;
+  if (rest === 0) return `${hours}h`;
+
+  return `${hours}h ${rest}min`;
+}
+
+const longDate = new Intl.DateTimeFormat("pt-BR", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+
+export function formatReleaseDate(date: string | null | undefined) {
+  if (!date) return "—";
+
+  const parsed = new Date(`${date}T00:00:00`);
+
+  return Number.isNaN(parsed.getTime()) ? "—" : longDate.format(parsed);
+}
+
+const languageNames = new Intl.DisplayNames(["pt-BR"], { type: "language" });
+const regionNames = new Intl.DisplayNames(["pt-BR"], { type: "region" });
+
+export function getLanguageName(code: string | null | undefined) {
+  if (!code) return "—";
+
+  try {
+    return languageNames.of(code) ?? code.toUpperCase();
+  } catch {
+    return code.toUpperCase();
+  }
+}
+
+export function getCountryName(code: string | null | undefined) {
+  if (!code) return "—";
+
+  try {
+    return regionNames.of(code) ?? code.toUpperCase();
+  } catch {
+    return code.toUpperCase();
+  }
+}
+
+const MOVIE_STATUS_LABELS: Readonly<Record<string, string>> = {
+  Released: "Lançado",
+  "Post Production": "Pós-produção",
+  "In Production": "Em produção",
+  Planned: "Planejado",
+  Rumored: "Rumor",
+  Canceled: "Cancelado",
+};
+
+export function translateMovieStatus(status: string | null | undefined) {
+  if (!status) return "—";
+
+  return MOVIE_STATUS_LABELS[status] ?? status;
+}
+
+export function getInitials(name: string) {
+  return name
+    .trim()
+    .split(/\s+/)
+    .slice(0, 2)
+    .map((part) => part.charAt(0).toUpperCase())
+    .join("");
+}
