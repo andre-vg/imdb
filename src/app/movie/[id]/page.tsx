@@ -1,8 +1,6 @@
 import { api } from "@/trpc/server";
-import { bindTMDBimage } from "@/utils/tmdb-images";
-import { cn } from "@heroui/styles";
-import { extractPaletteFromUrl } from "@/utils/extract-palette";
 import Banner from "./banner";
+import Details from "./details";
 
 export default async function Page({
   params,
@@ -15,14 +13,18 @@ export default async function Page({
     id: parseInt(id),
   });
 
-  const bgURL = bindTMDBimage({
-    path: movie.backdrop_path,
-    quality: "original",
+  const credits = await api.tmdb.movie.getCreditsById({
+    id: parseInt(id),
+  });
+
+  const providers = await api.tmdb.movie.getProvidersById({
+    id: parseInt(id),
   });
 
   return (
-    <section>
-      <Banner movie={movie} />
-    </section>
+    <main>
+      <Banner movie={movie} providers={providers} />
+      <Details movie={movie} credits={credits} />
+    </main>
   );
 }

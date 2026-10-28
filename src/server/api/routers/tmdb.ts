@@ -7,7 +7,7 @@ import {
 } from "@/server/api/trpc";
 import { posts } from "@/server/db/schema";
 import { env } from "@/env";
-import { movieSchema, popularSchema } from "@/server/types/api-tmdb";
+import { creditsSchema, movieSchema, popularSchema, providerSchema } from "@/server/types/api-tmdb";
 
 const tmdbURL = "https://api.themoviedb.org/3/";
 const tmdbLanguage = "pt-BR";
@@ -69,6 +69,52 @@ export const tmdbRouter = createTRPCRouter({
 
         if (!validatedResponse.success) {
           throw new Error(`Invalid movie data: ${validatedResponse.error.message}`);
+        }
+
+        return validatedResponse.data;
+      }),
+
+      getCreditsById: publicProcedure
+      .input(z.object({ id: z.number() }))
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl(`movie/${input.id}/credits`),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = creditsSchema.safeParse(await response.json());
+
+        if (!validatedResponse.success) {
+          throw new Error(`Invalid credits data: ${validatedResponse.error.message}`);
+        }
+
+        return validatedResponse.data;
+      }),
+
+      getProvidersById: publicProcedure
+      .input(z.object({ id: z.number() }))
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl(`movie/${input.id}/watch/providers`),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = providerSchema.safeParse(await response.json());
+
+        if (!validatedResponse.success) {
+          return null; // Return null if the response is invalid
         }
 
         return validatedResponse.data;

@@ -7,7 +7,7 @@ export default async function Home() {
   return (
     <section className="m-32">
       <h1 className="text-2xl font-bold">Filmes populares</h1>
-      <div className="grid grid-cols-5 gap-3">
+      <div className="grid grid-cols-6 gap-3">
         {movies.results.map((movie) => (
           <MovieCard key={movie.id} movie={movie} />
         ))}

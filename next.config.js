@@ -6,9 +6,12 @@ import "./src/env.js";
 
 /** @type {import("next").NextConfig} */
 const config = {
-    images:{
-        remotePatterns:[new URL("https://image.tmdb.org/**")]
-    }
+  images: {
+    remotePatterns: [
+      { protocol: "https", hostname: "ui-avatars.com", pathname: "/api/**" },
+      { protocol: "https", hostname: "image.tmdb.org" },
+    ],
+  },
 };
 
 export default config;
