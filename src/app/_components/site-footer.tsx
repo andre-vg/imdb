@@ -7,6 +7,7 @@ const exploreLinks = [
   { label: "Populares", href: "#populares" },
   { label: "Mais bem avaliados", href: "#aclamados" },
   { label: "Em cartaz", href: "#em-cartaz" },
+  { label: "Recomende para mim", href: "/recomendar" },
 ];
 
 export default function SiteFooter() {

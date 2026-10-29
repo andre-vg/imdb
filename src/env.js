@@ -13,11 +13,15 @@ export const env = createEnv({
         : z.string().optional(),
     BETTER_AUTH_GITHUB_CLIENT_ID: z.string(),
     BETTER_AUTH_GITHUB_CLIENT_SECRET: z.string(),
+    // O login com Google é opcional: sem as credenciais o botão continua
+    // disponível, mas o provider não é registrado e o fluxo avisa o usuário.
+    BETTER_AUTH_GOOGLE_CLIENT_ID: z.string().optional(),
+    BETTER_AUTH_GOOGLE_CLIENT_SECRET: z.string().optional(),
     DATABASE_URL: z.string().url(),
     NODE_ENV: z
       .enum(["development", "test", "production"])
       .default("development"),
-    TMDB_BEARER: z.string()
+    TMDB_BEARER: z.string(),
   },
 
   /**
@@ -38,9 +42,12 @@ export const env = createEnv({
     BETTER_AUTH_GITHUB_CLIENT_ID: process.env.BETTER_AUTH_GITHUB_CLIENT_ID,
     BETTER_AUTH_GITHUB_CLIENT_SECRET:
       process.env.BETTER_AUTH_GITHUB_CLIENT_SECRET,
+    BETTER_AUTH_GOOGLE_CLIENT_ID: process.env.BETTER_AUTH_GOOGLE_CLIENT_ID,
+    BETTER_AUTH_GOOGLE_CLIENT_SECRET:
+      process.env.BETTER_AUTH_GOOGLE_CLIENT_SECRET,
     DATABASE_URL: process.env.DATABASE_URL,
     NODE_ENV: process.env.NODE_ENV,
-    TMDB_BEARER: process.env.TMDB_BEARER
+    TMDB_BEARER: process.env.TMDB_BEARER,
   },
   /**
    * Run `build` or `dev` with `SKIP_ENV_VALIDATION` to skip env validation. This is especially

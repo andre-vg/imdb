@@ -6,53 +6,16 @@ import {
   publicProcedure,
 } from "@/server/api/trpc";
 import { posts } from "@/server/db/schema";
-import { env } from "@/env";
+import { buildTmdbUrl, fetchTmdbList, tmdbOptions } from "@/server/tmdb/client";
 import {
   creditsSchema,
   movieSchema,
   peopleListSchema,
   personCreditSchema,
-  popularSchema,
   providerSchema,
 } from "@/server/types/api-tmdb";
 
-const tmdbURL = "https://api.themoviedb.org/3/";
-const tmdbLanguage = "pt-BR";
-
-const buildTmdbUrl = (path: string, params: Record<string, string> = {}) => {
-  const url = new URL(path, tmdbURL);
-
-  for (const [key, value] of Object.entries(params)) {
-    if (value) url.searchParams.set(key, value);
-  }
-
-  url.searchParams.set("language", params.language ?? tmdbLanguage);
-
-  return url.toString();
-};
-
-const tmdbOptions = {
-  method: "GET",
-  headers: {
-    accept: "application/json",
-    Authorization: env.TMDB_BEARER,
-  },
-  // Mantém as respostas em cache por 1 hora, evitando uma chamada à API a
-  // cada visita.
-  next: { revalidate: 60 * 60 },
-};
-
-const fetchMovieList = async (path: string) => {
-  const response = await fetch(buildTmdbUrl(path), tmdbOptions);
-
-  if (!response.ok) {
-    throw new Error(
-      `TMDB request failed: ${response.status} ${response.statusText}`,
-    );
-  }
-
-  return popularSchema.parse(await response.json());
-};
+const fetchMovieList = (path: string) => fetchTmdbList(path);
 
 export const tmdbRouter = createTRPCRouter({
   hello: publicProcedure

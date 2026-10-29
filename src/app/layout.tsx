@@ -5,6 +5,7 @@ import { Bebas_Neue, Geist } from "next/font/google";
 
 import { TRPCReactProvider } from "@/trpc/react";
 import Navbar from "./_components/navbar";
+import NavbarAuth from "./_components/navbar-auth";
 import { Providers } from "./providers";
 import { setDefaultOptions } from "date-fns";
 import { ptBR } from "date-fns/locale";
@@ -50,7 +51,7 @@ export default function RootLayout({
         </a>
         <Providers>
           <TRPCReactProvider>
-            <Navbar />
+            <Navbar rightContent={<NavbarAuth />} />
             {children}
           </TRPCReactProvider>
         </Providers>

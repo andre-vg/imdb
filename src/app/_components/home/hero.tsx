@@ -4,6 +4,7 @@ import {
   ArrowDown,
   ArrowRight,
   CalendarDays,
+  Sparkles,
   Star,
   TrendingUp,
 } from "lucide-react";
@@ -139,6 +140,14 @@ export default function Hero({
               >
                 Ver detalhes
                 <ArrowRight aria-hidden="true" className="size-4" />
+              </Link>
+
+              <Link
+                className="focus-visible:ring-gold inline-flex min-h-12 items-center justify-center gap-2 rounded-full border border-white/20 bg-white/5 px-6 py-3 text-sm font-semibold text-white no-underline backdrop-blur-md transition-colors hover:bg-white/10 focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-neutral-950 focus-visible:outline-none"
+                href="/recomendar"
+              >
+                <Sparkles aria-hidden="true" className="text-gold size-4" />
+                Monte seu quiz
               </Link>
 
               {showTopTenLink && (

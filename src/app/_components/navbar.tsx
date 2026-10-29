@@ -60,6 +60,7 @@ const defaultItems: NavbarItem[] = [
   { label: "Início", href: "/" },
   { label: "Filmes", href: "/movie" },
   { label: "Pessoas", href: "/person" },
+  { label: "Recomendar", href: "/recomendar" },
 ];
 
 function isItemActive(pathname: string, item: NavbarItem) {
