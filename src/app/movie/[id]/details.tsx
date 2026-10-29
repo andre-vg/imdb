@@ -215,6 +215,7 @@ export default function Details({
                 {credits.cast.slice(0, 10).map((person) => (
                   <PersonCard
                     key={person.id}
+                    id={person.id}
                     imagePath={person.profile_path}
                     name={person.name}
                     subtitle={person.character}
@@ -246,6 +247,7 @@ export default function Details({
                         {credits.cast.slice(10, 40).map((person) => (
                           <PersonCard
                             key={person.id}
+                            id={person.id}
                             imagePath={person.profile_path}
                             name={person.name}
                             subtitle={person.character}

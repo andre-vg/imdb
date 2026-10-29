@@ -10,6 +10,8 @@ import { env } from "@/env";
 import {
   creditsSchema,
   movieSchema,
+  peopleListSchema,
+  personCreditSchema,
   popularSchema,
   providerSchema,
 } from "@/server/types/api-tmdb";
@@ -19,6 +21,10 @@ const tmdbLanguage = "pt-BR";
 
 const buildTmdbUrl = (path: string, params: Record<string, string> = {}) => {
   const url = new URL(path, tmdbURL);
+
+  for (const [key, value] of Object.entries(params)) {
+    if (value) url.searchParams.set(key, value);
+  }
 
   url.searchParams.set("language", params.language ?? tmdbLanguage);
 
@@ -139,6 +145,99 @@ export const tmdbRouter = createTRPCRouter({
 
         if (!validatedResponse.success) {
           return null; // Return null if the response is invalid
+        }
+
+        return validatedResponse.data;
+      }),
+  },
+
+  people: {
+    popular: publicProcedure
+      .input(z.object({ page: z.number().int().min(1).max(500) }).optional())
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl("person/popular", {
+            page: String(input?.page ?? 1),
+          }),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = peopleListSchema.safeParse(
+          await response.json(),
+        );
+
+        if (!validatedResponse.success) {
+          throw new Error(
+            `Invalid popular people data: ${validatedResponse.error.message}`,
+          );
+        }
+
+        return validatedResponse.data;
+      }),
+
+    search: publicProcedure
+      .input(
+        z.object({
+          query: z.string().trim().min(1).max(100),
+          cursor: z.number().int().min(1).max(500).optional(),
+        }),
+      )
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl("search/person", {
+            query: input.query,
+            page: String(input.cursor ?? 1),
+          }),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = peopleListSchema.safeParse(
+          await response.json(),
+        );
+
+        if (!validatedResponse.success) {
+          throw new Error(
+            `Invalid people search data: ${validatedResponse.error.message}`,
+          );
+        }
+
+        return validatedResponse.data;
+      }),
+
+    getById: publicProcedure
+      .input(z.object({ id: z.number() }))
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl(`person/${input.id}?append_to_response=credits`),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = personCreditSchema.safeParse(
+          await response.json(),
+        );
+
+        if (!validatedResponse.success) {
+          throw new Error(
+            `Invalid person credit data: ${validatedResponse.error.message}`,
+          );
         }
 
         return validatedResponse.data;
