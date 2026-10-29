@@ -12,6 +12,7 @@ import {
   movieSchema,
   peopleListSchema,
   personCreditSchema,
+  popularSchema,
   providerSchema,
 } from "@/server/types/api-tmdb";
 
@@ -36,6 +37,43 @@ export const tmdbRouter = createTRPCRouter({
     nowPlaying: publicProcedure.query(() =>
       fetchMovieList("movie/now_playing"),
     ),
+
+    search: publicProcedure
+      .input(
+        z.object({
+          query: z.string().trim().min(1).max(100),
+          cursor: z.number().int().min(1).max(500).optional(),
+        }),
+      )
+      .query(async ({ input }) => {
+        const response = await fetch(
+          buildTmdbUrl("search/movie", {
+            query: input.query,
+            page: String(input.cursor ?? 1),
+            include_adult: "false",
+          }),
+          tmdbOptions,
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `TMDB request failed: ${response.status} ${response.statusText}`,
+          );
+        }
+
+        const validatedResponse = popularSchema.safeParse(
+          await response.json(),
+        );
+
+        if (!validatedResponse.success) {
+          throw new Error(
+            `Invalid movie search data: ${validatedResponse.error.message}`,
+          );
+        }
+
+        return validatedResponse.data;
+      }),
+
     getById: publicProcedure
       .input(z.object({ id: z.number() }))
       .query(async ({ input }) => {
